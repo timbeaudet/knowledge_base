@@ -398,3 +398,7 @@ sudo apt install vim
 		chown timbeaudet:timbeaudet /mnt/new1/
 		chown timbeaudet:timbeaudet /mnt/new2/
 		rsync -avhiP /mnt/old/ /mnt/new2/
+
+		
+When you forget to chown before, or wind up using sudo rsync, use to reset (-R important for files / recursively)
+		chown -R <username>:<username> /mnt/new2/
