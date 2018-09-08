@@ -1,6 +1,6 @@
 # Knowledge Base
 
-This document contains notes that help with tips and tricks of various software used in Tim Beaudet's Indie Adventure. Some of the tips may be specific to Tim's setup and or usage.
+> This document contains notes that help with tips and tricks of various software used in Tim Beaudet's Indie Adventure. Some of the tips may be specific to Tim's setup and or usage.
 
 ### Things to search for in this file:
 Blender Tricks
@@ -12,51 +12,50 @@ Linux Platform Tricks
 macOS Platform Tricks
 
 ## Windows Platform Tricks:
-		Type "cmd ." in the explorer window to get a command prompt where you are!
+- Type "cmd ." in the explorer window to get a command prompt where you are!
 
 ## 	Linux Platform Tricks:
-		In terminal press `CTRL-R` to search for previous command, pressing enter will RUN the command immediately.
+- In terminal press `CTRL-R` to search for previous command, pressing enter will RUN the command immediately.
 		
-		Zipping up a folder into tar.gz
-			tar czf behind_closed_doors.tar.gz behind_closed_doors
+- Zipping up a folder into tar.gz
+	tar czf behind_closed_doors.tar.gz behind_closed_doors
 
 
 ## Audacity Tricks:
-	Random background junk/noise can be removed via Effect -> Noise Reduction
-		First select a second or so of the background noise, then use Noise Reduction to 'train it' with Get Noise Profile
-		Then select the entire recording and use Noise Reduction to eliminate that profile.
+- Random background junk/noise can be removed via Effect -> Noise Reduction
+	First select a second or so of the background noise, then use Noise Reduction to 'train it' with Get Noise Profile
+	Then select the entire recording and use Noise Reduction to eliminate that profile.
 
 
 ## Adobe Photoshop Tricks:
-		When setting up Photoshop "for first time" You will need to do the following to get it to behave normally...
-			1. Window > Workspace > Keyboard shortcuts & Menus > Shortcuts
-			2. Set "Step Backward" to Ctrl+Z
-			3. Set "Undo/Redo" to Alt+Ctrl+Z
-			4. Ensure "Step Foreward" is set to Shift+Ctrl+Z
+- When setting up Photoshop "for first time" You will need to do the following to get it to behave normally...
+1. Window > Workspace > Keyboard shortcuts & Menus > Shortcuts
+2. Set "Step Backward" to Ctrl+Z
+3. Set "Undo/Redo" to Alt+Ctrl+Z
+4. Ensure "Step Foreward" is set to Shift+Ctrl+Z
 
-		B for brush mode
-			While in brush-mode alt click = eye dropper
-		CTRL-D for deselect
-		Window > Workspace > Keyboard shortcuts & Menus > Menus - this allows you to color the menu items which could make things
-			easier to find.
+B for brush mode
+	While in brush-mode alt click = eye dropper
+CTRL-D for deselect
+Window > Workspace > Keyboard shortcuts & Menus > Menus - this allows you to color the menu items which could make things easier to find.
 
-		If accidental bad tolerance, place a layer underneath and paint with the background color, then merge down
+If accidental bad tolerance, place a layer underneath and paint with the background color, then merge down
 
-		Check / Uncheck "Auto-Select" use the movement tool and there is an option on the top (tool options) for this.
-			If enabled Photoshop seems to auto-guess what layer you want to move around.
+Check / Uncheck "Auto-Select" use the movement tool and there is an option on the top (tool options) for this.
+> If enabled Photoshop seems to auto-guess what layer you want to move around.
 
-		Control brackets "[ ]" to move a layer up/down the layert list.
+Control brackets "[ ]" to move a layer up/down the layert list.
 
 
 ## Adobe Illustrator Tricks:
-		ctrl-shift-v pastes directly on top of the original copy.
-			This is useful for doing shape manipul
+ctrl-shift-v pastes directly on top of the original copy.
+This is useful for doing shape manipul
 
-		Selection Tool:
-			Hotkey: v
-			Purpose: To select whole 'objects' with left mouse click,
-				Click and drag to move the object.
-				Hold alt, then click and drag to create a duplicate object.
+Selection Tool:
+	Hotkey: v
+	Purpose: To select whole 'objects' with left mouse click,
+		Click and drag to move the object.
+		Hold alt, then click and drag to create a duplicate object.
 
 
 ## Adobe Premiere:
