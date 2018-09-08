@@ -1,25 +1,29 @@
 # Knowledge Base
 
-> This document contains notes that help with tips and tricks of various software used in Tim Beaudet's Indie Adventure. Some of the tips may be specific to Tim's setup and or usage.
+> This document contains notes that help with tips and tricks of various software used in Tim Beaudet's Indie Adventure. Some of the tips may be specific to Tim's setup and or usage, but if it helps someone else then it was worth sharing!
 
 ### Things to search for in this file:
-Blender Tricks
-Adobe Photoshop Tricks
-Adobe Illustrator Tricks
-Audacity Tricks
-Windows Platform Tricks
-Linux Platform Tricks
-macOS Platform Tricks
+- Blender Tricks
+- Adobe Photoshop Tricks
+- Adobe Illustrator Tricks
+- Audacity Tricks
+- Windows Platform Tricks
+- Linux Platform Tricks
+- macOS Platform Tricks
+- Git Tricks
+- Github Tricks
 
 ## Windows Platform Tricks:
 - Type "cmd ." in the explorer window to get a command prompt where you are!
 
-## 	Linux Platform Tricks:
+## Linux Platform Tricks:
 - In terminal press `CTRL-R` to search for previous command, pressing enter will RUN the command immediately.
 		
 - Zipping up a folder into tar.gz
-	tar czf behind_closed_doors.tar.gz behind_closed_doors
+```tar czf behind_closed_doors.tar.gz behind_closed_doors```
 
+## macOS Platform Tricks:
+- None Yet
 
 ## Audacity Tricks:
 - Random background junk/noise can be removed via Effect -> Noise Reduction
@@ -295,16 +299,17 @@ Control brackets "[ ]" to move a layer up/down the layert list.
 			`git bisect reset`
 
 
-
+## Github Tricks
+- Click `Preview changes` instead of commit when modifying this readme and checking the changes.
 
 ## Manually Restarting Gitea:
-	ssh to webhost
-	su - username
-	./gitea_1.40 &
+```ssh to webhost
+su - username
+./gitea_1.40 &
 
-	IF you were an idiot and forgot the & at the end of the last command:
-	CTRL-Z
-	bg
+IF you were an idiot and forgot the & at the end of the last command:
+CTRL-Z
+bg```
 
 
 ## Linode Server Setup:
