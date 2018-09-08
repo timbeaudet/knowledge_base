@@ -52,10 +52,10 @@ Control brackets "[ ]" to move a layer up/down the layert list.
 > This is useful for doing shape manipul
 
 - Selection Tool:
-	Hotkey: v
-	Purpose: To select whole 'objects' with left mouse click,
-		Click and drag to move the object.
-		Hold alt, then click and drag to create a duplicate object.
+	Hotkey: v  
+	Purpose: To select whole 'objects' with left mouse click,  
+		Click and drag to move the object.  
+		Hold alt, then click and drag to create a duplicate object.  
 
 
 ## Adobe Premiere:
