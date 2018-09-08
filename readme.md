@@ -48,10 +48,10 @@ Control brackets "[ ]" to move a layer up/down the layert list.
 
 
 ## Adobe Illustrator Tricks:
-ctrl-shift-v pastes directly on top of the original copy.
-This is useful for doing shape manipul
+- ctrl-shift-v pastes directly on top of the original copy.
+> This is useful for doing shape manipul
 
-Selection Tool:
+- Selection Tool:
 	Hotkey: v
 	Purpose: To select whole 'objects' with left mouse click,
 		Click and drag to move the object.
