@@ -121,4 +121,9 @@ sudo apt install net-tools
 
 		
 When you forget to chown before, or wind up using sudo rsync, use to reset (-R important for files / recursively)
-		chown -R <username>:<username> /mnt/new2/
+`chown -R <username>:<username> /mnt/new2/`
+
+To setup the mounts automatically...
+[check here](https://askubuntu.com/questions/164926/how-to-make-partitions-mount-at-startup/165462#165462)
+	
+	
