@@ -303,35 +303,37 @@ Control brackets "[ ]" to move a layer up/down the layert list.
 - Click `Preview changes` instead of commit when modifying this readme and checking the changes.
 
 ## Manually Restarting Gitea:
-```ssh to webhost
+```
+ssh to webhost
 su - username
 ./gitea_1.40 &
 
 IF you were an idiot and forgot the & at the end of the last command:
 CTRL-Z
-bg```
+bg
+```
 
 
 ## Linode Server Setup:
-	Create a Ubuntu 16.04 (or other) server.
-	Click BOOT
-		`ssh ...` to the server (root@ipaddress ... found on Remote Access tab)
-		`adduser <username>`
-		`su - timbeaudet` (to change into user)
-		`exit` (or CTRL+D) (to change back to root)
-	From root run the following
-		`apt update`
-		`apt install sudo`
-		`visudo`
-	Scroll down to ensure %sudo ALL(=ALL) ALL is not commented with #
-	Exit vi thing
-		`usermod --help`
-		`usermod --append --groups sudo <username>`
-		`groups <username>` should show sudo
-		`sudo apt install screen`
-	Use Deploy script in rally_of_rockets/build/deploy.sh to upload to server.
+Create a Ubuntu 16.04 (or other) server.
+Click BOOT
+	`ssh ...` to the server (root@ipaddress ... found on Remote Access tab)  
+	`adduser <username>`  
+	`su - timbeaudet` (to change into user)  
+	`exit` (or CTRL+D) (to change back to root)  
+From root run the following  
+	`apt update`  
+	`apt install sudo`  
+	`visudo`  
+Scroll down to ensure %sudo ALL(=ALL) ALL is not commented with #  
+Exit vi thing  
+	`usermod --help`  
+	`usermod --append --groups sudo <username>`  
+	`groups <username>` should show sudo  
+	`sudo apt install screen`  
+Use Deploy script in rally_of_rockets/build/deploy.sh to upload to server.  
   
-  All the above now happens from rally_of_rockets/server/create_game_server.sh - Thanks tsjost
+All the above now happens from rally_of_rockets/server/create_game_server.sh - Thanks tsjost
 
 
 	FROM Linux VM where (create_game_server.sh ran)
@@ -376,6 +378,7 @@ _Note: More things may have been done already with a "first_setup.sh" Tim has."
 sudo apt install openssh-server openssh-client
 sudo apt install samba
 sudo apt install vim
+sudo apt install net-tools
 
 **Setup the samba thing to share files:**
 		https://help.ubuntu.com/community/How%20to%20Create%20a%20Network%20Share%20Via%20Samba%20Via%20CLI%20%28Command-line%20interface/Linux%20Terminal%29%20-%20Uncomplicated%2C%20Simple%20and%20Brief%20Way%21
