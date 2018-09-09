@@ -11,16 +11,12 @@
 - [Git](https://github.com/timbeaudet/knowledge_base/blob/master/software/git.md)
 - [Github](https://github.com/timbeaudet/knowledge_base/blob/master/software/github.md)
 - [Visual Studio Code](https://github.com/timbeaudet/knowledge_base/blob/master/software/visual_studio_code.md)
+- [Visual Studio](https://github.com/timbeaudet/knowledge_base/blob/master/software/visual_studio.md)
 
 **Platforms**
 - [Windows](https://github.com/timbeaudet/knowledge_base/blob/master/platforms/windows.md)
 - [Linux](https://github.com/timbeaudet/knowledge_base/blob/master/platforms/linux.md)
 - [macOS](https://github.com/timbeaudet/knowledge_base/blob/master/platforms/macos.md)
-
-## VisualStudio Tricks:
- - Search using symbols; use `CTRL+,` jobun44
-
-
 
 ## Manually Restarting Gitea:
 ```
