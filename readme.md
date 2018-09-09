@@ -3,6 +3,7 @@
 > This document contains notes that help with tips and tricks of various software used in Tim Beaudet's Indie Adventure. Some of the tips may be specific to Tim's setup and or usage, but if it helps someone else then it was worth sharing!
 
 ### Things to search for in this file:
+- [Audacity](https://github.com/timbeaudet/knowledge_base/blob/master/software/audacity.md)
 - Blender Tricks
 - Adobe Photoshop Tricks
 - [Adobe Illustrator](https://github.com/timbeaudet/knowledge_base/blob/master/software/adobe_illustrator.md)
@@ -15,10 +16,7 @@
 - [Linux](https://github.com/timbeaudet/knowledge_base/blob/master/platforms/linux.md)
 - [macOS](https://github.com/timbeaudet/knowledge_base/blob/master/platforms/macos.md)
 
-## Audacity Tricks:
-- Random background junk/noise can be removed via Effect -> Noise Reduction
-	First select a second or so of the background noise, then use Noise Reduction to 'train it' with Get Noise Profile
-	Then select the entire recording and use Noise Reduction to eliminate that profile.
+
 
 
 ## Adobe Photoshop Tricks:
