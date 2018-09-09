@@ -13,11 +13,7 @@
 **Platforms**
 - [Windows](https://github.com/timbeaudet/knowledge_base/blob/master/platforms/windows.md)
 - [Linux](https://github.com/timbeaudet/knowledge_base/blob/master/platforms/linux.md)
-- macOS Platform Tricks
-
-
-## macOS Platform Tricks:
-- None Yet
+- [macOS](https://github.com/timbeaudet/knowledge_base/blob/master/platforms/macos.md)
 
 ## Audacity Tricks:
 - Random background junk/noise can be removed via Effect -> Noise Reduction
