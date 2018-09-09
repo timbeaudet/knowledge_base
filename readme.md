@@ -12,15 +12,9 @@
 
 **Platforms**
 - [Windows](https://github.com/timbeaudet/knowledge_base/blob/master/platforms/windows.md)
-- Linux Platform Tricks
+- [Linux](https://github.com/timbeaudet/knowledge_base/blob/master/platforms/linux.md)
 - macOS Platform Tricks
 
-
-## Linux Platform Tricks:
-- In terminal press `CTRL-R` to search for previous command, pressing enter will RUN the command immediately.
-		
-- Zipping up a folder into tar.gz
-```tar czf behind_closed_doors.tar.gz behind_closed_doors```
 
 ## macOS Platform Tricks:
 - None Yet
