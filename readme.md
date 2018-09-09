@@ -7,6 +7,7 @@
 - Blender Tricks
 - [Adobe Illustrator](https://github.com/timbeaudet/knowledge_base/blob/master/software/adobe_illustrator.md)
 - [Adobe Photoshop](https://github.com/timbeaudet/knowledge_base/blob/master/software/adobe_photoshop.md)
+- [Adobe Premiere](https://github.com/timbeaudet/knowledge_base/blob/master/software/adobe_premiere.md)
 - Audacity Tricks
 - Git Tricks
 - Github Tricks
@@ -17,16 +18,6 @@
 - [macOS](https://github.com/timbeaudet/knowledge_base/blob/master/platforms/macos.md)
 
 
-
-
-
-
-
-## Adobe Premiere:
-	Click on timeline and press F to see the source of the clip highlighted by time cursor
-	lock/unlock channels to delete audio or just video, (or context menu: unlink)
-  
-  
 ## Blender Tricks:
 		Nearly all this help comes from @shakesoda or @ZaCkOX1000
 		alm-m to merge vertices.
