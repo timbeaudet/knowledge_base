@@ -7,14 +7,14 @@
 - Adobe Photoshop Tricks
 - [Adobe Illustrator](https://github.com/timbeaudet/knowledge_base/blob/master/software/adobe_illustrator.md)
 - Audacity Tricks
-- Windows Platform Tricks
-- Linux Platform Tricks
-- macOS Platform Tricks
 - Git Tricks
 - Github Tricks
 
-## Windows Platform Tricks:
-- Type "cmd ." in the explorer window to get a command prompt where you are!
+**Platforms**
+- [Windows](https://github.com/timbeaudet/knowledge_base/blob/master/platforms/windows.md)
+- Linux Platform Tricks
+- macOS Platform Tricks
+
 
 ## Linux Platform Tricks:
 - In terminal press `CTRL-R` to search for previous command, pressing enter will RUN the command immediately.
