@@ -10,6 +10,7 @@
 - [Adobe Premiere](https://github.com/timbeaudet/knowledge_base/blob/master/software/adobe_premiere.md)
 - [Git](https://github.com/timbeaudet/knowledge_base/blob/master/software/git.md)
 - [Github](https://github.com/timbeaudet/knowledge_base/blob/master/software/github.md)
+- [Visual Studio Code](https://github.com/timbeaudet/knowledge_base/blob/master/software/visual_studio_code.md)
 
 **Platforms**
 - [Windows](https://github.com/timbeaudet/knowledge_base/blob/master/platforms/windows.md)
@@ -19,14 +20,6 @@
 ## VisualStudio Tricks:
  - Search using symbols; use `CTRL+,` jobun44
 
-## VisualStudio Code Tricks:
-	Convert Indentation To Tabs from F1/command palette jobun44
-	To commit all changes or staged changes just type message in the field below SOURCE CONTROL: SVN and hit `Shift+Enter` jobun44
-	Edit all text that matches selection, CTRL+F2
-	Open file in a split view, CTRL+LClick jobun44
-	Multiline edit: CTRL+ALT+ up/down arrows jobun44
-	Just write a comment (in html) and CTRL+/ cicero743
-	CTRL+R will open a recent file or project with typable find.
 
 
 ## Manually Restarting Gitea:
