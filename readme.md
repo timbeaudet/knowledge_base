@@ -5,7 +5,7 @@
 ### Things to search for in this file:
 - Blender Tricks
 - Adobe Photoshop Tricks
-- Adobe Illustrator Tricks
+- [Adobe Illustrator](https://github.com/timbeaudet/knowledge_base/blob/master/software/adobe_illustrator.md)
 - Audacity Tricks
 - Windows Platform Tricks
 - Linux Platform Tricks
@@ -49,17 +49,6 @@ Check / Uncheck "Auto-Select" use the movement tool and there is an option on th
 > If enabled Photoshop seems to auto-guess what layer you want to move around.
 
 Control brackets "[ ]" to move a layer up/down the layert list.
-
-
-## Adobe Illustrator Tricks:
-- ctrl-shift-v pastes directly on top of the original copy.
-> This is useful for doing shape manipul
-
-- Selection Tool:  
-	**Hotkey:** v  
-	**Purpose:** To select whole 'objects' with `left mouse click`,  
-	`Click and drag` to move the object.  
-	Hold `alt`, then `click and drag` to create a duplicate object.  
 
 
 ## Adobe Premiere:
