@@ -97,7 +97,8 @@ sudo apt install vim
 sudo apt install net-tools
 
 **Setup the samba thing to share files:**
-		https://help.ubuntu.com/community/How%20to%20Create%20a%20Network%20Share%20Via%20Samba%20Via%20CLI%20%28Command-line%20interface/Linux%20Terminal%29%20-%20Uncomplicated%2C%20Simple%20and%20Brief%20Way%21
+	[Ubuntu HowTo](https://help.ubuntu.com/community/How%20to%20Create%20a%20Network%20Share%20Via%20Samba%20Via%20CLI%20%28Command-line%20interface/Linux%20Terminal%29%20-%20Uncomplicated%2C%20Simple%20and%20Brief%20Way%21)
+		
 		sudo smbpasswd -a <username>
 		mkdir /home/<username>/<folder_name> # Share location.
 		
