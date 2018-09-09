@@ -9,7 +9,7 @@
 - [Adobe Photoshop](https://github.com/timbeaudet/knowledge_base/blob/master/software/adobe_photoshop.md)
 - [Adobe Premiere](https://github.com/timbeaudet/knowledge_base/blob/master/software/adobe_premiere.md)
 - [Git](https://github.com/timbeaudet/knowledge_base/blob/master/software/git.md)
-- Github Tricks
+- [Github](https://github.com/timbeaudet/knowledge_base/blob/master/software/github.md)
 
 **Platforms**
 - [Windows](https://github.com/timbeaudet/knowledge_base/blob/master/platforms/windows.md)
@@ -28,11 +28,6 @@
 	Just write a comment (in html) and CTRL+/ cicero743
 	CTRL+R will open a recent file or project with typable find.
 
-
-
-
-## Github Tricks
-- Click `Preview changes` instead of commit when modifying this readme and checking the changes.
 
 ## Manually Restarting Gitea:
 ```
