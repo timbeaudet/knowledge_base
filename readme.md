@@ -8,7 +8,6 @@
 - [Adobe Illustrator](https://github.com/timbeaudet/knowledge_base/blob/master/software/adobe_illustrator.md)
 - [Adobe Photoshop](https://github.com/timbeaudet/knowledge_base/blob/master/software/adobe_photoshop.md)
 - [Adobe Premiere](https://github.com/timbeaudet/knowledge_base/blob/master/software/adobe_premiere.md)
-- Audacity Tricks
 - Git Tricks
 - Github Tricks
 
