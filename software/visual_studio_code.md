@@ -1,8 +1,13 @@
 # Visual Studio Code Tricks:
 
 ## Setup, just the way I like it:
-Press `CTRL+,` to open settings and use the following
+Install the following extensions:
+* `Todo+` by Fabio Spampinato
+* `Bookmarks` by Alessandro Fragani
+* `C/C++` by Microsoft
+* `markdownlint` by David Anson
 
+Press `CTRL+,` to open settings and use the following
 ```
 "editor.tabSize": 4,
 "editor.insertSpaces": false,
@@ -20,6 +25,7 @@ Press `CTRL+,` to open settings and use the following
 "files.insertFinalNewline": true
 ```
 
+## Fun tips for usage
 - Convert Indentation To Tabs from F1/command palette (jobun44)
 - To commit all changes or staged changes just type message in the field below SOURCE CONTROL: SVN and hit `Shift+Enter` (jobun44)
 - Edit all text that matches selection, `CTRL+F2`
