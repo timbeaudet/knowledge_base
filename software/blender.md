@@ -1,5 +1,16 @@
-## Blender Tricks:
-	Nearly all this help comes from (shakesoda) or (ZaCkOX1000)
+# Blender Tricks:
+> Nearly all this help comes from (shakesoda) or (ZaCkOX1000)
+
+### Make select fall on a plane
+1. Set orientation to 'Normal' mode, (as opposed to Global)
+2. Select the faces that should remain planar.
+3. Press `s` to scale.
+4. Press `z` then `z` to scale along z-normal axis.
+5. Press `0` to set that scale to zero.
+
+> Note this can't fix the issue of quads turning in multiple axis, (like a racetrack turning while changing elevation pitch.).
+
+### Unformatted mess:
 	alm-m to merge vertices.
 	'c' to use circle select, to left-click/paint selection (shift to unselect paint area)
 	ctrl-mouse (RMB) to lasso select
