@@ -23,7 +23,8 @@ Use Deploy script in rally_of_rockets/build/deploy.sh to upload to server.
 ```
 
 **On Linux VM** _(or where `create_game_server.sh` ran)_  
-Use `passwd` to set the password.
+`ssh <linode-server-ip>`
+`passwd` to set the password.
 
 **On Windows bash terminal** (or where desired)_  
 `ssh-copy-id <SERVER_IP>`  
