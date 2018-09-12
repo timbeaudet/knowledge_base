@@ -15,12 +15,15 @@ sudo apt install net-tools
 
 ```
 sudo smbpasswd -a <username>
-mkdir /home/<username>/<folder_name> # Share location.
+mkdir /home/<username>/<folder_name> #share location.
+sudo vim /etc/samba/smb.conf
 ```
 
-FYI you can set default masks in the smb config like: create mask = 0664 (_hoeindoe_)
+Use: [/etc/samba/smb.conf](https://github.com/timbeaudet/knowledge_base/blob/master/processes/linux_file_share.md)
 
-**Creating a New disk and copying from an old disk:**  
+> NOTE: Ensure that `[<share_name>]` area does not contain an item `valid users = ` initially I found a source claiming that opened up for any user, but it seemed to be the cause for an inaccessible share.
+
+## Creating a New disk and copying from an old disk:
 > Note: here we had old(1.8tb), new1(5.4tb) and new2(1.9tb) and are placing data from old into new2.
 
 **Setup the disk using cfdisk follow instructions:**
