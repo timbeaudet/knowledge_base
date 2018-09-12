@@ -1,8 +1,8 @@
 # Knowledge Base
 
-> This document contains notes that help with tips and tricks of various software used in Tim Beaudet's Indie Adventure. Some of the tips may be specific to Tim's setup and or usage, but if it helps someone else then it was worth sharing!
+> This repository contains notes, tips, tricks and issues with various software, tools and processes used in Tim Beaudet's Indie Adventure. Be warned, the contents within are a bit messy, many items are specific to Tim's setup and/or usage, some may contain incomplete knowledge, but on the offchance it is useful, great.
 
-### Things to search for in this file:
+### Software
 - [Audacity](https://github.com/timbeaudet/knowledge_base/blob/master/software/audacity.md)
 - [Blender](https://github.com/timbeaudet/knowledge_base/blob/master/software/blender.md)
 - [Adobe Illustrator](https://github.com/timbeaudet/knowledge_base/blob/master/software/adobe_illustrator.md)
@@ -13,59 +13,15 @@
 - [Visual Studio Code](https://github.com/timbeaudet/knowledge_base/blob/master/software/visual_studio_code.md)
 - [Visual Studio](https://github.com/timbeaudet/knowledge_base/blob/master/software/visual_studio.md)
 
-**Platforms**
+### Platforms
 - [Windows](https://github.com/timbeaudet/knowledge_base/blob/master/platforms/windows.md)
 - [Linux](https://github.com/timbeaudet/knowledge_base/blob/master/platforms/linux.md)
 - [macOS](https://github.com/timbeaudet/knowledge_base/blob/master/platforms/macos.md)
 
-## Manually Restarting Gitea:
-```
-ssh to webhost
-su - username
-./gitea_1.40 &
+### Processes
+- [Restart Gitea](https://github.com/timbeaudet/knowledge_base/blob/master/processes/restart_gitea.md)
+- [Start Linode Server](https://github.com/timbeaudet/knowledge_base/blob/master/processes/setup_linode.md)
 
-IF you were an idiot and forgot the & at the end of the last command:
-CTRL-Z
-bg
-```
-
-
-## Linode Server Setup:
-Create a Ubuntu 16.04 (or other) server.
-Click BOOT
-	`ssh ...` to the server (root@ipaddress ... found on Remote Access tab)  
-	`adduser <username>`  
-	`su - timbeaudet` (to change into user)  
-	`exit` (or CTRL+D) (to change back to root)  
-From root run the following  
-	`apt update`  
-	`apt install sudo`  
-	`visudo`  
-Scroll down to ensure %sudo ALL(=ALL) ALL is not commented with #  
-Exit vi thing  
-	`usermod --help`  
-	`usermod --append --groups sudo <username>`  
-	`groups <username>` should show sudo  
-	`sudo apt install screen`  
-Use Deploy script in rally_of_rockets/build/deploy.sh to upload to server.  
-  
-All the above now happens from rally_of_rockets/server/create_game_server.sh - Thanks tsjost
-
-
-	FROM Linux VM where (create_game_server.sh ran)
-		`passwd` to set the password.
-	FROM Windows terminal (or where desired)
-		`ssh-copy-id <SERVER_IP>`
-		`ssh <SERVER_IP>`
-	
-
-	FOR DEBUGGING THE GAME FROM SERVER
-		`sudo apt-get install gdb`
-		`gdb ./rally_of_rockets`
-		`(gdb) set env LD_LIBRARY_PATH=.`
-		`(gdb) handle SIGPIPE nostop`
-		`(gdb) run --disable-gui`
-		`(gdb) bt` for a callstack / backtrace
 
 
 ## How to use Twitter:
