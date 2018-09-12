@@ -34,3 +34,8 @@ Press `CTRL+,` to open settings and use the following
 - Just write a comment (in html) and `CTRL+/` (cicero743)
 - `CTRL+R` will open a recent file or project with typable find.
 - Use markdown preview `CTRL+K V` to monitor md changes.
+
+
+### Change Line Endings
+Bottom right of status bar click on `LF` or `CRLF`, this will bring up (near top) a menu to change.  
+It appears this setting may be per folder.
