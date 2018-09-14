@@ -44,3 +44,7 @@ rsync -avhiP /mnt/old/ /mnt/new2/
 
 To setup the mounts automatically...
 [check here](https://askubuntu.com/questions/164926/how-to-make-partitions-mount-at-startup/165462#165462)
+
+### Add `~/development/tools` to path:
+`vim ~/.profile`
+Add `export PATH=$PATH:/development/tools/linux` to the file.
