@@ -1,4 +1,31 @@
 # Git Tricks:
+
+## Setting up Git the first time (Windows)
+- Download Visual Studio (2015) and ensure Git tools is installed with it.
+   - One can probably install Git for windows directly, but during falcon reinstall, it came from this install process.
+- Open `Git Bash` from start menu.
+- [Generate an SSH key](https://help.github.com/enterprise/2.14/user/articles/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent/) by:
+   - ssh-keygen -t rsa -b 4096 -C "your_email@example.com"
+   - Leave it in the default location (_/Users/you/.ssh/idrsa_)
+   - Enter a passphrase, or don't; depends on how accessible your local machine is.
+  - Add the SSH key to the agent:
+    - `eval $(ssh-agent -s)`
+    - `ssh-add ~/.ssh/id_rsa`
+  > Note: if default location is used, `ssh-add` will work without specifying file.
+
+- [Add SSH key](https://help.github.com/articles/adding-a-new-ssh-key-to-your-github-account/) to [github](https://github.com/settings/keys) and/or gitea
+  - `clip < ~/.ssh/id_rsa.pub`
+  - If that fails, use `cat ~/.ssh/id_rsa/pub` (ensure .pub, as no extension is **private**) and proceed to copy the contents.
+  - In User Settings > SSH Keys add a new SSH key and paste contents.
+
+- Test to ensure it works by cloning a repository with ssh.
+- Download and install [TortoiseGit](https://tortoisegit.org/download/)
+  - During the install flow when requested, I used the OpenSSH instead of PuTTy.
+  - During the install flow I used "Open Key" to add the existing _private_ key to TortoiseGit / PuTTy. For this I navigated to `C:/Users/<username>/.ssh/id_rsa` and saved a PuTTy version of it.
+- Test to ensure it works by cloning a repository with ssh from TortoiseGit.
+
+Unformatted below.
+
 	If git ever says "you cannot push because there are other stuff on the remote" do a `git pull --rebase`
 		> This will take all your local commits and 'replay' them on top of the remotes commits.
 	If you accidentally did `git pull` do a `:cq` in the thingy (vim) and then
