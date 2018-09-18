@@ -16,7 +16,7 @@ Press `CTRL+,` to open settings and use the following
 "todo.timekeeping.started.format": "YYYYMMDD HH:mm", // Format used for displaying time inside @started
 "todo.timekeeping.finished.format": "YYYYMMDD HH:mm", // Format used for displaying time inside @done/cancelled
 "todo.colors.done": "#2b8b2c",
-"todo.colors.cancel": "#8b2b2b",
+"todo.colors.cancelled": "#a12525",
 "todo.colors.project": "#02d6ff",
 
 "liveServer.settings.donotShowInfoMsg": true,
