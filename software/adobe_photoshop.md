@@ -45,3 +45,4 @@ Click in the empty area of swatches palette to add the color.
 - Check / Uncheck "Auto-Select" for the movement tool. Option is on the top of the canvas area _(in movement tool)_.
 	> When enabled Photoshop seems to auto-guess what layer you want to move around.
 - If hex color is not an option in the color panel, change the image to 8bits/channel.
+- To change the color of something, select the color and use **_Image > Adjustments > Hue / Saturation_** `CTRL+U` and change the hue. Seemed to work great when the color was alone, as in the rest of the active was transparent.
