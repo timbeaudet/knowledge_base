@@ -46,3 +46,16 @@ Click in the empty area of swatches palette to add the color.
 	> When enabled Photoshop seems to auto-guess what layer you want to move around.
 - If hex color is not an option in the color panel, change the image to 8bits/channel.
 - To change the color of something, select the color and use **_Image > Adjustments > Hue / Saturation_** `CTRL+U` and change the hue. Seemed to work great when the color was alone, as in the rest of the active was transparent.
+
+## Using Smart Objects to Control Guides
+
+I had found that I needed a lot of guides on a piece, that were conflicting with each other, like having a backdrop and a sprite-sheet on the same image. To fix this I used a smart object for the sprite - could also use a smart object for backdrop area.
+
+After having create a layer group `sprite_sheet` and adding a `View > Guide Layout` for the size of the sprites:
+
+1. Right-click the `sprite_sheet` layer group and choose `Convert to Smart Object`
+2. On the main sheet remove the guides from the sprite sheet layout.
+3. Double-click on the smart object thumbnail view to open and use.
+4. Close it (save changes, this is separate object in the file?) the original document will update.
+
+Note: This process may be even better (untested) by simply creating the sprite_sheet as a smart object before adding the guide layout.
