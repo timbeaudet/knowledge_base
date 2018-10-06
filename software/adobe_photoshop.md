@@ -35,6 +35,17 @@ Click in the empty area of swatches palette to add the color.
 - Purpose: Paint all over the canvas with pen.
 	- Holding `ALT` will change temporarily to color picker, eye dropper.
 
+### Move Tool:
+- Hotkey: `V`
+- Purpose: Move the selection or layer around the canvas.
+- Holding `ALT` will duplicate the layer and move the duplicate. If there was a selection, it duplicates the selection adding it to current layer.v
+
+### Lasso Select Tool: (is your friend)
+- Hotkey `L`
+- Purpose: Create a selection for edits / movement using a custom shape, this is great with a tablet.
+- Holding `ALT` while using with selection will remove the new looped area from the existing selection.
+- Holding `SHIFT` while using will add the new looped area to the current selection.
+
 ## Playing with Layers
 - Create a new layer with `CTRL+SHIFT+N` this will create a layer above the currently selected layer.
 - Change selected layer to the layer below with `ALT+[` or use `ALT+]` for the layer above.
