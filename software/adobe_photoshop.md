@@ -31,9 +31,16 @@ Click in the empty area of swatches palette to add the color.
 ## Tools and Usage
 
 ### Brush Tool:
-- Hotkey: `b`
+- Hotkey: `B`
 - Purpose: Paint all over the canvas with pen.
-	- Holding `alt` will change temporarily to color picker, eye dropper.
+	- Holding `ALT` will change temporarily to color picker, eye dropper.
+
+## Playing with Layers
+- Create a new layer with `CTRL+SHIFT+N` this will create a layer above the currently selected layer.
+- Change selected layer to the layer below with `ALT+[` or use `ALT+]` for the layer above.
+- Move selected layer back with `CTRL+[` or use `CTRL+]` to move it forward on the stack.
+- `SHIFT+CTRL+[` or `SHIFT+CTRL+]` will move the selected to be the back or front most layer.
+
 
 ## Random Useful Hotkeys / Uses
 - Deselect anything select with `CTRL+D`
@@ -60,3 +67,7 @@ After having create a layer group `sprite_sheet` and adding a `View > Guide Layo
 4. Close it (save changes, this is separate object in the file?) the original document will update.
 
 Note: This process may be even better (untested) by simply creating the sprite_sheet as a smart object before adding the guide layout.
+
+
+## References:
+- [Layer Shortcuts](https://www.sitepoint.com/speed-up-your-photoshop-work-with-layer-shortcuts/)
