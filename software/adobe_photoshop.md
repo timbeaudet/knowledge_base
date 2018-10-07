@@ -51,11 +51,13 @@ Click in the empty area of swatches palette to add the color.
 - Change selected layer to the layer below with `ALT+[` or use `ALT+]` for the layer above.
 - Move selected layer back with `CTRL+[` or use `CTRL+]` to move it forward on the stack.
 - `SHIFT+CTRL+[` or `SHIFT+CTRL+]` will move the selected to be the back or front most layer.
+- To merge a layer down to the layer below use `CTRL-ALT-E` and then press `delete`, effectively the first shortcut appears to keep the original layer, but places its contents on the layer below like merge down.
 
 
 ## Random Useful Hotkeys / Uses
 - Deselect anything select with `CTRL+D`
-- Move the current layer up or down in layer list with `CTRL+[` or `CTRL+]`
+- `CTRL+SHIFT+V` will paste on top.
+- Pressing `ALT` v
 
 ## Random Tips
 - Window > Workspace > Keyboard shortcuts & Menus > Menus - this allows you to color the menu items which could make things easier to find.
