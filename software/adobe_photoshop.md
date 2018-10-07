@@ -35,6 +35,14 @@ Click in the empty area of swatches palette to add the color.
 - Purpose: Paint all over the canvas with pen.
 	- Holding `ALT` will change temporarily to color picker, eye dropper.
 
+### Eraser Tool:
+- Hotkey: `E`
+- Purpose: To remove the paint on the current layer, making it transparent.
+
+### Color Swap:
+- Hotkey `X`
+- Purpose: Toggle between two different colors. Select the first color, press `X`, then select the second color.
+
 ### Move Tool:
 - Hotkey: `V`
 - Purpose: Move the selection or layer around the canvas.
