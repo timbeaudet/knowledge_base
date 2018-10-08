@@ -24,10 +24,19 @@
 - Add key features
 - Add screenshots of unique aspects to game info panel.
 - Release story-based games in episodic/season based content.
+- If releasing Early Access, put WIP / EA / In Development etc in the screenshots / video.
+	This should help a user make slightly better judgments while sifting through media if they haven't already seen that it is an early access game. Otherwise they might be quick to judge lower quality when in actuality it is still being improved.
+- Toss in fitting 'banner / header' like gameplay gifs.
+- Consider adding an area of the screenshots with text, to tell story as prospective player travels through.
+	Something like "Build your own tracks", "Keep Car Mechanically Sound", etc...
 ### Do not
 - Make trailers with zero (0) gameplay footage.
 - Reference other games; "like PUBG with wands"
 - Lie about your content or feature set.
+- Forget to put the game title, in any game/trailer footage.
+- "Coming Soon" with "Release Date" of today/in the past.
+	It would seem if you can put a future release date on things, that one could forget their or slip by their intended release date.
+- Simply show the game settings screen.
 
 ---
 
