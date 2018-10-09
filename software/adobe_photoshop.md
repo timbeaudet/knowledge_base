@@ -3,9 +3,11 @@
 ## Setup (the way it should be)
 - When setting up Photoshop "for first time" do this to have normal undo/redo.
   1. Window > Workspace > Keyboard shortcuts & Menus > Shortcuts
-  2. Set "Step Backward" to Ctrl+Z
-  3. Set "Undo/Redo" to Alt+Ctrl+Z
-  4. Ensure "Step Foreward" is set to Shift+Ctrl+Z
+  2. Set "Edit > Step Backward" to `CTRL+Z`
+  3. Set "Edit > Undo/Redo" to `ALT+CTRL+Z`
+  4. Ensure "Edit > Step Forward" is set to `SHIFT+CTRL+Z`
+  5. Set "Layer > Video Layers> Duplicate Frame to `ALT+CTRL+D`
+
 - Bamboo tablet had issues with small strokes causing brush selector, a circle fills in and requires a not-so minimumal amount of movement to cancel.
   > Loads of threads stated to disable `Press and hold` inside the Windows 10 `Pen & Windows Ink`. Some stated to disable `Windows Ink` option from within the Bamboo preferences (Pen > Mappings > Use Windows Ink) which worked but destroyed pressure sensitivity.
 
