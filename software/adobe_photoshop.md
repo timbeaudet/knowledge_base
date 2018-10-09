@@ -48,7 +48,8 @@ Click in the empty area of swatches palette to add the color.
 ### Move Tool:
 - Hotkey: `V`
 - Purpose: Move the selection or layer around the canvas.
-- Holding `ALT` will duplicate the layer and move the duplicate. If there was a selection, it duplicates the selection adding it to current layer.v
+- Holding `ALT` will duplicate the layer and move the duplicate. If there was a selection, it duplicates the selection adding it to current layer.
+- Pressing `1` through `9` will set the current layer opacity from 10% to 90% respectively, and pressing `0` will set opacity to 100%.
 
 ### Lasso Select Tool: (is your friend)
 - Hotkey `L`
