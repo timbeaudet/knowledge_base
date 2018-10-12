@@ -2,31 +2,36 @@
 
 ## Setup (the way it should be)
 - When setting up Photoshop "for first time" do this to have normal undo/redo.
-  1. Window > Workspace > Keyboard shortcuts & Menus > Shortcuts
-  2. Set "Edit > Step Backward" to `CTRL+Z`
-  3. Set "Edit > Undo/Redo" to `ALT+CTRL+Z`
-  4. Ensure "Edit > Step Forward" is set to `SHIFT+CTRL+Z`
-  5. Set "Layer > Video Layers> Duplicate Frame to `ALT+CTRL+D`
+  0. Window > Workspace > Keyboard shortcuts & Menus > Shortcuts
+  1. Set "Edit > Step Backward" to `CTRL+Z`
+  2. Set "Edit > Undo/Redo" to `ALT+CTRL+Z`
+  3. Ensure "Edit > Step Forward" is set to `SHIFT+CTRL+Z`
+  4. Set "Layer > Video Layers> Duplicate Frame to `ALT+CTRL+D`
 
 - Bamboo tablet had issues with small strokes causing brush selector, a circle fills in and requires a not-so minimumal amount of movement to cancel.
   > Loads of threads stated to disable `Press and hold` inside the Windows 10 `Pen & Windows Ink`. Some stated to disable `Windows Ink` option from within the Bamboo preferences (Pen > Mappings > Use Windows Ink) which worked but destroyed pressure sensitivity.
 
-  1. Open `Control Panel` > Hardware and Sound > Pen and Touch > Change tablet pen settings.
-  2. Double click `Press and hold` action.
-  3. Uncheck the box for `Enable press and hold for right-clicking`.
+  0. Open `Control Panel` > Hardware and Sound > Pen and Touch > Change tablet pen settings.
+  1. Double click `Press and hold` action.
+  2. Uncheck the box for `Enable press and hold for right-clicking`.
 
   > In case it matters, I also had `Double-click`, and `Press and hold` set to Nothing from Pen & Windows Ink settings.
+- Photoshop / Bamboo tablet had another issue where small U or V type strokes could close the loop in an odd-ball, unexpected fashion. The fix [described here](https://forums.adobe.com/thread/1863501) is the following:
 
+  0. Close Photoshop.
+  1. Create a new text document with the contents `UseSystemStylus 0`
+  2. Save that document to `%APPDATA%\Adobe\Adobe Photoshop CC 2018\Adobe Photoshop CC 2018 Settings\PSUserConfig.txt`
+  3. Reopen Photoshop and hope it worked.
 
 ## Setting up a color palette
-1. Delete each color swatch from the current palette.  
+0. Delete each color swatch from the current palette.  
 (_This involved painfully right-clicking each color, choosing delete, accepting._)  
 Feel free to use the [black_and_white.aco](../config/adobe_photoshop/black_and_white.aco)
-2. Sample a color from the image  
+1. Sample a color from the image  
 _or_ click color tab and select your desired color.
-3. Add the color to the swatches palette.  
+2. Add the color to the swatches palette.  
 Click in the empty area of swatches palette to add the color.
-4. When done adding colors, save the set in the swatch palette hamburg menu, `Save Swatches`
+3. When done adding colors, save the set in the swatch palette hamburg menu, `Save Swatches`
 
 > Loading a swatch palette with `Load Swatches...` seems to append to the present palette so it may be desirable to use `Replace Swatches...` instead.
 
@@ -85,10 +90,10 @@ I had found that I needed a lot of guides on a piece, that were conflicting with
 
 After having create a layer group `sprite_sheet` and adding a `View > Guide Layout` for the size of the sprites:
 
-1. Right-click the `sprite_sheet` layer group and choose `Convert to Smart Object`
-2. On the main sheet remove the guides from the sprite sheet layout.
-3. Double-click on the smart object thumbnail view to open and use.
-4. Close it (save changes, this is separate object in the file?) the original document will update.
+0. Right-click the `sprite_sheet` layer group and choose `Convert to Smart Object`
+1. On the main sheet remove the guides from the sprite sheet layout.
+2. Double-click on the smart object thumbnail view to open and use.
+3. Close it (save changes, this is separate object in the file?) the original document will update.
 
 Note: This process may be even better (untested) by simply creating the sprite_sheet as a smart object before adding the guide layout.
 
