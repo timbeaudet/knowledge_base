@@ -8,6 +8,12 @@
   3. Ensure "Edit > Step Forward" is set to `SHIFT+CTRL+Z`
   4. Set "Layer > Video Layers> Duplicate Frame to `ALT+CTRL+D`
 
+- Install the [Spritesheet Generator](https://github.com/bogdanrybak/spritesheet-generator) to be able to create animations.
+  - If the link is down use [our copy](../config/adobe_photoshop/spritesheet_generator.jsx).
+  - Save the file in:
+     - **Windows** - `C:\Program Files\Adobe\Your photoshop version\Presets\Scripts`
+     - **Mac** - `Applications/Your photoshop version/Presets/Scripts`
+
 - Bamboo tablet had issues with small strokes causing brush selector, a circle fills in and requires a not-so minimumal amount of movement to cancel.
   > Loads of threads stated to disable `Press and hold` inside the Windows 10 `Pen & Windows Ink`. Some stated to disable `Windows Ink` option from within the Bamboo preferences (Pen > Mappings > Use Windows Ink) which worked but destroyed pressure sensitivity.
 
