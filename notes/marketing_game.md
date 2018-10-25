@@ -29,6 +29,8 @@
 - Toss in fitting 'banner / header' like gameplay gifs.
 - Consider adding an area of the screenshots with text, to tell story as prospective player travels through.
 	Something like "Build your own tracks", "Keep Car Mechanically Sound", etc...
+- Add a TL;DR at top of the giant wall of text if you must have a giant wall of text - better not to have a giant wall of text.
+
 ### Do not
 - Make trailers with zero (0) gameplay footage.
 - Reference other games; "like PUBG with wands"
@@ -37,6 +39,7 @@
 - "Coming Soon" with "Release Date" of today/in the past.
 	It would seem if you can put a future release date on things, that one could forget their or slip by their intended release date.
 - Simply show the game settings screen.
+- Do not have software watermarks (Bandicam, Fraps etc) in screenshots or videos.
 
 ---
 
