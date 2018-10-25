@@ -11,8 +11,8 @@
 - Install the [Spritesheet Generator](https://github.com/bogdanrybak/spritesheet-generator) to be able to create animations.
   - If the link is down use [our copy](../config/adobe_photoshop/spritesheet_generator.jsx).
   - Save the file in:
-     - **Windows** - `C:\Program Files\Adobe\Your photoshop version\Presets\Scripts`
-     - **Mac** - `Applications/Your photoshop version/Presets/Scripts`
+	 - **Windows** - `C:\Program Files\Adobe\Your photoshop version\Presets\Scripts`
+	 - **Mac** - `Applications/Your photoshop version/Presets/Scripts`
 
 - Bamboo tablet had issues with small strokes causing brush selector, a circle fills in and requires a not-so minimumal amount of movement to cancel.
   > Loads of threads stated to disable `Press and hold` inside the Windows 10 `Pen & Windows Ink`. Some stated to disable `Windows Ink` option from within the Bamboo preferences (Pen > Mappings > Use Windows Ink) which worked but destroyed pressure sensitivity.
@@ -75,6 +75,20 @@ Click in the empty area of swatches palette to add the color.
 - `SHIFT+CTRL+[` or `SHIFT+CTRL+]` will move the selected to be the back or front most layer.
 - To merge a layer down to the layer below use `CTRL-ALT-E` and then press `delete`, effectively the first shortcut appears to keep the original layer, but places its contents on the layer below like merge down.
 
+## Techniques
+
+### Cutting an area out of a layer (Knockout)
+0. `CTRL+LEFT CLICK` layer preview of the layer of the cookie cutter shape, this will select all parts of that layer immediately.
+1. Select > Inverse (or `CTRL+SHIFT+I`) to create the cut out selection.
+2. Select the other layer that will get cut into cookie shape.
+3. New Mask icon at bottom of layers panel to create the mask.
+
+### Filling an outlined area
+> This assumes one is using a seperate line-work layer (I used 4px) and color layers.
+0. Use the magic wand (`W`) to select the shape(s) to fill.
+	- Ensure that 'Sample All Layers' is selected in the tool options.
+1. Select > Modify > Expand and increase by some pixels (I used 2px).
+2. Use the fill bucket (`G`) to fill the area with the selected color.
 
 ## Random Useful Hotkeys / Uses
 - Deselect anything select with `CTRL+D`
