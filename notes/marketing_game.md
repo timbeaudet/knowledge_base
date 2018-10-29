@@ -40,7 +40,7 @@
 	It would seem if you can put a future release date on things, that one could forget their or slip by their intended release date.
 - Simply show the game settings screen.
 - Do not have software watermarks (Bandicam, Fraps etc) in screenshots or videos.
-- Attempt to make your trailing in less than 3 hours.
+- Attempt to make your trailer in less than 3 hours.
 
 ---
 
