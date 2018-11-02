@@ -1,7 +1,21 @@
 # Blender Tricks:
 > Nearly all this help comes from (shakesoda) or (ZaCkOX1000)
 
-### Make select fall on a plane
+
+## Techniques
+
+### Using Mirror Modifier on Cylinder (with ngon caps)
+
+1. Use `z` to see transparently.
+2. Lock view to axis with numpad buttons.
+3. Select and delete half of the shape.
+4. Click on the end cap, press `y` to split the polygon then `w` menu to use symmetrize.
+5. Delete half of the shape.
+6. Remove doubles with `a` to select, `w` menu to use `remove doubles`
+7. Repeat for other cap and mirror modify the shape.
+
+### Make selection fall on a plane
+
 1. Set orientation to 'Normal' mode, (as opposed to Global)
 2. Select the faces that should remain planar.
 3. Press `s` to scale.
@@ -9,6 +23,29 @@
 5. Press `0` to set that scale to zero.
 
 > Note this can't fix the issue of quads turning in multiple axis, (like a racetrack turning while changing elevation pitch.).
+
+### Make something symmetric (without mirror modifier)
+
+1. Make selection.
+2. `w` menu `symmetrize`
+3. Use the tool menu to specify direction/threshold
+
+## Edit Mode Tool and Usage Tips
+
+### Modes
+- Hotkey: `CTRL+TAB` with `v` for vertices, `e` for edges and `f` for faces.
+- Purpose: Change between what gets selected or modified during edit mode manipulators like grab, scale, rotate etc.
+- **NOTE:** Edit in multiple modes, at the same time by shift-select the modes (_vertices, edges, faces_) on the bottom panel.
+
+### Selecting Things
+
+> No setup notes yet, but I believe the default is not left click select, which is used in the following section.
+
+- Left click to select an individual _(vertex, edge or face)_.
+- `ALT+LMB` to loop select (when built properly)
+- `CTRL+NUMPAD+` or `CTRL+NUMPAD-` to extend/decrease loop selections.
+- Press `L` to select the entire linked area under the mouse, or `CTRL+L` to select entire linked area to current selection.
+- Use `SHIFT+G` to perform all sorts of neat selection tricks related to something already selected. This tool has options (bottom-left) to modify.
 
 ### Unformatted mess:
 	alm-m to merge vertices.
