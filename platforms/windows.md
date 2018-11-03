@@ -21,3 +21,5 @@ In the properties for the nightly_build task make the following changes:
 * Run task as soon as possible after a schedule start is missed
 * If the task fails, restart every minute for 3 times
 * Stop the task if it runs longer than 4 hours
+
+> Note: To edit the task (in Windows 10) open `Task Scheduler` and click on `Task Schedule Library` this contained the `nightly_build` task for me and it wasn't obvious I needed to click on it when I first searched through every folder of Microsoft.
