@@ -19,7 +19,7 @@
 - Who do you _want_ as your customers?
 
 ---
-## Building a Steam Page for a Game
+## Building a Steam/Itch.io Page for a Game
 ### Do
 - Add key features
 - Add screenshots of unique aspects to game info panel.
@@ -30,6 +30,8 @@
 - Consider adding an area of the screenshots with text, to tell story as prospective player travels through.
 	Something like "Build your own tracks", "Keep Car Mechanically Sound", etc...
 - Add a TL;DR at top of the giant wall of text if you must have a giant wall of text - better not to have a giant wall of text.
+- Ensure the thumbnail image of the game is sized well (aspect/cropping)
+- Include a GIF thumbnail if possible.
 
 ### Do not
 - Make trailers with zero (0) gameplay footage.
@@ -39,8 +41,10 @@
 - "Coming Soon" with "Release Date" of today/in the past.
 	It would seem if you can put a future release date on things, that one could forget their or slip by their intended release date.
 - Simply show the game settings screen.
-- Do not have software watermarks (Bandicam, Fraps etc) in screenshots or videos.
+- Have software watermarks (Bandicam, Fraps etc) in screenshots or videos.
+- Have too many features listed or bulleted, unless they are truly outstanding.
 - Attempt to make your trailer in less than 3 hours.
+- Use a huge image for Engine Logo, and/or include a bunch of engine tech/features.
 
 ---
 
