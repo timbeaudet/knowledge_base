@@ -22,7 +22,7 @@ sudo vim /etc/ssmtp/ssmtp.conf
 
 ```
 #
-# Config file for sSMTP sendmail
+# Config file for SSMTP sendmail
 #
 # The person who gets all mail for userids < 1000
 # Make this empty to disable rewriting.
