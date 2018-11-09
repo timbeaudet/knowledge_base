@@ -4,6 +4,16 @@
 
 ## Techniques
 
+
+
+## Modifiers
+
+### Sliding along an Edge
+
+- Purpose: Slide an edge along the edges it is connected to, or a vertex along the connect edges.
+- Hotkey: `G`, `G`
+- Holding `ALT` will allow movement beyond the initial edge in the same edge direction it is locked to.
+
 ### Using Mirror Modifier on Cylinder (with ngon caps)
 
 1. Use `z` to see transparently.
@@ -47,11 +57,18 @@
 - Press `L` to select the entire linked area under the mouse, or `CTRL+L` to select entire linked area to current selection.
 - Use `SHIFT+G` to perform all sorts of neat selection tricks related to something already selected. This tool has options (bottom-left) to modify.
 
+### Hiding / Unhiding (showing) Things
+
+- Press `NUMPAD+/` to hide everything except the selections.
+- Press `H` to hide current selection.
+- Press `ALT+H` to unhide, everything?
+- Hold `CTRL` while clicking the eye-ball icon in the Outliner / scene list to hide children objects as well.
+
 ### Unformatted mess:
 	alm-m to merge vertices.
 	'c' to use circle select, to left-click/paint selection (shift to unselect paint area)
 	ctrl-mouse (RMB) to lasso select
-	'g, g' to use edge slide to slide an edge along the face
+
 	button-to right of face select mode button can be used to select things on the other side. (ghost thingy)
 	bevel tool: ctrl-b, use scroll wheel for more loops
 	alt-s to scale along normals (or shrink/fatten in words of (shakesoda)
@@ -62,11 +79,6 @@
 	Proportional Edit Mode
 	alt-o to enter/exit proportional edit mode
 	Check the area of influence (use scroll wheel)
-
-	- **Hide everything except selection**
-		Press `numpad /`
-	- **Show / Hide everything in a fake-empty-group**
-		Hold CTRL while clicking eye-ball icon.
 
 	- **Split a mesh into smaller parts**
 		In edit mode, select the parts/faces desired in the new part
