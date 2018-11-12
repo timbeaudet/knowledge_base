@@ -24,14 +24,22 @@
 - Add key features
 - Add screenshots of unique aspects to game info panel.
 - Release story-based games in episodic/season based content.
-- If releasing Early Access, put WIP / EA / In Development etc in the screenshots / video.
-	This should help a user make slightly better judgments while sifting through media if they haven't already seen that it is an early access game. Otherwise they might be quick to judge lower quality when in actuality it is still being improved.
 - Toss in fitting 'banner / header' like gameplay gifs.
 - Consider adding an area of the screenshots with text, to tell story as prospective player travels through.
 	Something like "Build your own tracks", "Keep Car Mechanically Sound", etc...
 - Add a TL;DR at top of the giant wall of text if you must have a giant wall of text - better not to have a giant wall of text.
 - Ensure the thumbnail image of the game is sized well (aspect/cropping)
 - Include a GIF thumbnail if possible.
+
+### Do if release Early Access:
+- Put WIP / EA / In Development etc in the screenshots / video. (top banner/corner flag etc)
+	This should help a user make slightly better judgments while sifting through media if they haven't already seen that it is an early access game. Otherwise they might be quick to judge lower quality when in actuality it is still being improved.
+- Answer (or strongly consider) the following questions, even if unnessary by platform:
+	- "Why Early Access?" (must)
+	- "What is different from full game"
+	- "How long will it be in Early Access?"
+	- "Will game be priced differently during/after Early Access"
+
 
 ### Do not
 - Make trailers with zero (0) gameplay footage.
