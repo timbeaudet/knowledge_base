@@ -4,7 +4,9 @@
 
 ## Techniques
 
+### Playing with Texture Coordinates (UV Unwrapping)
 
+- Select on edge in uv editor, and use `W` menu to `set align (auto/x/y)` to get straight lines.
 
 ## Modifiers
 
@@ -63,6 +65,7 @@
 - Press `H` to hide current selection.
 - Press `ALT+H` to unhide, everything?
 - Hold `CTRL` while clicking the eye-ball icon in the Outliner / scene list to hide children objects as well.
+
 
 ### Unformatted mess:
 	alm-m to merge vertices.
