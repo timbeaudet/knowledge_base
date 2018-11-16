@@ -7,6 +7,7 @@
 ### Playing with Texture Coordinates (UV Unwrapping)
 
 - Select on edge in uv editor, and use `W` menu to `set align (auto/x/y)` to get straight lines.
+- In vertex mode (of UV editor) use `W` menu to `Weld` (or `W`, `W`) to lock two vertices together.
 
 ## Modifiers
 
@@ -65,6 +66,7 @@
 - Press `H` to hide current selection.
 - Press `ALT+H` to unhide, everything?
 - Hold `CTRL` while clicking the eye-ball icon in the Outliner / scene list to hide children objects as well.
+
 
 
 ### Unformatted mess:
