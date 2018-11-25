@@ -9,13 +9,13 @@
 - Select on edge in uv editor, and use `W` menu to `set align (auto/x/y)` to get straight lines.
 - In vertex mode (of UV editor) use `W` menu to `Weld` (or `W`, `W`) to lock two vertices together.
 
-## Modifiers
-
 ### Sliding along an Edge
 
 - Purpose: Slide an edge along the edges it is connected to, or a vertex along the connect edges.
 - Hotkey: `G`, `G`
 - Holding `ALT` will allow movement beyond the initial edge in the same edge direction it is locked to.
+
+## Modifiers
 
 ### Using Mirror Modifier on Cylinder (with ngon caps)
 
