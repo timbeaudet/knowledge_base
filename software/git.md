@@ -24,6 +24,15 @@
   - During the install flow I used "Open Key" to add the existing _private_ key to TortoiseGit / PuTTy. For this I navigated to `C:/Users/<username>/.ssh/id_rsa` and saved a PuTTy version of it.
 - Test to ensure it works by cloning a repository with ssh from TortoiseGit.
 
+## Setup Just the Way I like it
+
+> Use the following git alias commands to setup everything well.
+
+```
+git config --global alias.last 'log -1 HEAD'
+git config --global alias.lg 'log --oneline --graph'
+```
+
 Unformatted below.
 
 	If git ever says "you cannot push because there are other stuff on the remote" do a `git pull --rebase`
