@@ -1,4 +1,6 @@
-## Adobe Illustrator
+# Adobe Illustrator
+
+## Tools and Usage
 
 - Selection Tool:  
 	**Hotkey:** v  
@@ -11,6 +13,11 @@
 
 - Move an object above/behind things, change layer order with `CTRL+[` or `CTRL+]`
 
+## Techniques
+
+### Convert Stroke to Object
+1. Select the line/stroke.
+2. In the mnu use: Object > Path > Outline Stroke
 
 Removing a part of a path to make an incomplete shape (for mirroring or something)
 1. Select object
