@@ -34,6 +34,7 @@ Press `CTRL+,` to open settings and use the following
 - Just write a comment (in html) and `CTRL+/` (cicero743)
 - `CTRL+R` will open a recent file or project with typable find.
 - Use markdown preview `CTRL+K V` to monitor md changes.
+- `CTRL+SHIFT+O` will search for symbols or something special, better than `CTRL+F`
 
 
 ### Change Line Endings
