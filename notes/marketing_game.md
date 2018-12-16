@@ -30,6 +30,8 @@
 - Add a TL;DR at top of the giant wall of text if you must have a giant wall of text - better not to have a giant wall of text.
 - Ensure the thumbnail image of the game is sized well (aspect/cropping)
 - Include a GIF thumbnail if possible.
+- Include GIF action in the about this game; useful because sometimes the video is chunky and a new player will skip a page without
+	seeing the awesome content.
 
 ### Do if release Early Access:
 - Put WIP / EA / In Development etc in the screenshots / video. (top banner/corner flag etc)
