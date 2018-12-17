@@ -3,14 +3,23 @@
 ; ^ = ctrl
 ; # = win
 
+SetKeyDelay, 0
 
 ;
 ; Typing shortcuts
-;
+
+; The following requires typing `ex to trigger
+; ::``ex Exampled 
+; while the next example triggers on hi
+; ::`hi Hello
 
 ::``tb::Turtle Brains
 ::``ror::Rally of Rockets
 ::``ice::Internal Combusion Engine
+::``tbt::timbeaTROPHY
+::``tbc::timbeaChamp
+::``tbp::timbeaPoop
+::``tbwo::/w CTurtleBot {!}workingon 
 
 ::``ttv::https://www.twitch.tv/timbeaudet
 ::``twi::https://www.twitter.com/timbeaudet
@@ -19,7 +28,6 @@
 ::``left::←
 ::``up::↑
 ::``down::↓
-
 
 ::``dat::
 FormatTime, CurrentDateTime,, yyyy-MM-dd
@@ -45,6 +53,8 @@ return
 ; ctrl+alt+M
 ; Resize active window to top-left of center monitor
 ^!m::
+; This would let you run this on a particular window (get the text from WindowSpy)
+; WinWait, Bot Land Local - Google Chrome
 WinGet, active_id, ID, A
 WinRestore, ahk_id %active_id%
 WinMove, ahk_id %active_id%, , 1915, 1, 765, 641
@@ -74,3 +84,10 @@ WinRestore, ahk_id %active_id%
 WinMove, ahk_id %active_id%, , 1987, 1, 1415, 932
 return
 
+; ctrl+alt+G
+; Resize active window to fill complete center screen (ror)
+^!g::
+WinGet, active_id, ID, A
+WinRestore, ahk_id %active_id%
+WinMove, ahk_id %active_id%, , 1912, -39, 1936, 1119
+return
