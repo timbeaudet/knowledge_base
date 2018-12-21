@@ -77,18 +77,27 @@ Click in the empty area of swatches palette to add the color.
 
 ## Techniques
 
+### Creating an Alpha Channel
+> This is used when you have an image that contains blackness where you want transparency.
+1. `CTRL+A` to select all of the layer.
+2. `CTRL+C` to copy the layer contents.
+3. Create a new layer, fill white.
+4. On the white layer, click "Add Layer Mask" at the bottom of the Layers panel.
+5. Go to Channels tab of Layer panel, select all `CTRL+A` and paste the contents, `CTRL+V`.
+
+
 ### Cutting an area out of a layer (Knockout)
-0. `CTRL+LEFT CLICK` layer preview of the layer of the cookie cutter shape, this will select all parts of that layer immediately.
-1. Select > Inverse (or `CTRL+SHIFT+I`) to create the cut out selection.
-2. Select the other layer that will get cut into cookie shape.
-3. New Mask icon at bottom of layers panel to create the mask.
+1. `CTRL+LEFT CLICK` layer preview of the layer of the cookie cutter shape, this will select all parts of that layer immediately.
+2. Select > Inverse (or `CTRL+SHIFT+I`) to create the cut out selection.
+3. Select the other layer that will get cut into cookie shape.
+4. New Mask icon at bottom of layers panel to create the mask.
 
 ### Filling an outlined area
 > This assumes one is using a seperate line-work layer (I used 4px) and color layers.
-0. Use the magic wand (`W`) to select the shape(s) to fill.
+1. Use the magic wand (`W`) to select the shape(s) to fill.
 	- Ensure that 'Sample All Layers' is selected in the tool options.
-1. Select > Modify > Expand and increase by some pixels (I used 2px).
-2. Use the fill bucket (`G`) to fill the area with the selected color.
+2. Select > Modify > Expand and increase by some pixels (I used 2px).
+3. Use the fill bucket (`G`) to fill the area with the selected color.
 
 ## Random Useful Hotkeys / Uses
 - Deselect anything select with `CTRL+D`
