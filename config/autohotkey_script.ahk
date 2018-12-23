@@ -14,7 +14,9 @@ SetKeyDelay, 0
 ; ::`hi Hello
 
 ::``tb::Turtle Brains
+::``wtb::https://www.turtlebrains.com
 ::``ror::Rally of Rockets
+::``wror::https://www.rallyofrockets.com
 ::``ice::Internal Combusion Engine
 ::``tbt::timbeaTROPHY
 ::``tbc::timbeaChamp
