@@ -32,6 +32,7 @@
 - Include a GIF thumbnail if possible.
 - Include GIF action in the about this game; useful because sometimes the video is chunky and a new player will skip a page without
 	seeing the awesome content.
+- Use screenshots of the SAME size.
 
 ### Do if release Early Access:
 - Put WIP / EA / In Development etc in the screenshots / video. (top banner/corner flag etc)
@@ -41,6 +42,9 @@
 	- "What is different from full game"
 	- "How long will it be in Early Access?"
 	- "Will game be priced differently during/after Early Access"
+- Ensure the release date is set INTO THE FUTURE if game is in early access.
+	This is very confusing and some player feel the game is released and judge it as so.
+	That said, players do not give early access games much slack in the first place.
 
 
 ### Do not
@@ -55,6 +59,7 @@
 - Have too many features listed or bulleted, unless they are truly outstanding.
 - Attempt to make your trailer in less than 3 hours.
 - Use a huge image for Engine Logo, and/or include a bunch of engine tech/features.
+- Use screenshots of varying size.
 
 ---
 
