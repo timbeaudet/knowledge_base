@@ -17,3 +17,9 @@
 - Logitech G29 Steering Wheel
 - Ricmotech Load Cell Brake
 - Clutch and Throttle springs replaced with original G29 brake and clutch springs respectively.
+
+## Streaming Equipment
+- Blue Yeti Microphone
+- Logitech Pro 9000 Web Camera
+- Logitech c922x Web Camera
+- Microsoft Surface 3 (as a stream deck thing).
