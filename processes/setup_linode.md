@@ -2,6 +2,13 @@
 
 > The following script was essentially replaced by `rally_of_rockets/server/create_game_server.sh` by (tsjost).
 
+When `create_game_server.sh` fails multiple times in a row, (or even once) it can be resaved by:
+
+1. Open `rally_of_rockets/server/create_game_server.sh`
+2. Find and comment out the line `create_game_server`
+3. Below that line add `SERVER_IP=1.2.3.4`
+4. Save, close and rerun the script.
+
 ```
 Create a Ubuntu 16.04 (or other) server.
 Click BOOT
