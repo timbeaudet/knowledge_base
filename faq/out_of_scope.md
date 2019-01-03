@@ -1,7 +1,7 @@
 
 # Out Of Scope
 
-I _really_ appreciate all ideas/suggestions that you Turtles toss my way. However I cannot and will not implement all ideas for the following reasons:
+I _really_ appreciate all ideas/suggestions that you Turtles toss my way. However the reality of my situation means not everything can be implemented. Here are _some_ of the reasons:
 
 ## 1. Cohesive Design
 
