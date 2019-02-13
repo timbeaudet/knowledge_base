@@ -18,4 +18,3 @@
 
 * Viewers sometimes throw me down unnecessary rabbit holes.
 * Streaming does take time/effort (90 hours between June-December 2018).
-

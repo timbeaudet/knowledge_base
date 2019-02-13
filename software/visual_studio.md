@@ -9,6 +9,9 @@ Install the following extensions:
   - Set that value to `[parentPath]\[solutionName] - [documentName] - [ideName]`
 - [Trailing Whitespace Visualizer (Mads Kristensen)](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.TrailingWhitespaceVisualizer)
   - Tools > Options > Trailing Whitespace > Remove whitespace on save: `true`
+- [Editor Guidelines (Paul Harrington)](https://marketplace.visualstudio.com/items?itemName=PaulHarrington.EditorGuidelines)
+ - 
+
 
 ## Other tricks and tips
  - Search using symbols; use `CTRL+,` (jobun44)

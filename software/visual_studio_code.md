@@ -35,6 +35,7 @@ Press `CTRL+,` to open settings and use the following
 - `CTRL+R` will open a recent file or project with typable find.
 - Use markdown preview `CTRL+K V` to monitor md changes.
 - `CTRL+SHIFT+O` will search for symbols or something special, better than `CTRL+F`
+- There is a refresh button above tree view, in event it doesn't auto refresh press this button instead of reloading.
 
 
 ### Change Line Endings
