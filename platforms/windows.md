@@ -2,6 +2,8 @@
 
 - Type `cmd` in the explorer window to get a command prompt where you are!
 - `WIN+PAUSE BREAK` to open system info, doesn't show version but does show system specifications.
+- Take a screenshot, and specify capture area with `WINDOWS+SHIFT+S` this will put the image in the clipboard.
+- To choose emoji's, press `WINDOWS+;` or `WINDOWS+.` MAGIC! 🧙‍
 
 ## Scheduling a Task (script) to Run Nightly
 
