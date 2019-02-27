@@ -33,7 +33,7 @@
 - Include GIF action in the about this game; useful because sometimes the video is chunky and a new player will skip a page without
 	seeing the awesome content.
 - Use screenshots of the SAME size.
-- Add tags. LOADS of tags. Find similar games and see the tags they use for ideas.
+- Add tags. LOADS of tags. Use official tags whe possible. Find similar games and see the tags they use for ideas.
 
 ### Do if release Early Access:
 - Put WIP / EA / In Development etc in the screenshots / video. (top banner/corner flag etc)
