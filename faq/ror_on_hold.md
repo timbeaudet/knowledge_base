@@ -1,5 +1,7 @@
 # Putting Rally of Rockets on Hold
 
+**Farewell-for-now Rally of Rockets playtest will be held April 6th 2019 at 9am ET.**
+
 Turtles watching the stream from late December on will already know I was stressed with art direction, cost and my confidence in making enough sales to make back the cost. Rally of Rockets was initially started as a 4 month, stepping-stone project toward my main dream of creating an online multiplayer physically accurate racing simulator. So, I'm doing just that, creating my dream project.
 
 ## Why Not Finish Rally of Rockets
