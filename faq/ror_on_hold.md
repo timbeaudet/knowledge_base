@@ -33,3 +33,7 @@ Almost nothing with the exception of the project name and goals to be realistic 
 * I will still use TurtleBrains / ICE (Custom C++ Frameworks)
 * I plan to get playtest running before Fall 2019
 * From time to time small projects will still occur, like Archer, Tombstone Boo!
+
+## Won't the Racing Simulator take longer and cost more?
+
+Yes. Definitely, yes. However I'm able and willing to put the enourmous amounts of extended time and effort to be persistent with the Racing Simulator. I believe constant updates with new features and content will bring the players in over time. If I am to be spending years on a project, it might as well be my dreaming project, _the racing simulator_, rather than the stepping stone project. Remember Rally of Rockets was meant to be a step towards the dream.
