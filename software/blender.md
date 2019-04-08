@@ -67,6 +67,20 @@
 - Press `ALT+H` to unhide, everything?
 - Hold `CTRL` while clicking the eye-ball icon in the Outliner / scene list to hide children objects as well.
 
+## Helpful Workflows
+
+### Layout of a track or object
+
+- Start with empty scene, add a plane, enter edit-mode, `A` `delete` (all)
+- Ensure to enter vertex mode, if nothing happens this is a reason why.
+- Using `CTRL+RMB` add vertices / edges to create the track (or general layout thoughts)
+- Helpful to create curves by selecting vertex and pressing `CTRL+SHIFT+B`
+	- Use scroll wheel to add more segments (smoother curves)
+	- Move mouse position to change shape.
+- For a racetrack, when finished with layout:
+	- Duplicate the object with `SHIFT+D`, hide original, select the duplicate.
+	- Cleanup unnessary bits/layout thoughts
+	- In Object Mode, Object -> Convert To Curve
 
 
 ### Unformatted mess:
