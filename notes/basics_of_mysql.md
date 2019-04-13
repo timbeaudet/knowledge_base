@@ -162,3 +162,66 @@ mysql> SELECT * FROM cars WHERE car_name="MX5";
 +--------+--------------+----------+
 1 row in set (0.00 sec)
 ```
+
+## Select More Specific Details
+
+If a column can contain multiple identical values you can see only the unique entries with; DISTINCT
+
+```
+SELECT DISTINCT column_name FROM table_name;
+```
+
+You can also use `AND` and `OR` to narrow down the query to something more specific. `AND` has more precedence but it is good practice to use parentheses to show meaning.
+
+```
+mysql> SELECT * FROM cars WHERE ((car_fullname LIKE "Dodge%" AND car_name LIKE "_N") OR car_name LIKE "MX5");
++--------+--------------+----------+
+| car_id | car_fullname | car_name |
++--------+--------------+----------+
+|      2 | Dodge Neon   | DN       |
+|      3 | Mazda Miata  | MX5      |
++--------+--------------+----------+
+2 rows in set (0.00 sec)
+```
+
+### Sorting
+
+Another super helpful select tool is to sort the results. You can do this with `ORDER BY` and adding `DESC` can put it in descending order. It is also possible to sort by multiple columns, and `DESC` only applies to the column preceding it.
+
+```
+mysql> SELECT * FROM cars ORDER BY car_id DESC;
++--------+---------------+----------+
+| car_id | car_fullname  | car_name |
++--------+---------------+----------+
+|      5 | Dodge Viper   | DV       |
+|      4 | Lotus Elise   | LE       |
+|      3 | Mazda Miata   | MX5      |
+|      2 | Dodge Neon    | DN       |
+|      1 | Chevrolet S10 | CS10     |
++--------+---------------+----------+
+5 rows in set (0.00 sec)
+```
+
+### Extra Computations per Row
+
+mysql> SELECT username, created, TIMESTAMPDIFF(DAY, created, NOW()) AS age FROM users ORDER BY age, username;
++------------+------------+------+
+| username   | created    | age  |
++------------+------------+------+
+| sara       | 2019-04-11 |    1 |
+| monky      | 2019-04-11 |    1 |
+| timbeaudet | 2019-04-11 |    1 |
+| indie      | 2019-04-11 |    1 |
++------------+------------+------+
+4 rows in set (0.00 sec)
+
+
+## Extra Things To Note
+
+- When testing for `NULL` always use `IS` or `IS NOT` instead of arithmetic operators (>=, <=, <>, =)
+- If a query shows warnings, use `SHOW WARNINGS;` to display them.
+
+
+### Other References
+
+- https://blog.codinghorror.com/a-visual-explanation-of-sql-joins/
