@@ -14,4 +14,9 @@
 3. Place the picture where you want it to start, and add a position keyframe at the staart of the effect timeline.
 4. Move the effect timeline to the end of the clip and move the image to the final location.
 
+**Stretching a Clip by Adjusting Playback Speed**
+1. Cut the start and end of the clip to get the bit you want.
+2. Place the start of the clip where it should start in the video.
+3. User `r` to Rate Stretch the clip and adjust the end position.
+
 [Premiere Hotkeys](https://helpx.adobe.com/premiere-pro/using/default-keyboard-shortcuts.html)
