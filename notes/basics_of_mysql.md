@@ -204,6 +204,7 @@ mysql> SELECT * FROM cars ORDER BY car_id DESC;
 
 ### Extra Computations per Row
 
+```
 mysql> SELECT username, created, TIMESTAMPDIFF(DAY, created, NOW()) AS age FROM users ORDER BY age, username;
 +------------+------------+------+
 | username   | created    | age  |
@@ -214,6 +215,7 @@ mysql> SELECT username, created, TIMESTAMPDIFF(DAY, created, NOW()) AS age FROM 
 | indie      | 2019-04-11 |    1 |
 +------------+------------+------+
 4 rows in set (0.00 sec)
+```
 
 
 ## Extra Things To Note
