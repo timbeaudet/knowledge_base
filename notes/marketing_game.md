@@ -82,4 +82,5 @@
 	https://www.reddit.com/r/IndieDev/
 
 ## Some Resources To Review
+https://partner.steamgames.com/doc/store/tags
 https://www.indiedb.com/games/star-explorers/tutorials/how-i-increased-my-games-sales-on-steam
