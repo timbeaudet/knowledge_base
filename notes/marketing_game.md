@@ -33,6 +33,7 @@
 - Include GIF action in the about this game; useful because sometimes the video is chunky and a new player will skip a page without
 	seeing the awesome content.
 - Use screenshots of the SAME size.
+- Ensure the screenshot order shows the juiciest shots first
 - Add tags. LOADS of tags. Use official tags whe possible. Find similar games and see the tags they use for ideas.
 
 ### Do if release Early Access:
