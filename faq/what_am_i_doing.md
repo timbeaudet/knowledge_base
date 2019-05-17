@@ -35,3 +35,16 @@ To ensure this doesn't happen again:
 - Iterate on previous games to grow over time
 
 Any ideas on how to reduce the concerns about quality and over-scoping?
+
+## Worried about the Racing Simulator
+
+The racing simulator is a huge project and going at it without more experience releasing projects in the first place seems like an unwise decision. Still it is the star project in the indie adventure and so it must not be sidelined forever.
+
+To ensure this remains in focus:
+
+- At least 10 hours of focus/effort every month
+	- planning, design, art, etc.
+	- tools, engine dev, physics, etc.
+	- skill building, learning, etc.
+- Can do this in a weekend / few mornings a month.
+- Can be placed end of month A and start of month B to reduce context change.
