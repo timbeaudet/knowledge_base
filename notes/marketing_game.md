@@ -85,3 +85,4 @@
 ## Some Resources To Review
 - https://partner.steamgames.com/doc/store/tags
 - https://www.indiedb.com/games/star-explorers/tutorials/how-i-increased-my-games-sales-on-steam
+- Building a trailer: https://www.youtube.com/watch?v=4CSYA9R70R8&feature=youtu.be
