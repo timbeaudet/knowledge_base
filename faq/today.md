@@ -1,8 +1,9 @@
-# Today is 2019-05-19
+# Today is 2019-05-20
 
 ## Objectives for the day:
 
-- Create begin() / end() for Array() objects, trigger error condition for non array items.
-- Add a AsStructure() and AsArray() that will return the structure/array reference... With experimental note.
-- Create a RacingKit framework/technology that can be reused in future projects with ease.
-  - RacecarControllerInterface
+- Update Key Performance Indicators
+- Browse racing games on steam to try:
+  - pinpointing what attention magnets they used
+  - understand why success came or didn't
+  - understand target audience / expectations better
