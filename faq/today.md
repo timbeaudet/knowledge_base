@@ -6,3 +6,6 @@
 - Put in the time for FGGS course study time.
 - Run over the Attention Magnets from FGGS webinar.
 - Throw ideas at the wall that use Attention Magnets. "Idea Dump"
+
+### Evening Stream
+- Playing Ultimate Racing 2D and other Top-Down Racing games to discover player expectations.
