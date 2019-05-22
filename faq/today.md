@@ -1,9 +1,8 @@
-# Today is 2019-05-21
+# Today is 2019-05-22
 
 ## Objectives for the day:
 
-- Make a new track in whatever "low poly" style Tim can.
-  - design a new layout with curve/line loop.
-  - make a new biome / environment
-- RacingKit into Git, or SVN, for usability.
-  - Too Frustrating Leaving this be.
+- Fix the failing projects in the Nightly Build Area.
+- Put in the time for FGGS course study time.
+- Run over the Attention Magnets from FGGS webinar.
+- Throw ideas at the wall that use Attention Magnets. "Idea Dump"
