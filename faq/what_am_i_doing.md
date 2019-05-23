@@ -1,7 +1,7 @@
 
 # What is Happening?
 
-**Designing 14 to 21 racing games!** I am resetting back to 2018 with the goal of producing games from concept to release; _ie **finishing** games_. These games should take 12 to 16 weeks which allows for approximately 350-500 hours of development per game.
+**Designing 14 to 21 racing games!** I am resetting back to 2018 with the goal of producing games from concept to release; _ie **finishing** games_. These games should take 12 to 16 weeks which allows for approximately 350-500 hours of development per game. **The next game will be starting on _or before_ July 1st 2019.** Before that I am focused on building new skills in art, marketing and more as well as improving technology before diving straight into this next project.
 
 ## Primary Objectives
 
