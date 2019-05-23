@@ -10,7 +10,7 @@
 - Improving technology features, tools, integrations
 - Gaining experience in designing racing games
 
-To learn more lessons and challenges about finishing games to ensure overtime the games become better and risk of failure gets reduced. Building
+To learn more lessons and challenges about finishing games to ensure that overtime the games become better and risk of failure gets reduced.
 
 ## Worried about Quality
 
