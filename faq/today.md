@@ -1,11 +1,12 @@
-# Today is 2019-05-22
+# Today is 2019-05-23
 
 ## Objectives for the day:
 
-- Fix the failing projects in the Nightly Build Area.
-- Put in the time for FGGS course study time.
-- Run over the Attention Magnets from FGGS webinar.
-- Throw ideas at the wall that use Attention Magnets. "Idea Dump"
+- Jump into Blender and figure out how to edit the exporter.
+- Get the exporter to apply Translation, Scale and Rotation during export automagically.
+- Get exporter to apply material colors as vertex colors (as an option)
 
-### Evening Stream
-- Playing Ultimate Racing 2D and other Top-Down Racing games to discover player expectations.
+## Purpose
+
+- To make exporting art easier, and save time lost to bad exports from unapplied transforms.
+- Using materials will improve work-flow during art creation, easier color modifications.
