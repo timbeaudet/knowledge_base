@@ -1,13 +1,16 @@
-# Today is 2019-05-24
+# Today is 2019-05-25
 
 ## Objectives for the day:
 
-- Jump into Blender, load up the Prototype racecar and clean it up (use materials)
-- Do research on Creative Commons licensing; find a license compatible with release through Patreon
-- Start creating an animation/scene for promoting the Prototype Racercar
-
+- Play a bit of TypeRacer to collect information on current typing speed. (Right from waking up)
+- Create a header image for Facebook and IndieDB
+- Test out the exporter applying transforms a little more rigourously- check out normals.
+- Brainstorm and toss more designs on the idea dump
+- Play a bit of TypeRacer to collect information on current typing speed. (Later once woken up)
+- FOOD BREAK
 
 ## Purpose
 
-- Learn / experience cleaning up and finalizing art asset.
-- Practice creating promotional material and marketing skills.
+- Collect info to see if I can improve my typing speed from whatever it currently is.
+- Appear with branding on Facebook/IndieDB
+- Ensure the workflow improvements are working and practice throwing designs on idea dump.
