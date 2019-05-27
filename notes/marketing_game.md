@@ -39,7 +39,7 @@
 ### Do if release Early Access:
 - Put WIP / EA / In Development etc in the screenshots / video. (top banner/corner flag etc)
 	This should help a user make slightly better judgments while sifting through media if they haven't already seen that it is an early access game. Otherwise they might be quick to judge lower quality when in actuality it is still being improved.
-- Answer (or strongly consider) the following questions, even if unnessary by platform:
+- Answer (or strongly consider) the following questions, even if unnessary by platform, FROM PLAYER VALUE PERSPECTIVE:
 	- "Why Early Access?" (must)
 	- "What is different from full game"
 	- "How long will it be in Early Access?"
