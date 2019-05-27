@@ -1,12 +1,12 @@
-# Today is 2019-05-26
+# Today is 2019-05-27
 
 ## Objectives for the day:
 
-- Model a 3D car in Blender in same style as other cars.
-- Work on the RacingKit and get a Racecar Interface created.
-- Potentially: Add some form of extremely basic AI driver to RacingKit.
+- Update the marketing "key points of interest"
+- Browse Steam for racing games, and try picking out what attention magnets they may have/use.
+- Spend at least an hour attempting to writeup promotional material for "The Best Racecar"
 
 ## Purpose
 
-- Skill build some art skills.
-- Build up the racing for future racing games; help create higher quality games faster
+- Skill build some marketing skills with the writeup.
+- Learn about the market of racing games, and perhaps gain ideas on what the target audience desires.
