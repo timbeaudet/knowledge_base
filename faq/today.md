@@ -1,16 +1,13 @@
-# Today is 2019-05-27
+# Today is 2019-05-28
 
 ## Objectives for the day:
 
-- Update the marketing "key points of interest"
-- Browse Steam for racing games, and try picking out what attention magnets they may have/use.
-- Spend at least an hour attempting to writeup promotional material for "The Best Racecar"
-### Extra Time: Holiday Day
-- Basic Artificial Intelligence racing for the Racing Kit.
+- Open up Blender and finish the best racecar in multiple colors.
+- Typing practice with homerow.
+- Game design more in the Idea Dump
 
 ## Purpose
 
-- Skill build some marketing skills with the writeup.
-- Learn about the market of racing games, and perhaps gain ideas on what the target audience desires.
-### Extra Time: Holiday Day
-- Have AI ready to go for some basic racing games.
+- To release the car to Patrons.
+- Improve typing speed/accuracy with homerow.
+- Add more ideas to the Idea Dump
