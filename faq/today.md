@@ -6,6 +6,9 @@
 - 30 minute of typing practice with homerow.
 - If there is still time, prepare a tweet or two for the "The Best Racecar" 'campaign'.
 
+### Race Night:
+- Trying out Speed Kills and possible Absolute Drift for inspiration, research and deeper understandings of the racing genre.
+
 ## Purpose
 
 - Improve at arting skills, paying attention to shapes.
