@@ -1,16 +1,9 @@
-# Today is 2019-05-29
+# Today is 2019-05-30
 
 ## Objectives for the day:
 
-- Open up Blender and work on some more art. Environment props and such.
-- 30 minute of typing practice with homerow.
-- If there is still time, prepare a tweet or two for the "The Best Racecar" 'campaign'.
-
-### Race Night:
-- Trying out Speed Kills and possible Absolute Drift for inspiration, research and deeper understandings of the racing genre.
+- Create a very basic skid mark object to leave tire marks behind the vehicle.
 
 ## Purpose
 
-- Improve at arting skills, paying attention to shapes.
-- Improve typing speed/accuracy with homerow.
-- Tweet purpose to promot the release of the racecar to Patrons.
+- Build up the Racing Kit with some useful feedback / polish toolset for future games.
