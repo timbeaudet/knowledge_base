@@ -1,9 +1,10 @@
-# Today is 2019-05-30
+# Today is 2019-05-31
 
 ## Objectives for the day:
 
-- Create a very basic skid mark object to leave tire marks behind the vehicle.
+- 30 minutes of practice typing home row with the keyboard.
+- Creating items that you may find at the racetrack.
 
 ## Purpose
 
-- Build up the Racing Kit with some useful feedback / polish toolset for future games.
+- Build up typing skills and art abilities.
