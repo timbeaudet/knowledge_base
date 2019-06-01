@@ -1,7 +1,5 @@
 # Marketing an Indie Game
 
-## Some Cool Header
-
 ### Collect the Facts
 - What are all of the facts about your game?
 - Who are the founders, roles, location, background, expertise...
@@ -86,3 +84,4 @@
 - https://partner.steamgames.com/doc/store/tags
 - https://www.indiedb.com/games/star-explorers/tutorials/how-i-increased-my-games-sales-on-steam
 - Building a trailer: https://www.youtube.com/watch?v=4CSYA9R70R8&feature=youtu.be
+- [Factors of Success on Steam](https://www.reddit.com/r/gamedev/comments/buuire/what_factors_predict_the_success_of_a_steam_game/)
