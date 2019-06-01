@@ -1,10 +1,11 @@
-# Today is 2019-05-31
+# Today is 2019-06-01
 
 ## Objectives for the day:
 
-- 30 minutes of practice typing home row with the keyboard.
-- Creating items that you may find at the racetrack.
+- Update ice Template (remove the Render call, and make better)
+- Start "Dueling Racers" for alakajam and make a racing game (using Racing Kit)
 
 ## Purpose
 
-- Build up typing skills and art abilities.
+- Ensure the racing kit has what it needs for creating a racing game.
+- Purpose of Alakajam: Create a basic racing game and get some feedback on it.
