@@ -1,11 +1,17 @@
-# Today is 2019-06-01
+# Today is 2019-06-02
 
 ## Objectives for the day:
 
-- Update ice Template (remove the Render call, and make better)
-- Start "Dueling Racers" for alakajam and make a racing game (using Racing Kit)
+- Updating the finance sheets to meet actual balance.
+- Investigate how May 2019 was doing
+- Write up a blog post for May review, then writeup the Patreon post for May review
+- Review the LAST 12-18 months over all
+  - What have I learned?
+  - What would I do differently?
+- Plan out June and the next 6 month
+
+### Indie Tavern at 10am ET with Mike from inPrinciple, Inc.
 
 ## Purpose
 
-- Ensure the racing kit has what it needs for creating a racing game.
-- Purpose of Alakajam: Create a basic racing game and get some feedback on it.
+- To ensure the Indie Adventure stays on track and continues moving forward.
