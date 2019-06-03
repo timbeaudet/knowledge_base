@@ -1,17 +1,16 @@
-# Today is 2019-06-02
+# Today is 2019-06-03
 
 ## Objectives for the day:
 
-- Updating the finance sheets to meet actual balance.
-- Investigate how May 2019 was doing
-- Write up a blog post for May review, then writeup the Patreon post for May review
-- Review the LAST 12-18 months over all
-  - What have I learned?
-  - What would I do differently?
-- Plan out June and the next 6 month
+- Updating key performance indicators.
+- Write up a patreon "selling" post / landing page for The Best Racecar asset.
+- Release best racecar on Patreon FOR the Patrons to grab and use how they see fit.
+- Write up a reddit post and tweet about releasing the The Best Racecar asset.
 
-### Indie Tavern at 10am ET with Mike from inPrinciple, Inc.
+### If time allows
+
+- Write up a blog/patreon post about tracking 1600 hours of my indie adventure.
 
 ## Purpose
 
-- To ensure the Indie Adventure stays on track and continues moving forward.
+- To practice writing marketing material.
