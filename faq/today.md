@@ -1,9 +1,9 @@
-# Today is 2019-06-07
+# Today is 2019-06-08
 
 ## Objectives for the day:
 
-- Focus on art. Track environments, Props, and/or Cars
+- Answer most of the questions about the ideas in IdeaGen stage 2
 
 ## Purpose
 
-- To improve art skills.
+- Prepare to pitch games to CEO.
