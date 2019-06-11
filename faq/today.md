@@ -1,8 +1,12 @@
-# Today is 2019-06-10
+# Today is 2019-06-11
 
 ## Objectives for the day:
 
-- Update the marketing Key Performance Indicators in the spreadsheet.
-- Practice home-row typing "in the wild" (not using the class)
-- Market research for ~1hr "What makes a good top down racing game, and what does not?"
-- Writing up a reddit post about my first year of tracked time...
+- Practice my home row typing using the class thing. 30-45 minutes
+- Take notes on all the "Gates" from the FGGS program.
+  - Especially so for the Idea Generation stage.
+- Take notes on all the "Production Hacks" from the FGGS program.
+
+## Purpose
+
+- Redoing these notes / reviewing the learnings will reinforce things and highlight unclear bits.
