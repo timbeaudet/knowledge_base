@@ -6,6 +6,7 @@
 - Take notes on all the "Gates" from the FGGS program.
   - Especially so for the Idea Generation stage.
 - Take notes on all the "Production Hacks" from the FGGS program.
+- Taking notes on what players like and dislike from racing games.
 
 ## Purpose
 
