@@ -1,13 +1,11 @@
-# Today is 2019-06-11
+# Today is 2019-06-12
 
 ## Objectives for the day:
 
-- Practice my home row typing using the class thing. 30-45 minutes
-- Take notes on all the "Gates" from the FGGS program.
-  - Especially so for the Idea Generation stage.
-- Take notes on all the "Production Hacks" from the FGGS program.
-- Taking notes on what players like and dislike from racing games.
+- Fill the boxes from the TBIA intro on StreamHelper.
+- Maybe even create a good background for that intro.
+- Any time left over: Plan Raid intro and Typing practice 
 
 ## Purpose
 
-- Redoing these notes / reviewing the learnings will reinforce things and highlight unclear bits.
+- Spice things up on intro, practice 2D art skills
