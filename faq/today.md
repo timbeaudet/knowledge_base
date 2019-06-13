@@ -1,11 +1,10 @@
-# Today is 2019-06-12
+# Today is 2019-06-13
 
 ## Objectives for the day:
 
-- Fill the boxes from the TBIA intro on StreamHelper.
-- Maybe even create a good background for that intro.
-- Any time left over: Plan Raid intro and Typing practice 
+- Some updates and changes to StreamHelper.
+- Use HTTP to check if twitch status is live to see if StreamHelper should automatically close.
 
 ## Purpose
 
-- Spice things up on intro, practice 2D art skills
+- Bring more fun to the stream.
