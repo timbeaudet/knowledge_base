@@ -1,10 +1,10 @@
-# Today is 2019-06-13
+# Today is 2019-06-14
 
 ## Objectives for the day:
 
-- Some updates and changes to StreamHelper.
-- Use HTTP to check if twitch status is live to see if StreamHelper should automatically close.
+- Find some art things to work on, practice the creation of art.
+- 
 
 ## Purpose
 
-- Bring more fun to the stream.
+- Build art skill
