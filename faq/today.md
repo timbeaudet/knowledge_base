@@ -2,9 +2,8 @@
 
 ## Objectives for the day:
 
-- Find some art things to work on, practice the creation of art.
-- 
+- Dig deeper into the top ideas to ensure they can be produced with quality in given.  
 
 ## Purpose
 
-- Build art skill
+- To get closer to choosing the idea.
