@@ -1,4 +1,4 @@
-# Today is 2019-06-14
+# Today is 2019-06-16
 
 ## Objectives for the day:
 
