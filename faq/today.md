@@ -1,9 +1,11 @@
-# Today is 2019-06-16
+# Today is 2019-06-17
 
 ## Objectives for the day:
 
-- Dig deeper into the top ideas to ensure they can be produced with quality in given.  
+- Market research for obstacle course driving games on Steam.
+- Updating Key Performance Indicators
+- Potential writing of article about first year hours.
 
 ## Purpose
 
-- To get closer to choosing the idea.
+- To get better ideas on Target Audience.
