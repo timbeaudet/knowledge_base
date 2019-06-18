@@ -1,11 +1,9 @@
-# Today is 2019-06-17
+# Today is 2019-06-18 
 
 ## Objectives for the day:
 
-- Market research for obstacle course driving games on Steam.
-- Updating Key Performance Indicators
-- Potential writing of article about first year hours.
+- Practice art, build skills, have a clear idea of vision for "Turbo Bombs"
 
 ## Purpose
 
-- To get better ideas on Target Audience.
+- Skill building
