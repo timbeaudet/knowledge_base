@@ -1,9 +1,11 @@
-# Today is 2019-06-18 
+# Today is 2019-06-19 
 
 ## Objectives for the day:
 
-- Practice art, build skills, have a clear idea of vision for "Turbo Bombs"
+- Update the data in the tracker sheet to represent Sample data better.
+- Get StreamHelper passing nightly builds on Linux and Windows.
+- Add a quick way to test Raids.
 
 ## Purpose
 
-- Skill building
+- Bring more value to the stream, have some fun.
