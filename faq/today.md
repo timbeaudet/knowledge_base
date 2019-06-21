@@ -1,9 +1,9 @@
-# Today is 2019-06-20
+# Today is 2019-06-21
 
 ## Objectives for the day:
 
-- Better raid effects for the stream helper app with more fun.
+- Continue to work on the mockup and polishing it.
 
 ## Purpose
 
-- Bring more value to the stream, have some fun.
+- Bring the vision of "Turbo Boom!" to life.
