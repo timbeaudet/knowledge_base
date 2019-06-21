@@ -85,3 +85,4 @@
 - https://www.indiedb.com/games/star-explorers/tutorials/how-i-increased-my-games-sales-on-steam
 - Building a trailer: https://www.youtube.com/watch?v=4CSYA9R70R8&feature=youtu.be
 - [Factors of Success on Steam](https://www.reddit.com/r/gamedev/comments/buuire/what_factors_predict_the_success_of_a_steam_game/)
+- [You Want to Have a Kick-Butt Steam Page](https://www.reddit.com/r/gamedev/comments/bag8qt/so_you_want_to_have_a_kickass_steam_page/)
