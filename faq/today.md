@@ -1,12 +1,10 @@
-# Today is 2019-06-22
+# Today is 2019-06-23
 
 ## Objectives for the day:
 
-- Start designing out the next game.
-- How will it play?
-- How will it get developed?
-- How will it be interesting?
+- Start working on a basic track editor for Turbo Boom!
+- Potential market research for obstacle driving games in 2018.
 
 ## Purpose
 
-- Bring the vision of "Turbo Boom!" to life.
+- Ensure the tool won't take more time than it is worth.
