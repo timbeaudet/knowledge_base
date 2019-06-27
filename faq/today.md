@@ -1,8 +1,11 @@
-# Today is 2019-06-26
+# Today is 2019-06-27
 
 ## Objectives for the day:
 
-- Get the darn placement working in the editor.
+- Testing the flipped corner code with a non-90 degree corner.
+- Visualization of the next segment to be placed.
+- Allow deleting of a segment with backspace/delete.
+- Make ImGui window to select a segment.
 
 # Purpose
 
