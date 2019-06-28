@@ -1,12 +1,10 @@
-# Today is 2019-06-27
+# Today is 2019-06-28
 
 ## Objectives for the day:
 
-- Testing the flipped corner code with a non-90 degree corner.
-- Visualization of the next segment to be placed.
-- Allow deleting of a segment with backspace/delete.
-- Make ImGui window to select a segment.
+- Art research: How to make BOOM
+- Art practice: Attempt to make BOOM
 
 # Purpose
 
-- Test out work flow and see if building a track editing tool will be worth it.
+- Start working on awesome BOOM effect.
