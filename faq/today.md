@@ -1,13 +1,11 @@
-# Today is 2019-06-29
+# Today is 2019-06-30
 
 ## Objectives for the day:
 
-- Get some form of object placement working.
-- Load a list objects
-- Have a ImGui window for selecting new object (search by tag)
-- Using ImGuizmo for the movement/rotation gizmo for placement
-- Saving and loading of track segments and track objects.
+- Review finances, hours, lessons learned in June.
+- Plan the line of attack in July.
+- Prepare and hold Indie Tavern with mike_inprinciple
 
 # Purpose
 
-- Get the track builder wrapped up in some reasonably useable state.
+- Ensure the Indie Adventure remains on the best possible path/tracks.
