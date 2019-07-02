@@ -1,11 +1,12 @@
-# Today is 2019-06-30
+# Today is 2019-07-02
 
 ## Objectives for the day:
 
-- Review finances, hours, lessons learned in June.
-- Plan the line of attack in July.
-- Prepare and hold Indie Tavern with mike_inprinciple
+- Get Turbo Boom! started.
+- Get Bullet compiled / linking with Turbo Boom!
+- Have a racecar that can move in some fashion.
+- Stretch: Attempt to also get a track loaded from track builder.
 
 # Purpose
 
-- Ensure the Indie Adventure remains on the best possible path/tracks.
+- Get Turbo Boom underway.
