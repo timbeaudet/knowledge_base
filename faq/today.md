@@ -1,13 +1,11 @@
-# Today is 2019-07-04
+# Today is 2019-07-05
 
 ## Objectives for the day:
 
-- Create somewhat desired physics.
-- Get a track loaded from track builder.
-- Implement the start / finish track areas
-- Implement timing and scoring to display.
-- Implement car reset back to starting area.
+- Make some art
+- Model a rough car with various components/body part peices
+- Create a rough pass over each of the obstacles necessary.
 
 # Purpose
 
-- Get Turbo Boom underway.
+- Create the most basic of art for Alpha Development.
