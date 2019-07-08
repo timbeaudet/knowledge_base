@@ -81,7 +81,8 @@
 	https://www.reddit.com/r/IndieDev/
 
 ## Some Resources To Review
-- https://partner.steamgames.com/doc/store/tags
+- [Steam Tags Guidelines](https://partner.steamgames.com/doc/store/tags)
+- [itch.io Creator Quality Guidelines](https://itch.io/docs/creators/quality-guidelines)
 - https://www.indiedb.com/games/star-explorers/tutorials/how-i-increased-my-games-sales-on-steam
 - Building a trailer: https://www.youtube.com/watch?v=4CSYA9R70R8&feature=youtu.be
 - [Factors of Success on Steam](https://www.reddit.com/r/gamedev/comments/buuire/what_factors_predict_the_success_of_a_steam_game/)
