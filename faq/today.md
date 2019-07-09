@@ -1,12 +1,10 @@
-# Today is 2019-07-08
+# Today is 2019-07-09
 
 ## Objectives for the day:
 
-- Looking through StreamHelper PR's from thechoconut_
-- Plan the mailing list stuff.
-- Planning for the store page.
-- Update the key performance indicators.
+- Physics, how does a car drive on an obstacle course.
+- and/or Level/Track selection screen...
 
 # Purpose
 
-- Keep marketing considerations on the front of the mind.
+- Make games. Sell games. Make enough money to make next game?
