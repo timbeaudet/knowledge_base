@@ -1,4 +1,4 @@
-# Today is 2019-07-09
+# Today is 2019-07-10
 
 ## Objectives for the day:
 
