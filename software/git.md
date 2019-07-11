@@ -120,7 +120,8 @@ Doesn't actually matter if on master, but master must be up to date.
 To continue working on the branch, after merging to master, do  
 `git checkout feature/name && git rebase master`
 
-If you forgot that step and committed to the master branch instead; but have not pushed... fix by:
+**If you forgot that step...** _(and committed to the master branch instead; but have not pushed...)
+
 `git checkout feature/name`
 `git rebase master`                     Bring the new commits to the branch
 feature/name and master should now match.
