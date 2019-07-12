@@ -1,8 +1,8 @@
-# Today is 2019-07-11
+# Today is 2019-07-12
 
 ## Objectives for the day:
 
-- Physics, how does a car drive on an obstacle course.
+- Visual effects with code = art
 
 # Purpose
 
