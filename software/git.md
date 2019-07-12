@@ -122,13 +122,13 @@ To continue working on the branch, after merging to master, do
 
 **If you forgot that step...** _(and committed to the master branch instead; but have not pushed...)
 
-`git checkout feature/name`
-`git rebase master`                     Bring the new commits to the branch
-feature/name and master should now match.
-`git checkout master`
-`git log` and find the commit id of the commit BEFORE the one desired.
-Stash anything left in working directory; otherwise lose it??
-`git reset --hard COMMIT_ID`
+`git checkout feature/name`  
+`git rebase master`                     Bring the new commits to the branch  
+feature/name and master should now match.  
+`git checkout master`  
+`git log` and find the commit id of the commit BEFORE the one desired.  
+Stash anything left in working directory; otherwise **lose it**  
+`git reset --hard COMMIT_ID`  
 
 Can even create the code edits first:
 	Do code edits, once finished...
