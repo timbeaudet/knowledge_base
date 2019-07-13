@@ -1,9 +1,9 @@
-# Today is 2019-07-12
+# Today is 2019-07-13
 
 ## Objectives for the day:
 
-- Visual effects with code = art
+- Attempt attacking physics from a new angle.
 
 # Purpose
 
-- Make games. Sell games. Make enough money to make next game?
+- Get Turbo Boom drivable...
