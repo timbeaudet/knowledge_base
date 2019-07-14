@@ -1,9 +1,12 @@
-# Today is 2019-07-13
+# Today is 2019-07-14
 
 ## Objectives for the day:
 
-- Attempt attacking physics from a new angle.
+- Level select screen with/locks and best times.
+- Prototype the shell idea
+- Light vs Hard contact
+- Continue tuning the physics, here and there.
 
 # Purpose
 
-- Get Turbo Boom drivable...
+- Get Turbo Boom prototype physics ready for player testing.
