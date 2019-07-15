@@ -1,12 +1,10 @@
-# Today is 2019-07-14
+# Today is 2019-07-15
 
 ## Objectives for the day:
 
-- Level select screen with/locks and best times.
-- Prototype the shell idea
-- Light vs Hard contact
-- Continue tuning the physics, here and there.
+- Writeup of a few emails for the email drip campaign.
+- Setup of TyreBytes website, starting from Trailing Brakes??
 
 # Purpose
 
-- Get Turbo Boom prototype physics ready for player testing.
+- Start/continue building the mailing list and gaining interest.
