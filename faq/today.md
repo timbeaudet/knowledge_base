@@ -1,10 +1,11 @@
-# Today is 2019-07-15
+# Today is 2019-07-16
 
 ## Objectives for the day:
 
-- Writeup of a few emails for the email drip campaign.
-- Setup of TyreBytes website, starting from Trailing Brakes??
+- Define obstacle physics in data driven format (json).
+- Create bigger boxes
+- Create stacks of tires.
 
 # Purpose
 
-- Start/continue building the mailing list and gaining interest.
+- Make game awesome!
