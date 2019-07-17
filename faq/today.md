@@ -1,10 +1,10 @@
-# Today is 2019-07-16
+# Today is 2019-07-17
 
 ## Objectives for the day:
 
-- Define obstacle physics in data driven format (json).
-- Create bigger boxes
-- Create stacks of tires.
+- Obstacles!
+- Get the obstacles sized up
+- Make TireStacks, haybales and cones.
 
 # Purpose
 
