@@ -1,11 +1,9 @@
-# Today is 2019-07-18
+# Today is 2019-07-19
 
 ## Objectives for the day:
 
-- Quick peak into pull requests.
-- getting multi-select and multi-move / rotate working in track builder.
-- change the way selection / placement works in general, too easy to mess up.
+- Create the visual effects for water in Turbo Boom!
 
 # Purpose
 
-- Make the track builder more comfortable to use for developing Turbo Boom! and future games.
+- Prove that the visual effects can look well with present skills as it is 'high risk' for the project.
