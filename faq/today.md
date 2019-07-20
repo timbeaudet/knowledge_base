@@ -1,8 +1,10 @@
-# Today is 2019-07-19
+# Today is 2019-07-20
 
 ## Objectives for the day:
 
-- Create the visual effects for water in Turbo Boom!
+- Updating the website to thechoconut_'s PR.
+- Level flow, after victory make the game popup a screen for next.
+- Game design planning / thoughts / sketching concept.
 
 # Purpose
 
