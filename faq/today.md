@@ -1,10 +1,9 @@
-# Today is 2019-07-20
+# Today is 2019-07-21
 
 ## Objectives for the day:
 
-- Updating the website to thechoconut_'s PR.
-- Level flow, after victory make the game popup a screen for next.
-- Game design planning / thoughts / sketching concept.
+- Level flow, after victory make the game popup a screen for next level.
+- Get the car to break apart on its own (instead of b for boom key).
 
 # Purpose
 
