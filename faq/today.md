@@ -1,9 +1,11 @@
-# Today is 2019-07-21
+# Today is 2019-07-22
 
 ## Objectives for the day:
 
-- Level flow, after victory make the game popup a screen for next level.
-- Get the car to break apart on its own (instead of b for boom key).
+- Update the key performance indicators.
+- A few language updates to the landing/squeeze page for Turbo Boom!
+- Start mocking up ideas of the itch.io / steam store page content.
+- Writing content for emails for the drip / campaign.
 
 # Purpose
 
