@@ -7,6 +7,17 @@
 - Start mocking up ideas of the itch.io / steam store page content.
 - Writing content for emails for the drip / campaign.
 
+# Evening Stream:
+
+- Pause Menu...
+  - Return to level select
+  - Restart the level
+  - Continue Playing
+- Victory Dance (menu)...
+  - Return to level select
+  - Restart the level
+  - Next Level
+
 # Purpose
 
-- Prove that the visual effects can look well with present skills as it is 'high risk' for the project.
+- Make the game play from one level to the next in a smooth fashion. Complete game loop.
