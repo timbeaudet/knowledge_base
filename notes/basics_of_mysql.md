@@ -12,6 +12,11 @@ It took awhile to get logged in for multiple reasons:
 
 Common usage of MySQL seems to have commands in SCREAMING CAPS, although it is case-insensitive. It would seem string compares are typically case-insensitive as well. Each command also ends with a `;`. When this detail is forgotten the prompt will let you know. Instead of displaying `mysql>` it will display `    ->`
 
+### SHOW DATABASES;
+This will show you what databases there are to find. You can then use the following command to select a database.
+
+### USE database_name;
+
 ### SHOW TABLES;
 This will output each of the tables contained in the database.
 
