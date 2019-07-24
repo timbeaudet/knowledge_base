@@ -227,7 +227,7 @@ mysql> SELECT username, created, TIMESTAMPDIFF(DAY, created, NOW()) AS age FROM 
 
 - When testing for `NULL` always use `IS` or `IS NOT` instead of arithmetic operators (>=, <=, <>, =)
 - If a query shows warnings, use `SHOW WARNINGS;` to display them.
-
+- TRUNCATE table_name; will clear all data and resets auto_increment and "stuff".
 
 ### Other References
 
