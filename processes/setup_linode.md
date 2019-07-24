@@ -34,8 +34,8 @@ Use Deploy script in rally_of_rockets/build/deploy.sh to upload to server.
 `passwd` to set the password.
 
 **On Windows bash terminal** (or where desired)_  
-`ssh-copy-id <SERVER_IP>`  
-`ssh <SERVER_IP>`
+`ssh-copy-id <USERNAME@SERVER_IP>`  
+`ssh <USERNAME@SERVER_IP>`
 
 **FOR DEBUGGING THE GAME FROM SERVER**  
 `sudo apt-get install gdb`  
