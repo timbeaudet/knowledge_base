@@ -1,11 +1,11 @@
-# Today is 2019-07-23
+# Today is 2019-07-24
 
 ## Objectives for the day:
 
-- Play with my webhost to create a subdomain, user, and etc for dev.tyrebytes.com
-- Play with my webhost to create a mysql database for development leader boards.
-- Get deploy.sh deploying to development environment.
-- Start working on post_time.php and get_times.php for the api.
+- Start working get_times.php for the api to return the times of users.
+- Call post_result from within the game and post times.
+- Set the username of the player (some option thing).
+- 
 
 # Purpose
 
