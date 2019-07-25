@@ -1,11 +1,10 @@
-# Today is 2019-07-24
+# Today is 2019-07-25
 
 ## Objectives for the day:
 
-- Start working get_times.php for the api to return the times of users.
-- Call post_result from within the game and post times.
-- Set the username of the player (some option thing).
-- 
+- Refactor the TrackManager a bit to separate level information from user progress data.
+- Add best time information to TrackManager to reduce how often the game pulls from server.
+- Stretch: Get BOOM to happen automatically vs pressing B button.
 
 # Purpose
 
