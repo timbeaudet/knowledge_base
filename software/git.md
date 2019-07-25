@@ -33,7 +33,7 @@ git config --global alias.last 'log -1 HEAD'
 git config --global alias.lg 'log --oneline --graph'
 git config --global alias.ap 'add --patch'
 git config --global alias.cm 'commit --message'
-git config --global alias.pr 'pull --rebase'
+git config --global alias.pr 'pull --rebase=preserve'
 git config --global alias.st 'status'
 git config --global alias.ss 'stash save'
 ```
