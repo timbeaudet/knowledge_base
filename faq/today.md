@@ -1,10 +1,12 @@
-# Today is 2019-07-25
+# Today is 2019-07-26
 
 ## Objectives for the day:
 
-- Refactor the TrackManager a bit to separate level information from user progress data.
-- Add best time information to TrackManager to reduce how often the game pulls from server.
-- Stretch: Get BOOM to happen automatically vs pressing B button.
+- Make BOOM happen at certain speeds.
+- Add explosive barrels to the game.
+- Create spherical explosion effect and BOOM the car.
+- Add oil spill objects to the game.
+- Create friction reduction for some time after colliding with oil.
 
 # Purpose
 
