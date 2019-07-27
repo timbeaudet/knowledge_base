@@ -9,7 +9,7 @@
 
 ### More stetch objective:
 
-- Get the leadaerboard api rate limited
+- Get the leaderboard api rate limited
 - Timer on final boom so the player can witness the boom, vs instant restart.
 - Camera on wall contact needs to be smoothed.
 
