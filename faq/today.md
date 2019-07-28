@@ -1,17 +1,15 @@
-# Today is 2019-07-27
+# Today is 2019-07-28
 
 ## Objectives for the day:
 
-- Oil spill gameplay, cause the car to lose traction for X time.
-- Add the Alpha notice to the game flow for alpha build.
-- Test static physics with moving obstacles for future dev (could be risky).
-- Design out some levels perhaps more reasonable to the game.
+- Camera with car near the bottom of the screen and smooth on wall contact.
+- Levels levels levels ... more levels.
+- Penalty on cone/box contact.
+- Timer on final boom so the player can witness the boom, vs instant restart.
 
 ### More stetch objective:
 
 - Get the leaderboard api rate limited
-- Timer on final boom so the player can witness the boom, vs instant restart.
-- Camera on wall contact needs to be smoothed.
 
 # Purpose
 
