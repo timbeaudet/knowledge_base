@@ -1,16 +1,14 @@
-# Today is 2019-07-28
+# Today is 2019-07-29
 
 ## Objectives for the day:
 
-- Camera with car near the bottom of the screen and smooth on wall contact.
-- Levels levels levels ... more levels.
-- Penalty on cone/box contact.
-- Timer on final boom so the player can witness the boom, vs instant restart.
+- Update the Key Performance Indicators.
+- Fix redundant language on squeeze page.
+- Add privacy policy to squeeze page.
+- Very quick "clip-like" explanation and showing of Turbo Boom.
+- Continue mockup of store page content.
 
-### More stetch objective:
-
-- Get the leaderboard api rate limited
 
 # Purpose
 
-- Add the ability to compete against others to provide more value for racing against clocks.
+- Make it more likely that Turbo Boom will sell well.
