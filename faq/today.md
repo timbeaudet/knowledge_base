@@ -1,14 +1,10 @@
-# Today is 2019-07-30
+# Today is 2019-07-31
 
 ## Objectives for the day:
 
-- Update the Key Performance Indicators.
-- Fix redundant language on squeeze page.
-- Add privacy policy to squeeze page.
-- Very quick "clip-like" explanation and showing of Turbo Boom.
-- Continue mockup of store page content.
-
+- Receive a ghost file on the server and deal with it.
+- download ghost file from server?
 
 # Purpose
 
-- Make it more likely that Turbo Boom will sell well.
+- Ensure competition is fun, and fair?
