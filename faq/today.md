@@ -1,9 +1,9 @@
-# Today is 2019-07-31
+# Today is 2019-08-01
 
 ## Objectives for the day:
 
-- Receive a ghost file on the server and deal with it.
-- download ghost file from server?
+- Receive a ghost file from the server.
+- Play the received ghost file.
 
 # Purpose
 
