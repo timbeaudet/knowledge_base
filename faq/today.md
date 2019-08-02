@@ -1,10 +1,9 @@
-# Today is 2019-08-01
+# Today is 2019-08-02
 
 ## Objectives for the day:
 
-- Receive a ghost file from the server.
-- Play the received ghost file.
+- Explosive Effect for Exploding Barrels.
 
 # Purpose
 
-- Ensure competition is fun, and fair?
+- Ensure the game can look as good as I see it in my head.
