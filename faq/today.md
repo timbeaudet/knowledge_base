@@ -1,14 +1,12 @@
-# Today is 2019-08-03
+# Today is 2019-08-04
 
 ## Objectives for the day:
 
-- Wrapup pulling ghosts from the server by
-  - Tracking a unique ghost_id on server.
-  - Sending that ghost_id with the best times lists.
-  - Pulling and retreiving the ghost from the server using ghost_id
-  - Caching the ghost on the players computer.
-- Alpha bugs, issues and adjustments to make
+- Come up with questions for Indie Tavern guest
+- Figure out exactly how to deal with the unspecified / redacted expenses
+- Write up of blog post review July learnings.
+- Write up of Patreon post review of July financials.
 
 # Purpose
 
-- Ensure the game will have ghosts for colid competition.
+- Zoom out and review how the business as a whole is going.
