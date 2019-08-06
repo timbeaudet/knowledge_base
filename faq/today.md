@@ -1,12 +1,11 @@
-# Today is 2019-08-04
+# Today is 2019-08-06
 
 ## Objectives for the day:
 
-- Come up with questions for Indie Tavern guest
-- Figure out exactly how to deal with the unspecified / redacted expenses
-- Write up of blog post review July learnings.
-- Write up of Patreon post review of July financials.
+- Go over changes from last night.
+- Wake up.
+- Leaderboards... why not working?
 
 # Purpose
 
-- Zoom out and review how the business as a whole is going.
+- Fix the leaderboards, to get closer to releasing second alpha test.
