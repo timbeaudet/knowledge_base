@@ -1,10 +1,10 @@
-# Today is 2019-08-06
+# Today is 2019-08-07
 
 ## Objectives for the day:
 
-- Go over changes from last night.
-- Wake up.
-- Leaderboards... why not working?
+- Cleanup warnings
+- Fix bugs
+- Make game awesome
 
 # Purpose
 
