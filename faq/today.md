@@ -1,11 +1,12 @@
-# Today is 2019-08-07
+# Today is 2019-08-08
 
 ## Objectives for the day:
 
-- Cleanup warnings
-- Fix bugs
-- Make game awesome
+- Add tbSystem::CreateDirectoryPath()
+- Add tbSystem::GetSavePath()
+- Remove penalties from Turbo Boom to swap with more casual slow-down.
 
 # Purpose
 
-- Fix the leaderboards, to get closer to releasing second alpha test.
+- Fix major bug on Linux and macOS systems.
+- Test the actual game design with slow-downs.
