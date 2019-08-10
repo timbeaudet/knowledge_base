@@ -1,9 +1,12 @@
-# Today is 2019-08-09
+# Today is 2019-08-10
 
 ## Objectives for the day:
 
-- Misc. bug fixing and gameplay tweaks.
+- Don't Die!
+- Stay Awake.
+- Make Games
+- Have fun!
 
 # Purpose
 
-- Test the actual game design with slow-downs.
+- Do a twenty-four (24) hour stream.
