@@ -1,12 +1,12 @@
-# Today is 2019-08-10
+# Today is 2019-08-13
 
 ## Objectives for the day:
 
-- Don't Die!
-- Stay Awake.
-- Make Games
-- Have fun!
+- Write up work order for audio effects
+- Create clips of game for audio guys.
+- Write up work order for Tyre Bytes logo.
+- Make announcement.
 
 # Purpose
 
-- Do a twenty-four (24) hour stream.
+- Get the ball moving on some good quality stuff.
