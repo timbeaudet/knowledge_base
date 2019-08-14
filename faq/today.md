@@ -1,11 +1,9 @@
-# Today is 2019-08-13
+# Today is 2019-08-14
 
 ## Objectives for the day:
 
-- Write up work order for audio effects
-- Create clips of game for audio guys.
 - Write up work order for Tyre Bytes logo.
-- Make announcement.
+- Think about and design User Interface / User Experience
 
 # Purpose
 
