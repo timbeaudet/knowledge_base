@@ -1,9 +1,9 @@
-# Today is 2019-08-14
+# Today is 2019-08-15
 
 ## Objectives for the day:
 
-- Write up work order for Tyre Bytes logo.
 - Think about and design User Interface / User Experience
+- Start bug fixing and improving experience.
 
 # Purpose
 
