@@ -1,8 +1,8 @@
-# Today is 2019-08-23
+# Today is 2019-08-24
 
 ## Objectives for the day:
 
-- Continue working on user interface stuff for Level Select screen.
+- Get the level information screen showing leaderboard and being nice.
 
 # Purpose
 
