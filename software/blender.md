@@ -81,7 +81,9 @@
 	- Duplicate the object with `SHIFT+D`, hide original, select the duplicate.
 	- Cleanup unnessary bits/layout thoughts
 	- In Object Mode, Object -> Convert To Curve
-
+- Make several things FLAT respective to eachother
+	- Select the Normal transform (usually on global, icon of 3D gimbal)
+	- s, z, z, 0
 
 ### Unformatted mess:
 	alm-m to merge vertices.
