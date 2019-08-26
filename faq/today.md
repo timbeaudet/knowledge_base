@@ -1,9 +1,11 @@
-# Today is 2019-08-24
+# Today is 2019-08-26
 
 ## Objectives for the day:
 
-- Get the level information screen showing leaderboard and being nice.
+- Update Marketing Key Performance Indicators
+- Cleanup of car, perhaps present it in a render on the track?
+- Continue working on vertical slice graphics.
 
 # Purpose
 
-- Get the game flow and game shell setup.
+- Prepare the vertical slice build.
