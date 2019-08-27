@@ -1,10 +1,10 @@
-# Today is 2019-08-26
+# Today is 2019-08-27
 
 ## Objectives for the day:
 
-- Update Marketing Key Performance Indicators
-- Cleanup of car, perhaps present it in a render on the track?
-- Continue working on vertical slice graphics.
+- Add and implement the audio effects for interface and skidding.
+- Add batched exporting to the exporter.
+- Continue modeling racecar, track segments and objects.
 
 # Purpose
 
