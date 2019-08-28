@@ -1,10 +1,9 @@
-# Today is 2019-08-27
+# Today is 2019-08-28
 
 ## Objectives for the day:
 
-- Add and implement the audio effects for interface and skidding.
-- Add batched exporting to the exporter.
-- Continue modeling racecar, track segments and objects.
+- Continue modeling racecar then track objects.
+- Potentially reorder the track segments list. (Warning: this deletes all tracks)
 
 # Purpose
 
