@@ -1,9 +1,9 @@
-# Today is 2019-08-28
+# Today is 2019-08-29
 
 ## Objectives for the day:
 
-- Continue modeling racecar then track objects.
-- Potentially reorder the track segments list. (Warning: this deletes all tracks)
+- Play test tsjost level.
+- Hack in the final car by not using segments.
 
 # Purpose
 
