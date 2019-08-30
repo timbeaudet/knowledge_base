@@ -1,9 +1,8 @@
-# Today is 2019-08-29
+# Today is 2019-08-30
 
 ## Objectives for the day:
 
-- Play test tsjost level.
-- Hack in the final car by not using segments.
+- Work on particles for explosives and dust.
 
 # Purpose
 
