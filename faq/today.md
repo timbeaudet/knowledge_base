@@ -1,18 +1,17 @@
-# Today is 2019-08-31
+# Today is 2019-09-01
 
 ## Objectives for the day:
 
-- Do some more bug fixing, polish and etc on the interface.
-- Split the car into multiple parts for debris.
-- Model the car frame and roll-cage for the death car.
-- Rename all track objects, and track segements
-  - Objective: Better alphabetical sorting: `width_length_type_`...  w08_10m_straight ... with `_walled` appended for walls.
-- Remake levels. Make more levels.
-- Improve level editor... slightly, smartly.
-
-# Challenge
-If a level remake (incl. all stuff above levels) is completed before 10am I will do a 2 hour spin off to attempt to record and playback controller data for cool recordings.
+- Review August 2019 as a business
+- Writeup blog post about learning
+- Writeup Patreon post about finances
+- Perform Indie Tavern with Guest: Witlock - https://twitch.tv/witlock
+- Prepare more for Surprise Party Playtest (Level Design)
+- Prepare builds
+- Run Surprise Party Playtest
+- S L E E P
 
 # Purpose
 
-- Prepare the vertical slice build and ensure forward dev is smooth.
+- Ensure gamedev business is on the right track for success as much as possibe.
+- Release major surprise playtest build 0.3.0
