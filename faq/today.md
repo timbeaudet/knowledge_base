@@ -1,11 +1,13 @@
-# Today is 2019-09-04
+# Today is 2019-09-07
 
 ## Objectives for the day:
 
-- Fix some of the bugs
-- Reorder some of the levels (8)
-- Create levels
+- Alphabetize the track segment list in Track Builder
+- Clean up more levels
+- Take some screenshots
 - Continue polishing the pitch deck.
+- Attempt a fun surprise / polish feature, and see how it goes.
+- Create new levels
 
 # Purpose
 
