@@ -1,13 +1,14 @@
-# Today is 2019-09-07
+# Today is 2019-09-09
 
 ## Objectives for the day:
 
-- Alphabetize the track segment list in Track Builder
-- Clean up more levels
-- Take some screenshots
-- Continue polishing the pitch deck.
-- Attempt a fun surprise / polish feature, and see how it goes.
-- Create new levels
+- Update the key performance indicators.
+- Snap some screenshots of Turbo Boom!
+  - Potentially create a screen grabber tool in Turtle Brains.
+- Polish the pitch deck
+
+## If still having time
+- Start filling out the presskit info.
 
 # Purpose
 
