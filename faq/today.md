@@ -1,13 +1,9 @@
-# Today is 2019-09-09
+# Today is 2019-09-10
 
 ## Objectives for the day:
 
-- Update the key performance indicators.
 - Snap some screenshots of Turbo Boom!
-  - Potentially create a screen grabber tool in Turtle Brains.
-- Polish the pitch deck
-
-## If still having time
+- Polish and with luck finish the pitch deck
 - Start filling out the presskit info.
 
 # Purpose
