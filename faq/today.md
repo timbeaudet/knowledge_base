@@ -1,10 +1,9 @@
-# Today is 2019-09-10
+# Today is 2019-09-11
 
 ## Objectives for the day:
 
-- Snap some screenshots of Turbo Boom!
-- Polish and with luck finish the pitch deck
-- Start filling out the presskit info.
+- Continue filling out the presskit info and adding better data.
+- Start finding a list of publishers to pitch the game to.
 
 # Purpose
 
