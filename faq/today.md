@@ -1,10 +1,10 @@
-# Today is 2019-09-11
+# Today is 2019-09-12
 
 ## Objectives for the day:
 
-- Continue filling out the presskit info and adding better data.
-- Start finding a list of publishers to pitch the game to.
+- Experimental: Try running TurboBoom on the AMD card while on falcon.
+- If that fails, or directions change: Pivot into instanced/batched rendering.
 
 # Purpose
 
-- Prepare for publisher build and pitch.
+- Attempt to fix AMD issues with shadows.
