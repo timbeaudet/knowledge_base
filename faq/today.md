@@ -1,10 +1,9 @@
-# Today is 2019-09-12
+# Today is 2019-09-13
 
 ## Objectives for the day:
 
-- Experimental: Try running TurboBoom on the AMD card while on falcon.
-- If that fails, or directions change: Pivot into instanced/batched rendering.
+- Get the instanced/batched rendering working for InternalCombustion engine.
 
 # Purpose
 
-- Attempt to fix AMD issues with shadows.
+- Attempt to fix some performance issues.
