@@ -5,6 +5,8 @@
 - Zipping up a folder into tar.gz
 ```tar czf behind_closed_doors.tar.gz behind_closed_doors```
 
+- Generate passwords with `pwgen`
+
 - **Kill a Process from terminal**
    - Search the process via: `ps aux | grep <name>`
    - Kill the process via pid with, `kill <pid>`
