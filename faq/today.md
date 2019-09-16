@@ -1,15 +1,12 @@
-# Today is 2019-09-14
+# Today is 2019-09-16
 
 ## Objectives for the day:
 
-- Finish up the instanced/batched rendering for InternalCombustion engine RenderQueue.
-  - Get it all cleaned up and commited.
-- Prepare for the publisher build and pitch
-  - Setting trophy times to be achievable.
-  - Looking for publishers to pitch to.
-  - Reviewing font choices on pitch deck.
-  - Spend some time on the presskit for company / Turbo Boom!
+- Finalize the dates in the publisher pitch deck.
+- Finalize the email for the publisher pitch.
+- Figure out how to deal with pitch via publisher forms.
+- Make the pitch to the list of publishers.
 
 # Purpose
 
-- Attempt to fix some performance issues.
+- See if any publishers want to join and help market/promote Turbo Boom! to wider audience than I am capable of.
