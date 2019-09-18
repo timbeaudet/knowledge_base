@@ -1,10 +1,9 @@
-# Today is 2019-09-17
+# Today is 2019-09-18
 
 ## Objectives for the day:
 
-- Figure out how to deal with pitch via publisher forms.
-- Make the pitch to the list of publishers.
+- Make tracks. Design tracks. Make game awesome.
 
 # Purpose
 
-- See if any publishers want to join and help market/promote Turbo Boom! to wider audience than I am capable of.
+- Prepare the content of the game.
