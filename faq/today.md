@@ -1,4 +1,4 @@
-# Today is 2019-09-18
+# Today is 2019-09-19
 
 ## Objectives for the day:
 
