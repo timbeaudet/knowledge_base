@@ -1,9 +1,9 @@
-# Today is 2019-09-24
+# Today is 2019-09-25
 
 ## Objectives for the day:
 
-- Potential write up of Track Submission Policy?
-- Add more track objects.
+- Getting Triple Tire Stack to work in game.
+- Add more track objects: barriers and more.
 - Make tracks. Design tracks. Make game awesome.
 
 # Purpose
