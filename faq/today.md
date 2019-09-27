@@ -1,8 +1,8 @@
-# Today is 2019-09-26
+# Today is 2019-09-27
 
 ## Objectives for the day:
 
-- Plank barriers to explode into flying debris on contact.
+- Make some art for Turbo Boom!
 
 # Purpose
 
