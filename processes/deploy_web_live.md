@@ -1,4 +1,12 @@
 
+# Deploy Live WebSite Changes
+
+When developing the Tyre Bytes website, or others that use the same setup, you can modify the site and immediately see the results using the `hugo server`.
+
+0. Navigate terminal to the project folder where hugo would generate the site.
+1. Run the command `hugo server --bind 0.0.0.0`
+2. Navigate your browser to the site displayed, it should work on other LAN devices.
+
 # Deploy Live Builds on the Fly
 
 0. Make sure all the scripts in build and build/automated have executable permissions.
