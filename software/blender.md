@@ -1,5 +1,13 @@
 # Blender Tricks:
 > Nearly all this help comes from (shakesoda) or (ZaCkOX1000)
+> Some of this information was originally written with Blender 2.79; most still applies to 2.80.
+
+## User Interface (2.80)
+
+- Bottom of the window, status bar, shows what LMB, MMB and RMB does at seemingly any time, with a glance.
+- "Header Menu" is usually positioned at the top, if loading from 2.79 it may be located on the bottom.
+	- You can change in Edit > Preferences > Interface > Editors > Header Position (Top or Bottom), default is by file.
+
 
 
 ## Techniques
@@ -46,7 +54,10 @@
 ## Edit Mode Tool and Usage Tips
 
 ### Modes
-- Hotkey: `CTRL+TAB` with `v` for vertices, `e` for edges and `f` for faces.
+- 2.79 Hotkey: `CTRL+TAB` with `v` for vertices, `e` for edges and `f` for faces.
+- 2.80 Pressing `1`, `2` or `3` will change to vertices, edges or faces respectively.
+	- Holding `SHIFT` while pressing `1`, `2`, or `3` will multiselct modes.
+
 - Purpose: Change between what gets selected or modified during edit mode manipulators like grab, scale, rotate etc.
 - **NOTE:** Edit in multiple modes, at the same time by shift-select the modes (_vertices, edges, faces_) on the bottom panel.
 
