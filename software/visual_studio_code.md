@@ -6,6 +6,7 @@ Install the following extensions:
 * `Bookmarks` by Alessandro Fragani
 * `C/C++` by Microsoft
 * `markdownlint` by David Anson
+* `Window Colors` by Stuart Robinson
 
 Press `CTRL+,` to open settings and use the following
 ```
