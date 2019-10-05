@@ -31,7 +31,7 @@ Press `CTRL+SHIFT+P` and type `shortcut` to change user shortcuts and use the fo
 // Place your key bindings in this file to override the defaults
 [
 	{ "key": "ctrl+k ctrl+k",         "command": "bookmarks.toggle", "when": "editorFocus" },
-	{ "key": "ctrl+k ctrl+o",         "command": "bookmarks.jumpToNext", "when": "editorFocus" },
+	{ "key": "ctrl+k ctrl+n",         "command": "bookmarks.jumpToNext", "when": "editorFocus" },
 ]
 ```
 
