@@ -26,6 +26,15 @@ Press `CTRL+,` to open settings and use the following
 "files.insertFinalNewline": true
 ```
 
+Press `CTRL+SHIFT+P` and type `shortcut` to change user shortcuts and use the follow
+```
+// Place your key bindings in this file to override the defaults
+[
+	{ "key": "ctrl+k ctrl+k",         "command": "bookmarks.toggle", "when": "editorFocus" },
+	{ "key": "ctrl+k ctrl+o",         "command": "bookmarks.jumpToNext", "when": "editorFocus" },
+]
+```
+
 ## Fun tips for usage
 - Convert Indentation To Tabs from F1/command palette (jobun44)
 - To commit all changes or staged changes just type message in the field below SOURCE CONTROL: SVN and hit `Shift+Enter` (jobun44)
