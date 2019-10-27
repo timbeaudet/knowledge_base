@@ -7,6 +7,8 @@
    - Maximum of ~3 ish hours
 - Build an admin page / tool for leaderboard modifications
 - See a list of names, tracks, times, etc to be capable of removing or modifying
+   - Objective 1: Removal of bad / potty names from the leaderboard. (how to find suspected names with 3k+ names)
+   - Objective 2: Removal of bad times from leaderboard. (solved with ghosts & sort asc)
 
 # Purpose
 
