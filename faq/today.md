@@ -1,23 +1,11 @@
-# Today is 2019-10-27
+# Today is 2019-10-29
 
 ## Objectives for the day:
 
-- Finish the Patreon post for September 2019 review.
-- Spend a little more time working on career tracker for adventure
-   - Maximum of ~3 ish hours
-- Build an admin page / tool for leaderboard modifications
-- See a list of names, tracks, times, etc to be capable of removing or modifying
-   - Objective 1: Removal of bad / potty names from the leaderboard. 
-      - Search for a name
-      - How to find suspected names with 3k+ names?
-      - Search a bad words list?
-      - Search a whitelisted/approved names?
-      - Combine the two?
-      - Ignore and use search when reported/noticed?
-   - Objective 2: Removal of bad times from leaderboard. (solved with ghosts & sort asc)
+- Ensure TrackBuilder builds on Linux (failing due to ImGui file loader thing)
+- Ensure all other builds are succeeding on Linux.
+
 
 # Purpose
 
-- Update the kind and awesome patrons about September (a bit late)
-- Understand the cost/benefit of projects over multiple years
-- Remove bad apples from the leaderboard more easily and safely that SQL commands.
+- 
