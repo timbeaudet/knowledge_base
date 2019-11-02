@@ -9,7 +9,9 @@
 - EVGA GeForce GTX 980ti 6gb
 - Corsair HX1000 PSU
 - Obutto Ozone Cockpit
-- Custom monitor stand with 4 27" BenQ GW2760S Monitors
+- Custom monitor stand with:
+  - 4 27" BenQ GW2760S Monitors
+  - 2 22" Acer VG220Q Monitors
 - Logitech 5.1 Surround Sound
 - Logitech G430 Headset
 - Razor Blackwidow Ultimate
