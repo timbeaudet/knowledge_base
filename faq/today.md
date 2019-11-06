@@ -1,13 +1,12 @@
-# Today is 2019-11-02
+# Today is 2019-11-06
 
 ## Objectives for the day:
 
-- Get the _ key, and perhaps others, working on Linux in TurtleBrains.
-- Finish drafting the Month of GameDev on Linux article.
-- Update the financial book-keeping, perhaps prepare patreon/blog articles.
-- More to be determined.
-
+- Continue pounding on the Discord bot for viewer / community appreciation.
+- Improve the debug output of the TurtleBot to improve readability.
+- Show the spider web, bigger picture, full idea.
+- Attempt to get Turtle Bot into source control (inside Stream Helper??)
 
 # Purpose
 
-- 
+- Make fun stuff happen
