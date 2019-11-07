@@ -96,6 +96,25 @@
 	- Select the Normal transform (usually on global, icon of 3D gimbal)
 	- s, z, z, 0
 
+### Painted Texturing Process
+
+- Create, and finalize the shape of the model before anything further. When happy
+	- remove any big useless polygons before moving on (or any useless polygons)
+- Apply all modifiers (or primarily the ones that generate geometry: mirror)
+- Join any parts that are separate that should be on the object (house and chimney)
+- Select all in edit mode and press `U` to choose `Smart UV Project` then pray.
+	- Use the menu the pops up to add margins so the separated parts don't paint over seams.
+
+
+### Texturing Tips in General
+
+- Enable selection sync is useful... It is the two diagnoal opposite arrows in "view header"
+- To avoid pain when painting use unified colors (header menu in Texture Paint: Brush -> unified colors and such)
+
+
+
+
+
 ### Unformatted mess:
 	alm-m to merge vertices.
 	'c' to use circle select, to left-click/paint selection (shift to unselect paint area)
