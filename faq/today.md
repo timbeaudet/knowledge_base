@@ -1,11 +1,14 @@
-# Today is 2019-11-08
+# Today is 2019-11-10
 
 ## Objectives for the day:
 
-- Receive a chat message from the discord bot and pull out info about author.
-- Respond to a chat message with command structure, !time.
-- Potentially start an article on the challenges of discord bot dev.
-- Potentially start deconstructing and demolition of StreamHelper.
+- Continue deconstructing and demolition of StreamHelper moving into TurtleBot
+- Fix up ChatServices to/from ModuleInterface to support Discord and Twitch better
+  - Discord userID is not a name to use in chat (userNick or userName), Twitch chat has username
+  - Discord channelOwner and moderator status (potentially use Roles?, hard-code Owner?)
+  - Discord whispers from main channel chats?
+- Get communications from TurtleBot (server) to StreamHelper (client) for updating overlay.
+  - Send !fireworks through to overlay.
 
 # Purpose
 
