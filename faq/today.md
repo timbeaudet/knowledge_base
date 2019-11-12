@@ -1,12 +1,14 @@
-# Today is 2019-11-11
+# Today is 2019-11-12
 
 ## Objectives for the day:
 
-- Polish the writing of Linux article and get that released.
-- Brainstorm more marketing idea dump stuff, incl: turtle byte loyalty points
-- Read-up on OKR (Objectives - Key Results) to understand difference from 'goals'
-  - I guess 'goals' fits more under "SMART"
+- Get the TurtleBot connection to TidalBuoy reconnecting (relistening) if it gets disconnected.
+- Get the TurtleBot connection to Discord reconnecting if it gets disconnected.
+- Get the StreamHelper connection to  TurtleBot (TidalBuoy) reconnecting if it gets disconnected.
+- Find a way for TurtleBot module commands to be registered specific to a service (Twitch only for instance).
+- Stretch Goal: Start getting the TwitchService connecting to twitch irc inside TurtleBot.
+
 
 # Purpose
 
-- Improve at marketing and promotion skills, required for a successful adventure.
+- Continue the master plan of centralizing the Twitch chat bot so it can run on 'hippo'
