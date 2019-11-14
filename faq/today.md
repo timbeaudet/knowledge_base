@@ -1,9 +1,8 @@
-# Today is 2019-11-13
+# Today is 2019-11-14
 
 ## Objectives for the day:
 
-- Get the TurtleBot connection to TidalBuoy reconnecting (relistening) if it gets disconnected.
-- Get the TurtleBot connection to Discord reconnecting if it gets disconnected.
+- Sanitize discord bot text response, strip out / remove @ symbol, or replace with "@ "
 - Find a way for TurtleBot module commands to be registered specific to a service (Twitch only for instance).
 - Sanitize Discord messages, ensure to strip @everyone @here and potentially other things
 
