@@ -1,10 +1,10 @@
-# Today is 2019-11-14
+# Today is 2019-11-15
 
 ## Objectives for the day:
 
-- Sanitize discord bot text response, strip out / remove @ symbol, or replace with "@ "
-- Find a way for TurtleBot module commands to be registered specific to a service (Twitch only for instance).
-- Sanitize Discord messages, ensure to strip @everyone @here and potentially other things
+- Refactor StreamHelper for the receiving of commands through the TidalBuoy protocol.
+  - Requires processing the user data that was sent through TidalBuoy
+  - Requires handling responses, global or whisper (TidalBuoy needs to send data back to TurtleBot)
 
 
 # Purpose
