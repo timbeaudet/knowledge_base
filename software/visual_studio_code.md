@@ -51,3 +51,9 @@ Press `CTRL+SHIFT+P` and type `shortcut` to change user shortcuts and use the fo
 ### Change Line Endings
 Bottom right of status bar click on `LF` or `CRLF`, this will bring up (near top) a menu to change.  
 It appears this setting may be per folder.
+
+
+### Some ShortCuts
+
+- Middle-Mouse Button will close the tab without pressing the [x].
+- CTRL+ALT+UP and CTRL+ALT+DOWN arrows will allow multi cursor creation.
