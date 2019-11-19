@@ -63,14 +63,29 @@
 
 ---
 
-## How to use Twitter:
-	1) Grab them in a few words.
-	2) Then tell them what you want them to do.
-	3) Make sure generally the tweet offers value to them.
-	4) Links should go before the #hashtags
+## How to use Twitter
 
-	use hashtags (when they make sense): 
-		#earlyaccess #screenshotsaturday #indiegame #indiedev #gamedev
+- Grab them in a few words.
+- Then tell them what you want them to do.
+- Make sure generally the tweet offers value to them.
+- Links should go before the #hashtags.
+	- use hashtags (when they make sense)
+	- #earlyaccess #screenshotsaturday #indiegame #indiedev #gamedev
+
+## How to use Reddit
+
+- Images (esp gif/motion) and media seem to increase hotness.
+- Tutorials (perhaps more hit miss with lots of words)
+	- Use of gif/image/video showing steps seem to work well.
+- Text articles should be reaching _maximum_ of 1 to 1.5pgs.
+	- Few hits were longer, but definitely shorter is better.
+- Text articles seem to do well if written about the following topics:
+	- Something really bad happened. [optionally add: and I made it good]
+	- Major event that others wish to live. [I quit my job to go indie]
+	- I worked X hours, years etc on whatever. [postmortem like, use numbers, time tracking]
+	- I worked X hours,  or I worked Y years ... game is out
+
+
 
 ## Places to discuss/promote indie games:
 	https://www.reddit.com/r/gamedeals/
