@@ -1,10 +1,11 @@
-# Today is 2019-11-19
+# Today is 2019-11-20
 
 ## Objectives for the day:
 
-- Add an optional 'default' service to ModuleManager so global messages will get sent
-  - This is sort of a hack/work-around for Perch game and other non command responses in StreamHelper.
-- Moving the WebAPI module over to TurtleBot as a Service and passing the commands through TidalBuoy.
+- Get the giveaway / race event to accept racers and work properly.
+- Get the loyalty module working in TurtleBot
+  - Split out the TimIsLateGame to StreamHelper.
+- Stretch goal: Get the monky bird game working again.
 
 # Purpose
 
