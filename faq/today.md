@@ -1,11 +1,9 @@
-# Today is 2019-11-20
+# Today is 2019-11-21
 
 ## Objectives for the day:
 
-- Get the giveaway / race event to accept racers and work properly.
-- Get the loyalty module working in TurtleBot
-  - Split out the TimIsLateGame to StreamHelper.
-- Stretch goal: Get the monky bird game working again.
+- Get the monky bird perch game working again in the overlay / bot.
+- Add a TidalBuoy command to update / notify what modules are turned on/off.
 
 # Purpose
 
