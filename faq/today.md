@@ -1,9 +1,8 @@
-# Today is 2019-11-21
+# Today is 2019-11-22
 
 ## Objectives for the day:
 
-- Get the monky bird perch game working again in the overlay / bot.
-- Add a TidalBuoy command to update / notify what modules are turned on/off.
+- Get !muted added to admin interface / remote controller for displaying mute reasons.
 
 # Purpose
 
