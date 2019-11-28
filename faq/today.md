@@ -1,11 +1,10 @@
-# Today is 2019-11-25
+# Today is 2019-11-28
 
 ## Objectives for the day:
 
-- Update the Key Performance Indicators.
-- Brainstorm marketing ideas for Turbo Boom! and more.
-- Potential: Do some some writing for the email campaign.
-- Potential: Do some some writing for an article.
+- Get warmed up to Turbo Boom! development again.
+- Brainstorm ideas for levels.
+- Start creating some levels.
 
 # Purpose
 
