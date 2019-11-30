@@ -57,3 +57,9 @@ It appears this setting may be per folder.
 
 - Middle-Mouse Button will close the tab without pressing the [x].
 - CTRL+ALT+UP and CTRL+ALT+DOWN arrows will allow multi cursor creation.
+
+## Solutions to some issues.
+
+- Issue: Too many files for filewatcher.
+	- Solution: Add "file.watcherExclude": { "directory/\*\*": true, ... } to settings.json.
+	- Solution: Close some VSCode instances, the watchers appear to be system limited, not app limited.
