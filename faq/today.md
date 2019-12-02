@@ -1,12 +1,11 @@
-# Today is 2019-12-01
+# Today is 2019-12-02
 
 ## Objectives for the day:
 
-- Review of November for Indie Tavern sheet.
-- Write up of personal blog post of Indie Adventure Business (learning focused).
-- Write up of Patreon post of Indie Adventure Business.
-
-- Later in the evening new release of Turbo Boom! with loads of tracks.
+- Update KPI for marketing things.
+- Perhaps some idea generation.
+- Perhaps some idea organization.
+- Working on creating marketing material and presentation for Unreal Florida Competition.
 
 # Purpose
 
