@@ -2,10 +2,11 @@
 
 ## Objectives for the day:
 
-- Update KPI for marketing things.
-- Perhaps some idea generation.
-- Perhaps some idea organization.
-- Working on creating marketing material and presentation for Unreal Florida Competition.
+- Creating marketing material and a presentation for Unreal Florida Competition.
+- Create 4 awesome screenshots.
+- Presentation video that is no-longer than 6 minutes.
+- Gameplay video that is 30-60 seconds. (gameplay footage and sounds)
+- 
 
 # Purpose
 
