@@ -1,12 +1,10 @@
-# Today is 2019-12-04
+# Today is 2019-12-05
 
 ## Objectives for the day:
 
-- Creating marketing material and a presentation for Unreal Florida Competition.
-- Create 4 awesome screenshots.
-- Presentation video that is no-longer than 6 minutes.
-- Gameplay video that is 30-60 seconds. (gameplay footage and sounds)
-- 
+- Post Turbo Boom! gameplay video to reddit to see how they think of it.
+- Dig into nightly build failures a second time, why are these projects still failing.
+- Misc. developments on Turbo Boom! hunting todo's and getting back into it.
 
 # Purpose
 
