@@ -1,9 +1,12 @@
-# Today is 2019-12-06
+# Today is 2019-12-07
 
 ## Objectives for the day:
 
-- Track design and development for some tracks that need effort for prime time.
+- Data backup for the Windows disk of Falcon.
+- Reformatting Falcon to a fresh state on Windows 10.
+- Random art doodles and/or other things on macOS while reformatting.
+- Setting up machine for development after formatting.
 
 # Purpose
 
-- Keep the indie adventure on track and aimed the right what.
+- Hopefully fix the Windows 1903 issues with lockups by performing a reformat.
