@@ -1,12 +1,10 @@
-# Today is 2019-12-08
+# Today is 2019-12-10
 
 ## Objectives for the day:
 
-- Run through some feedback from the 0.3.6 playtest.
-- Update marking key performance indicators.
-- Build a Turbo Boom! download page.
+- Debug the cannon balls, why don't they behave as expected?
 
 
 # Purpose
 
-- Get closer to offering Turbo Boom! download for email campaigns.
+- Get a new obstacle type in Turbo Boom!
