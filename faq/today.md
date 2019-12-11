@@ -1,9 +1,12 @@
-# Today is 2019-12-10
+# Today is 2019-12-11
 
 ## Objectives for the day:
 
-- Debug the cannon balls, why don't they behave as expected?
-
+- Create homing rockets that chase the rally car and explode on contact!
+- Depending on time left
+  - Fix bugs
+  - Brainstorm next game idea
+  - Work on download page website
 
 # Purpose
 
