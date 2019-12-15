@@ -1,13 +1,11 @@
-# Today is 2019-12-12
+# Today is 2019-12-15
 
 ## Objectives for the day:
 
-- Create homing rockets that chase the rally car and explode on contact!
-- Depending on time left
-  - Fix bugs
-  - Brainstorm next game idea
-  - Work on download page website
+- Create a webpage for Turbo Boom alpha downloads.
+- Add stream markers for brb and back etc for StreamHelper.
+- Play around with Turbo Boom! and fix some bugs?
 
 # Purpose
 
-- Get a new obstacle type in Turbo Boom!
+- Prepare a download page for pushing the mailing list harder.
