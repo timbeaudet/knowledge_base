@@ -1,11 +1,11 @@
-# Today is 2019-12-15
+# Today is 2019-12-16
 
 ## Objectives for the day:
 
-- Create a webpage for Turbo Boom alpha downloads.
-- Add stream markers for brb and back etc for StreamHelper.
-- Play around with Turbo Boom! and fix some bugs?
+- Update the key performance indicators for marketing efforts.
+- Writeup new welcome email with draft to point to turboboom alpha builds.
+- Continue working out OKR article, or more email drips.
 
 # Purpose
 
-- Prepare a download page for pushing the mailing list harder.
+- Get prepared for pushing the mailing list harder.
