@@ -1,10 +1,10 @@
-# Today is 2019-12-17
+# Today is 2019-12-19
 
 ## Objectives for the day:
 
-- Work on Rockets, pivot into reloading and firing more rockets.
-- Create levels for Turbo Boom!
+- Reviewing the indie adventure through-out 2019.
+- General planning of 2020 and beyond with goals and stuff.
 
 # Purpose
 
-- Make Turbo Boom! get closer to beta complete.
+- Keep the indie adventure on track, learn from potential traps, and move forward best way possible.
