@@ -1,8 +1,8 @@
-# Today is 2019-12-19
+# Today is 2019-12-20
 
 ## Objectives for the day:
 
-- Reviewing the indie adventure through-out 2019.
+- Continue Reviewing the indie adventure through-out 2019.
 - General planning of 2020 and beyond with goals and stuff.
 
 # Purpose
