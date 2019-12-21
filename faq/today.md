@@ -1,9 +1,8 @@
-# Today is 2019-12-20
+# Today is 2019-12-21
 
 ## Objectives for the day:
 
-- Dig into the Linux night build failures for a few moments.
-- Continue Reviewing the indie adventure through-out 2019.
+- Continue Reviewing the indie adventure from 2018-ish to gather lessons learned.
 - General planning of 2020 and beyond with goals and stuff.
 
 # Purpose
