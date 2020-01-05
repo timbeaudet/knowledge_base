@@ -2,6 +2,9 @@
 
 Formulas are extremely fun, and useful. However sometimes hard to know what to do.
 
+Selecting two (or more cells) will SUM the results in the bottom-right of the window.
+- Can even change to average, minimum, maximum, count etc...
+
 ## Formulas
 
 `importrange(sheet_url, range)`  
