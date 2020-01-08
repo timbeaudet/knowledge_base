@@ -1,4 +1,4 @@
-# Today is 2019-12-22
+# Today is 2020-01-08
 
 ## Objectives for the day:
 
