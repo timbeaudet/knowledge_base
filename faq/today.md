@@ -1,9 +1,13 @@
-# Today is 2020-01-10
+# Today is 2020-01-11
 
 ## Objectives for the day:
 
-- Digging into the cause of massive deadzones for controller? Or what weirdness is happening.
+- Business discussion, real quick.
+- Finish up the controller issues, commit the gamepad deadzone fix, fix keyboard/gamepad curves
+- Level design for Turbo Boom! Get levels made
 
 # Purpose
 
+- Enhance others knowledge of a gamedev business.
+- Make Turbo Boom! easier / better to control.
 - Bringing Turbo Boom! closer to content complete.
