@@ -1,13 +1,11 @@
-# Today is 2020-01-11
+# Today is 2020-01-12
 
 ## Objectives for the day:
 
-- Business discussion, real quick.
-- Finish up the controller issues, commit the gamepad deadzone fix, fix keyboard/gamepad curves
 - Level design for Turbo Boom! Get levels made
+- Create at least one entertaining level with CANNONS.
 
 # Purpose
 
-- Enhance others knowledge of a gamedev business.
-- Make Turbo Boom! easier / better to control.
 - Bringing Turbo Boom! closer to content complete.
+- Use more of the content we have worked hard on created.
