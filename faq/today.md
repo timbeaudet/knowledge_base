@@ -1,11 +1,9 @@
-# Today is 2020-01-12
+# Today is 2020-01-15
 
 ## Objectives for the day:
 
-- Level design for Turbo Boom! Get levels made
-- Create at least one entertaining level with CANNONS.
+- Hunt some critical bugs for Turbo Boom!, Turtle Brains and Internal Combustion Engine.
 
 # Purpose
 
-- Bringing Turbo Boom! closer to content complete.
-- Use more of the content we have worked hard on created.
+- Make things run better, or be smoother to troubleshoot.
