@@ -1,4 +1,4 @@
-# Today is 2020-01-18
+# Today is 2020-01-19
 
 ## Objectives for the day:
 
