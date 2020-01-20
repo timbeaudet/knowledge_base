@@ -1,9 +1,10 @@
-# Today is 2020-01-19
+# Today is 2020-01-20
 
 ## Objectives for the day:
 
-- Creating and polishing more levels for Turbo Boom! to create fun gameplay scenarios!
+- Update Key Performance Indicators
+- Writing some devlog script.
 
 # Purpose
 
-- Making a fun gam
+- Produce awesomeness.
