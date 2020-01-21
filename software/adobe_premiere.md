@@ -33,5 +33,10 @@
 7. Move the crop to cover the mouse.
 8. Return to original timeline for editing.
 
+**Timeline Editing of Clips**
+
+- To cut across all lanes, use SHIFT when clicking the cut tool.
+- `SHIFT+DELETE` will ripple delete the clips, bringing future reel backwards. (if all lanes are selected) 
+
 
 [Premiere Hotkeys](https://helpx.adobe.com/premiere-pro/using/default-keyboard-shortcuts.html)
