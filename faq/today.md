@@ -1,10 +1,9 @@
-# Today is 2020-01-20
+# Today is 2020-01-21
 
 ## Objectives for the day:
 
-- Update Key Performance Indicators
-- Writing some devlog script.
+- Designing and polishing Tracks for Turbo Boom!
 
 # Purpose
 
-- Produce awesomeness.
+- Produce awesomeness to reach the horizontal slice.
