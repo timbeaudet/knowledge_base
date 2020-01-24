@@ -1,8 +1,9 @@
-# Today is 2020-01-21
+# Today is 2020-01-24
 
 ## Objectives for the day:
 
-- Designing and polishing Tracks for Turbo Boom!
+- Create an object to relpace the moving cube (D6).
+- Spice up the other objects: TNT sticks and rocket launchers.
 
 # Purpose
 
