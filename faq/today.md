@@ -1,15 +1,15 @@
-# Today is 2020-01-25
+# Today is 2020-01-26
 
 ## Objectives for the day:
 
-- Spice up the visuals of the TNT sticks.
-- Add some other decals, or fix the ones that are there.
-- Investigate issues with car physics; either slamming to ground or tipping over.
+- Investigate issues with car physics; tipping over while flying.
   - Try adding a soft spring in the air to keep car balanced.
 - Git all that committed and update properly.
-- Bonus: Misc things; level design work, writing an email update, etc.
+- Writing: writing an email update for the mailing list to go live tomorrow.
+- Continue level design for Turbo Boom!
 
 
 # Purpose
 
 - Produce awesomeness to reach the horizontal slice.
+- Send out progress update with value to Turbo Boom! players/email subscribers.
