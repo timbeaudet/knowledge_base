@@ -1,15 +1,14 @@
-# Today is 2020-01-26
+# Today is 2020-01-27
 
 ## Objectives for the day:
 
-- Investigate issues with car physics; tipping over while flying.
-  - Try adding a soft spring in the air to keep car balanced.
-- Git all that committed and update properly.
-- Writing: writing an email update for the mailing list to go live tomorrow.
-- Continue level design for Turbo Boom!
+- Update the key performance indications.
+- Prepare a thumbnail and details for YouTube video to be released.
+- Prepare/post a reddit linky to YouTube video.
+- Take some action screenshots of the game for store pages.
+- Start preparing store pages / information for it.
 
 
 # Purpose
 
-- Produce awesomeness to reach the horizontal slice.
-- Send out progress update with value to Turbo Boom! players/email subscribers.
+- Start getting Turbo Boom! store pages prepared.
