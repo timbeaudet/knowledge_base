@@ -1,14 +1,12 @@
-# Today is 2020-01-27
+# Today is 2020-01-28
 
 ## Objectives for the day:
 
-- Update the key performance indications.
-- Prepare a thumbnail and details for YouTube video to be released.
-- Prepare/post a reddit linky to YouTube video.
-- Take some action screenshots of the game for store pages.
-- Start preparing store pages / information for it.
+- Considered doing the art for UI stuff, decided against it for next build.
+- Get 60 levels completed.
+- Start polishing and collecting time/difficulty for each level.
 
 
 # Purpose
 
-- Start getting Turbo Boom! store pages prepared.
+- Get the Turbo Boom! tracks wrapped up.
