@@ -1,10 +1,8 @@
-# Today is 2020-01-28
+# Today is 2020-01-30
 
 ## Objectives for the day:
 
-- Considered doing the art for UI stuff, decided against it for next build.
-- Get 60 levels completed.
-- Start polishing and collecting time/difficulty for each level.
+- "Wrap Up", polish, aesthetics, naming and collecting time/difficulty for 4 or 5 levels.
 
 
 # Purpose
