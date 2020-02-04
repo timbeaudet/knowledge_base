@@ -14,6 +14,16 @@
 
 - Move an object above/behind things, change layer order with `CTRL+[` or `CTRL+]`
 
+**Hide Safe Zone and Cross Hairs**
+
+Recently updated illustator and it was showing lots of lines getting in my way, perhaps useful in certain scenarios. To toggle those on/off:
+
+1. View > Rulers > Show Video Rulers
+2. Click icon on right side of art board, and deselect
+	- Show Center Mark
+	- Show Cross Hairs
+	- Show Video Safe Areas
+
 ## Techniques
 
 ### Convert Stroke to Object
