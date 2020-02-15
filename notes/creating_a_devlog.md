@@ -4,7 +4,7 @@
 
 - Prior to starting ensure camera and other equipment is fully charged; otherwise expect delays.
 - Ensure the composition is good; fill the scene, don't leave lots of space above the head. 
-- Take the time to setup the camera in manual focus mode
+- Take the time to setup the camera in manual focus mode, turn off auto white balance.
   - This will make jump cuts slightly less obvious from lighting/adjustments.
 
 ## Filming
