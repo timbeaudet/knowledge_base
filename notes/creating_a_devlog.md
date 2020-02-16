@@ -12,3 +12,7 @@
 - When making another attempt at speaking through something, start from the top of a paragraph or sentence.
   - Starting mid-sentence is super noticable and much harder to edit away.
 - If the camera runs out of memory and shuts down; verify the last thing it saved.
+
+## Editing
+
+- Leave space at bottom of a graph or image intended to view while paused to avoid YouTube controls.
