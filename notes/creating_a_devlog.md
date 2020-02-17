@@ -9,6 +9,7 @@
 
 ## Filming
 
+- Just prior to the shoot, check a mirror one last time; smile, get excited, breathe deep.
 - When making another attempt at speaking through something, start from the top of a paragraph or sentence.
   - Starting mid-sentence is super noticable and much harder to edit away.
 - If the camera runs out of memory and shuts down; verify the last thing it saved.
