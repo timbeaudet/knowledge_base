@@ -1,5 +1,4 @@
 # Sim Racing / Game Development Station
-
 - Asus Maximus VIII Hero
 - Intel i7-6700K @ 4.0ghz
 - Corsair H50 Liquid CPU Cooler
@@ -11,7 +10,6 @@
 - SanDisk 512gb SSD
 - EVGA GeForce GTX 980ti 6gb
 - AMD R7 240 2gb
-
 - Obutto Ozone Cockpit
 - Custom monitor stand with:
   - 4 27" BenQ GW2760S Monitors
