@@ -112,6 +112,9 @@
 - To avoid pain when painting use unified colors (header menu in Texture Paint: Brush -> unified colors and such)
 
 
+## Creating a Render
+
+- To position the render camera move your view camera as desired then press `CTRL+ALT+Numpad0`
 
 
 
