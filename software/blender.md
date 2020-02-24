@@ -115,6 +115,7 @@
 ## Creating a Render
 
 - To position the render camera move your view camera as desired then press `CTRL+ALT+Numpad0`
+	- It can help to position using the flying camera which is `SHIFT+~` in Blender 2.8
 
 
 
@@ -158,6 +159,7 @@
 	v is a hotkey to go to vertex paint/to object mode
 
 	shift-f free move (fps) camera can use LEFT-CLICK to set the view and return to edit.
+		in Blender 2.8+ this is now `SHIFT+~`
 	shift-f1 to open/copy an object/something from one blend file into current.
 
 	select, then scale 0 on the Z (or other axis) to create a flat spot)
