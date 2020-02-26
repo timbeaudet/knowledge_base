@@ -10,7 +10,8 @@ Install the following extensions:
 - [Trailing Whitespace Visualizer (Mads Kristensen)](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.TrailingWhitespaceVisualizer)
   - Tools > Options > Trailing Whitespace > Remove whitespace on save: `true`
 - [Editor Guidelines (Paul Harrington)](https://marketplace.visualstudio.com/items?itemName=PaulHarrington.EditorGuidelines)
- - 
+
+After installing the extensions [install the CurrentSettings](https://github.com/timbeaudet/knowledge_base/blob/master/config/visual_studio/CurrentSettings.vssettings), copy into `Documents/Visual Studio 2015/Settings/`
 
 
 ## Other tricks and tips
