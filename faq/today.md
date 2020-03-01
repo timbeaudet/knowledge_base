@@ -1,13 +1,14 @@
-# Today is 2020-02-29
+# Today is 2020-03-01
 
 ## Objectives for the day:
 
-- Continue working on placement and organization of level select and leaderboard screens.
-- Open illustrator to create an icon for the ghost car to be toggled on/off.
-- Create tab control images for Best / Perfect leaderboards.
-- Hopefully wrap up these two screens to move onto Pause and Victory.
+- Reflect on February and what I did, earned, spent and learned.
+- Write up the Patreon post about February reflection.
+- Run Indie Tavern with toasterfuel
+- Do art practice; make random vehicles and racing scenes.
 
 
 # Purpose
 
-- Make Turbo Boom! the best it can be.
+- Ensure the Indie Adventure stays on track?
+- Learn and practice Blender / Illustrator to improve skills.
