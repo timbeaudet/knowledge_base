@@ -116,6 +116,8 @@
 
 - To position the render camera move your view camera as desired then press `CTRL+ALT+Numpad0`
 	- It can help to position using the flying camera which is `SHIFT+~` in Blender 2.8
+	- If you accidentally set your camera to another object, because that is possible, fix it by
+		- Open Scene Properties (a few icons above modifier icon) and choose the camera in Camera slot.
 - If having issues with lights leaking through connected objects try turning on Contact Shadows.
 	- Access this by selecting each light and in the light properties there is a Contact Shadows checkbox.
 
