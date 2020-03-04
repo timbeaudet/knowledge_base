@@ -190,7 +190,8 @@
 	☐ Splitting a curve into multiple segments
 		Select both nodes that should be split, press `w` then `s` to subdivide.
 
-	Select child object first, then parent next and hit ctrl-P to link.
+	Select child object first, then parent next and hit `CTRL+P` to link.
+		To unparent an object, select the child then press `ALT+P`
 
 	☐ `Playing with the 3D Cursor`s
 	alt-home centers the rotation to 3d cursor
