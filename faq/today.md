@@ -1,14 +1,11 @@
-# Today is 2020-03-01
+# Today is 2020-03-05
 
 ## Objectives for the day:
 
-- Reflect on February and what I did, earned, spent and learned.
-- Write up the Patreon post about February reflection.
-- Run Indie Tavern with toasterfuel
-- Do art practice; make random vehicles and racing scenes.
-
+- Determine what is left, at a minimum before game can ship.
+- Potential: Adding a HUD display for the goal times and top 3 leaders.
+- Potential: Add in the comic alerts for Booms.
 
 # Purpose
 
-- Ensure the Indie Adventure stays on track?
-- Learn and practice Blender / Illustrator to improve skills.
+- Ensure Turbo Boom! remains on track and guesstimate actual time left.
