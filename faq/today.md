@@ -1,11 +1,13 @@
-# Today is 2020-03-05
+# Today is 2020-03-06
 
 ## Objectives for the day:
 
-- Determine what is left, at a minimum before game can ship.
-- Potential: Adding a HUD display for the goal times and top 3 leaders.
-- Potential: Add in the comic alerts for Booms.
+- Share the Daily Goal tracker with $1 patrons.
+- Look for some icons for ghost cars (button/icon) and recreate one for Turbo Boom!
+- Look into creating a silhouette or 'holder' for the trophies.
+- Stretch: Create a tab for leaderboard best v perfect.
 
 # Purpose
 
-- Ensure Turbo Boom! remains on track and guesstimate actual time left.
+- Share more with patrons and supportors of adventure.
+- Make the interface for Turbo Boom! that much more complete.
