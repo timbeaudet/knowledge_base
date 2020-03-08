@@ -232,3 +232,10 @@
 			search paint,
 			and enable pallet
 		finally migrate you pallet to the other pallet using the eye dropper in the colour picker.
+		
+	Animation:
+		Good luck!
+		Display the bones on top of the mesh for easier selection by
+			- Select the Armature
+			- Use the Armature menu (human like skeleton icon where modifiers/materials live)
+			- Open Viewport Display and check the box "In Front"
