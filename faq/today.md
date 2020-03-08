@@ -1,17 +1,20 @@
-# Today is 2020-03-07
+# Today is 2020-03-08
 
 ## Objectives for the day:
 
-- Start writing up, or thinking up ideas for the February/March Devlog video
-- Wild and Free 3D modeling
-- DONE Share several raw playtest notes with $5 patrons.
-- DONE Create a tab and nine-slice for leaderboard best v perfect.
-- DONE Find a sheet / source of assets for gamepad/keyboard buttons.
 - Look into creating a silhouette or 'holder' for the trophies.
+- Add the holder and new trophies into the game.
+- Add perfect mode display into the level select screen.
+- Create a better back button using the U shaped back arrow, add control label?
+- Positioning of back button and Go Race button / control labels.
+- Consider level select jump to race on accept, and use Y/space to go into leaderboards;
+  - (or Y/space to go race)
+- Change font color of unselected tab
+
+- Misc. writing and thinking for the February/March Devlog video
 
 # Purpose
 
 - Share more with patrons and supportors of adventure.
 - Make the interface for Turbo Boom! that much more complete.
-- Practice more art
-- Prepare next video
+- Start preparing for the next video
