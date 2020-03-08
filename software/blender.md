@@ -239,3 +239,4 @@
 			- Select the Armature
 			- Use the Armature menu (human like skeleton icon where modifiers/materials live)
 			- Open Viewport Display and check the box "In Front"
+		Jump to start / end of animation with `SHIFT+LEFT` or `SHIFT+RIGHT`
