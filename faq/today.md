@@ -1,11 +1,12 @@
-# Today is 2020-03-08
+# Today is 2020-03-14
 
 ## Objectives for the day:
 
-- Update Key Performance Indicators
-- Finish writing and thinking for the February/March Devlog video
-- Marketing idea generation with what time is left.
+- Turn as many TODOs into TODONEs for Turbo Boom!
+- Shoot the development log video
+- Start editing the development log video on Researching Games.
 
 # Purpose
 
-- Get prepared to shoot the next devlog video
+- Bring Turbo Boom! closer to release.
+- Get the next devlog video into production
