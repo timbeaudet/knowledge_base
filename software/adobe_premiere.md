@@ -38,5 +38,9 @@
 - To cut across all lanes, use SHIFT when clicking the cut tool.
 - `SHIFT+DELETE` will ripple delete the clips, bringing future reel backwards. (if all lanes are selected) 
 
+**Random Tips**
+
+- Use `~` with preview selected to maximize the panel for larger viewing.
+- You can BOX SELECT the keyframes in the effect controls panel, makes easy to move around.
 
 [Premiere Hotkeys](https://helpx.adobe.com/premiere-pro/using/default-keyboard-shortcuts.html)
