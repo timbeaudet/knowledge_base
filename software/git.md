@@ -34,6 +34,7 @@ git config --global alias.lg 'log --oneline --graph'
 git config --global alias.ap 'add --patch'
 git config --global alias.cm 'commit --message'
 git config --global alias.pr 'pull --rebase'
+git config --global alias.prp 'pull --rebase=preserve'
 git config --global alias.st 'status'
 git config --global alias.ss 'stash save'
 ```
@@ -129,6 +130,14 @@ feature/name and master should now match.
 `git log` and find the commit id of the commit BEFORE the one desired.  
 Stash anything left in working directory; otherwise **lose it**  
 `git reset --hard COMMIT_ID`  
+
+**If history was randomly flattened** _(you ran git pull --rebase without preserve (successfully rebased) and done nothing else...)**
+
+`git status`     Ensure the working directory is in a clean state, stash as needed, untracked files are okay.
+`git reset --hard HEAD_ORIG`     Reset head back to where it was before the last rebase command.
+`git pull --rebase=preserve`     This is slow, but preserves the history of railroad tracks.
+
+**If rebase was not successful, just --abort**
 
 Can even create the code edits first:
 	Do code edits, once finished...
