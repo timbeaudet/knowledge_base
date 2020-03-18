@@ -1,12 +1,12 @@
-# Today is 2020-03-14
+# Today is 2020-03-18
 
 ## Objectives for the day:
 
-- Turn as many TODOs into TODONEs for Turbo Boom!
-- Shoot the development log video
-- Start editing the development log video on Researching Games.
+- Learning my git process requires `git --rebase=preserve`
+- Continuing to hunt todos and change them into todones.
+- Find list of things that need to be done to release Turbo Boom!
 
 # Purpose
 
 - Bring Turbo Boom! closer to release.
-- Get the next devlog video into production
+- Understand how much needs to be done before release.
