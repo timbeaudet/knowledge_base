@@ -133,9 +133,9 @@ Stash anything left in working directory; otherwise **lose it**
 
 **If history was randomly flattened** _(you ran git pull --rebase without preserve (successfully rebased) and done nothing else...)**
 
-`git status`     Ensure the working directory is in a clean state, stash as needed, untracked files are okay.
-`git reset --hard HEAD_ORIG`     Reset head back to where it was before the last rebase command.
-`git pull --rebase=preserve`     This is slow, but preserves the history of railroad tracks.
+`git status`     Ensure the working directory is in a clean state, stash as needed, untracked files are okay.  
+`git reset --hard ORIG_HEAD`     Reset head back to where it was before the last rebase command.  
+`git pull --rebase=preserve`     This is slow, but preserves the history of railroad tracks.  
 
 **If rebase was not successful, just --abort**
 
