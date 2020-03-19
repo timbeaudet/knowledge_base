@@ -4,3 +4,5 @@ Presently when running a deploy to development the htaccess and htpasswd from pr
 
 - ssh into `dev/boss_api` and find the .htaccess file.
 - vim into it and change the location of the password file.
+
+_This may not actually be necessary, it may possible for dev to use the path of htpasswd specified by production._
