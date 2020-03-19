@@ -1,12 +1,16 @@
-# Today is 2020-03-18
+# Today is 2020-03-19
 
 ## Objectives for the day:
 
-- Learning my git process requires `git --rebase=preserve`
-- Continuing to hunt todos and change them into todones.
-- Find list of things that need to be done to release Turbo Boom!
+- Web Development with PHP for Leaderboard Admin Page
+- Make a navigational page to go from base admin into Turbo Boom! leaderboard dashboard.
+- Make a radio selection for All Times / Best Ever / Perfect Runs
+- Make a text box, or drop down?, of version numbers
+- Drop down for level selection for that version number
+- WISH: Search by/delete 'all' by name or machine id
+- WISH: Display the number of times/entires per track to see if there is a hard level fall off
 
 # Purpose
 
 - Bring Turbo Boom! closer to release.
-- Understand how much needs to be done before release.
+- Help administrate the leaderboard.
