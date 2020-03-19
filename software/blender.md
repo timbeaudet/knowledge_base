@@ -80,6 +80,21 @@
 
 ## Helpful Workflows
 
+### Creating Tubed Pipes
+
+- Create a curve, `SHIFT+A` Curve > Bezier Curve
+- In the Curve Properties tab, _above Materials_, adjust Bevel Depth/Resolution
+	- Resolution of 0 is 4 sided, 1 is 6, 2 is 8 ...
+- Manipulate the curve as desired, remember you can change the type of a specic handle with `V`
+
+#### When doing it manually with cylinder mesh / already to-meshed tube
+
+- Create circle with the desired radius and position of the curve you want.
+- Set the cursor to center of circle.
+- Loop select the cap-edge of the pipe/cylinder.
+- Use the spin tool to spin.
+- Caveat: This might only work well with global axis?
+
 ### Layout of a track or object
 
 - Start with empty scene, add a plane, enter edit-mode, `A` `delete` (all)
