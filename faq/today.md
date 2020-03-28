@@ -8,6 +8,10 @@
 - Finish adding !shoutout command to trigger the shoutout...
 - Edit the !roll command to roll a d20 if there are no parameters
 
-# Purpose
+## Purpose
 
 - Give some community love back through the Stream Overlay and also better sharing of news.
+
+## Additional
+
+All these objectives have been completed and now Tim is just working on random bits of things here or there with no significant aim.
