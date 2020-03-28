@@ -1,11 +1,13 @@
-# Today is 2020-03-25
+# Today is 2020-03-28
 
 ## Objectives for the day:
 
-- Undoing the changes from Yesterday, allowing the blue tab to just be left alone.
-- Create a 9-slice for the back/race buttons to give the rounded edge.
-- Begin looking into the creation and polish of the in-game pause/victory screen.
+- Remove or Replace all audio content from Stream Helper that has any copyright ties I can't be using.
+- Get the "campaign messages" working again as they have not been.
+- Get the campaign messages to be hot-reloading the file upon changes found.
+- Finish adding !shoutout command to trigger the shoutout...
+- Edit the !roll command to roll a d20 if there are no parameters
 
 # Purpose
 
-- Bring Turbo Boom! closer to release.
+- Give some community love back through the Stream Overlay and also better sharing of news.
