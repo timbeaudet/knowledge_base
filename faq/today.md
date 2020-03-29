@@ -8,3 +8,5 @@ Today Tim will be trying to wrap up the settings screen for Turbo Boom! by getti
 - Ensure the rest of the interface controls remain accessible with the mouse/keyboard/gamepad.
 - Figure out how to deal with the text control with mouse only or gamepad only inputs.
   - This may need to go directly into Turtle Brains?
+
+centered?
