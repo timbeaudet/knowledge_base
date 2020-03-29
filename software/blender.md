@@ -138,6 +138,7 @@
 
 
 ### Unformatted mess:
+	Mirror as a one off, immediately using menus: `Object > Mirror` which is not a modifier.
 	alm-m to merge vertices.
 	'c' to use circle select, to left-click/paint selection (shift to unselect paint area)
 	ctrl-mouse (RMB) to lasso select
@@ -216,7 +217,8 @@
 
 	tab to edit mode
 	grab the bottom edge (or desired rotation point)
-	shift-s cursor to selected
+	`SHIFT+S` cursor to selected
+		in 2.8 you can use `SHIFT+S` then `2` to avoid mouse move/click.
 	period (regular keyboard) to switch 3D cursor pivot   (comma to set back to average)
 	tab to object mode
 	rotate etc
