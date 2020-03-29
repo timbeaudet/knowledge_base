@@ -1,17 +1,10 @@
-# Today is 2020-03-28
+# Today is 2020-03-29
 
 ## Objectives for the day:
 
-- Remove or Replace all audio content from Stream Helper that has any copyright ties I can't be using.
-- Get the "campaign messages" working again as they have not been.
-- Get the campaign messages to be hot-reloading the file upon changes found.
-- Finish adding !shoutout command to trigger the shoutout...
-- Edit the !roll command to roll a d20 if there are no parameters
+Today Tim will be trying to wrap up the settings screen for Turbo Boom! by getting the gamepad and keyboard controls working fully. Big objectives. Visually the screen will stay as it is, which while not the best is functional and gets the job done.
 
-## Purpose
-
-- Give some community love back through the Stream Overlay and also better sharing of news.
-
-## Additional
-
-All these objectives have been completed and now Tim is just working on random bits of things here or there with no significant aim.
+- Make the tab controls work with keyboard and gamepad, they already work with mouse.
+- Ensure the rest of the interface controls remain accessible with the mouse/keyboard/gamepad.
+- Figure out how to deal with the text control with mouse only or gamepad only inputs.
+  - This may need to go directly into Turtle Brains?
