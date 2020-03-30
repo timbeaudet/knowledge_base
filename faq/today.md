@@ -1,10 +1,9 @@
-# Today is 2020-03-29
+# Today is 2020-03-30
 
 ## Objectives for the day:
 
-Today Tim will be trying to wrap up the settings screen for Turbo Boom! by getting the gamepad and keyboard controls working fully. Big objectives. Visually the screen will stay as it is, which while not the best is functional and gets the job done.
+Today Tim has already updated the Key Performance Indicators and twitch follows still significantly lower than normal. Now he will be working on an email update for the mailing list, and brainstorming ideas for "Ask a Developer" series.
 
-- Make the tab controls work with keyboard and gamepad, they already work with mouse.
-- Ensure the rest of the interface controls remain accessible with the mouse/keyboard/gamepad.
-- Figure out how to deal with the text control with mouse only or gamepad only inputs.
-  - This may need to go directly into Turtle Brains?
+- Updated Key Performance Indicators
+- Writing email for mailing list update
+- Brainstorming Ask a Developer Topics
