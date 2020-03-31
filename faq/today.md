@@ -1,9 +1,7 @@
-# Today is 2020-03-30
+# Objectives for Today:
 
-## Objectives for the day:
+Today Tim is exporting the models from the art asset pack into a format usable by his Internal Combustion Engine.
 
-Today Tim has already updated the Key Performance Indicators and twitch follows still significantly lower than normal. Now he will be working on an email update for the mailing list, and brainstorming ideas for "Ask a Developer" series.
-
-- Updated Key Performance Indicators
-- Writing email for mailing list update
-- Brainstorming Ask a Developer Topics
+- Updating Model Viewer to have ImGui and select textures/materials, perhaps exporting them in json.
+- Finding a way to scale all objects appropriately from Blender upon export.
+- Export script for blender to convert ALL obj/fbx files to .msh
