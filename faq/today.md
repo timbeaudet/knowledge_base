@@ -1,7 +1,5 @@
 # Objectives for Today:
 
-Today Tim is starting the top secret project. The full reveal will occur at 7:00am ET, though it will be started right off.
+Earlier Today Tim started the top secret project. https://www.youtube.com/watch?v=OxdgkWX8rZ0
 
-- Pausing Turbo Boom!
-- Making Art for Project
-- Secrets Revealed: https://www.youtube.com/watch?v=OxdgkWX8rZ0
+This evening Tim will begin playtesting Rally Racing games, WRC 7 and potentially V-Rally 4
