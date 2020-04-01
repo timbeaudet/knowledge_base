@@ -4,4 +4,4 @@ Today Tim is starting the top secret project. The full reveal will occur at 7:00
 
 - Pausing Turbo Boom!
 - Making Art for Project
-- Revealing Secrets
+- Secrets Revealed: https://www.youtube.com/watch?v=OxdgkWX8rZ0
