@@ -1,7 +1,7 @@
 # Objectives for Today:
 
-Today Tim is exporting the models from the art asset pack into a format usable by his Internal Combustion Engine.
+Today Tim is starting the top secret project. The full reveal will occur at 7:00am ET, though it will be started right off.
 
-- Updating Model Viewer to have ImGui and select textures/materials, perhaps exporting them in json.
-- Finding a way to scale all objects appropriately from Blender upon export.
-- Export script for blender to convert ALL obj/fbx files to .msh
+- Pausing Turbo Boom!
+- Making Art for Project
+- Revealing Secrets
