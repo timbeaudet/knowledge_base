@@ -1,5 +1,7 @@
-# Objectives for Today:
+# Objectives for Today 2020-04-03:
 
-Earlier Today Tim started the top secret project. https://www.youtube.com/watch?v=OxdgkWX8rZ0
+Today Tim starts his second attempt at creating an Infinite Runner game in Unity, this time hoping to hit the "record" button before doing so.
 
-This evening Tim will begin playtesting Rally Racing games, WRC 7 and potentially V-Rally 4
+- Press the record button on OBS and TimeLapse capture.
+- Create an infinite runner with scrolling backdrop etc.
+- Car to Car contact, display score and reset the game.
