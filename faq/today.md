@@ -1,15 +1,7 @@
-# Objectives for Today 2020-04-06:
+# Objectives for Today 2020-04-07:
 
-- Export stream videos
-- Update Key Performance Indicators
-- Update All Previous Steam Game Informations
-- Collect ALL THE THINGS (Racing Games Released on Steam in March 2020)
-
-## Evening
-
-- Continuing the script for video of "My First Game in Unity"
-- Recording the voice over for video
-- Pushing through a final edit
+- Explore Unity a bit more as a tool
+- Create a race track of some form.
 
 ## NOTICE
 
