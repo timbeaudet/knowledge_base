@@ -1,7 +1,9 @@
 # Objectives for Today 2020-04-07:
 
 - Explore Unity a bit more as a tool
-- Create a race track of some form.
+- Save the "Turbo Boom! Track Segments prefabs" as a Unity package.
+- Create a new project, a simple track and add a racecar.
+- Recreate the Turbo Boom! driving physics
 
 ## NOTICE
 
