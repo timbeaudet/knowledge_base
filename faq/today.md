@@ -1,15 +1,12 @@
-# Objectives for Today 2020-04-08:
+# Objectives for Today 2020-04-09:
 
-- Explore Unity a bit more as a tool
-- Save the "Turbo Boom! Track Segments prefabs" as a Unity package.
-- Create a new project, a simple track and add a racecar.
-- Recreate the Turbo Boom! driving physics
+- Writing the video script for "Everything to know about game jams"
+- If you have a question about game jams, let me know and I will try to answer it in video!
+- Extra: If we finish the script I will do some art on logo concepts.
 
 ## Evening
 
-- Playtesting World Truck Racing and writing a review
-- Playtesting Truck Racer and writing a review
-- If there is time Playtesting Drive86and writing a review
+There is unlikely to be an stream as I will be shooting video footage, or hanging out with Dizzy.
 
 ## NOTICE
 
