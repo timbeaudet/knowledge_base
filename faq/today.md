@@ -2,13 +2,13 @@
 
 ## Morning
 
-- Working on logo concepts for Tyre Bytes logo.
-- Review the devlog script and complete the lacking answer.
+- Working on logo concepts for Tyre Bytes logo
+- Review the devlog script and complete the lacking answer
 - If time - start working on racing art asset pack
 
 ## Evening
 
-- Begin cutting the footage of the development log into a video.
+- Begin cutting the footage of the development log into a video
 
 ## NOTICE
 
