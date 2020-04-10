@@ -1,12 +1,12 @@
-# Objectives for Today 2020-04-09:
+# Objectives for Today 2020-04-10:
 
-- Writing the video script for "Everything to know about game jams"
-- If you have a question about game jams, let me know and I will try to answer it in video!
-- Extra: If we finish the script I will do some art on logo concepts.
+- Working on logo concepts for Tyre Bytes logo.
+- Review the devlog script and completen the lacking answer.
+- If time - start working on racing art asset pack
 
 ## Evening
 
-There is unlikely to be an stream as I will be shooting video footage, or hanging out with Dizzy.
+- Begin cutting the footage of the development log into a video.
 
 ## NOTICE
 
