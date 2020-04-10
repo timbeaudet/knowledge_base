@@ -8,6 +8,7 @@
 
 ## Evening
 
+- Performing shoot for development log on game jams (done)
 - Begin cutting the footage of the development log into a video
 
 ## NOTICE
