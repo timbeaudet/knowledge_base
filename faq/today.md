@@ -1,7 +1,9 @@
 # Objectives for Today 2020-04-10:
 
+## Morning
+
 - Working on logo concepts for Tyre Bytes logo.
-- Review the devlog script and completen the lacking answer.
+- Review the devlog script and complete the lacking answer.
 - If time - start working on racing art asset pack
 
 ## Evening
