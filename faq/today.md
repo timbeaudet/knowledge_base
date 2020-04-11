@@ -3,6 +3,7 @@
 ## Morning
 
 - Finally starting the asset pack for racing games.
+- [Comment on this document](https://docs.google.com/document/d/1TUd0ZWBvNmAhcR83epYfNUgCPq9U0lL2RZicx7zcl9M/edit?usp=sharing) if you have suggestions.
 - Creating and practicing art in Blender.
 
 ## Evening
