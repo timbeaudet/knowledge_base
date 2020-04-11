@@ -1,15 +1,13 @@
-# Objectives for Today 2020-04-10:
+# Objectives for Today 2020-04-11:
 
 ## Morning
 
-- Working on logo concepts for Tyre Bytes logo
-- Review the devlog script and complete the lacking answer
-- If time - start working on racing art asset pack
+- Finally starting the asset pack for racing games.
+- Creating and practicing art in Blender.
 
 ## Evening
 
-- Performing shoot for development log on game jams (done)
-- Begin cutting the footage of the development log into a video
+- Second pass over of the Development Log for audio consistency and question overlays.
 
 ## NOTICE
 
