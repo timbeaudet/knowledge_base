@@ -1,14 +1,14 @@
-# Objectives for Today 2020-04-11:
+# Objectives for Today 2020-04-12:
 
 ## Morning
 
-- Finally starting the asset pack for racing games.
-- [Comment on this document](https://docs.google.com/document/d/1TUd0ZWBvNmAhcR83epYfNUgCPq9U0lL2RZicx7zcl9M/edit?usp=sharing) if you have suggestions.
-- Creating and practicing art in Blender.
+- Recap of last week in the stream/indie adventure, talk a bit about next week.
+- Potentially: Release the game jam video to public.
+- Potentially: A new stream game for the overlay, and/or updates to overlay.
 
 ## Evening
 
-- Second pass over of the Development Log for audio consistency and question overlays.
+- There will be no evening stream tonight.
 
 ## NOTICE
 
