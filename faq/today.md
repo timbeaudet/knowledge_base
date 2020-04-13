@@ -1,10 +1,13 @@
-# Objectives for Today 2020-04-12:
+# Objectives for Today 2020-04-13:
 
 ## Morning
 
-- Recap of last week in the stream/indie adventure, talk a bit about next week.
-- Potentially: Release the game jam video to public.
-- Potentially: A new stream game for the overlay, and/or updates to overlay.
+- Update Key Performance Indicators
+- Export Streams to YouTube
+- Check Close Caption Script on GameJam video.
+- Double Check Title and Description (time links?)
+- Reddit post, devto post, twitter, ludumdare.com ldjam.com
+- With time left, find places to share Turbo Boom! for fans of racing games.
 
 ## Evening
 
