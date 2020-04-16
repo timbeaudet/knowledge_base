@@ -2,16 +2,13 @@
 
 ## Morning
 
-- Update Key Performance Indicators
-- Export Streams to YouTube
-- Check Close Caption Script on GameJam video.
-- Double Check Title and Description (time links?)
-- Reddit post, devto post, twitter, ludumdare.com ldjam.com
-- With time left, find places to share Turbo Boom! for fans of racing games.
+- Try to boost the Jam Video signal one more time, maybe it can still work out?
+- Open Unity and continue 'porting' Turbo Boom! physics, and adding some fun stuff to mess around.
+- Keep messing around in Unity.
 
 ## Evening
 
-- There will be no evening stream tonight.
+- An evening stream is very unlikely tonight.
 
 ## NOTICE
 
