@@ -8,7 +8,8 @@
 
 ## Evening
 
-- An evening stream is very unlikely tonight.
+- Playing a little bit Unity to get the track resetting.
+- Creating some racecars for the racing kit asset pack.
 
 ## NOTICE
 
