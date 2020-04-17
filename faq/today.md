@@ -1,15 +1,15 @@
-# Objectives for Today 2020-04-16:
+# Objectives for Today 2020-04-17:
 
 ## Morning
 
-- Try to boost the Jam Video signal one more time, maybe it can still work out?
-- Open Unity and continue 'porting' Turbo Boom! physics, and adding some fun stuff to mess around.
-- Keep messing around in Unity.
+- Failed because twitch servers were down. Spend 45 minutes trying.
 
 ## Evening
 
-- Playing a little bit Unity to get the track resetting.
-- Creating some racecars for the racing kit asset pack.
+- Preshow before Ludum Dare Theme announcment;
+  - Focus on Overlay improvements, perhaps setup a goal for VR??, perhaps practice in Unity
+- At 9pm ET Ludum Dare 46 Theme is announced!!!
+- Begin thinking of tiny ideas to fit the theme, that wants to be created in a weekend!
 
 ## NOTICE
 
