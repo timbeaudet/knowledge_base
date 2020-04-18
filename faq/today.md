@@ -1,15 +1,16 @@
-# Objectives for Today 2020-04-17:
+# Objectives for Today 2020-04-18:
 
 ## Morning
 
-- Failed because twitch servers were down. Spend 45 minutes trying.
+- LudumDare 46 - A racing game where you must not break the eggs!
+- Doing as much as possible for the game
+- Car/Driving Physics
+- Egg Breaking (game lose)
+- More more more: go go go
 
 ## Evening
 
-- Preshow before Ludum Dare Theme announcment;
-  - Focus on Overlay improvements, perhaps setup a goal for VR??, perhaps practice in Unity
-- At 9pm ET Ludum Dare 46 Theme is announced!!!
-- Begin thinking of tiny ideas to fit the theme, that wants to be created in a weekend!
+- More LudumDare 46, stuff for game!
 
 ## NOTICE
 
