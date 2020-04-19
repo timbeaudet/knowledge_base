@@ -1,11 +1,16 @@
 # Objectives for Today 2020-04-18:
 
-## Morning
+## Morning / All Day
 
 - LudumDare 46 - A racing game where you must not break the eggs!
 - Doing as much as possible for the game
-- Car/Driving Physics
 - Egg Breaking (game lose)
+- Model for broken egg
+- Timing and Scoring for Lap Times
+- Model some environment bits?
+- Reset screen
+- Title screen?
+- Audio?
 - More more more: go go go
 
 ## Evening
