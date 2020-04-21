@@ -1,10 +1,9 @@
-# Objectives for Today 2020-04-20:
+# Objectives for Today 2020-04-21:
 
-## Morning / All Day
+## Morning
 
-- Upload streams to YouTube
-- Update Key Performance Indicators
-- Create Promotional Trailer/Content for Eggcelerate!
+- Writing up a post-mortem review of the weekend creating Eggcelerate!
+- Spending some time considering the path for next two weeks: Eggcelerate! or Track Tool
 
 ## Evening
 
