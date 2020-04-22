@@ -1,13 +1,12 @@
-# Objectives for Today 2020-04-21:
+# Objectives for Today 2020-04-22:
 
 ## Morning
 
-- Writing up a post-mortem review of the weekend creating Eggcelerate!
-- Spending some time considering the path for next two weeks: Eggcelerate! or Track Tool
+- Exploring new track segments and wild ideas for Eggcelerate!
 
 ## Evening
 
-- **Unlikely** to have a stream; playing game jam games if there is one.
+- Playing LudumDare games by first come first serve, with subs getting advantage.
 
 ## NOTICE
 
