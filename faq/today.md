@@ -1,13 +1,15 @@
-# Objectives for Today 2020-04-23:
+# Objectives for Today 2020-04-24:
 
 ## Morning
 
-- Create a Wind Mill obstacle the player must drive through with some timing elements.
-- Add a new gear to the car so it can reverse.
+- Start a timelapse to capture fun art creations.
+- Load up all the synty packs into exploration scene for .... exploring.
+- Art art art; building track segments and props for Eggcelerate.
 
 ## Evening
 
-- Playing LudumDare 10 to 15 (max) games by first come first serve, with subs getting advantage.
+- POTENTIALLY: Playing LudumDare 5 to 10 (max) games by first come first serve, with subs getting advantage.
+- MORE LIKELY: Building Eggcelerate! art and tracks and fun! 
 
 ## NOTICE
 
