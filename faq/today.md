@@ -1,15 +1,20 @@
-# Objectives for Today 2020-04-24:
+# Objectives for Today 2020-04-25:
 
 ## Morning
 
-- Start a timelapse to capture fun art creations.
-- Load up all the synty packs into exploration scene for .... exploring.
-- Art art art; building track segments and props for Eggcelerate.
+- Research Reddit to see if it is a good place to post LD post-mortem.
+- Create and Post LD post mortem.
+- Create a copy of Unity project and explore the concept of tracks in seperate scenes or not.
+- Cleanup all the track segment prefabs to ensure their scaling is 1,1,1.
+- Reset wheel velocity to 0 when resetting the car.
+- Fix the camera so the car is closer to the bottom of the screen.
+- Create a screen for track selection and show game progress.
+- Save and Load the unlock status of the tracks.
+- Create the first achievements?
 
 ## Evening
 
-- POTENTIALLY: Playing LudumDare 5 to 10 (max) games by first come first serve, with subs getting advantage.
-- MORE LIKELY: Building Eggcelerate! art and tracks and fun! 
+- Building Eggcelerate! tracks and fun! 
 
 ## NOTICE
 
