@@ -1,20 +1,15 @@
-# Objectives for Today 2020-04-25:
+# Objectives for Today 2020-04-27:
 
 ## Morning
 
-- Research Reddit to see if it is a good place to post LD post-mortem.
-- Create and Post LD post mortem.
-- Create a copy of Unity project and explore the concept of tracks in seperate scenes or not.
-- Cleanup all the track segment prefabs to ensure their scaling is 1,1,1.
-- Reset wheel velocity to 0 when resetting the car.
-- Fix the camera so the car is closer to the bottom of the screen.
-- Create a screen for track selection and show game progress.
-- Save and Load the unlock status of the tracks.
-- Create the first achievements?
+- Exporting VODs to YouTube!
+- Update the Key Performance Indicators
+- Writing up some store page content for Eggcelerate!
+- Creating / Starting to Create the itch.io page.
 
 ## Evening
 
-- Building Eggcelerate! tracks and fun! 
+- Unlikely to be a stream.
 
 ## NOTICE
 
