@@ -1,15 +1,12 @@
-# Objectives for Today 2020-04-27:
+# Objectives for Today 2020-04-28:
 
 ## Morning
 
-- Exporting VODs to YouTube!
-- Update the Key Performance Indicators
-- Writing up some store page content for Eggcelerate!
-- Creating / Starting to Create the itch.io page.
+- Random todos and tasks for Eggcelerate!
 
 ## Evening
 
-- Unlikely to be a stream.
+- Likely to be a stream working on Eggcelerate! (Slight potentialy for to start later than 6pm)
 
 ## NOTICE
 
