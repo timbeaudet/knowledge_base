@@ -1,12 +1,16 @@
-# Objectives for Today 2020-04-28:
+# Objectives for Today 2020-04-29:
 
 ## Morning
 
-- Random todos and tasks for Eggcelerate!
+- Start an achievements system for aliske to be happy with Eggcelerate!
+- Create a manager/system that can handle if achievements are complete or not.
+- Save and Load the completed achievements and progress on incomplete ones.
+- Display the achievements in the achievements screen with some form of enabled/disabled showing.
+- Ensure some achievements are not listed in the list (hidden)
 
 ## Evening
 
-- Likely to be a stream working on Eggcelerate! (Slight potentialy for to start later than 6pm)
+- Start adding a way to detect more achievements.
 
 ## NOTICE
 
