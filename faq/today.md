@@ -2,15 +2,15 @@
 
 ## Morning
 
-- Start an achievements system for aliske to be happy with Eggcelerate!
-- Create a manager/system that can handle if achievements are complete or not.
-- Save and Load the completed achievements and progress on incomplete ones.
-- Display the achievements in the achievements screen with some form of enabled/disabled showing.
-- Ensure some achievements are not listed in the list (hidden)
+- Finish ensuring that an achievement can be hidden until completed.
+- Add an in-game display when an achievement is given, hopefully handle multiple achievements nicely.
+- Start detecting more achievements, figure out when egg is in bowl or not.
+- Bounce the egg off the hood of the car.
+- Random todo's that are somewhat related to this work.
 
 ## Evening
 
-- Start adding a way to detect more achievements.
+- Creating and adding more art content to use for level design and spice.
 
 ## NOTICE
 
