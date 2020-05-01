@@ -1,18 +1,22 @@
-# Objectives for Today 2020-04-30:
+# Objectives for Today 2020-05-01:
 
 ## Morning
 
-- Finish ensuring that an achievement can be hidden until completed.
-- Add an in-game display when an achievement is given, hopefully handle multiple achievements nicely.
-- Start detecting more achievements, figure out when egg is in bowl or not.
-- Bounce the egg off the hood of the car.
-- Random todo's that are somewhat related to this work.
+- Continuing to art for Eggcelerate!
+- Creating a couple trees
+- Creating a couple bushes
+- Creating a checkpoint flag
+- Misc. Cleanup and other things.
 
 ## Evening
 
-- Creating and adding more art content to use for level design and spice.
+- Preparing some content for Twitter / Reddit etc for the 24 hour stream.
+- Write up of Indie Tavern findings and learnings of April 2020
+- Prepare Indie Tavern video and patreon blog post.
 
 ## NOTICE
+
+Unity Month has been extended for the first weekend of May as I am pushing EXTREMELY hard on Eggcelerate! to bring to market.
 
 For the month of April Tim is experimenting with Unity and also focusing more on art and content. For more information [checkout the top secret project announcement video](https://www.youtube.com/embed/OxdgkWX8rZ0).
 
