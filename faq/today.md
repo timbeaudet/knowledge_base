@@ -1,18 +1,32 @@
-# Objectives for Today 2020-05-01:
+# Objectives for Today 2020-05-02:
 
-## Morning
+## 24 HOURS OF NONSTOP GAMEDEV
 
-- Continuing to art for Eggcelerate!
-- Creating a couple trees
-- Creating a couple bushes
-- Creating a checkpoint flag
-- Misc. Cleanup and other things.
-
-## Evening
-
-- Preparing some content for Twitter / Reddit etc for the 24 hour stream.
-- Write up of Indie Tavern findings and learnings of April 2020
-- Prepare Indie Tavern video and patreon blog post.
+- Try implementing laps again and see how I feel about the Unlock Notification thing.
+- Lose game reset automatically (remove the reset screen entirely)
+- Anti-cut checkpoints with automatic reset when player cuts the track
+  - Try to design tracks with fences and such so noob players don't fall into the traps.
+- Setup all the prefabs for procedural randomized pebbles and flowers
+  - Dirt roads
+  - Grass terrains
+  - Fences around the corners to just auto place corner with fence
+- Fix camera by using the velocity of the car instead.
+- Detecting a lot more achievements
+  - Egg throwing distance
+  - Egg catching
+- Fix up the User Interface to match whether or not lapping/point-to-point is used
+  - Remove laps, or whatever
+- Victory screen work??? How will this work with Laps?
+- Make levels
+- Make more levels
+- Make more more levels
+    
+### Unlikely to Get Done but if there is time
+- Egg zoom camera with slow motion
+- Checkpoints showing a split time to the player for feedback about progress
+- Level select with up and down selection for keyboard/gamepad
+- Wobble the buttons on mouse over or focus change with keyboard/gamepad
+- Achievements screen with controller support
 
 ## NOTICE
 
