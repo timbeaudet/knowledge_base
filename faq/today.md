@@ -1,11 +1,8 @@
-# Objectives for Today 2020-05-05:
+# Objectives for Today 2020-05-06:
 
-## Winging It
+## Marketing Eggcelerate!
 
-- Fix issue with triggers in that one level.
-- Fix issue with game playing while on achievements screen.
-- Finish up track 6 and ensure it is completeable.
+- Upload yesterdays builds before stream.
 - Create a feature list for the itch.io page.
-- Other market content
-
-- Prepare builds and upload post stream.
+- Create some gifs and collect some action shots.
+- Consider implementing a control recorder to capture different view points!
