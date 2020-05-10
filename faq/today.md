@@ -1,6 +1,8 @@
-# Objectives for Today 2020-05-09:
+# Objectives for Today 2020-05-10:
 
-## Eggcelerate Tracks!
+## Eggcelerate Trailer and Media Content!
 
-- Creating a track featuring wind-mills and a few other things.
-- Finalizing Eggcelerate! no more development after today.
+- Spicing up some text for store page.
+- Collecting screenshots for store page and tweets etc.
+- Creating a trailer video for Eggcelerate!
+- Creating additional media content for posting on social places.
