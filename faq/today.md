@@ -1,8 +1,11 @@
-# Objectives for Today 2020-05-10:
+# Objectives for Today 2020-05-11:
 
-## Eggcelerate Trailer and Media Content!
+## Eggcelerate Release and Social Media Content!
 
-- Spicing up some text for store page.
-- Collecting screenshots for store page and tweets etc.
-- Creating a trailer video for Eggcelerate!
-- Creating additional media content for posting on social places.
+- Writing up the email list update for release of Eggcelerate!
+- Posting storepage / trailer to r/marketingmonday stuff for critqiue
+  - Mention trailer may be as-is, but store page may get spiced up.
+- Post on itch.io release pages.
+- Post on r/indiegames or somewhere the trailer/store page etc.
+- Post more....
+- Share more ...
