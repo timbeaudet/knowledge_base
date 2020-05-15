@@ -1,6 +1,5 @@
-# Objectives for Today 2020-05-13:
+# Objectives for Today 2020-05-15:
 
-- Reviewing results of LudumDare 46!
-- Writing the post-mortem review for Eggcelerate! as a whole project.
-- Writing the script for the development log video about Using Unity.
-
+- Create the Tyre Bytes logo package and have that ready to use whenever.
+- Start thinking and roughing out ideas for Tyre Bytes "social media" banner.
+- Planning of and writing thoughts on multiple upcoming video productions.
