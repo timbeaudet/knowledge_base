@@ -1,5 +1,5 @@
-# Objectives for Today 2020-05-15:
+# Objectives for Today 2020-05-16:
 
-- Create the Tyre Bytes logo package and have that ready to use whenever.
-- Start thinking and roughing out ideas for Tyre Bytes "social media" banner.
-- Planning of and writing thoughts on multiple upcoming video productions.
+- Writing the development log video script.
+- Writing the Eggcelerate! v1 post-mortem article/script.
+- Something something, maybe a nap.
