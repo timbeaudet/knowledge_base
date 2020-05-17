@@ -20,6 +20,8 @@
 - When making another attempt at speaking through something, start from the top of a paragraph or sentence.
   - Starting mid-sentence is super noticable and much harder to edit away.
 - If the camera runs out of memory and shuts down; verify the last thing it saved.
+- Try reducing the length of pause between sentences; at least slightly.
+  - This still needs to feel natural, but could be a little faster than how I read/continue.
 
 ## Editing
 
