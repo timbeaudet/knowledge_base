@@ -1,10 +1,7 @@
 # Objectives for Today 2020-05-18:
 
-- Uploading streams to YouTube.
-- Update Key Performance Indicators
-- Final watch of Devlog: Using Unity
-- Uploading Devlog: Using Unity to YouTube
-- Create a Title for DevLog
-- Create a Thumbnail for DevLog
-- Post DevLog on Twitter, Reddit and consider dev.to
-- Update some of the Eggcelerate! features / description.
+- Finish catching up on social media commenting.
+- Write up some documentation on how to setup Turtle Bot and Stream Helper.
+- Figure out twitch api changes to get followers again (helix requires oatch now)
+- Create something fun / better for an itch.io purchase event.
+- Random doings in Stream Helper
