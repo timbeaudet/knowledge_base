@@ -53,7 +53,7 @@ Unformatted below.
 ## Converting an SVN repository to GIT
 		echo "timb = Tim Beaudet <timbeaudet@yahoo.com>" > users.txt
 			> or any other users that are in both old/new systems.
-		git svn clone -A "users.txt" path/to/svn/repo/ ./new_git_repo_folder
+		git svn clone -A "users.txt" www.url.to/svn/repo/ ./new_git_repo_folder
 		
 		cd into the new directory
 		git remote add origin <repo ssh URL>
