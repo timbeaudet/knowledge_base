@@ -1,6 +1,7 @@
-# Objectives for Today 2020-05-24:
+# Objectives for Today 2020-05-26:
 
-- Catch up a bit and get upto speed with indie developments.
-- Export streams to youtubes
-- Update the key performance indicators
-- Finish up the post-mortem for Eggcelerate!
+- Trying to dig into why Windows auto build is not running.
+- Move timbeaudet.com website from svn into gitea.
+- Move timbeaudet.com stuff from its location into /public/
+- Jump back into Turbo Boom! to get things moving forward.
+- Get a ghost file compressed from game and uncompressed on server (php)
