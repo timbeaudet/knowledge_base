@@ -1,4 +1,5 @@
-# Objectives for Today 2020-05-27:
+# Objectives for Today 2020-05-29:
 
-- Trying to dig into why Windows auto build is not running.
-- Get a ghost file compressed from game and uncompressed on server (php)
+- Sleeping while sitting in front of computer, slow wake up day.
+- Analyzing Social Media banners of other racing game companies for ideas and thoughts.
+- Perhaps starting to layout the banner for Tyre Bytes.
