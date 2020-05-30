@@ -1,5 +1,6 @@
-# Objectives for Today 2020-05-29:
+# Objectives for Today 2020-05-30:
 
-- Sleeping while sitting in front of computer, slow wake up day.
-- Analyzing Social Media banners of other racing game companies for ideas and thoughts.
-- Perhaps starting to layout the banner for Tyre Bytes.
+- Installing PHPUnit on hippo
+- Getting a simple PHPUnit test working on one of the php functions/files we have created.
+- Give Turbo Boom! a slow play through with player eyeballs and write down all tasks to finish.
+- Do some level design, add some decoration and islands 
