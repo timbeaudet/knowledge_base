@@ -33,6 +33,8 @@
 - Use screenshots of the SAME size.
 - Ensure the screenshot order shows the juiciest shots first
 - Add tags. LOADS of tags. Use official tags whe possible. Find similar games and see the tags they use for ideas.
+- Make sure to use a spellchecker for the text material posted.
+- Read it outloud a few times and try finding any oddities in posted text.
 
 ### Do if release Early Access:
 - Put WIP / EA / In Development etc in the screenshots / video. (top banner/corner flag etc)
