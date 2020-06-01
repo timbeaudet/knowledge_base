@@ -49,6 +49,7 @@
 
 ### Do not
 - Make trailers with zero (0) gameplay footage.
+- Make videos with no music or audio, this screams low-value.
 - Reference other games; "like PUBG with wands"
 - Lie about your content or feature set.
 - Forget to put the game title, in any game/trailer footage.
