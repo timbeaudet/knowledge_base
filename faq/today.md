@@ -1,5 +1,4 @@
-# Objectives for Today 2020-06-01:
+# Objectives for Today 2020-06-02:
 
-- Upload the streams to YouTube
-- Update the Key Performance Indicators
-- Research the games on Steam that were released in May 2020.
+- Announcing what happens on Tuesdays in Tim Beaudet's Indie Adventure
+- Doing that.
