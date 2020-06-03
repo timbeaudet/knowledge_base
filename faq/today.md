@@ -1,4 +1,3 @@
-# Objectives for Today 2020-06-02:
+# Objectives for Today 2020-06-03:
 
-- Announcing what happens on Tuesdays in Tim Beaudet's Indie Adventure
-- Doing that.
+- Placing some islands, doing some stuff in Turbo Boom!
