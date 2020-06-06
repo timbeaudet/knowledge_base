@@ -25,3 +25,5 @@ In the properties for the nightly_build task make the following changes:
 * Stop the task if it runs longer than 4 hours
 
 > Note: To edit the task (in Windows 10) open `Task Scheduler` and click on `Task Schedule Library` this contained the `nightly_build` task for me and it wasn't obvious I needed to click on it when I first searched through every folder of Microsoft.
+
+> Note2: It is possible that the system must restart for these changes to take effect. I was trying to get it to work for a couple weeks and then started working after an unexpected system reboot. Potentially that put Windows into gear with automatic tasks, though there was no hint or reason to expect this.
