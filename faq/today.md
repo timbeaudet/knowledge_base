@@ -1,5 +1,7 @@
-# Objectives for Today 2020-06-05:
+# Objectives for Today 2020-06-06:
 
-- Adding a box select tool to Track Builder
-- Building more props for tropical islands
-- Placing more tropical islands.
+- Get an "Unsaved Work" warning / prompt in Track Builder.
+- CTRL-N to create new file in Track Builder.
+- Consider: Adding cool grid.
+- F to focus the camera on an object / selected objects.
+- Placing more tropical islands in Turbo Boom!
