@@ -1,7 +1,5 @@
-# Objectives for Today 2020-06-06:
+# Objectives for Today 2020-06-07:
 
-- Get an "Unsaved Work" warning / prompt in Track Builder.
-- CTRL-N to create new file in Track Builder.
-- Consider: Adding cool grid.
-- F to focus the camera on an object / selected objects.
 - Placing more tropical islands in Turbo Boom!
+- Reducing the count of tasks for Turbo Boom! release.
+- Business Review and Indie Tavern Talk Show @9am ET
