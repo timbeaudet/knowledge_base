@@ -1,6 +1,6 @@
-# Objectives for Today 2020-06-07:
+# Objectives for Today 2020-06-08:
 
-- Placing more tropical islands in Turbo Boom!
-- Reducing the count of tasks for Turbo Boom! release.
-- Business Review and Indie Tavern Talk Show @9am ET
-- Post the May review on Patreon
+- Updating the Key Performance Indicators
+- Export the twitch streams to YouTube
+- Look into updating the Pit Lane Reports
+- Start writing a script for video log.
