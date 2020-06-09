@@ -1,6 +1,4 @@
 # Objectives for Today 2020-06-08:
 
-- Updating the Key Performance Indicators
-- Export the twitch streams to YouTube
-- Look into updating the Pit Lane Reports
-- Start writing a script for video log.
+- Fix Nightly Build failures on Windows, 3 projects are failing.
+- Dive into the Turbo Boom! todo list and knock out as many low-hanging ones as possible, or a few big ones.
