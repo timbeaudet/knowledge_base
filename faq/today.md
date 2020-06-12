@@ -1,4 +1,5 @@
-# Objectives for Today 2020-06-11:
+# Objectives for Today 2020-06-12:
 
-- Digging into all the requirements for Internal Combustion Engine to reset context.
-- Starting to fix either Mesh or Shaders by reloading their data as needed.
+- Dig into nightly build area failures (TurtleBrains API breaking change)
+- Create a game sold banner for StreamHelper
+- Add more islands to Turbo Boom!
