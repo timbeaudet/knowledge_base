@@ -1,5 +1,6 @@
-# Objectives for Today 2020-06-12:
+# Objectives for Today 2020-06-13:
 
-- Dig into nightly build area failures (TurtleBrains API breaking change)
-- Create a game sold banner for StreamHelper
-- Add more islands to Turbo Boom!
+- Dig deeper into nightly build area failure (TurtleBrains API breaking change)
+- Brainstorm the outline needed for the video.
+- Write the script for the video.
+- Maybe shoot the video.
