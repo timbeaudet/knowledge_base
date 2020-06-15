@@ -1,4 +1,4 @@
-# Objectives for Today 2020-06-14:
+# Objectives for Today 2020-06-15:
 
 - Collect some b-roll footage from Turbo Boom!
 - Find and create a thumbnail for the video from one of the games
