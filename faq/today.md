@@ -1,8 +1,6 @@
-# Objectives for Today 2020-06-15:
+# Objectives for Today 2020-06-16:
 
-- Collect some b-roll footage from Turbo Boom!
-- Find and create a thumbnail for the video from one of the games
-- Brainstorm YouTube title some more
-- Write up quick description for video
-- Add the broll and other snippits in edit process.
-- Upload the video, start at least 1 hr before.
+- Looking through the task lists and killing as many todo's as possible.
+- tyrebytes.com does not redirect http to https
+- Look into multithreaded compiling in VS2015, write down the reason it fails if we can't get it working.
+- and many more
