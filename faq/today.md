@@ -1,3 +1,3 @@
-# Objectives for Today 2020-06-17:
+# Objectives for Today 2020-06-18:
 
-- Placing islands in Turbo Boom!
+- Attempting to fix context swapping with ICE particles and billboards.
