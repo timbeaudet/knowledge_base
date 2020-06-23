@@ -1,6 +1,5 @@
-# Objectives for Today 2020-06-22:
+# Objectives for Today 2020-06-23:
 
-- Uploading Streams to YouTube for archiving
-- Updating Key Performance Indicators
-- Creating a post for Alakajam (unranked) for Cutscene Editor
-- Something something marketing Monday.
+- Try changing color key on StreamHelper to be magenta and fix 'holes'
+- Load the cutscene format into the Editor.
+- Start playing the ImGui time sequencer to see how it might fit our needs.
