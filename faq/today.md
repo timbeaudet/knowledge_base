@@ -1,5 +1,5 @@
-# Objectives for Today 2020-06-23:
+# Objectives for Today 2020-06-24:
 
-- Try changing color key on StreamHelper to be magenta and fix 'holes'
-- Load the cutscene format into the Editor.
-- Start playing the ImGui time sequencer to see how it might fit our needs.
+- Try ripping apart the ImGuizmo time sequencer to bend it to my will.
+
+# Race night start 4:30-5:00pm ET! 4 races!!!
