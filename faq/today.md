@@ -1,3 +1,4 @@
-# Objectives for Today 2020-06-25:
+# Objectives for Today 2020-06-26:
 
-- Try hacking Cutscene Editor to add some form of support of editing keyframes.
+- Finish the Cutscene Editor iteration with loading and setting of other properties.
+- Test out the editor, and begin to plan out the Turbo Boom! credits scene.
