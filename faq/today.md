@@ -1,4 +1,6 @@
-# Objectives for Today 2020-06-26:
+# Objectives for Today 2020-06-27:
 
-- Finish the Cutscene Editor iteration with loading and setting of other properties.
-- Test out the editor, and begin to plan out the Turbo Boom! credits scene.
+- Creating the credits cutscene for Turbo Boom!
+- Creating cutouts of some of the obstacles and car.
+- Creating some overlay items for headers and fun.
+- Explosions?
