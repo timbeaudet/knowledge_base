@@ -1,6 +1,4 @@
-# Objectives for Today 2020-06-27:
+# Objectives for Today 2020-06-28:
 
-- Creating the credits cutscene for Turbo Boom!
-- Creating cutouts of some of the obstacles and car.
-- Creating some overlay items for headers and fun.
-- Explosions?
+- Have some fun with Stream Helper and Stream Overlay work.
+- Figure out the state of Turbo Boom! (again) see what needs to be done.
