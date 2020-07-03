@@ -1,6 +1,6 @@
-# Objectives for Today 2020-07-02:
+# Objectives for Today 2020-07-03:
 
-- Writing up the work order for sound guy to finish the sound effects for the game.
-- Writing up a potential work order for UI/UX designer to make Turbo Boom! UI pop.
-  - This greatly depends on the price they would charge, but the work-order allows getting the estimates.
-- Maybe more?
+- Fix credits scene by giving it the wide-screen bars in non 16:9 aspects.
+- Finish placing islands in Turbo Boom! levels.
+- Begin ensuring the tnt crates are placed well and look good.
+- Make the tnt crates use boxes instead of cylinders for bounding volumes.
