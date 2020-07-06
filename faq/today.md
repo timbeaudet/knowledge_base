@@ -1,7 +1,6 @@
-# Objectives for Today 2020-07-05:
+# Objectives for Today 2020-07-06:
 
-- Business review of June.
-- Writeup of review of Patrons.
-- Indie Tavern with toasterfuel
-- Shooting Ask a Developer practice
-
+- Updating the Key Performance Indicators for Tyre Bytes.
+- Uploading twitch streams to YouTube.
+- Come up with and post a Weekly Topic for Discord.
+- Market Research of all Racing Games Released on Steam in June.
