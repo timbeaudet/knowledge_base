@@ -63,6 +63,7 @@
 - Attempt to make your trailer in less than 3 hours.
 - Use a huge image for Engine Logo, and/or include a bunch of engine tech/features.
 - Use screenshots of varying size.
+- Use a screenshot very similar to another screenshot already in use.
 
 ---
 
