@@ -1,6 +1,5 @@
-# Objectives for Today 2020-07-06:
+# Objectives for Today 2020-07-07:
 
-- Updating the Key Performance Indicators for Tyre Bytes.
-- Uploading twitch streams to YouTube.
-- Come up with and post a Weekly Topic for Discord.
-- Market Research of all Racing Games Released on Steam in June.
+- Sift through the Turbo Boom! MUST SHIP tasks and strip out as many as possible into 'nice to do'
+- Work on displaying the track number and title in gameplay scene.
+- If time: work on displaying the gold, silver and bronze trophy times.
