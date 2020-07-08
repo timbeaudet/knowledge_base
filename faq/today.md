@@ -1,5 +1,7 @@
-# Objectives for Today 2020-07-07:
+# Objectives for Today 2020-07-08:
 
-- Sift through the Turbo Boom! MUST SHIP tasks and strip out as many as possible into 'nice to do'
-- Work on displaying the track number and title in gameplay scene.
-- If time: work on displaying the gold, silver and bronze trophy times.
+- Creating a display for the 3 trophy times for the level.
+- Setting the times for tower and where do I go.
+- Sleepy Time, ending an hour early for nap before work-work.
+
+## Reminder: Today is Race Night
