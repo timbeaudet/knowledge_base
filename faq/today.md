@@ -1,7 +1,4 @@
-# Objectives for Today 2020-07-08:
+# Objectives for Today 2020-07-09:
 
-- Creating a display for the 3 trophy times for the level.
-- Setting the times for tower and where do I go.
-- Sleepy Time, ending an hour early for nap before work-work.
-
-## Reminder: Today is Race Night
+- Dig deeper into shadow issue with AMD and figure out a work-around to those driver issues.
+- Package up some things for audio work-order.
