@@ -1,5 +1,6 @@
-# Objectives for Today 2020-07-10:
+# Objectives for Today 2020-07-11:
 
-- Create a game build for the audio guy to play.
-- Collect the reference videos and prepare them for upload.
-- Create a minimalist reproduction of the shadow issue on AMD.
+- Brainstorm the outline of the next video.
+- Write up a script for Reviewing Your GameDev Business.
+- Setup the Lights, Camera and Persons for shooting video.
+- Shoot the video.
