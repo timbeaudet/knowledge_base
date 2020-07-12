@@ -1,6 +1,7 @@
-# Objectives for Today 2020-07-11:
+# Objectives for Today 2020-07-12:
 
-- Brainstorm the outline of the next video.
-- Write up a script for Reviewing Your GameDev Business.
+- Brainstorm some Title ideas.
+- Create a thumbnail for video.
 - Setup the Lights, Camera and Persons for shooting video.
 - Shoot the video.
+- Edit the video.
