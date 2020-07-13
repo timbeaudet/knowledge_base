@@ -1,7 +1,7 @@
-# Objectives for Today 2020-07-12:
+# Objectives for Today 2020-07-13:
 
-- Brainstorm some Title ideas.
-- Create a thumbnail for video.
-- Setup the Lights, Camera and Persons for shooting video.
-- Shoot the video.
-- Edit the video.
+- Export streams to YouTube archive.
+- Setup a cron job to automate YouTube archiving, daily?
+- Update Key Performance Indicators.
+- Create a weekly topic for Discord.
+- Practice unscripted ask a developer shots.
