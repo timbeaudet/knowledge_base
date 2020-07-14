@@ -1,7 +1,7 @@
-# Objectives for Today 2020-07-13:
+# Objectives for Today 2020-07-14:
 
-- Export streams to YouTube archive.
-- Setup a cron job to automate YouTube archiving, daily?
-- Update Key Performance Indicators.
-- Create a weekly topic for Discord.
-- Practice unscripted ask a developer shots.
+- Create a "ship" or "public" build option in Turbo Boom!
+- Setup the deploy scripts to do this.
+- Ensure tb_development is not defined in ship/public builds.
+- Fix other Turbo Boom! issues that have been reported so far.
+- Create new 'internal' builds for testing.
