@@ -1,7 +1,5 @@
-# Objectives for Today 2020-07-15:
+# Objectives for Today 2020-07-16:
 
-- Figure out what is going on with Leaderboards in v0.4.3.
-- Add some debugging info and dig into why some requests might just fail.
-- More bug fixing for Turbo Boom!
-
-## There will be race night tonight!
+- Sleep not well, woke in middle of rem cycle, this mornig will be short.
+- Review through the plans of creating Trailing Brakes Racing Simulator.
+- Review through the stepping stones of creating simulator.
