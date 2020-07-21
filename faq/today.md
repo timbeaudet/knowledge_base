@@ -1,5 +1,4 @@
-# Objectives for Today 2020-07-20:
+# Objectives for Today 2020-07-21:
 
-- Update Market Key Performance Indidcators.
+- Misc. todo hunting in Turbo Boom! to Todouesday.
 - Generate a Weekly Topic for Discord
-- Misc. Efforts of whatever actually happens.
