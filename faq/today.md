@@ -1,4 +1,5 @@
-# Objectives for Today 2020-07-21:
+# Objectives for Today 2020-07-22:
 
-- Misc. todo hunting in Turbo Boom! to Todouesday.
-- Generate a Weekly Topic for Discord
+- Building a better screenshot tool for TurtleBrains (or hacking for today only)
+- Taking a screenshot of each level for level select.
+- If time; cleanup old and unused assets.
