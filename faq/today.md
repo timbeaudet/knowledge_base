@@ -1,5 +1,4 @@
-# Objectives for Today 2020-07-22:
+# Objectives for Today 2020-07-23:
 
-- Building a better screenshot tool for TurtleBrains (or hacking for today only)
-- Taking a screenshot of each level for level select.
-- If time; cleanup old and unused assets.
+- Grabbing ideas from Rally of Rockets debug logger and implementing them in Turtle Brains.
+- Attempting to use colors in some log messages, hopefully cross platform way.
