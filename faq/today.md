@@ -1,4 +1,6 @@
-# Objectives for Today 2020-07-31:
+# Objectives for Today 2020-08-01:
 
-- Checking out and giving feedback to audio team for Turbo Boom!
-- Visual effects for explosions in Turbo Boom! Playing with particles.
+- Look through the logging message in Turbo Boom! to clean up less useful ones.
+- Possible: Look into installer automatically running Turbo Boom!
+- Possible: Continue doing track-design study project
+- Possible: Deal with accounting stuff in preparation for Indie Tavern
