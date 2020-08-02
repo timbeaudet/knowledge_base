@@ -1,6 +1,11 @@
-# Objectives for Today 2020-08-01:
+# Objectives for Today 2020-08-02:
 
-- Look through the logging message in Turbo Boom! to clean up less useful ones.
-- Possible: Look into installer automatically running Turbo Boom!
-- Possible: Continue doing track-design study project
-- Possible: Deal with accounting stuff in preparation for Indie Tavern
+- Figure out how to tweet or share the news about Indie Tavern.
+- Reviewing July, what went well, what didn't what could be learned from.
+- Writing a summary about July for patrons and review process.
+- Indie Tavern "talk-show" with ToasterFuel to see what he did/learned
+- Big announcment in the middle of Indie Tavern.
+
+- Maybe a game of Formula D
+
+- Work on the track study project by investing and reporting on some tracks.
