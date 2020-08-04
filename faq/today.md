@@ -1,6 +1,5 @@
-# Objectives for Today 2020-08-03:
+# Objectives for Today 2020-08-04:
 
-- Update Key Performance Indicators
-- Brainstorm a weekly topic for discord.
-- Collect all the racing games released on Steam in July.
-- Something something marketing something.
+- Setting up a TinyUrl thing on tyrebyt.es
+- A few TODOs about marketing Turbo Boom!
+- Hunting tasks for ToDousday!
