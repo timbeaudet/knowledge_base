@@ -1,4 +1,5 @@
-# Objectives for Today 2020-08-04:
+# Objectives for Today 2020-08-06:
 
-- Reviewing an audio delivery.
-- Fixing nightly builds.
+- Post tingly racing  clip to reddit for lols.
+- Potentially play with particles and effects.
+- Potentially make minimal example of AMD issue.
