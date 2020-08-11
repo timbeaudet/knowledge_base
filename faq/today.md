@@ -1,5 +1,5 @@
-# Objectives for Today 2020-08-10:
+# Objectives for Today 2020-08-11:
 
-- Updating the Key Performance Indicators
-- Weekly Topic for Discord
-- Adding overlays and things to DevLog 006: Reviewing progress
+- Organizing the TODO File a bit better.
+- Nightly Builds are still somehow failing...
+- More random todo tasks, or particle work.
