@@ -1,4 +1,5 @@
-# Objectives for Today 2020-08-13:
+# Objectives for Today 2020-08-14:
 
-- Creating a minimalist shadow example to find and fix the AMD issue...
-- Good luck?
+- Leaving broken bits around for explosives!
+- Particles for nuclear booms!
+- Particles for water splashing.
