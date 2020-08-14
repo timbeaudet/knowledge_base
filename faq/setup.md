@@ -22,6 +22,7 @@
 - Logitech G29 Steering Wheel
   - Ricmotech Load Cell Brake
   - Clutch and Throttle springs replaced with original G29 brake and clutch springs respectively.
+- Zephyr HxM Smart (Heartbeat Monitor)
 
 ## Streaming Equipment
 - Blue Yeti Microphone
