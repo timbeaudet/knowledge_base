@@ -1,7 +1,6 @@
-# Objectives for Today 2020-08-17:
+# Objectives for Today 2020-08-18:
 
-- Updating the Key Performance Indicators
-- Updating Weekly Topic for Discord
-- Adding more information to Turbo Boom! page on Giant Bomb.
-- Updating Personal Projects page on Website.
-- Brainstorming some marketing efforts and ideas.
+- Cleanup command database from mistakes and lower value commands.
+- Add a Twitch IRC ping monitor to automatically reconnect with Twitch IRC.
+- Revisit some campaigns and try making some more flashy cutscene ones.
+- Other todos related to the stream overlay and bot.
