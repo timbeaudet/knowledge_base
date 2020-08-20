@@ -1,5 +1,6 @@
-# Objectives for Today 2020-08-19:
+# Objectives for Today 2020-08-20:
 
-- Add a gravitational constant and force to the apple.
-- Ensure it takes an expected amount of time for the apple to reach ground plane/velocity.
-- Begin creating testing framework for physics simulations.
+- Fixing a failing project in nightly builds on Linux.
+- Setup a testing framework (using TurtleBrains Tests) to get testing the physics engine.
+- Begin adding and proving out a few tests.
+- This all may diverge a bit into just coming up with proofs for future tests.
