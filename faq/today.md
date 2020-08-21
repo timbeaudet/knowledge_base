@@ -1,6 +1,5 @@
-# Objectives for Today 2020-08-20:
+# Objectives for Today 2020-08-21:
 
-- Fixing a failing project in nightly builds on Linux.
-- Setup a testing framework (using TurtleBrains Tests) to get testing the physics engine.
-- Begin adding and proving out a few tests.
-- This all may diverge a bit into just coming up with proofs for future tests.
+- Getting reaquinted with Blender.
+- Possible: Create a wide open, empty, outdoor environment for 'land of a racetrack'
+- Possible: Create a garage for racecars.
