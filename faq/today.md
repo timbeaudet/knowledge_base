@@ -1,5 +1,5 @@
-# Objectives for Today 2020-08-21:
+# Objectives for Today 2020-08-22:
 
-- Getting reaquinted with Blender.
-- Possible: Create a wide open, empty, outdoor environment for 'land of a racetrack'
-- Possible: Create a garage for racecars.
+- Working on the basics of a custom physics engine.
+- Getting a testing framework setup with visualizations included.
+- Attempting to write, prove and solve some basic drop and constant force tests.
