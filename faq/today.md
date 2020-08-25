@@ -1,6 +1,6 @@
-# Objectives for Today 2020-08-23:
+# Objectives for Today 2020-08-25:
 
-- Very likely: Thinking on and pondering through tasks required for Racing Simulator MVP.
-- Working on the basics of a custom physics engine.
-- Getting a collisiong testing scene setup with visualizations and movement included.
-- Attempting to write, prove and solve some basic intersection tests.
+- Finishing YouTube video thumbnail, description etc and releasing.
+- Using Python to send data to a google sheet.
+- Using Python to do some string comparisons and fun magics.
+- Trying to get a burndown chart for project guestimation.
