@@ -1,6 +1,6 @@
-# Objectives for Today 2020-08-25:
+# Objectives for Today 2020-08-26:
 
-- Finishing YouTube video thumbnail, description etc and releasing.
-- Using Python to send data to a google sheet.
-- Using Python to do some string comparisons and fun magics.
-- Trying to get a burndown chart for project guestimation.
+- Create a Python script to strip a TODO file into a task list on Google Sheets.
+- Add some string finds and comparisons to add a column for estimated time.
+- Figure out some way to approach 'projects' or deal with the 'headlines' and nesting.
+- See where else this project takes us.
