@@ -1,6 +1,8 @@
-# Objectives for Today 2020-08-26:
+# Objectives for Today 2020-08-27:
 
 - Create a Python script to strip a TODO file into a task list on Google Sheets.
-- Add some string finds and comparisons to add a column for estimated time.
-- Figure out some way to approach 'projects' or deal with the 'headlines' and nesting.
+- Organize the todo stuff a bit more.
+- Get "task_history" thing working in the new location and committed to adventure_trails.
+- Get "task_history" updated and sending information to a google sheet.
+- Add project history to project burndown sheet and try getting this all automated.
 - See where else this project takes us.
