@@ -1,3 +1,6 @@
-# Objectives for Today 2020-08-28:
+# Objectives for Today 2020-08-29:
 
-- Mashing polygons in Blender to practice arts.
+- Writing a developer review on playing Fall Guys.
+- Writing script for YouTube video on Burnout.
+- Possibly shooting Burnout video.
+- Possible working on burndown chart project.
