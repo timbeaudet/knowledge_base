@@ -4,6 +4,10 @@
 
 ## Adding Large Photos with Motion
 
+**Syncronizing Audio with Video Clip**
+
+When the frame drops do not have enoughy precision to work you can Right-click on the time-ruler at the top of the time lines and choose "Show Audio Time Units" which will allow more precision to drag the audio to.
+
 **Resizing the image**
 
 1. To rescale the image close to the size of the video frame, right-click on the image clip, _inside the time-line_, and choose `Scale to Frame Size`.
