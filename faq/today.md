@@ -1,6 +1,5 @@
-# Objectives for Today 2020-08-29:
+# Objectives for Today 2020-08-30:
 
-- Writing a developer review on playing Fall Guys.
 - Writing script for YouTube video on Burnout.
+- Likely working on burndown chart project.
 - Possibly shooting Burnout video.
-- Possible working on burndown chart project.
