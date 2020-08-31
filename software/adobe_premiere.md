@@ -42,7 +42,12 @@ When the frame drops do not have enoughy precision to work you can Right-click o
 - To cut across all lanes, use SHIFT when clicking the cut tool.
 - `SHIFT+DELETE` will ripple delete the clips, bringing future reel backwards. (if all lanes are selected) 
 
-**Efficient Workflow: Cutting of Clips**
+**Efficientest Workflow: Cutting of Clips**
+1. Start playing clip.
+2. If you didn't like what you just saw, use `Q` to ripple delete from playhead to start of clip. _(Do NOT press `CTRL+K` first)_
+3. If you know nothing else in that clip is desired, use `W` to forward ripple delete to end of clip. _(Do NOT press `CTRL+K` first)_
+
+**OLD 'Efficient' Workflow: Cutting of Clips**
 
 1. Cut at the location of the playhead use `CTRL+K` (which may need the cut tool selected)
 2. Press left arrow to move the playhead back to previous clip.
