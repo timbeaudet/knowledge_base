@@ -1,5 +1,4 @@
-# Objectives for Today 2020-08-30:
+# Objectives for Today 2020-08-31:
 
-- Writing script for YouTube video on Burnout.
-- Likely working on burndown chart project.
-- Possibly shooting Burnout video.
+- Video editing for the Dealing with Burnout video.
+- Hopefully finishing the video in time for a release today, maybe tomorrow.
