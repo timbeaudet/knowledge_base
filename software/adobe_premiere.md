@@ -44,6 +44,7 @@ When the frame drops do not have enoughy precision to work you can Right-click o
 
 **Random Tips**
 
+- With the Cut tool (`C`) use `CTRL+K` to slice at the playhead location.
 - Use `~` with preview selected to maximize the panel for larger viewing.
 - You can BOX SELECT the keyframes in the effect controls panel, makes easy to move around.
 
