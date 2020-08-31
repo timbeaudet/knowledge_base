@@ -2,3 +2,5 @@
 
 - Video editing for the Dealing with Burnout video.
 - Hopefully finishing the video in time for a release today, maybe tomorrow.
+- Update "Key" Performance Indicators
+- Update Discord Weekly Topic
