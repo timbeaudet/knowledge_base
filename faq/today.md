@@ -1,6 +1,5 @@
-# Objectives for Today 2020-08-31:
+# Objectives for Today 2020-09-01:
 
-- Video editing for the Dealing with Burnout video.
-- Hopefully finishing the video in time for a release today, maybe tomorrow.
-- Update "Key" Performance Indicators
+- Get the burndown project tracking all the history correctly.
+- I want it to track the total, remaining, completed hitpoints each day.
 - Update Discord Weekly Topic
