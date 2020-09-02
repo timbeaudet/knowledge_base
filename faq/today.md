@@ -1,5 +1,6 @@
-# Objectives for Today 2020-09-01:
+# Objectives for Today 2020-09-02:
 
-- Get the burndown project tracking all the history correctly.
-- I want it to track the total, remaining, completed hitpoints each day.
 - Update Discord Weekly Topic
+- Jumping back into ice Physics Playground
+- Working a little with physics in playground
+- Probably brainstorming tasks for simulator MVP
