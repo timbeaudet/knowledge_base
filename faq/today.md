@@ -1,8 +1,9 @@
-# Objectives for Today 2020-09-04:
+# Objectives for Today 2020-09-05:
 
 - Drawing up some physics tests/math proofs.
-- Possibly starting monthly review of August.
-- Playing some games, either racing games for review, fall guys for laughs or iRacing for A license.
+- Writing Physics code and Tests.
+- Various intersection tests
 
-Evening:
-- Physics work?
+## Why?
+
+To get the physics engine started. The sooner it is usable the sooner small games can use it to create problems.
