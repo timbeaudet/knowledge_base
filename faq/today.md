@@ -1,3 +1,4 @@
-# Objectives for Today 2020-09-08:
+# Objectives for Today 2020-09-09:
 
-- A day of misc. tasks to keep up with the todo lists.
+- Dynamic Sphere to Dynamic Sphere Test.
+- Possibly starting the Test Busters project a bit more.
