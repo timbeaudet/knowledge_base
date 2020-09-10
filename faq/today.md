@@ -1,4 +1,5 @@
-# Objectives for Today 2020-09-09:
+# Objectives for Today 2020-09-10:
 
-- Dynamic Sphere to Dynamic Sphere Test.
-- Possibly starting the Test Busters project a bit more.
+- NEW RECORD: Day 105 in a row
+- Adding more tests and data to Test Busters project.
+- Dynamic Sphere to Dynamic Sphere Tests.
