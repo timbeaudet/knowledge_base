@@ -1,4 +1,4 @@
-# Objectives for Today 2020-09-11:
+# Objectives for Today 2020-09-12:
 
 - NEW RECORD: Day 107 in a row
 - RigidBody Forces and Torques / Moments.
