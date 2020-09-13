@@ -5,4 +5,4 @@
 - Add angular drag/damping to sphere with test.
 - Other stuffs?
 
-- NEW RECORD: Day 108 in a row
+NEW RECORD: Day 108 in a row
