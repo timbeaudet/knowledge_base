@@ -1,7 +1,8 @@
-# Objectives for Today 2020-09-12:
+# Objectives for Today 2020-09-13:
 
-- NEW RECORD: Day 107 in a row
-- RigidBody Forces and Torques / Moments.
-- Mayhaps some RigidBody Linear damping / resistance.
-- Mayhaps some RigidBody Angular damping / resistance.
-- Potentially a Game Review, or nap required.
+- Research about what to call drag, "air" resistance or damping.
+- Add linear drag/damping to sphere with test.
+- Add angular drag/damping to sphere with test.
+- Other stuffs?
+
+- NEW RECORD: Day 108 in a row
