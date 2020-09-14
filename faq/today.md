@@ -1,8 +1,8 @@
-# Objectives for Today 2020-09-13:
+# Objectives for Today 2020-09-14:
 
-- Research about what to call drag, "air" resistance or damping.
-- Add linear drag/damping to sphere with test.
-- Add angular drag/damping to sphere with test.
-- Other stuffs?
+- Update the Key Performance Indicators
+- Update the Discord Weekly Topic
+- Checkout the Marketing Monday tasks
+- Either writing a blog post or ... producing a video?
 
-NEW RECORD: Day 108 in a row
+NEW RECORD: Day 109 in a row
