@@ -1,7 +1,8 @@
-# Objectives for Today 2020-09-15:
+# Objectives for Today 2020-09-16:
 
-- Sphere to Oriented Box Intersection
-- Sphere to Oriented Box Collision Response
-- Refactored AlignedBox to center/half extents.
+- Building some more tests and things.
+- Adding some form of elasticity/plastic thing.
+- Separating dynamic from static objects.
+- Preparing for alakajam
 
-NEW RECORD: Day 110 in a row
+NEW RECORD: Day 111 in a row
