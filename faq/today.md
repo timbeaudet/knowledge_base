@@ -1,8 +1,7 @@
-# Objectives for Today 2020-09-16:
+# Objectives for Today 2020-09-17:
 
-- Building some more tests and things.
 - Adding some form of elasticity/plastic thing.
-- Separating dynamic from static objects.
+- Adding a Trigger Object.
 - Preparing for alakajam
 
-NEW RECORD: Day 111 in a row
+NEW RECORD: Day 112 in a row
