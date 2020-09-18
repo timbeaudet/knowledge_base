@@ -1,7 +1,7 @@
-# Objectives for Today 2020-09-17:
+# Objectives for Today 2020-09-18:
 
-- Adding some form of elasticity/plastic thing.
-- Adding a Trigger Object.
 - Preparing for alakajam
+- Possibly preparing "Track Builder" to help with AKJAM.
+- Possibly adding Triggers to the Physics engine.
 
-NEW RECORD: Day 112 in a row
+NEW RECORD: Day 113 in a row
