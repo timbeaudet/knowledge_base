@@ -1,7 +1,8 @@
-# Objectives for Today 2020-09-18:
+# Objectives for Today 2020-09-19:
 
-- Preparing for alakajam
-- Possibly preparing "Track Builder" to help with AKJAM.
-- Possibly adding Triggers to the Physics engine.
+- Participating in Alakajam 10; Maps, Chaos and/or Ships
+- Creating an orbital camera that works with the mouse.
+- Figuring out maths to have player walk with global inputs based on camera orientation.
+- Creating obstacles for obstacle course and beginning the game!
 
-NEW RECORD: Day 113 in a row
+NEW RECORD: Day 114 in a row
