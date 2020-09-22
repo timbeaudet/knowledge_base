@@ -1,10 +1,7 @@
-# Objectives for Today 2020-09-21:
+# Objectives for Today 2020-09-22:
 
-- Update the Key Performance Indicators
-- Update the Weekly Topic in Discord
-- Update the announcements for yesterday.
-- Maybe: Write a blog on post mortem of Alakajam or inspiring to create own tech (list pitfalls)
-- Maybe: Start writing a development log script
-- Maybe: Continue work on personal portfolio page.
+- Knocking out as many pain points as possible to improve workflow.
+- Wrapping up some tests with the template projects.
+- Jumping into TrackBuilder and Internal Combustion
 
-NEW RECORD: Day 116 in a row
+NEW RECORD: Day 117 in a row
