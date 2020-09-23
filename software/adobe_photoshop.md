@@ -113,6 +113,19 @@ Click in the empty area of swatches palette to add the color.
 - To change the color of something, select the color and use **_Image > Adjustments > Hue / Saturation_** `CTRL+U` and change the hue. Seemed to work great when the color was alone, as in the rest of the active was transparent.
 - To toggle the visibility of the guides (hide and show without deleting) use `CTRL+;` (or macOS `CMD+;`)
 
+## Creating a Grid of Dots using Pattern
+
+- Create a new file, 32x32, 64x64 or something - size not super important.
+- Fill the background color, or not. (May not be necessary)
+- Make a dot any where, position doesn't actually matter too much.
+- Make it a pattern: Edit > Define Pattern
+	- I don't know how to save this for future loading of pattern, but it doesn't.
+- Back in the file you wish to have dots in, add a new layer and double click to open properties.
+- Click on Pattern Overlay and the dropdown of the pattern should include your dot, select it.
+- Use scale to change the grid size.
+- If you are not seeing anything in the document it is because you need to fill the layer with the effect.
+	- if you used a background color in the pattern, the fill color doesn't matter.
+
 ## Using Smart Objects to Control Guides
 
 I had found that I needed a lot of guides on a piece, that were conflicting with each other, like having a backdrop and a sprite-sheet on the same image. To fix this I used a smart object for the sprite - could also use a smart object for backdrop area.
