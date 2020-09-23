@@ -1,7 +1,6 @@
-# Objectives for Today 2020-09-22:
+# Objectives for Today 2020-09-23:
 
-- Knocking out as many pain points as possible to improve workflow.
-- Wrapping up some tests with the template projects.
-- Jumping into TrackBuilder and Internal Combustion
+- Work on improving the workflow of making games.
+- Reducing pain points discovered during alakajam.
 
-NEW RECORD: Day 117 in a row
+NEW RECORD: Day 118 in a row
