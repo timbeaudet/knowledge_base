@@ -1,6 +1,6 @@
-# Objectives for Today 2020-09-23:
+# Objectives for Today 2020-09-24:
 
-- Work on improving the workflow of making games.
-- Reducing pain points discovered during alakajam.
+- Finding a way to edit custom properties on an object.
+- To improving the workflow of making games and reduce pain points discovered during alakajam.
 
-NEW RECORD: Day 118 in a row
+NEW RECORD: Day 119 in a row
