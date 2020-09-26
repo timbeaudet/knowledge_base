@@ -1,7 +1,7 @@
-# Objectives for Today 2020-09-25:
+# Objectives for Today 2020-09-26:
 
-- Finding a way to edit custom properties on an object.
-- Get saving and loading of Dynamic Structures in Binary.
-- To improving the workflow of making games and reduce pain points discovered during alakajam.
+- Brainstorming / planning decisions on Eggcelerate! Steam Release.
+- Brainstorming / planning decisions on Test Busters Project.
+- More physics testing; balls are slowly dropping!
 
-NEW RECORD: Day 120 in a row
+NEW RECORD: Day 121 in a row
