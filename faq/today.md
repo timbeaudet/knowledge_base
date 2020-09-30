@@ -1,7 +1,6 @@
-# Objectives for Today 2020-09-29:
+# Objectives for Today 2020-09-30:
 
-- Finish writing article about Alakajam Post-Mortem and post it around.
-- Begin some cleanup with Physics API and see where it takes us.
-- Maybe get to adding triggers or tags/types to the Physics System.
+- Creating higher level API for Physics Engine and more rapid developments.
+- Trying to remain awake.
 
-NEW RECORD: Day 124 in a row
+NEW RECORD: Day 125 in a row
