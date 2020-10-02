@@ -1,6 +1,8 @@
-# Objectives for Today 2020-09-30:
+# Objectives for Today 2020-10-02:
 
-- Creating higher level API for Physics Engine and more rapid developments.
-- Trying to remain awake.
+- Upload September monthly report to patrons.
+- Create the LudumDare 47 gitea repository.
+- Write announcements for previous two days in #announcements
+- See if Triggers / High-level API can be wrapped in what ever time we have left.
 
-NEW RECORD: Day 125 in a row
+NEW RECORD: Day 127 in a row
