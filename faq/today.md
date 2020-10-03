@@ -1,8 +1,7 @@
-# Objectives for Today 2020-10-02:
+# Objectives for Today 2020-10-03:
 
-- Upload September monthly report to patrons.
-- Create the LudumDare 47 gitea repository.
-- Write announcements for previous two days in #announcements
-- See if Triggers / High-level API can be wrapped in what ever time we have left.
+- Add things to make a game about being stuck in a loop.
+- Have fun with LudumDare <-- I dare you.
+- Testing the physics engine.
 
-NEW RECORD: Day 127 in a row
+NEW RECORD: Day 128 in a row
