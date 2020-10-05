@@ -1,8 +1,10 @@
-# Objectives for Today 2020-10-04:
+# Objectives for Today 2020-10-05:
 
-- 9am to 10am ET is Indie Tavern business review of September
-- Add things to make a game about being stuck in a loop.
-- Have fun with LudumDare <-- I dare you.
-- Testing the physics engine.
+- Update the Key Performance Indicators
+- Add a reset checkpoint trigger for LudumDare.
+- Get reset trigger for LudumDare.
+- Hex edit two tiles in the LD track to add a "start/finish line" and T intersection.
+  - The second loop needs a finish line and the third loop joining the first needs a T.
+- Marketing monday: Collection of racing games released in September 2020.
 
-NEW RECORD: Day 127 in a row
+NEW RECORD: Day 130 in a row
