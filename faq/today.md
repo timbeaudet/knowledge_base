@@ -1,6 +1,7 @@
-# Objectives for Today 2020-10-06:
+# Objectives for Today 2020-10-07:
 
-- Looking through the pain points discovered from LudumDare 47.
-- Probably trying to fix some of those pain points.
+- Fixing issues with the DynamicStructure, hopefully for the final time.
+- Reducing Pain points found during LD47
+- Brainstorming video ideas.
 
-NEW RECORD: Day 131 in a row
+NEW RECORD: Day 132 in a row
