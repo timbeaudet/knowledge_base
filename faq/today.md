@@ -1,9 +1,7 @@
-# Objectives for Today 2020-10-08:
+# Objectives for Today 2020-10-09:
 
-- Track Builder Custom Properties for Objects do not get duplicated.
-- Track Builder Snap-To doesn't listen to user on how far to snap.
-- Track Builder material from settings file.
-- Track Builder track_objects / track_segments lists not being hard-coded?
+- Writing a script for the next development log video.
+- Potentially doing a pair of videos instead of just 1.
 - Talking about some video ideas.
 
-NEW RECORD: Day 133 in a row
+NEW RECORD: Day 134 in a row
