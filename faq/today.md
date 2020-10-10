@@ -1,7 +1,6 @@
-# Objectives for Today 2020-10-09:
+# Objectives for Today 2020-10-10:
 
-- Writing a script for the next development log video.
-- Potentially doing a pair of videos instead of just 1.
-- Talking about some video ideas.
+- Writing a script for the next development log videos, a pair!
+- Talking about some video ideas and building vs using a game engine.
 
-NEW RECORD: Day 134 in a row
+NEW RECORD: Day 135 in a row
