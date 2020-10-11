@@ -6,7 +6,7 @@
 
 **Syncronizing Audio with Video Clip**
 
-When the frame drops do not have enoughy precision to work you can Right-click on the time-ruler at the top of the time lines and choose "Show Audio Time Units" which will allow more precision to drag the audio to.
+When the frame drops do not have enough precision to work with you can Right-click on the time-ruler at the top of the timeline and choose "Show Audio Time Units" which will allow dragging the audio around with more precision.
 
 **Resizing the image**
 
