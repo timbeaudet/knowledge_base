@@ -1,6 +1,7 @@
-# Objectives for Today 2020-10-10:
+# Objectives for Today 2020-10-11:
 
-- Writing a script for the next development log videos, a pair!
+- Cut and edit the video about building vs using a game engine.
+  - Purpose: Practice video editing skills and talking to a target audience.
 - Talking about some video ideas and building vs using a game engine.
 
-NEW RECORD: Day 135 in a row
+NEW RECORD: Day 136 in a row
