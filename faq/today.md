@@ -1,9 +1,7 @@
-# Objectives for Today 2020-10-12:
+# Objectives for Today 2020-10-13:
 
-- Updating Marketing Key Points of Interest
-- Updating Discord Weekly Topic
-- Brainstorm Titles for pair of videos
-- Prepare the thumbnails and setup the videos to link each other.
-- Prepare twitters and reddit and stuffs.
+- Catchup with a few replies in the reddit thread.
+- Jump back into LudumDare 47 pain points.
+- Start orienting with physics tasks and goals for October.
 
-NEW RECORD: Day 137 in a row
+NEW RECORD: Day 138 in a row
