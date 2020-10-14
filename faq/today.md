@@ -1,7 +1,7 @@
-# Objectives for Today 2020-10-13:
+# Objectives for Today 2020-10-14:
 
-- Catchup with a few replies in the reddit thread.
-- Jump back into LudumDare 47 pain points.
-- Start orienting with physics tasks and goals for October.
+- Pondering Physics API with Triggers.
+- Got triggers to work with LD47
+- LD47 LevelLoader now support mesh files and "materials".
 
-NEW RECORD: Day 138 in a row
+NEW RECORD: Day 139 in a row
