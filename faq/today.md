@@ -1,7 +1,7 @@
-# Objectives for Today 2020-10-14:
+# Objectives for Today 2020-10-15:
 
-- Pondering Physics API with Triggers.
-- Got triggers to work with LD47
-- LD47 LevelLoader now support mesh files and "materials".
+- Just chatting.
+- Brainstorming.
+- Fried from racing too late. :(
 
-NEW RECORD: Day 139 in a row
+NEW RECORD: Day 140 in a row
