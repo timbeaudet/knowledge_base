@@ -1,7 +1,7 @@
-# Objectives for Today 2020-10-15:
+# Objectives for Today 2020-10-16:
 
 - Just chatting.
 - Brainstorming.
-- Fried from racing too late. :(
+- Fried from socializing.
 
-NEW RECORD: Day 140 in a row
+NEW RECORD: Day 141 in a row
