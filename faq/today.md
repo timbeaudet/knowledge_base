@@ -1,12 +1,10 @@
-# Objectives for Today 2020-10-19:
+# Objectives for Today 2020-10-20:
 
-- Tracking Key Performance Indicators
-- Writing an email for pit lane reports
-- Releasing YouTube video on engine hazards
+- Getting back up to speed with physics, triggers and collisions.
+- Trying to dig into actually having a good API for triggers.
 
 **Purpose**
 
-To build up the developer YouTube channel in hopes to make the 2020 goal of 1000 subs.
-Keep players interested in Turbo Boom and Tyre Bytes racing games.
+To build the physics engine for racing games and the simulator.
 
-NEW RECORD: Day 144 in a row
+NEW RECORD: Day 145 in a row
