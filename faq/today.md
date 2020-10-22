@@ -1,12 +1,10 @@
-# Objectives for Today 2020-10-21:
+# Objectives for Today 2020-10-22:
 
-- Random Stuff Day
-- Typing Practice?
-
-- Lack of sleep causing brain mush.
+- Continue Hammering Away at the Physics API stuff.
+- Maybe other brainstorming?
 
 **Purpose**
 
 To build the physics engine for racing games and the simulator.
 
-NEW RECORD: Day 146 in a row
+NEW RECORD: Day 147 in a row
