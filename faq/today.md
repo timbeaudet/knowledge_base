@@ -1,10 +1,9 @@
-# Objectives for Today 2020-10-22:
+# Objectives for Today 2020-10-23:
 
-- Continue Hammering Away at the Physics API stuff.
-- Maybe other brainstorming?
+- Try creating visual for development cycle video/graphic.
 
 **Purpose**
 
-To build the physics engine for racing games and the simulator.
+Practice art and play in illustrator again.
 
-NEW RECORD: Day 147 in a row
+NEW RECORD: Day 148 in a row
