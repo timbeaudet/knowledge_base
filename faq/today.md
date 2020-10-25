@@ -1,13 +1,11 @@
-# Objectives for Today 2020-10-24:
+# Objectives for Today 2020-10-25:
 
-- Warming up with looking at older marketing ideas and old tracking methods.
-- Setting up to perform the interview style shoot with [GrahamWeldon](https://www.twitch.tv/grahamweldon)
-- Interview shoot.
-- Cut and edit the video.
-- See if we can complete this by end of day.
+- Yet Another Video in a Day challenge
+- Trying a new style / technique; pushing the learning boundaries.
+- Hoping to also complete the development cycle video.
 
 **Purpose**
 
-Practice video creation to get better.
+Practice video creation to get better so that in the future it can be used as an actual marketing tool _(not aimed at game developers)_.
 
-NEW RECORD: Day 149 in a row
+NEW RECORD: Day 150 in a row
