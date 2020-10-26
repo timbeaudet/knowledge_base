@@ -1,11 +1,14 @@
-# Objectives for Today 2020-10-25:
+# Objectives for Today 2020-10-26:
 
-- Yet Another Video in a Day challenge
-- Trying a new style / technique; pushing the learning boundaries.
-- Hoping to also complete the development cycle video.
+- Update the Key Performance Indicators.
+- Update the Discord Weekly Topic.
+- Update/Track some the 2020 YouTube videos in Trello and their docs.
+- Update/Post old announcements.
+- Idea generation for Marketing stuffs
+- Improve the story and visuals of Patreon.
 
 **Purpose**
 
-Practice video creation to get better so that in the future it can be used as an actual marketing tool _(not aimed at game developers)_.
+Keep pushing the adventure further and find some ways to gather new future supporters.
 
-NEW RECORD: Day 150 in a row
+NEW RECORD: Day 151 in a row
