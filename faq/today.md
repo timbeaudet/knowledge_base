@@ -1,14 +1,11 @@
-# Objectives for Today 2020-10-26:
+# Objectives for Today 2020-10-27:
 
-- Update the Key Performance Indicators.
-- Update the Discord Weekly Topic.
-- Update/Track some the 2020 YouTube videos in Trello and their docs.
-- Update/Post old announcements.
-- Idea generation for Marketing stuffs
-- Improve the story and visuals of Patreon.
+- Jumping back to physics and getting to speed with Triggers.
+- Hoping to wrap up trigger API in something usable, even if not perfect/final.
+- If extra time: look at the stepping stones for the racing simulator.
 
 **Purpose**
 
-Keep pushing the adventure further and find some ways to gather new future supporters.
+Add functionality to the physics engine for racing games.
 
-NEW RECORD: Day 151 in a row
+NEW RECORD: Day 152 in a row
