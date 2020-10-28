@@ -1,11 +1,10 @@
-# Objectives for Today 2020-10-27:
+# Objectives for Today 2020-10-28:
 
-- Jumping back to physics and getting to speed with Triggers.
-- Hoping to wrap up trigger API in something usable, even if not perfect/final.
-- If extra time: look at the stepping stones for the racing simulator.
+- Research, brainstorming, planning and discussions.
+- Maybe some random marketing, article / screenshot.
 
 **Purpose**
 
-Add functionality to the physics engine for racing games.
+To move forward somehow, learn something new or at least aim at a better target.
 
-NEW RECORD: Day 152 in a row
+NEW RECORD: Day 153 in a row
