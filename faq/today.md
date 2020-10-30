@@ -1,11 +1,10 @@
-# Objectives for Today 2020-10-29:
+# Objectives for Today 2020-10-30:
 
-- Going to be a short day, a second night lack of sleep.
-- Attempting physics even with foggy brain?
-- 
+- Make some banners for campaign messages.
+- Try getting replies feature cleaned up an in the master branch.
 
 **Purpose**
 
-To move forward somehow, learn something new or at least aim at a better target.
+To improve the stream.
 
-NEW RECORD: Day 154 in a row
+NEW RECORD: Day 155 in a row
