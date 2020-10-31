@@ -1,10 +1,9 @@
-# Objectives for Today 2020-10-30:
+# Objectives for Today 2020-10-31:
 
-- Make some banners for campaign messages.
-- Try getting replies feature cleaned up an in the master branch.
+- Practicing producing videos, another video in a day challenge.
 
 **Purpose**
 
-To improve the stream.
+To create better videos faster.
 
-NEW RECORD: Day 155 in a row
+NEW RECORD: Day 156 in a row
