@@ -1,9 +1,11 @@
-# Objectives for Today 2020-10-31:
+# Objectives for Today 2020-11-02:
 
-- Practicing producing videos, another video in a day challenge.
+- Updating Marketing Key Performance Indicators.
+- Updating Weekly Topic in Discord.
+- Collecting racing games released on steam in October 2020.
 
 **Purpose**
 
-To create better videos faster.
+To know the landscape of racing games.
 
-NEW RECORD: Day 156 in a row
+NEW RECORD: Day 158 in a row
