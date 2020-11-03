@@ -1,11 +1,10 @@
-# Objectives for Today 2020-11-02:
+# Objectives for Today 2020-11-03:
 
-- Updating Marketing Key Performance Indicators.
-- Updating Weekly Topic in Discord.
-- Collecting racing games released on steam in October 2020.
+- Reviewing how the gamedev business adventure went in October 2020.
+- Preparing the patreon report.
 
 **Purpose**
 
-To know the landscape of racing games.
+To learn and keep pushing to do better.
 
-NEW RECORD: Day 158 in a row
+NEW RECORD: Day 159 in a row
