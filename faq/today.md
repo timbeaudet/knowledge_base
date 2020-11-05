@@ -1,12 +1,11 @@
-# Objectives for Today 2020-11-04:
+# Objectives for Today 2020-11-05:
 
-- Demoing the Kinesis Edge Split RGB Keyboard
-  https://gleam.io/UOSPG/tim-beaudet-freestyle-edge-split-rgb-keyboard-by-kinesis-gaming
-- Nqqrq n cebsvyr sbe EBG13 rapbqvat naq qrpbqvat.
-- Bgure enaqbz qrirybczragf naq nggrzcgvat gb culfvpf irel yvggyr.
+- Writing an answer to the FAQ: Why are you making videos? How does it help your indie adventure?
+- Jump into illustrator, or photoshop, and create the development cycle overlay.
+- Brainstorming on more formats, more techniques and more topics to do for video practice.
 
 **Purpose**
 
-To learn and keep pushing to do better.
+To learn new skills and keep pushing to do better.
 
-NEW RECORD: Day 160 in a row
+NEW RECORD: Day 161 in a row
