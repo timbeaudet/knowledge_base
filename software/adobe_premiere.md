@@ -54,6 +54,13 @@ When the frame drops do not have enough precision to work with you can Right-cli
 3. Press `D` to select the clip under the playhead.
 4. Press `SHIFT+DELETE` to ripple delete the select clip and remove space it would create.
 
+**ISSUE: Corrupted MP4 when Camera didn't change anything**
+
+Not sure how this became an issue, but Premiere was complaining of corrupt/incompatible format. The video could be opened in media player.
+I used `ffprobe` on hippo to ensure it was still h264 (it was)
+To fix: `ffmpeg -i ./input_file.mp4 -c:a copy -c:v h264_nvenc -b:v 100M output_filename.mp4` on falcon to use GPU powah!
+
+
 **Random Tips**
 
 - With the Cut tool (`C`) use `CTRL+K` to slice at the playhead location.
@@ -61,3 +68,4 @@ When the frame drops do not have enough precision to work with you can Right-cli
 - You can BOX SELECT the keyframes in the effect controls panel, makes easy to move around.
 
 [Premiere Hotkeys](https://helpx.adobe.com/premiere-pro/using/default-keyboard-shortcuts.html)
+
