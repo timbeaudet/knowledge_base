@@ -1,7 +1,7 @@
-# Objectives for Today 2020-11-06:
+# Objectives for Today 2020-11-08:
 
-- Attempting to solve the code caLLowCreation sent back.
 - Bringing a video from concept to export if all goes well.
+- Learning and practicing new skills to get faster, better, stronger at video creation.
 
 **Purpose**
 
