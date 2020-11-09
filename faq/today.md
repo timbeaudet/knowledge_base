@@ -1,10 +1,13 @@
-# Objectives for Today 2020-11-08:
+# Objectives for Today 2020-11-09:
 
-- Bringing a video from concept to export if all goes well.
-- Learning and practicing new skills to get faster, better, stronger at video creation.
+- Update Key Performance Indicators.
+- Update Discord Weekly Topic
+- Release the Development Cycle video to YouTube, post on reddit etc.
+- Write an email update for pit lane reports.
+- If time, create a thumbnail for intro video.
 
 **Purpose**
 
-To learn new video production skills and keep pushing to do better.
+To push the adventure forward.
 
-NEW RECORD: Day 163 in a row
+NEW RECORD: Day 164 in a row
