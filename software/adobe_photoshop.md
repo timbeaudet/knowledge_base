@@ -139,6 +139,12 @@ After having create a layer group `sprite_sheet` and adding a `View > Guide Layo
 
 Note: This process may be even better (untested) by simply creating the sprite_sheet as a smart object before adding the guide layout.
 
+## Possible Issues
+
+### Pink Lines / Slow Reaction with Control Pressed
+
+This appears to be smart guides when the "Move" tool is selected. Simply select another tool like the brush `b` and it will go away.  
+Note: When the move tool is selected, and you press control like this, it can select bottom layers.
 
 ## References:
 - [Layer Shortcuts](https://www.sitepoint.com/speed-up-your-photoshop-work-with-layer-shortcuts/)
