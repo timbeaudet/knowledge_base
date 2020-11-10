@@ -1,13 +1,10 @@
-# Objectives for Today 2020-11-09:
+# Objectives for Today 2020-11-10:
 
-- Update Key Performance Indicators.
-- Update Discord Weekly Topic
-- Release the Development Cycle video to YouTube, post on reddit etc.
-- Write an email update for pit lane reports.
-- If time, create a thumbnail for intro video.
+- There was a bug/issue or compiler issue or something in physics that we need to get fixed.
+- Likely digging into multi-volume rigid body support, otherwise more extreme physics.
 
 **Purpose**
 
-To push the adventure forward.
+To create the physics engine that will one day run the simulator.
 
-NEW RECORD: Day 164 in a row
+NEW RECORD: Day 165 in a row
