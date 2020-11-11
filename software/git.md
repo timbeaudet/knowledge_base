@@ -35,6 +35,8 @@ git config --global alias.ap 'add --patch'
 git config --global alias.cm 'commit --message'
 git config --global alias.pr 'pull --rebase'
 git config --global alias.prp 'pull --rebase=preserve'
+git config --global alias.co 'checkout'
+git config --global alias.cop 'checkout --patch'
 git config --global alias.st 'status'
 git config --global alias.ss 'stash save'
 ```
