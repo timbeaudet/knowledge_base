@@ -1,10 +1,9 @@
-# Objectives for Today 2020-11-11:
+# Objectives for Today 2020-11-12:
 
-- Making the Sphere to Oriented Box Test pass with flying colors.
-- Continue improving the physics system, perhaps change testing/delay visualizations.
+- Start digging into friction and/or angular momentum in collisions.
 
 **Purpose**
 
 To create the physics engine that will one day run the simulator.
 
-NEW RECORD: Day 166 in a row
+NEW RECORD: Day 167 in a row
