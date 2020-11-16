@@ -1,11 +1,13 @@
-# Objectives for Today 2020-11-15:
+# Objectives for Today 2020-11-16:
 
-- Writing a script for Idea Generation video, the outline/questions did not work.
-- Shoot, cut and edit the Idea Generation video.
-- Prepare title, thumbnail and description for Idea Generation video.
+- Updating of Key Performance Indicators
+- Updating the Discord Weekly Topic
+- Creating a Title, Thumbnail and Descriptiong for Streaming Video
+- Preparing a reddit post and comment for streaming video
+  - Include number of hours streamed?
 
 **Purpose**
 
 To practice creating videos for content marketing (_this is just practice, not **yet** marketing_)
 
-NEW RECORD: Day 171 in a row
+NEW RECORD: Day 172 in a row
