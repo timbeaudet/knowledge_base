@@ -1,13 +1,11 @@
-# Objectives for Today 2020-11-16:
+# Objectives for Today 2020-11-17:
 
-- Updating of Key Performance Indicators
-- Updating the Discord Weekly Topic
-- Creating a Title, Thumbnail and Descriptiong for Streaming Video
-- Preparing a reddit post and comment for streaming video
-  - Include number of hours streamed?
+- Adding functionality and operators to Matrix3 in Math kit.
+- Adding tests for the Matrix3
+- Releasing video about Live Streaming Game Development, youtube / reddit / twitter.
 
 **Purpose**
 
-To practice creating videos for content marketing (_this is just practice, not **yet** marketing_)
+Get more functionality for the Matrix3 as it is getting used more in physics land.
 
-NEW RECORD: Day 172 in a row
+NEW RECORD: Day 173 in a row
