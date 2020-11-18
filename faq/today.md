@@ -1,4 +1,4 @@
-# Objectives for Today 2020-11-17:
+# Objectives for Today 2020-11-18:
 
 - Digging into build failures, it seems Linux failed to compile last night.
 - Adding functionality and operators to Matrix3 in Math kit.
