@@ -10,3 +10,9 @@
 Checkout and understand racing games deeper while helping developers make a better game!
 
 NEW RECORD: Day 176 in a row
+
+### Mini Racing World by Kitty in a Box
+---------------------------------------
+
+- https://kitty-in-a-box.itch.io/mini-racing-world
+- https://www.youtube.com/channel/UCuWvfUoupjkcNPjPE3VAVlQ/
