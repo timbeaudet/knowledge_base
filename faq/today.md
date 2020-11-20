@@ -1,11 +1,12 @@
-# Objectives for Today 2020-11-19:
+# Objectives for Today 2020-11-20:
 
-- Digging into build failures, it seems Linux failed to compile last night.
-- Committing Matrix3 and math stuff to Turtle Brains.
-- Digging into energy conservation with angular / linear momentum.
+- Misc. Developments and writing until 7am (45 minutes)
+- Playtesting Mini Racing World from Kitty in a Box, WIP Racing Game
+- Writing a report on the playtest.
+- Returning to misc developments if time remains.
 
 **Purpose**
 
-Get more functionality for the Matrix3 as it is getting used more in physics land.
+Checkout and understand racing games deeper while helping developers make a better game!
 
-NEW RECORD: Day 175 in a row
+NEW RECORD: Day 176 in a row
