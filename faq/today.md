@@ -1,18 +1,11 @@
-# Objectives for Today 2020-11-20:
+# Objectives for Today 2020-11-21:
 
-- Misc. Developments and writing until 7am (45 minutes)
-- Playtesting Mini Racing World from Kitty in a Box, WIP Racing Game
-- Writing a report on the playtest.
-- Returning to misc developments if time remains.
+- Working on art practice with video production of animated video, "Morning Dev / Routines"
+- Shooting the "Idea Generation" video
+- Cut, edit and wrap up the "Idea Generation" video.
 
 **Purpose**
 
-Checkout and understand racing games deeper while helping developers make a better game!
+Learn about a new video format (animation) to keep learning video production for future content marketing.
 
-NEW RECORD: Day 176 in a row
-
-### Mini Racing World by Kitty in a Box
----------------------------------------
-
-- https://kitty-in-a-box.itch.io/mini-racing-world
-- https://www.youtube.com/channel/UCuWvfUoupjkcNPjPE3VAVlQ/
+NEW RECORD: Day 177 in a row
