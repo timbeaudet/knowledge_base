@@ -1,11 +1,10 @@
-# Objectives for Today 2020-11-21:
+# Objectives for Today 2020-11-22:
 
-- Working on art practice with video production of animated video, "Morning Dev / Routines"
-- Shooting the "Idea Generation" video
-- Cut, edit and wrap up the "Idea Generation" video.
+- Working on website updates to spice up the personal projects page.
+- Random marketing brainstorming.
 
 **Purpose**
 
-Learn about a new video format (animation) to keep learning video production for future content marketing.
+Keep pushing forward.
 
-NEW RECORD: Day 177 in a row
+NEW RECORD: Day 178 in a row
