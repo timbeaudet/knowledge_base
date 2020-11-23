@@ -1,10 +1,10 @@
-# Objectives for Today 2020-11-22:
+# Objectives for Today 2020-11-23:
 
-- Working on website updates to spice up the personal projects page.
-- Random marketing brainstorming.
+- Update the KPI / Discord topic.
+- Brainstorming and doing something marketing/promoting related.
 
 **Purpose**
 
 Keep pushing forward.
 
-NEW RECORD: Day 178 in a row
+NEW RECORD: Day 179 in a row
