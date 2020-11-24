@@ -1,10 +1,9 @@
-# Objectives for Today 2020-11-23:
+# Objectives for Today 2020-11-24:
 
-- Update the KPI / Discord topic.
-- Brainstorming and doing something marketing/promoting related.
+- Jump into physics and work on energy conservation with angular/linear momentum.
 
 **Purpose**
 
-Keep pushing forward.
+Get the physics engine doing more stuff.
 
-NEW RECORD: Day 179 in a row
+NEW RECORD: Day 180 in a row
