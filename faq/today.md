@@ -1,10 +1,10 @@
-# Objectives for Today 2020-11-25:
+# Objectives for Today 2020-11-26:
 
+- Digging into Matrix issues _again_ not sure why things are not as expected...
 - Jump into physics and work on energy conservation with angular/linear momentum.
-- Fix the issue with the sphere rotating around the wrong axis.
 
 **Purpose**
 
 Get the physics engine doing more stuff.
 
-NEW RECORD: Day 181 in a row
+NEW RECORD: Day 182 in a row
