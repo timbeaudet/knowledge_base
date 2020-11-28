@@ -1,10 +1,9 @@
-# Objectives for Today 2020-11-27:
+# Objectives for Today 2020-11-28:
 
-- Jump into physics and work on energy conservation with angular/linear momentum.
-- Write a test with a rotating ball that hits the ground to start moving.
+- Writing a script for a video on "HowTo Structure a New Project"
 
 **Purpose**
 
-Get the physics engine doing more stuff.
+Practice producing videos.
 
-NEW RECORD: Day 183 in a row
+NEW RECORD: Day 184 in a row
