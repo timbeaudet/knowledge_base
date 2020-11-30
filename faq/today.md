@@ -1,13 +1,12 @@
-# Objectives for Today 2020-11-29:
+# Objectives for Today 2020-11-30:
 
-- Writing a script for a video on "HowTo Start a New Project"
-- Shooting video for "Idea Generation"
-- Shooting video for "HowTo Structure a Project"
-- Maybe Shooting video for "HowTo Start a New Project"
+- Updating Key Performance Indicators
+- Updating Discord Weekly Topic
 - Editing Idea Generation Video
+- If time: Thumbnail and Title for Idea Generation video.
 
 **Purpose**
 
-Practice producing videos.
+Practice producing videos to become faster at creating higher quality content.
 
-NEW RECORD: Day 185 in a row
+NEW RECORD: Day 186 in a row
