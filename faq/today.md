@@ -1,13 +1,10 @@
-# Objectives for Today 2020-11-30:
+# Objectives for Today 2020-12-01:
 
-- Updating Key Performance Indicators
-- Updating Discord Weekly Topic
-- Editing Idea Generation Video
-- If time: Thumbnail and Title for Idea Generation video.
+- Playing with physics, attempting to add friction
+- Releasing the Idea Generation video!
 
 **Purpose**
 
-Practice producing videos to become faster at creating higher quality content.
+Continue building stones required for the racing simulator.
 
-NEW RECORD: Day 186 in a row
-
+NEW RECORD: Day 187 in a row
