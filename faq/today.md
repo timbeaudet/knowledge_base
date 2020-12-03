@@ -1,9 +1,11 @@
 # Objectives for Today 2020-12-02:
 
-- Playing with physics, attempting to add friction and a test for it to deal energy over time.
+- Cutting up video about how to structure a project (directory)
+- Adding extra stuff to that same video.
+- Finishing script for using a template project. 
 
 **Purpose**
 
-Continue building stones required for the racing simulator.
+Get these two videos wrapped up before moving day.
 
-NEW RECORD: Day 188 in a row
+NEW RECORD: Day 189 in a row
