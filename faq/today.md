@@ -1,4 +1,4 @@
-# Objectives for Today 2020-12-02:
+# Objectives for Today 2020-12-03:
 
 - Cutting up video about how to structure a project (directory)
 - Adding extra stuff to that same video.
