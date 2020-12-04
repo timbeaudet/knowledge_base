@@ -1,11 +1,10 @@
-# Objectives for Today 2020-12-03:
+# Objectives for Today 2020-12-04:
 
-- Cutting up video about how to structure a project (directory)
-- Adding extra stuff to that same video.
-- Finishing script for using a template project. 
+- No idea. Probably not much physics and probably avoiding video work today.
+- Which leaves ... Not a clue.
 
 **Purpose**
 
-Get these two videos wrapped up before moving day.
+A minor break, brainstorming, fun, enjoyment, yea...
 
-NEW RECORD: Day 189 in a row
+NEW RECORD: Day 190 in a row
