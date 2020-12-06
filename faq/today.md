@@ -1,10 +1,12 @@
-# Objectives for Today 2020-12-05:
+# Objectives for Today 2020-12-06:
 
-- No idea. Probably not much physics and probably avoiding video work today.
-- Which leaves ... Not a clue.
+- Business review of November 2020
+- Editing a video of stream memories from Miami
+- When did you join the stream, what was happening?
+- What are your favorite Miami moments?
 
 **Purpose**
 
-A minor break, brainstorming, fun, enjoyment, yea...
+Leaving Miami Party day
 
-NEW RECORD: Day 191 in a row
+NEW RECORD: Day 192 in a row
