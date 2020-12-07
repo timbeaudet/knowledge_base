@@ -1,12 +1,13 @@
-# Objectives for Today 2020-12-06:
+# Objectives for Today 2020-12-07:
 
-- Business review of November 2020
-- Editing a video of stream memories from Miami
-- When did you join the stream, what was happening?
-- What are your favorite Miami moments?
+- Updating Key Performance Indicators
+- Updating Weekly Topic for Discord
+- Writing Development Report for Yesterday
+- Collecting information on all Racing Games released on Steam in Nov. 2020
+- Maybe: Tear down of the rig, most of.
 
 **Purpose**
 
-Leaving Miami Party day
+Researching racing games released, knowing what is coming out.
 
-NEW RECORD: Day 192 in a row
+NEW RECORD: Day 193 in a row
