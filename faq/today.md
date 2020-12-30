@@ -1,7 +1,7 @@
-# Objectives for Today 2020-12-29:
+# Objectives for Today 2020-12-30:
 
-- Writing a script for an adventure review video (my first $10,000 as an indie developer)
+- Playing with the iRacing SDK and hoping to see some data come in from the Sim.
 
 **Purpose**
 
-Tell the world about things, lessons learned and how the adventure is going.
+Explore the SDK and potential mini-project for sim racers.
