@@ -1,6 +1,8 @@
-# Objectives for Today 2020-12-30:
+# Objectives for Today 2020-12-31:
 
-- Playing with the iRacing SDK and hoping to see some data come in from the Sim.
+- Using some web technologies to draw a graph chart thingy.
+- Connecting C++ to web chart using web-sockets and json.
+- Playing with the iRacing SDK to collect some informative telemetry data.
 
 **Purpose**
 
