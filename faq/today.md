@@ -2,7 +2,7 @@
 
 - Indie Tavern Busines Review for December 2020
 - Looking ahead at 2021 goals and planning
-- Patreon post of the review and goals.
+- Patreon post of the review and goals.  
 **Something of the Below**  
 - Highlights 2018 video
 - Scripting/prep for My First $10,000 video
