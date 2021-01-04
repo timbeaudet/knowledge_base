@@ -1,14 +1,10 @@
-# Objectives for Today 2021-01-03
+# Objectives for Today 2021-01-04
 
-- Indie Tavern Busines Review for December 2020
-- Looking ahead at 2021 goals and planning
-- Patreon post of the review and goals.  
-**Something of the Below**  
-- Highlights 2018 video
-- Scripting/prep for My First $10,000 video
-- Planning out the Sim Racing Overlay project a lot more, what, how, why!
-- Playing with the iRacing SDK to collect some informative telemetry data.
+- Updating the Key Performance Indicators
+- Updating the Discord weekly Topic
+- Collecting all the racing games released on Steam in December 2020
+- If enough time: Add a voice over to the "moving" video and send it to mailing list.
 
 **Purpose**
 
-Learn how to do this better.
+Learn what racing games are getting released, which ones do well and which don't.
