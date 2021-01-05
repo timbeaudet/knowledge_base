@@ -1,10 +1,9 @@
-# Objectives for Today 2021-01-04
+# Objectives for Today 2021-01-05
 
-- Updating the Key Performance Indicators
-- Updating the Discord weekly Topic
-- Collecting all the racing games released on Steam in December 2020
-- If enough time: Add a voice over to the "moving" video and send it to mailing list.
+- Explore how we would deal with user input with Race Helper overlay/site.
+- Explore/Plan out what the project should actually be, and do.
+- Write up a set of marketing features and about project info; store page content.
 
 **Purpose**
 
-Learn what racing games are getting released, which ones do well and which don't.
+Figure out how feasible the project will be, where it should be taken, and if it is attractive.
