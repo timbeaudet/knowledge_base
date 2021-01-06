@@ -1,9 +1,9 @@
-# Objectives for Today 2021-01-05
+# Objectives for Today 2021-01-06
 
-- Explore how we would deal with user input with Race Helper overlay/site.
-- Explore/Plan out what the project should actually be, and do.
-- Write up a set of marketing features and about project info; store page content.
+- Writing the script for 2020 recap / first $10,000 video.
+- Thumbnail and information for Pitching to Publishers video.
+- Other video work on 2018 highlights reel, or other projects.
 
 **Purpose**
 
-Figure out how feasible the project will be, where it should be taken, and if it is attractive.
+Trying to wrapup the video projects we have going so we can focus on gamedev without having wasted the time spent on the videos.
