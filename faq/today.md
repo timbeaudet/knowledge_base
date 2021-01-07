@@ -1,4 +1,4 @@
-# Objectives for Today 2021-01-06
+# Objectives for Today 2021-01-07
 
 - Writing the script for 2020 recap / first $10,000 video.
 - Thumbnail and information for Pitching to Publishers video.
