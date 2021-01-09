@@ -1,8 +1,7 @@
-# Objectives for Today 2021-01-08
+# Objectives for Today 2021-01-09
 
-- Writing the script for 2020 recap / first $10,000 video.
-- Other video work on 2018 highlights reel, or other projects.
+- Making the telemetry display the correct chart while watching a replay.
 
 **Purpose**
 
-Trying to wrapup the video projects we have going so we can focus on gamedev without having wasted the time spent on the videos.
+Building the Telemetry Buddy application to help sim racers in real time.
