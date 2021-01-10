@@ -1,4 +1,4 @@
-# Objectives for Today 2021-01-09
+# Objectives for Today 2021-01-10
 
 - Making the telemetry display the correct chart while watching a replay.
 
