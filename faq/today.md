@@ -1,7 +1,10 @@
-# Objectives for Today 2021-01-10
+# Objectives for Today 2021-01-11
 
-- Making the telemetry display the correct chart while watching a replay.
+- Updating Key Performance Indicators data sheet.
+- Updating Discord Weekly Topic
+- Releasing YouTube video "Pitching My Game to Publishers"
+- Writing an email update for mailing list.
 
 **Purpose**
 
-Building the Telemetry Buddy application to help sim racers in real time.
+Push Tyre Bytes and Turbo Boom! information to the world.
