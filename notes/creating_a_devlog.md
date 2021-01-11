@@ -36,7 +36,7 @@
 
 ### Closed Captions
 
-- Copy the script and save as a .txt file near the video being uploaded.
-- Go into YouTube studio, video details for the desired video.
-- Click show more to expand, then find "Upload Subtitles" and use without timing.
-- Upload the script .txt file and magic?
+1. Copy the script and save as a .txt file near the video being uploaded.
+2. Go into YouTube studio, video details for the desired video.
+3. Click show more to expand, then find "Upload Subtitles" and use without timing.
+4. Upload the script .txt file and magic?
