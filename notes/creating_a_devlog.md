@@ -31,3 +31,12 @@
 
 - When collecting all the footage, the network actually has reasonable speeds to just copy.
 - Leave space at bottom of a graph or image intended to view while paused to avoid YouTube controls.
+
+## Releasing
+
+### Closed Captions
+
+- Copy the script and save as a .txt file near the video being uploaded.
+- Go into YouTube studio, video details for the desired video.
+- Click show more to expand, then find "Upload Subtitles" and use without timing.
+- Upload the script .txt file and magic?
