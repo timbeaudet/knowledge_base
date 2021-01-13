@@ -1,10 +1,7 @@
-# Objectives for Today 2021-01-11
+# Objectives for Today 2021-01-13
 
-- Updating Key Performance Indicators data sheet.
-- Updating Discord Weekly Topic
-- Releasing YouTube video "Pitching My Game to Publishers"
-- Writing an email update for mailing list.
+- Send the current session time to web-overlay and get it to stop moving when pausing replays.
 
 **Purpose**
 
-Push Tyre Bytes and Turbo Boom! information to the world.
+Explore the telemetry project further.
