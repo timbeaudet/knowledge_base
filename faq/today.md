@@ -1,7 +1,8 @@
-# Objectives for Today 2021-01-13
+# Objectives for Today 2021-01-14
 
-- Send the current session time to web-overlay and get it to stop moving when pausing replays.
+- Write the script of 2020 recap and first $10,000 of adventure.
+- Potentially work on highlights video, get the intro to be more catchy.
 
 **Purpose**
 
-Explore the telemetry project further.
+Continue pushing forward to wrap up the video projects that started before Feb.
