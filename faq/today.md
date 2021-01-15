@@ -1,7 +1,10 @@
-# Objectives for Today 2021-01-14
+# Objectives for Today 2021-01-15
 
-- Write the script of 2020 recap and first $10,000 of adventure.
-- Potentially work on highlights video, get the intro to be more catchy.
+- Making Thumbnails and Descriptions for YouTube videos.
+- Video 1: My first $10,000 as an indie developer
+- Video 2: Best Moments on Stream 2018 "Year 1, kinda"
+- Video 3: How I Structure My GameDev Projects
+- Video 4: How I Started A New Project (template project)
 
 **Purpose**
 
