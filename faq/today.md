@@ -1,6 +1,6 @@
-# Objectives for Today 2021-01-15
+# Objectives for Today 2021-01-16
 
-- Making Thumbnails and Descriptions for YouTube videos.
+- Trying to finish up multiple video projects:
 - Video 1: My first $10,000 as an indie developer
 - Video 2: Best Moments on Stream 2018 "Year 1, kinda"
 - Video 3: How I Structure My GameDev Projects
