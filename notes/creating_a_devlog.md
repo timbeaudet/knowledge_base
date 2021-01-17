@@ -1,6 +1,11 @@
 # Creating a Development Log
 
-## Preparing
+## Scripting
+
+- Do not accuse the audience, it sets them on edge.
+- Throw away all extra words that do not add to the objective or story.
+
+## Preparing the Shoot
 
 - Prior to starting ensure camera and other equipment is fully charged; otherwise expect delays.
 - Get the lighting situated, turn all lights on, turn all monitors off.
@@ -33,6 +38,18 @@
 - Leave space at bottom of a graph or image intended to view while paused to avoid YouTube controls.
 
 ## Releasing
+
+### Thumbnails
+
+- Use a face in the thumbnail.
+  - This is highly advised, though I believe I've had lower CTR when doing so. Perhaps gamedev videos are better without the face, or perhaps my face is simply too scary for viewers to click on.
+- Add Text in Thumbnail
+  - There are theories that viewers ignore the titles while browsing and see only the thumbnail text.
+  - Keep the text large
+  - Limit yourself to 4 words or so.
+  - Be consistent with placement, color, font, size, etc for "brand identification"
+- Use Graphic Elements to Draw Attention
+  - Arrow, Highlight Circles, Price Tags
 
 ### Closed Captions
 
