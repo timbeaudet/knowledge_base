@@ -112,6 +112,7 @@ Click in the empty area of swatches palette to add the color.
 - If hex color is not an option in the color panel, change the image to 8bits/channel.
 - To change the color of something, select the color and use **_Image > Adjustments > Hue / Saturation_** `CTRL+U` and change the hue. Seemed to work great when the color was alone, as in the rest of the active was transparent.
 - To toggle the visibility of the guides (hide and show without deleting) use `CTRL+;` (or macOS `CMD+;`)
+- It is possible to copy stroke and other effects to other layers by using Copy Layer Style and then Paste Layer Style in context menu.
 
 ## Creating a Grid of Dots using Pattern
 
