@@ -1,4 +1,4 @@
-# Objectives for Today 2021-01-19
+# Objectives for Today 2021-01-20
 
 - Trying to finish up multiple video projects:
   - Video 1: DONE -  Pitching my Game to Publishers **(done)**
