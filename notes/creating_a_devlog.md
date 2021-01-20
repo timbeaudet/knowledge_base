@@ -65,3 +65,5 @@
 1. Open YouTube Studio and click Analytics to see channel analytics.
 2. In the top right, click Advanced Mode
 3. Use either drop down to select Impressions click-through rate
+
+_Note: another useful thing would be to sort the videos by this by clicking the Impressions click-through rate header. Use the same process for a variety of other stats including average percentage viewed, though I haven't found a way to sort on that._
