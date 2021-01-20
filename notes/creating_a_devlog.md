@@ -57,3 +57,11 @@
 2. Go into YouTube studio, video details for the desired video.
 3. Click show more to expand, then find "Upload Subtitles" and use without timing.
 4. Upload the script .txt file and magic?
+
+## Post Release
+
+### Compare CTR of all Videos (YouTube)
+
+1. Open YouTube Studio and click Analytics to see channel analytics.
+2. In the top right, click Advanced Mode
+3. Use either drop down to select Impressions click-through rate
