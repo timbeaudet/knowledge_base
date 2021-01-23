@@ -54,6 +54,15 @@ When the frame drops do not have enough precision to work with you can Right-cli
 3. Press `D` to select the clip under the playhead.
 4. Press `SHIFT+DELETE` to ripple delete the select clip and remove space it would create.
 
+**Creating an Effect Preset**
+
+This can increase productivity by 100 or more. If you have some sequence of effects that you apply consistently, like fading, scaling or moving something in a special manner than you can save the effect preset.
+
+In the effect controls panel select the "headers" of the effects you want. For position or scale this would be "Motion"
+Right-click and save preset...
+
+That is pretty simple, but what a great work-flow improvement it was!
+
 **ISSUE: Corrupted MP4 when Camera didn't change anything**
 
 Not sure how this became an issue, but Premiere was complaining of corrupt/incompatible format. The video could be opened in media player.
