@@ -1,12 +1,11 @@
-# Objectives for Today 2021-01-24
+# Objectives for Today 2021-01-25
 
-- Wrap up personal website adjustments and get it uploaded to host.
-- Create a presskit page for Eggcelerate!
-- Create a ... whatever it is ... for Eggcelerate! to be listed on twitch games.
-- Create a ... whatever it is ... for Eggcelerate! to be listed on YouTube games.
-- Write up a work-order for some marketing / key images for Eggcelerate! steam page.
-- Create an Eggcelerate! campaign message with overlay?
+- Updating the Key Performance Indicators
+- Preparing YouTube blitz release for 2020 Recap and Lessons Learned
+- Writing a reddit post/first comment for that video release.
+- Go through all YouTube videos looking to optimize them where possible; captions, keywords, etc.
+- Something else?
 
 **Purpose**
 
-Begin bringing Eggcelerate! to the world and presenting myself a little better.
+Grow the YouTube channel, and 🤞 improve at optimizing the videos/channel for views/clicks.
