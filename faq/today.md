@@ -1,11 +1,10 @@
-# Objectives for Today 2021-01-25
+# Objectives for Today 2021-01-26
 
-- Updating the Key Performance Indicators
-- Preparing YouTube blitz release for 2020 Recap and Lessons Learned
-- Writing a reddit post/first comment for that video release.
-- Go through all YouTube videos looking to optimize them where possible; captions, keywords, etc.
-- Something else?
+- Puttering around in Stream Helper
+- Adding Contribution Opportunities
+- Cleaning up some code
+- Adding new features, etc.
 
 **Purpose**
 
-Grow the YouTube channel, and 🤞 improve at optimizing the videos/channel for views/clicks.
+Take a bit of time to improve the stream experience or tools that help the experience.
