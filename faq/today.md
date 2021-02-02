@@ -1,4 +1,4 @@
-# Objectives for Today 2021-02-03
+# Objectives for Today 2021-02-02
 
 - Blender Warmup creating new obstacles and props.
 - Review of Eggcelerate! tasks for Steam update.
