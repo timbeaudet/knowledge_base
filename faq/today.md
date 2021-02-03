@@ -1,11 +1,12 @@
-# Objectives for Today 2021-02-02
+# Objectives for Today 2021-02-03
 
-- Blender Warmup creating new obstacles and props.
-- Review of Eggcelerate! tasks for Steam update.
-- Pushing Eggcelerate! sale for the final hours.
+- Try creating a list of tasks and things for a potential contractor could do on Eggcelerate!
+- Try creating a list of assets that a potential art contractor could help with!
+- Jump into Unity and consider updating to the latest LTS release
+- Make the lapped levels point-to-point
+- Moving forward with
+
 
 **Purpose**
 
-Try a heavy discount to get surveys and information about Eggcelerate!
-Track where things are going with various indidcators.
-Learn and continue pushing forward with indie adventure.
+Learn and continue pushing forward with indie adventure and get Eggcelerate moving forward!
