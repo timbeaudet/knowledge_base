@@ -1,10 +1,7 @@
-# Objectives for Today 2021-02-03
+# Objectives for Today 2021-02-04
 
-- Try creating a list of tasks and things for a potential contractor could do on Eggcelerate!
-- Try creating a list of assets that a potential art contractor could help with!
-- Jump into Unity and consider updating to the latest LTS release
-- Make the lapped levels point-to-point
-- Moving forward with
+- Still warming up with Unity
+- Aiming to make progress with a few small TODO items for eggcelerate!
 
 
 **Purpose**
