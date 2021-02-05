@@ -1,8 +1,7 @@
-# Objectives for Today 2021-02-04
+# Objectives for Today 2021-02-05
 
-- Still warming up with Unity
+- Still warming up with Unity... YIKES
 - Aiming to make progress with a few small TODO items for eggcelerate!
-
 
 **Purpose**
 
