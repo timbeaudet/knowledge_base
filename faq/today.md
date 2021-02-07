@@ -1,10 +1,9 @@
-# Objectives for Today 2021-02-06
+# Objectives for Today 2021-02-07
 
 - Checkout toasterfuels work from last night.
-- Take all levels that have laps and make them point-to-point.
-- See about getting Achievements to be keyboard/gamepad enabled.
-- Figure out Level Select screen up and down navigation.
-- Look for and solve various bugs in UI and level design with the current levels.
+- Creating new levels and challenges for egg racing fun.
+- Jumping into Blender a bit for new obstacles, at least proof-of-concept art.
+- Decorating helpers
 
 **Purpose**
 
