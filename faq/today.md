@@ -1,9 +1,9 @@
-# Objectives for Today 2021-02-07
+# Objectives for Today 2021-02-08
 
-- Checkout toasterfuels work from last night.
-- Creating new levels and challenges for egg racing fun.
-- Jumping into Blender a bit for new obstacles, at least proof-of-concept art.
-- Decorating helpers
+- Updating Key Performance Indicators
+- Updating Weekly Topic
+- Finalizing release for Twitch Highlights video
+- Researching press contacts for promoting eggcelerate
 
 **Purpose**
 
