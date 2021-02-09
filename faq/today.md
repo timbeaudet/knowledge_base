@@ -1,9 +1,6 @@
-# Objectives for Today 2021-02-08
+# Objectives for Today 2021-02-09
 
-- Updating Key Performance Indicators
-- Updating Weekly Topic
-- Finalizing release for Twitch Highlights video
-- Researching press contacts for promoting eggcelerate
+- Going all in on the new level select screen from Sunday.
 
 **Purpose**
 
