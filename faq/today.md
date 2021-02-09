@@ -1,6 +1,6 @@
 # Objectives for Today 2021-02-09
 
-- Going all in on the new level select screen from Sunday.
+- Adding new obstacles and things to avoid in the game!
 
 **Purpose**
 
