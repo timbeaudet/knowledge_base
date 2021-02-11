@@ -1,11 +1,10 @@
-# Objectives for Today 2021-02-10
+# Objectives for Today 2021-02-11
 
 - Adding new obstacles and things to avoid in the game!
-- Working on the hammer obstacle!
-- Working on a punching glove obstacle!
-- Adding a maximum speed zone to lower top-speed.
-- Creating prefabs for various track obstacles; jumps & loops etc
 - Adding a see-saw obstacle
+- Adding a maximum speed zone to lower top-speed.
+- Working more on the punching glove obstacle!
+- Creating prefabs for various track obstacles; jumps & loops etc
 
 **Purpose**
 
