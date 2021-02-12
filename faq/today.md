@@ -1,10 +1,8 @@
 # Objectives for Today 2021-02-11
 
-- Adding new obstacles and things to avoid in the game!
-- Adding a see-saw obstacle
-- Adding a maximum speed zone to lower top-speed.
-- Working more on the punching glove obstacle!
-- Creating prefabs for various track obstacles; jumps & loops etc
+- Work on xz plane magnet to make jumps easier but not basic.
+- Try fixing issue with flower placing tool/prefabs.
+- Play with boxing glove and saw obstacles.
 
 **Purpose**
 
