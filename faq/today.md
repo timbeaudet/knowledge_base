@@ -1,8 +1,11 @@
-# Objectives for Today 2021-02-11
+# Objectives for Today 2021-02-13
 
-- Work on xz plane magnet to make jumps easier but not basic.
-- Try fixing issue with flower placing tool/prefabs.
-- Play with boxing glove and saw obstacles.
+- Adding a component to turn off level specific lights and turn on global light.
+- Digging into current levels for performance checks to ensure future levels are good.
+  - Attempt to limit to 2ish hours
+- Adding notes to a Level Design Manual / Document
+- Creating more track segments in blender
+- Creating walls in blender
 
 **Purpose**
 
