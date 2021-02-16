@@ -1,10 +1,10 @@
-# Objectives for Today 2021-02-15
+# Objectives for Today 2021-02-16
 
-- Update Key Performance Indicators for the adventure.
-- Update the weekly discord topic.
-- Continue digging for press contacts and case studying similar games.
+- Ensure the player can't skip invalidated checkpoint numbers.
+- Time how long it takes a jump, potentially do a time subtraction.
+- Build levels!
 
 **Purpose**
 
-Get ready to push Eggcelerate! to the world!
+Make some easier levels to get the player trained on what they need to do!
 Try adding most value for least effort/time.
