@@ -1,8 +1,6 @@
-# Objectives for Today 2021-02-16
+# Objectives for Today 2021-02-17
 
-- Ensure the player can't skip invalidated checkpoint numbers.
-- Time how long it takes a jump, potentially do a time subtraction.
-- Build levels!
+- Build a level to teach players how to play the game!
 
 **Purpose**
 
