@@ -1,6 +1,7 @@
-# Objectives for Today 2021-02-17
+# Objectives for Today 2021-02-18
 
 - Build a level to teach players how to play the game!
+- Introduce the hammer.
 
 **Purpose**
 
