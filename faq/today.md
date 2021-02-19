@@ -1,7 +1,8 @@
-# Objectives for Today 2021-02-18
+# Objectives for Today 2021-02-19
 
+- Knocking out as many todo's related to obstacle working as possible.
 - Build a level to teach players how to play the game!
-- Introduce the hammer.
+- Introduce the punching glove or a different obstacle.
 
 **Purpose**
 
