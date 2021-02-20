@@ -1,8 +1,9 @@
-# Objectives for Today 2021-02-19
+# Objectives for Today 2021-02-20
 
-- Knocking out as many todo's related to obstacle working as possible.
-- Build a level to teach players how to play the game!
-- Introduce the punching glove or a different obstacle.
+- First ever subathon: 10 minutes per sub or 250 bits.
+- Maximum of 24 hours of game development fueled by YOU!
+- Building levels for Eggcelerate!
+- Making game the best it can be!
 
 **Purpose**
 
