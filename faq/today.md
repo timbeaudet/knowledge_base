@@ -1,7 +1,8 @@
-# Objectives for Today 2021-02-23
+# Objectives for Today 2021-02-24
 
-- Looking at elevation changes toaster made.
+- Looking at effects and other changes toaster made.
 - Designing new levels and/or touching up current levels.
+- Targeting to finish at least one, may two levels.
 
 **Purpose**
 
