@@ -18,3 +18,13 @@ $ git config --global pack.window "0"
 $ git clone http://timbeaudet.com:3000/GameDevArena/eggcelerate.git
 $ git config --global --unset pack.window
 ```
+
+**Note:**
+
+It would appear that didn't help a collaborator with the issue they had, I then went into the gitea repository folder on the server and ran the following commands, _(which could probably be done with `--global` but just local to that repo for now)_:
+
+```
+git config pack.windowMemory "100m"
+git config pack.packSizeLimit "100m" 
+git config pack.threads "1"
+```
