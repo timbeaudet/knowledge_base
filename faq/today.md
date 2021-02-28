@@ -1,10 +1,11 @@
-# Objectives for Today 2021-02-27
+# Objectives for Today 2021-02-28
 
-- Trying to improve Egg bounces, and why they might have broke.
-- One last attempt to make jumps exciting and less random success!
-- Designing new levels and/or touching up current levels.
-- Putting all the levels in the game, perhaps not the right order yet.
-- Creating builds for itch.io and players to really hammer on!
+- Final day of development where any NEW things gets added!
+- Writing up the changelog for v1.0.4 release.
+- Performing a business review of February, looking forward into March.
+- Designing 3 or 4 new levels to get the levels completed.
+- Final touches on levels, and wrapping those things up!
+- Finding and fixing bugs along the way!!!
 
 **Purpose**
 
