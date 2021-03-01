@@ -21,6 +21,7 @@
 ### Do
 - Add key features
 - Add screenshots of unique aspects to game info panel.
+- Remove all old/legacy screenshots, they are likely inconsistent with final product.
 - Release story-based games in episodic/season based content.
 - Toss in fitting 'banner / header' like gameplay gifs.
 - Consider adding an area of the screenshots with text, to tell story as prospective player travels through.
