@@ -1,11 +1,9 @@
-# Objectives for Today 2021-02-28
+# Objectives for Today 2021-03-01
 
-- Final day of development where any NEW things gets added!
-- Writing up the changelog for v1.0.4 release.
-- Performing a business review of February, looking forward into March.
-- Designing 3 or 4 new levels to get the levels completed.
-- Final touches on levels, and wrapping those things up!
-- Finding and fixing bugs along the way!!!
+- Updating Key Performance Indicators
+- Updating Weekly Discord Topic
+- Researching and digging through racing games on Steam in Feb 2021
+- Generating marketing ideas and a plan of attack.
 
 **Purpose**
 
