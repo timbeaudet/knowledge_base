@@ -1,11 +1,11 @@
-# Objectives for Today 2021-03-02
+# Objectives for Today 2021-03-03
 
-- Generating marketing ideas and creating an attack plan.
 - Research twitch / YouTube influencers for racing games.
+- Writeup a script for the development log for the Feb. devlog.
 
 **Evening**
 
-- Finishing level design on the two levels from yesterday.
+- Continue polish, bug fixing and wrapup of the game.
 
 **Purpose**
 
