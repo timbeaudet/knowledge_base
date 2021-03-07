@@ -1,10 +1,10 @@
-# Objectives for Today 2021-03-06
+# Objectives for Today 2021-03-07
 
-- Continue polish, bug fixing and wrapup of the game.
-- Add decals on levels without them... 21 - 30
-- Work on achievements, make achievable things happen.
-- Fix the bugs... Squish 'em.
-- All the things be happening here.
+- Updating a few levels.
+- Maybe trying to work on Steam integrations?
+- Setting developer and goal times for the player.
+- Adding egg/icon to the Level Select screen to show goal/dev beaten.
+- Playing the game start to finish.
 
 **Purpose**
 
