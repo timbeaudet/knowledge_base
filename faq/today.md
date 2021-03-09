@@ -1,11 +1,12 @@
-# Objectives for Today 2021-03-08
+# Objectives for Today 2021-03-09
 
-- Updating Key Performance Indicators
-- Taking Screenshots and Cutting Clips
-- Preparing Press-Kit Content
-- Preparing Store-Page Copy
+- Take at least 5 Screenshots for PressKit
+- Update Press-Kit Content, new screenshots and trailer at least.
+- Writing and Tuning Words for the first email blast.
+- Preparing Copy and Phrases for Store-Page
+- Create Social Media Action Clips
 - Bringing Eggcelerate! to the World!
 
 **Purpose**
 
-Making Eggcelerate! the best we can with the time we got!
+Start getting people to know about Eggcelerate!
