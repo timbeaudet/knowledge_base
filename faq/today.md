@@ -1,9 +1,8 @@
-# Objectives for Today 2021-03-09
+# Objectives for Today 2021-03-10
 
-- Take at least 5 Screenshots for PressKit
-- Update Press-Kit Content, new screenshots and trailer at least.
-- Writing and Tuning Words for the first email blast.
-- Preparing Copy and Phrases for Store-Page
+- Writing an email for my targeted email blast.
+- Preparing Copy and Phrases for Store-Page.
+- Tuning Performance Words.
 - Create Social Media Action Clips
 - Bringing Eggcelerate! to the World!
 
