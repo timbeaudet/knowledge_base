@@ -1,4 +1,4 @@
-# Objectives for Today 2021-03-10
+# Objectives for Today 2021-03-11
 
 - Writing an email for my targeted email blast.
 - Preparing Copy and Phrases for Store-Page.
