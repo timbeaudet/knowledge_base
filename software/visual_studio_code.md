@@ -58,6 +58,12 @@ It appears this setting may be per folder.
 - Middle-Mouse Button will close the tab without pressing the [x].
 - CTRL+ALT+UP and CTRL+ALT+DOWN arrows will allow multi cursor creation.
 
+## Extra Control for Extensions
+
+### markdownlint
+
+- Disable linting in current file by pressing F1 and typing "toggle"  (in full you want to `markdownlint.toggleLinting` which effects only present file.)
+
 ## Solutions to some issues.
 
 - Issue: Too many files for filewatcher.
