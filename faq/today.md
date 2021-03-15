@@ -10,5 +10,5 @@
 
 **Purpose**
 
-Start getting people to know about Eggcelerate!
+Start getting people to know about Eggcelerate!  
 Bring the best Eggcelerate! possible to the World!
