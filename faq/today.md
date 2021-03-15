@@ -1,10 +1,12 @@
-# Objectives for Today 2021-03-14
+# Objectives for Today 2021-03-15
 
-- Writing up 1.0.9 Release Notes on gitea and itch.io
-- February 2020 Business Review Write up
-- Write content for email campaign ramping up to Eggcelerate! release.
-- Create at least 3 Social Media Action Clips
-- Play the game. A lot.
+- Update Key Performance Indicators
+- Update Weekly Topic in Discord (if possible)
+- Review and prioritize marketing plan (see unscheduled tasks)
+- Setup the woovit campaign as much as possible
+- Setup the KeyMailer campaign as much as possible
+- Double check email content for influencers (goes out tomorrow)
+- Continue writing the email content for players.
 
 **Purpose**
 
