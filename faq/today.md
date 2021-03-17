@@ -1,14 +1,9 @@
-# Objectives for Today 2021-03-15
+# Objectives for Today 2021-03-17
 
-- Update Key Performance Indicators
-- Update Weekly Topic in Discord (if possible)
-- Review and prioritize marketing plan (see unscheduled tasks)
-- Setup the woovit campaign as much as possible
-- Setup the KeyMailer campaign as much as possible
-- Double check email content for influencers (goes out tomorrow)
-- Continue writing the email content for players.
+- Update the Steam store page graphics with the new logo.
+- Begin writing an Upcoming Release for Steam about Eggcelerate!
+- Continue writing emails to players for the drip campaign.
 
 **Purpose**
 
 Start getting people to know about Eggcelerate!  
-Bring the best Eggcelerate! possible to the World!
