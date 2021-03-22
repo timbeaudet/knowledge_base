@@ -1,17 +1,12 @@
-# Objectives for Today 2021-03-21
+# Objectives for Today 2021-03-22
 
-- One more pass over writing the Second email to press and influencers.
-- One more pass over writing the Upcoming Release notice for Steam news.
-- One more pass over writing the emails to players for the drip campaign.
-- Record and trim down some b-roll footage for journalists.
-- Record and edit an action clip showing the car selection/assortment.
-- Create a better "thumbnail" for Steam browsing for the game, add a car or something.
-- Begin collecting a google drive folder with assets that show "coming soon" and/or "now on steam"
-  - We will want to be able to switch this out seamlessly on release day
-
-- Prepare a slideshow scene for doing secret stuff on stream for long periods of time.
-
+- Dealing with loads of technical difficulties (internet was down)
+- Decided "now" was a good time to apply updates ... F M L ... Updates undone!
+- Updated Key Performance Indicators
+- Update the priorities on marketing plan for Week #4
+- Sending Eggcelerate! to "self-post" things on the press sheet.
+- Doing the things on that plan!
 
 **Purpose**
 
-Start getting people to know about Eggcelerate!  
+Start getting people to know about Eggcelerate!
