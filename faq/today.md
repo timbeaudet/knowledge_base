@@ -1,11 +1,8 @@
-# Objectives for Today 2021-03-22
+# Objectives for Today 2021-03-24
 
-- Dealing with loads of technical difficulties (internet was down)
-- Decided "now" was a good time to apply updates ... F M L ... Updates undone!
-- Updated Key Performance Indicators
-- Update the priorities on marketing plan for Week #4
-- Sending Eggcelerate! to "self-post" things on the press sheet.
-- Doing the things on that plan!
+- Create a solid release notice to post on Steam for release day news.
+- Creating a release notice to post on itch.io for major update/release news.
+- Continue writing up and preparing reddit content for day of release.
 
 **Purpose**
 
