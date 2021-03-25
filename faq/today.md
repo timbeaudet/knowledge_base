@@ -1,8 +1,6 @@
-# Objectives for Today 2021-03-24
+# Objectives for Today 2021-03-25
 
-- Create a solid release notice to post on Steam for release day news.
-- Creating a release notice to post on itch.io for major update/release news.
-- Continue writing up and preparing reddit content for day of release.
+- No idea what objectives there are today, lets take some steps forward.
 
 **Purpose**
 
