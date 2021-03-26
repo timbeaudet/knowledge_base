@@ -1,6 +1,8 @@
-# Objectives for Today 2021-03-25
+# Objectives for Today 2021-03-26
 
-- No idea what objectives there are today, lets take some steps forward.
+- Finishing up first pass of the "Its Released" email to press/influencers.
+- Creating the art/imagery for "Its Released" notice/news on Steam.
+- Creating the art/imagery for "Its Released" notice on itch.io
 
 **Purpose**
 
