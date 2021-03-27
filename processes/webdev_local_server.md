@@ -1,4 +1,10 @@
 
+# Create a Server on Hippo for Eggcelerate! and similar php served sites:
+
+0. `cd` into the directory with index.php
+1. `php -S 0.0.0.0:1080`
+2. Open browser to `hippo:1080`
+
 # Deploy Live WebSite Changes
 
 When developing the Tyre Bytes website, or others that use the same setup, you can modify the site and immediately see the results using the `hugo server`.
