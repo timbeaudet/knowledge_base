@@ -1,5 +1,7 @@
 
-# Create a Server on Hippo for Eggcelerate! and similar php served sites:
+# Create a Server on Hippo
+
+This works for Eggcelerate! and similar php served sites.
 
 0. `cd` into the directory with index.php
 1. `php -S 0.0.0.0:1080`
