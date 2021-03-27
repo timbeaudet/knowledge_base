@@ -1,8 +1,10 @@
-# Objectives for Today 2021-03-26
+# Objectives for Today 2021-03-27
 
-- Finishing up first pass of the "Its Released" email to press/influencers.
-- Creating the art/imagery for "Its Released" notice/news on Steam.
-- Creating the art/imagery for "Its Released" notice on itch.io
+- Finalizing the 3rd email to press and influencers.
+- Updating the Eggcelerate! landing page with new screenshots, content and Steam button.
+- Ensure the Sale assets and information only shows up or gets added when a sale is present.
+- Writing some more marketing content to post to reddit and such.
+- Practice some speedrunning on later or more difficult tracks.
 
 **Purpose**
 
