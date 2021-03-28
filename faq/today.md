@@ -1,9 +1,10 @@
-# Objectives for Today 2021-03-27
+# Objectives for Today 2021-03-28
 
-- Finalizing the 3rd email to press and influencers.
-- Updating the Eggcelerate! landing page with new screenshots, content and Steam button.
-- Ensure the Sale assets and information only shows up or gets added when a sale is present.
+- Look into adding key-art and other cover image updates on itch.io.
 - Writing some more marketing content to post to reddit and such.
+- Maybe play with the game manual, if learning indesign is desired.
+- Maybe write some scripts for devlog footage now that I'm super behind there.
+- Maybe do some stream helper / bot work.
 - Practice some speedrunning on later or more difficult tracks.
 
 **Purpose**
