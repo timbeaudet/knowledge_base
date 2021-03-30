@@ -1,10 +1,12 @@
-# Objectives for Today 2021-03-29
+# Objectives for Today 2021-03-30
 
-- Update Key Performance Indicators.
-- Writing some more marketing content to post to reddit and such.
-- Maybe play with the game manual, if learning indesign is desired.
-- Maybe write some scripts for devlog footage now that I'm super behind there.
+- Prep some extra stuff.
+- Press Release button at 8am ET
+- Push release news buttons for awhile!
+- Have an awesome Release Party, playing games!
+
+(If not streaming on Twitch will be on Steam, or vice-versa)
 
 **Purpose**
 
-Start getting people to know about Eggcelerate!
+RELEASE THE PRODUCT OF EGGCELERATE! TO THE WORLD
