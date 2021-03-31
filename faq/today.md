@@ -1,12 +1,8 @@
-# Objectives for Today 2021-03-30
+# Objectives for Today 2021-03-31
 
-- Prep some extra stuff.
-- Press Release button at 8am ET
-- Push release news buttons for awhile!
-- Have an awesome Release Party, playing games!
-
-(If not streaming on Twitch will be on Steam, or vice-versa)
+- Patch some bugs and issues that have been found and spotting in Eggcelerate!
+- Write up some devlog stuff and or roadmaps and or have some FUN.
 
 **Purpose**
 
-RELEASE THE PRODUCT OF EGGCELERATE! TO THE WORLD
+Make project better!
