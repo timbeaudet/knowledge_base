@@ -1,9 +1,12 @@
-# Objectives for Today 2021-04-02
+# Objectives for Today 2021-04-03
 
-- Send an email to the pitlane report subscribers about Eggcelerate!
-- Patch some bugs and issues that have been found and spotting in Eggcelerate!
-- Write up some devlog stuff and or roadmaps and or have some FUN.
+- Random clips video for Eggcelerate!
+- Work on Indie Career Tracker
+  - Add a runway projector/calculator
+  - Add a "project info" page to dig deeper into project.
+- Writing up some scripts for the devlog / YouTube videos.
+  - consider writing them as articles for Reddit prior to.
 
 **Purpose**
 
-Make project better!
+Just keep swimming.
