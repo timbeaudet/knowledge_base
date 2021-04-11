@@ -8,9 +8,9 @@ Second, this is a good question and as an independent developer it is one that s
 
 ## Advantages and Disadvantages
 
-There are many benefits to writing a homebrewn engine, and there are also many benefits to using an existing engine. Key among them are listed here, although there are many other points not listed.
+There are many benefits to writing a homebrewn engine, and there are also many benefits to using an existing engine. Key among them are listed here, although there are many other points not listed. I made two videos on YouTube, [why to build a custom engine](https://youtu.be/3L6EkTjbbvg) and, [why to use an existing engine.](https://youtu.be/kR17Q5eRgxM)
 
-### [Benefits to custom engine](https://youtu.be/3L6EkTjbbvg)
+### Benefits to custom engine
 
 - Designing a workflow to meet your ambitions.
 - Being responsible for, and capable of fixing, bugs.
@@ -20,7 +20,7 @@ There are many benefits to writing a homebrewn engine, and there are also many b
 - Owning the engine
 	- Not being constrained in some way or another, or other licensing concerns.
 
-### [Benefits to existing engines](https://youtu.be/kR17Q5eRgxM)
+### Benefits to existing engines
 
 - Saving Development Time
 	- Already built, potentially cross platform.
