@@ -1,6 +1,6 @@
 # Sim Racing / Game Development Station
 
-![Tim's Racing Rig](https://www.timbeaudet.com/setup/content/now_with_6_screens.png)
+![Tim's Racing Rig](https://www.timbeaudet.com/setup/content/now_with_6_monitors.png)
 
 - Asus Maximus VIII Hero
 - Intel i7-6700K @ 4.0ghz
