@@ -2,15 +2,15 @@
 
 ## Important
 
-First, why not my own engine? Anyone should choose to use that which works best for them. The act of creating is what is what is important after all.
+First, why not my own engine? Anyone should choose to use that which works best for them. The act of creating is what is important after all.
 
-Second, this is a good question and as an independent developer it is one that should be carefully considered. I have weighed the benefits carefully and although speed and ease of development would be improved, it doesn't fit my long-term goals.
+Second, this is a good question and as an independent developer it is one that should be very carefully considered. I have weighed the benefits carefully and although speed and ease of development would be improved, it doesn't fit my long-term goals.
 
 ## Advantages and Disadvantages
 
 There are many benefits to writing a homebrewn engine, and there are also many benefits to using an existing engine. Key among them are listed here, although there are many other points not listed.
 
-### Benefits to custom engine
+### [Benefits to custom engine](https://youtu.be/3L6EkTjbbvg)
 
 - Designing a workflow to meet your ambitions.
 - Being responsible for, and capable of fixing, bugs.
@@ -20,7 +20,7 @@ There are many benefits to writing a homebrewn engine, and there are also many b
 - Owning the engine
 	- Not being constrained in some way or another, or other licensing concerns.
 
-### Benefits to existing engines
+### [Benefits to existing engines](https://youtu.be/kR17Q5eRgxM)
 
 - Saving Development Time
 	- Already built, potentially cross platform.
@@ -30,4 +30,5 @@ There are many benefits to writing a homebrewn engine, and there are also many b
 	- Perhaps more beneficial to newer developers for assistance.
 
 ## The Reason
-My long-term goal is to create a realistic, physically-accurate, online-multiplayer, racing simulation and I do not believe I can rely on any particular engine or physics library to do this. I want first-hand knowledege of exactly what shortcuts are taken, and what inaccuaracies are introduced for optimizing.
+
+My long-term goal is to create a physically-accurate, online-multiplayer, racing simulation and I do not believe I can rely on any particular engine or physics library to do this. I want first-hand knowledege of exactly what shortcuts are taken, and what inaccuaracies are introduced for optimizing.
