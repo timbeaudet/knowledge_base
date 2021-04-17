@@ -1,11 +1,10 @@
-# Objectives for Today 2021-04-15
+# Objectives for Today 2021-04-17
 
-- Social media responses on reddit.
-- Dig into Web Socket RFC and try getting a proper server.
-- Brainstorm more discord weekly topics.
-- May write some script on development logs.
-
+- Dig into post on reddit about 10k wishlists.
+- A little project planning for Telemetry Buddy.
+- Write the devlog script / post mortem: "How Game Did"
+- Misc. stuffs
 
 **Purpose**
 
-Make the stream better, and move forward on random tasks.
+Make progress on various projects and figure out exactly where Telemetry Buddy is going.
