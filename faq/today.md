@@ -1,9 +1,8 @@
-# Objectives for Today 2021-04-17
+# Objectives for Today 2021-04-18
 
-- Dig into post on reddit about 10k wishlists.
+- Prototyping and proving ideas will work for Telemetry Buddy.
 - A little project planning for Telemetry Buddy.
 - Write the devlog script / post mortem: "How Game Did"
-- Misc. stuffs
 
 **Purpose**
 
