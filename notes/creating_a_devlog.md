@@ -4,6 +4,10 @@
 
 - Do not accuse the audience, it sets them on edge.
 - Throw away all extra words that do not add to the objective or story.
+- When writing from an outline make sure to expand on the points with a quick example.
+- Ensure to give pros and cons, don't stay one sided; or make two videos to share both views.
+  - In the "Publishing on Steam" there was no downsides listed, like players having higher expectations, etc.
+- Read through the script out-loud to find places that cause you to trip, edit these areas.
 
 ## Preparing the Shoot
 
