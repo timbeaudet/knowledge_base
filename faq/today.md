@@ -1,9 +1,11 @@
-# Objectives for Today 2021-04-18
+# Objectives for Today 2021-04-19
 
-- Prototyping and proving ideas will work for Telemetry Buddy.
-- A little project planning for Telemetry Buddy.
-- Write the devlog script / post mortem: "How Game Did"
+- Updating of Key Performance Indicators
+- Update the weekly topic in Discord
+- Brainstorm some more weekly topics
+- YouTube Video Thumbnails, Titles and Descriptions
+- Releasing "Bringing a Game to Steam"
 
 **Purpose**
 
-Make progress on various projects and figure out exactly where Telemetry Buddy is going.
+Make videos to help other developer, and to share the story of my adventure.
