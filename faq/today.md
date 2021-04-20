@@ -1,11 +1,8 @@
-# Objectives for Today 2021-04-19
+# Objectives for Today 2021-04-20
 
-- Updating of Key Performance Indicators
-- Update the weekly topic in Discord
-- Brainstorm some more weekly topics
-- YouTube Video Thumbnails, Titles and Descriptions
-- Releasing "Bringing a Game to Steam"
+- Random todos for the tracker and other things.
+- Jumping into Telemetry Buddy.
 
 **Purpose**
 
-Make videos to help other developer, and to share the story of my adventure.
+Continue moving forward in my adventure.
