@@ -1,7 +1,7 @@
-# Objectives for Today 2021-04-20
+# Objectives for Today 2021-04-21
 
-- Random todos for the tracker and other things.
-- Jumping into Telemetry Buddy.
+- Attempting to get Telemetry Buddy recording data for a full race session.
+- Maybe attempt to save this data in json document within a sqlite file, or perhaps an actual table?
 
 **Purpose**
 
