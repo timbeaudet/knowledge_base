@@ -1,7 +1,9 @@
-# Objectives for Today 2021-04-22
+# Objectives for Today 2021-04-24
 
-- Attempting to get Telemetry Buddy recording data for a full race session.
-- Maybe try seeing some early stages of the session analysis display.
+- LudumDare 48, The Last Compo
+- Making a racing game about driving **Deeper and Deeper** into a canyon.
+- Hoping to be feature complete by 10am, no later than 11:59am.
+- After feature complete all modeling.
 
 **Purpose**
 
