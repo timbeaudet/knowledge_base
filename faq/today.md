@@ -1,10 +1,14 @@
-# Objectives for Today 2021-04-24
+# Objectives for Today 2021-04-25
 
-- LudumDare 48, The Last Compo
-- Making a racing game about driving **Deeper and Deeper** into a canyon.
-- Hoping to be feature complete by 10am, no later than 11:59am.
-- After feature complete all modeling.
+- Saving and loading from binary data of Race Session
+- Dig into 'resizable' canvases
+- Add a interactable settings cog to canvas.
+- Add a navigational bar to get back to session vs lap.
+- Add more details to session analyzer.
+- Fixing issues
+- Cleaning up code
+- Doing the things
 
 **Purpose**
 
-Continue moving forward in my adventure.
+Make the next product of my adventure targeting Sim Racers.
