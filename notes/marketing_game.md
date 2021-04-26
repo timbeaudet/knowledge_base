@@ -48,7 +48,8 @@
 - Ensure the release date is set INTO THE FUTURE if game is in early access.
 	This is very confusing and some player feel the game is released and judge it as so.
 	That said, players do not give early access games much slack in the first place.
-
+- Give features a short title/headline then add details.
+- Use the colors/visuals of: [MXGP](https://store.steampowered.com/app/1259800/MXGP_2020__The_Official_Motocross_Videogame/)
 
 ### Do not
 - Make trailers with zero (0) gameplay footage.
@@ -65,6 +66,10 @@
 - Use a huge image for Engine Logo, and/or include a bunch of engine tech/features.
 - Use screenshots of varying size.
 - Use a screenshot very similar to another screenshot already in use.
+- Don’t repeat a line right after it.
+- Don’t write your life story.
+- Don’t write the backstory of your game world.
+- Don’t put images, especially moving ones, between each feature point. [Forza](https://store.steampowered.com/app/1293830/Forza_Horizon_4/)
 
 ---
 
