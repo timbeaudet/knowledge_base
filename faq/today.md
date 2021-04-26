@@ -1,13 +1,10 @@
-# Objectives for Today 2021-04-25
+# Objectives for Today 2021-04-26
 
-- Saving and loading from binary data of Race Session
-- Dig into 'resizable' canvases
-- Add a interactable settings cog to canvas.
-- Add a navigational bar to get back to session vs lap.
-- Add more details to session analyzer.
-- Fixing issues
-- Cleaning up code
-- Doing the things
+- Update the Key Performance Indicators
+- Update the Weekly Topic in Discord
+- Start writing up some marketing content & action plans for Telemetry Buddy
+- Start a list of sim racing influencers and press contacts
+- Chance of working a bit on YouTube videos and stuff.
 
 **Purpose**
 
