@@ -1,11 +1,8 @@
-# Objectives for Today 2021-04-26
+# Objectives for Today 2021-04-27
 
-- Update the Key Performance Indicators
-- Update the Weekly Topic in Discord
-- Start writing up some marketing content & action plans for Telemetry Buddy
-- Start a list of sim racing influencers and press contacts
-- Chance of working a bit on YouTube videos and stuff.
+- Finish the post mortem script on Eggcelerate! for devlog.
+- Start a video script on "How I Marketed Eggcelerate!"
 
 **Purpose**
 
-Make the next product of my adventure targeting Sim Racers.
+Spread knowledge that I learned to other game developers.
