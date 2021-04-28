@@ -1,8 +1,8 @@
-# Objectives for Today 2021-04-27
+# Objectives for Today 2021-04-28
 
-- Finish the post mortem script on Eggcelerate! for devlog.
-- Start a video script on "How I Marketed Eggcelerate!"
+- Prototyping and exploring an idea on Telemetry Buddy before getting too far in.
+- Making progress!
 
 **Purpose**
 
-Spread knowledge that I learned to other game developers.
+Find ways to show drivers how to go faster!
