@@ -1,8 +1,7 @@
-# Objectives for Today 2021-04-29
+# Objectives for Today 2021-04-30
 
-- Create a set of default corner points for Lime Rock using the three methods.
-- Calculate min, max and average speed through the track highlight area.
-- Setup a versioning system for saving/loading Race Session data.
+- Compute the lap analysis in C++ and send it over to the client already prepared.
+- Planning what features and things we need to keep focused on.
 
 **Purpose**
 
