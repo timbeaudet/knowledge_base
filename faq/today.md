@@ -1,10 +1,7 @@
-# Objectives for Today 2021-05-02
+# Objectives for Today 2021-05-04
 
-- Update Marketing KPI
-- YouTube content marketing practice: Thumbnail, Title, and Video Release
-- If there is time, Collecting Racing games on Steam
-- If time there is not, Optimize the other YouTube videos
-- Marketing ToDo Tasks
+- Play with web design/developments.
+- Get a startup page for Telemetry Buddy to show up.
 
 **Purpose**
 
