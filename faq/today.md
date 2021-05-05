@@ -1,8 +1,9 @@
-# Objectives for Today 2021-05-04
+# Objectives for Today 2021-05-05
 
-- Play with web design/developments.
-- Get a startup page for Telemetry Buddy to show up.
+- Get Telemetry Buddy saving data for the session.
+- Hookup SQLite to start placing data for later query.
+- Maybe hook that up to the startup / home page?
 
 **Purpose**
 
-Practice content marketing and hopefully see what racing games are doing.
+Get the next product moving forward!
