@@ -1,8 +1,7 @@
-# Objectives for Today 2021-05-05
+# Objectives for Today 2021-05-06
 
-- Get Telemetry Buddy saving data for the session.
-- Hookup SQLite to start placing data for later query.
-- Maybe hook that up to the startup / home page?
+- Add SQLite to Telemetry Buddy and begin ensuring car/track info can be saved.
+- Collect information about the driver car.
 
 **Purpose**
 
