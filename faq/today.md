@@ -1,7 +1,6 @@
-# Objectives for Today 2021-05-06
+# Objectives for Today 2021-05-07
 
-- Add SQLite to Telemetry Buddy and begin ensuring car/track info can be saved.
-- Collect information about the driver car.
+- Collect more information about the drivers car and session status.
 
 **Purpose**
 
