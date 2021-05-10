@@ -1,13 +1,10 @@
-# Objectives for Today 2021-05-09
+# Objectives for Today 2021-05-10
 
-- Objective of the day: Collect and Display in some form all* the data desired.
-- Display the session weather.
-- Display the car information.
-- Display the track information.
-- Collect information on the track sectors, and compute the sectors of each lap.
-
-*all data with the exception of "secret sauce".
+- Update Key Performance Indicators
+- Update Weekly Topic in Discord
+- Objective of the day: Collect all the racing games released on Steam in April 2021
+- Extra: Optimizing older YouTube videos.
 
 **Purpose**
 
-Get Telemetry Buddy working and helping drivers!
+Keep the adventure moving forward.
