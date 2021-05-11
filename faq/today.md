@@ -1,9 +1,7 @@
-# Objectives for Today 2021-05-10
+# Objectives for Today 2021-05-11
 
-- Update Key Performance Indicators
-- Update Weekly Topic in Discord
-- Objective of the day: Collect all the racing games released on Steam in April 2021
-- Extra: Optimizing older YouTube videos.
+- Figure out how collecting the racing games released on Steam will work in the future.
+- Writing more on the devlog scripts.
 
 **Purpose**
 
