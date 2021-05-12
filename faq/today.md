@@ -1,7 +1,6 @@
-# Objectives for Today 2021-05-11
+# Objectives for Today 2021-05-12
 
-- Figure out how collecting the racing games released on Steam will work in the future.
-- Writing more on the devlog scripts.
+- Time to try adding the secret sauces!
 
 **Purpose**
 
