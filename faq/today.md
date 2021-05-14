@@ -1,9 +1,7 @@
-# Objectives for Today 2021-05-13
+# Objectives for Today 2021-05-14
 
-- Digging into acouple bugs discovered last night.
-- Why does changing a major race session cause PlayerId != DriverId
-- How to detect major race session changes and save the RaceSession to file
-  - How to detect the last race session was the same as this one, should we worry about it?
+- Make a button for the event listing, and get the best lap time info added.
+- Maybe dig into lap comparisons or something else...
 
 **Purpose**
 
