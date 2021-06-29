@@ -1,8 +1,8 @@
-# Objectives for Today 2021-06-28
+# Objectives for Today 2021-06-29
 
-- Update Key Performance Indicators
+- Bring Turtle Brains Hello World project up to date.
 - Dig into random little projects
 
 **Purpose**
 
-Get the ball moving again.
+Roll the ball a little more...
