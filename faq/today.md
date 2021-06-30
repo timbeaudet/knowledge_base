@@ -1,8 +1,8 @@
-# Objectives for Today 2021-06-29
+# Objectives for Today 2021-06-30
 
-- Bring Turtle Brains Hello World project up to date.
-- Dig into random little projects
+- Playing with Drive Train Simulation to get things rendering and working again, or;
+- Designing a RaceTrack with rough layout of gray boxing and Assetto Corsa for testing.
 
 **Purpose**
 
-Roll the ball a little more...
+Roll the ball a little faster...
