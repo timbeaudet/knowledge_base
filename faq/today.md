@@ -1,8 +1,8 @@
-# Objectives for Today 2021-07-01
+# Objectives for Today 2021-07-02
 
-- Get a very basic Race Track designed and loaded into Assetto Corsa for testing.
-- Begin blocking out and gray boxing the race track a little bit.
-- Begin brainstorming ideas to increase income to meet annual goal of $10,000
+- Open Telemetry Buddy project and see where that is at.
+- Go racing a little bit while using Telemetry Buddy.
+- Investigate the worthiness of continuing the project.
 
 **Purpose**
 
