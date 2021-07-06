@@ -1,10 +1,8 @@
-# Objectives for Today 2021-07-05
+# Objectives for Today 2021-07-06
 
-- Updated the Key Performance Indicators for the adventure.
-- Collect the remaining racing games from May 2021...
-- Collect the racing games released on Steam in June 2021...
-- Brainstorming for some extra patreon rewards.
+- Dig into planning out what needs to happen on Telemetry Buddy.
+- Start working on one of those tasks to make it a real product.
 
 **Purpose**
 
-Figure out what racing games are getting developed and doing well or not.
+Get focused and moving on a project and make Telemetry Buddy happen!
