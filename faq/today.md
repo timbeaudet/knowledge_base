@@ -1,7 +1,7 @@
-# Objectives for Today 2021-07-06
+# Objectives for Today 2021-07-07
 
-- Dig into planning out what needs to happen on Telemetry Buddy.
-- Start working on one of those tasks to make it a real product.
+- Refactoring the line-graph / input graph to display in different scenario.
+- Finding the session best lap to begin prototyping a comparison laps.
 
 **Purpose**
 
