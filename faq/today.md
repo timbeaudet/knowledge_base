@@ -1,6 +1,10 @@
-# Objectives for Today 2021-07-09
+# Objectives for Today 2021-07-12
 
-- Plan out the trajectory / road map of the adventure.
+- Update Key Performance Indicators
+- Update Weekly Topic in Discord
+- Brainstorm Title, Tags, Description etc for Hiring Contractors video.
+- Create thumbnail and release Hiring video.
+- Potentially research and thoughts on marketing Simulator / Telemetry Buddy.
 
 **Purpose**
 
