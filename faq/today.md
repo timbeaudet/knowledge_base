@@ -1,8 +1,10 @@
-# Objectives for Today 2021-07-13
+# Objectives for Today 2021-07-14
 
-- Just keep digging into required features and improvements.
+- Halfway into Birthday Month.
 - Continued cleanup of the graphs to make better.
+- Update the PerformanceGraph to match InputGraph changes.
+- Try updating the GCircle graph per corner / POI.
 
 **Purpose**
 
-Stay focused on the primary goals and dreams.
+Build Telemetry Buddy to make racers faster and more consistent.
