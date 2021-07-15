@@ -1,9 +1,8 @@
-# Objectives for Today 2021-07-14
+# Objectives for Today 2021-07-15
 
 - Halfway into Birthday Month.
-- Continued cleanup of the graphs to make better.
-- Update the PerformanceGraph to match InputGraph changes.
-- Try updating the GCircle graph per corner / POI.
+- Reproducing and hunting a race condition like issue with the HTTP Server in C++.
+- Attempting to design the stable API for TurtleBrains Networking.
 
 **Purpose**
 
