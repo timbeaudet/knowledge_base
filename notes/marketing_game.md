@@ -36,6 +36,7 @@
 - Add tags. LOADS of tags. Use official tags whe possible. Find similar games and see the tags they use for ideas.
 - Make sure to use a spellchecker for the text material posted.
 - Read it outloud a few times and try finding any oddities in posted text.
+- Give features a short title/headline then add details. Use colors of [MXGP](https://store.steampowered.com/app/1259800/MXGP_2020__The_Official_Motocross_Videogame/)
 
 ### Do if release Early Access:
 - Put WIP / EA / In Development etc in the screenshots / video. (top banner/corner flag etc)
@@ -49,7 +50,7 @@
 	This is very confusing and some player feel the game is released and judge it as so.
 	That said, players do not give early access games much slack in the first place.
 - Give features a short title/headline then add details.
-- Use the colors/visuals of: [MXGP](https://store.steampowered.com/app/1259800/MXGP_2020__The_Official_Motocross_Videogame/)
+
 
 ### Do not
 - Make trailers with zero (0) gameplay footage.
