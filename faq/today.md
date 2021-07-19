@@ -1,8 +1,9 @@
-# Objectives for Today 2021-07-16
+# Objectives for Today 2021-07-19
 
-- Halfway into Birthday Month.
-- Reproducing and hunting a race condition like issue with the HTTP Server in C++.
-- Designing stable API for TurtleBrains Networking.
+- Halfway through Birthday Month.
+- Updating Key Performance Indicators.
+- Discord weekly topic.
+- Some form of marketing content or planning.
 
 **Purpose**
 
