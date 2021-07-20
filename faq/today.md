@@ -1,9 +1,8 @@
 # Objectives for Today 2021-07-19
 
 - Halfway through Birthday Month.
-- Updating Key Performance Indicators.
-- Discord weekly topic.
-- Some form of marketing content or planning.
+- Fix some failures during Nightly Builds on Linux.
+- Continue refactoring a few things in TurtleBrains Networking Kit to make it Stable.
 
 **Purpose**
 
