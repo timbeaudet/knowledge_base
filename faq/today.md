@@ -1,10 +1,9 @@
-# Objectives for Today 2021-07-22
+# Objectives for Today 2021-07-23
 
-- Two Thirds through Birthday Month.
-- Fixing the builds that broke from Turtle Brains Networking changes.
-- Continuing towards an MVP of Telemetry Buddy, how will we sell and promote it?
+- How to sell and promote Telemetry Buddy? Building a funnel and email campaign.
 - Writing material for store pages and collecting racer interest.
 - Writing material for emails and onboarding.
+- Two Thirds through Birthday Month.
 
 **Purpose**
 
