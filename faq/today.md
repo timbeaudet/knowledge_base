@@ -1,10 +1,7 @@
-# Objectives for Today 2021-07-26
+# Objectives for Today 2021-07-27
 
-- Updating the Key Performance Indicators for the adventure.
-- Updating the Discord weekly topic.
-- How to sell and promote Telemetry Buddy? Building a funnel and email campaign.
-- Writing material for store pages and collecting racer interest.
-- Writing material for emails and onboarding.
+- Moving forward with the minimum viable product.
+- Trying to get incident data collected.
 - Almost done with Birthday Month.
 
 **Purpose**
