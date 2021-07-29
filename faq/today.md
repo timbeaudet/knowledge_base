@@ -1,10 +1,10 @@
-# Objectives for Today 2021-07-28
+# Objectives for Today 2021-07-29
 
 - Moving forward with the minimum viable product.
-- Testing that moving the saved files helps them load and fixing that code.
-- Allowing the user to choose an incident and watch the replay.
-- Allowing Explore tab to only work while still in an active session.
-  - Give warning / description if not.
+- Run throught the MVP todo list and add @valueX tags to estimate impact for users.
+- Add buttons to play the next/previous incident.
+- Show what lap the incident occurred on.
+- Begin digging into the optimal lap again to get that displayed on the Explore tab.
 
 **Purpose**
 
