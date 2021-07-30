@@ -1,10 +1,9 @@
-# Objectives for Today 2021-07-29
+# Objectives for Today 2021-07-30
 
-- Moving forward with the minimum viable product.
-- Run throught the MVP todo list and add @valueX tags to estimate impact for users.
-- Add buttons to play the next/previous incident.
-- Show what lap the incident occurred on.
-- Begin digging into the optimal lap again to get that displayed on the Explore tab.
+- Get the moosend mailing list hooked up to Telemetry Buddy landing page.
+- Bring the video to the top of the landing page, remove top logo.
+- Release Telemetry Buddy landing page publicly.
+- Begin creating a Tyre Bytes homepage with links out to the various game pages.
 
 **Purpose**
 
