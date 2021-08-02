@@ -1,9 +1,8 @@
-# Objectives for Today 2021-07-30
+# Objectives for Today 2021-08-02
 
-- Get the moosend mailing list hooked up to Telemetry Buddy landing page.
-- Bring the video to the top of the landing page, remove top logo.
-- Release Telemetry Buddy landing page publicly.
-- Begin creating a Tyre Bytes homepage with links out to the various game pages.
+- Updating the Key Performance Indicators of the adventure.
+- Updating the weekly topic for discord.
+- Collecting the racing games released on Steam in July 2021
 
 **Purpose**
 
