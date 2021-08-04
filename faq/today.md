@@ -1,8 +1,8 @@
-# Objectives for Today 2021-08-03
+# Objectives for Today 2021-08-05
 
-- Figuring out where I left off on Telemetry Buddy.
-- Continue moving forward on the project to get MVP ready to ship!
-- Create and show the sessions optimal lap/corners via exit speed on the Explore tab.
+- Searching for the corners that create the optimal lap after the DataSwap refactor.
+- Display optimal lap information on the Explore tab.
+- Watch the optimal corners via replay mode.
 
 **Purpose**
 
