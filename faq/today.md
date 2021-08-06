@@ -1,8 +1,7 @@
-# Objectives for Today 2021-08-05
+# Objectives for Today 2021-08-06
 
+- Writing email content for the Telemetry Buddy mailing list.
 - Display optimal lap information on the Explore tab.
-- Watch the optimal corners via replay mode.
-- Adjust the layout of explore tab to add the input graph??
 
 **Purpose**
 
