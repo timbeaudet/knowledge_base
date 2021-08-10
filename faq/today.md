@@ -1,10 +1,9 @@
-# Objectives for Today 2021-08-09
+# Objectives for Today 2021-08-10
 
-- Updating the key performance indicators for the adventure.
-- Updating the weekly topic in discord.
-- Posting weekly reddit topic.
-- Writing email content for the Telemetry Buddy mailing list.
+- What is the progress of the remaining YouTube videos?
+- Trying out new effects for future YouTube videos.
+- Researching how to really target and make a good Sim Racing channel.
 
 **Purpose**
 
-Figure out how to make this business work!
+Build a YouTube channel about sim racing to grow an audience of racers!
