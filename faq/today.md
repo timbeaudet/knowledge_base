@@ -1,8 +1,8 @@
-# Objectives for Today 2021-08-11
+# Objectives for Today 2021-08-12
 
-- Blue printy grid, brush and colors setup for photoshop for doing free body diagrams. (Unit testing math)
 - Begin working on the first constraint, locking the position at center of mass.
-- Pending how that all goes, begin locking position offset from center of mass.
+- Create a constraint at the Center of Mass for a Spring?
+- Create a constraint to Fix/Freeze the position offset from center of mass?
 
 **Purpose**
 
