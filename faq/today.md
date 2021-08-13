@@ -1,8 +1,8 @@
-# Objectives for Today 2021-08-12
+# Objectives for Today 2021-08-13
 
-- Begin working on the first constraint, locking the position at center of mass.
 - Create a constraint at the Center of Mass for a Spring?
-- Create a constraint to Fix/Freeze the position offset from center of mass?
+- Find a way to test that the spring constraint is actually working correctly.
+- Ensure it is not gaining energy!
 
 **Purpose**
 
