@@ -1,9 +1,11 @@
-# Objectives for Today 2021-08-13
+# Objectives for Today 2021-08-16
 
-- Create a constraint at the Center of Mass for a Spring?
-- Find a way to test that the spring constraint is actually working correctly.
-- Ensure it is not gaining energy!
+- Updating the Key Performance Indicators of the business.
+- Updating the weekly topic in Discord and Reddit.
+- Brainstorming more weekly topic questions & emotes.
+- Releasing a video on how to start a project.
+- Write email content for the various mailing lists / drips.
 
 **Purpose**
 
-Create the physics engine that will drive the racing simulator.
+Prepare for building an audience of sim racing fans.
