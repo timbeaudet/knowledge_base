@@ -1,10 +1,7 @@
-# Objectives for Today 2021-08-16
+# Objectives for Today 2021-08-17
 
-- Updating the Key Performance Indicators of the business.
-- Updating the weekly topic in Discord and Reddit.
-- Brainstorming more weekly topic questions & emotes.
-- Releasing a video on how to start a project.
-- Write email content for the various mailing lists / drips.
+- Playing with springs and physics.
+- Possibly trying to do RK4 within just the spring update?
 
 **Purpose**
 
