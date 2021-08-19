@@ -1,7 +1,8 @@
-# Objectives for Today 2021-08-17
+# Objectives for Today 2021-08-19
 
 - Playing with springs and physics.
-- Possibly trying to do RK4 within just the spring update?
+- Try making a quick test with Euler vs RK4 and the Harmonic Oscillator to verify if that actually works.
+- Maybe make the spring constraint use a static body to make the test pass, only one dynamic instead of two.
 
 **Purpose**
 
