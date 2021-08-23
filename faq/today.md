@@ -1,8 +1,8 @@
-# Objectives for Today 2021-08-20
+# Objectives for Today 2021-08-23
 
-- Playing with springs and physics.
-- Try making a quick test with Euler vs RK4 and a Damped Harmonic Oscillator to verify if that actually works.
-- Maybe make the spring constraint use a static body to make the test pass, only one dynamic instead of two.
+- Updating the Key Performance Indicators
+- Update the weekly topic on Discord and reddit.
+- Working to get the Tyre Bytes website up and running.
 
 **Purpose**
 
