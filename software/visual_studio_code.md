@@ -7,6 +7,10 @@ Install the following extensions:
 * `C/C++` by Microsoft
 * `markdownlint` by David Anson
 * `Window Colors` by Stuart Robinson
+* `hexdump for VSCode` by slevesque
+* `Prettify JSON` by Mohsen Azimi
+* `Shader languages support for VS Code` by slevesque
+* `Live Server` by Ritwick Dey
 
 Press `CTRL+,` to open settings and use the following
 ```
