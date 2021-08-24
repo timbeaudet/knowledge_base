@@ -1,8 +1,6 @@
-# Objectives for Today 2021-08-23
+# Objectives for Today 2021-08-24
 
-- Updating the Key Performance Indicators
-- Update the weekly topic on Discord and reddit.
-- Working to get the Tyre Bytes website up and running.
+- Fiddling with the physics engine and spring constraints.
 
 **Purpose**
 
