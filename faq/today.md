@@ -1,6 +1,8 @@
-# Objectives for Today 2021-08-24
+# Objectives for Today 2021-08-25
 
-- Fiddling with the physics engine and spring constraints.
+- Playing with Twitch Panels
+- Reviewing Marketing tasks to cancel or actually line up.
+- Possibly opening Rally of Rockets to fix the twitch oauth.
 
 **Purpose**
 
