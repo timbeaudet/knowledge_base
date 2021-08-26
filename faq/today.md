@@ -1,9 +1,9 @@
-# Objectives for Today 2021-08-25
+# Objectives for Today 2021-08-26
 
-- Playing with Twitch Panels
-- Reviewing Marketing tasks to cancel or actually line up.
+- Truly headless version of the first Network test game in TurtleBrains Playground.
+- Test what build types may be desired; debug, release, public and how to deal with dedicated server builds.
 - Possibly opening Rally of Rockets to fix the twitch oauth.
 
 **Purpose**
 
-Prepare for building an audience of sim racing fans.
+Figure out what works or doesn't in a throw-away place.
