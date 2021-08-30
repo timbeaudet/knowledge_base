@@ -1,20 +1,9 @@
-# Objectives for Today 2021-08-30
+# Objectives for Today 2021-08-31
 
-6-9
-- Marketing Monday
-- Update the KPI
-- Update the Weekly Topic
-- Knock off some Marketing TODOs
-- Figure out what to create for a first (attempting) at Sim Racing YouTube video
-
-10-2
-- Work on the tyrebytes.com home page / website
-- add copy about the games
-- add game titles
-- link to the games
-- make the copy not squish on small window
-
+- Refactor httpServer / handler to allow game-code to respond to the request.
+- Collect the oauth code from twitch response and send back a page display success/fail.
+- Continue working on Twitch ouath!
 
 **Purpose**
 
-Have a really fun time.
+Make it so we can give subscribers access to testing games the simulator.
