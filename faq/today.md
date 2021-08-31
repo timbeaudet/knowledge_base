@@ -1,8 +1,13 @@
-# Objectives for Today 2021-08-31
+# Objectives for Today 2021-09-01
 
-- Refactor httpServer / handler to allow game-code to respond to the request.
-- Collect the oauth code from twitch response and send back a page display success/fail.
-- Continue working on Twitch ouath!
+- Add more error handling and ensure to notify when auth fails!
+- Cleanup the API for twitch/verification
+  - remove all deadcode
+  - finalzie an API
+  - document and prepare for v1.
+- Begin working on patreon authentication.
+- Allow player to use SoapboxRacer if authenticated.
+- Run a playtest with SoapboxRacer, including one that only allows subscribers to join.
 
 **Purpose**
 
