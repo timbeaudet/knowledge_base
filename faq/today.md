@@ -1,12 +1,10 @@
-# Objectives for Today 2021-09-02
+# Objectives for Today 2021-09-03
 
-- Fix the patreon verify endpoint to work with json response or url-parameters.
-- Get patreon to verify from a player_access_key
-- Cleanup the API for patreon/verification
-  - finalize the API and document to prepare for v1.
-- Possible handle the refreshing of tokens on patreon / twitch oauth
-- Possible use the player_access_key to authenticate the player on game server.
+- Experiment with getting SoapboxRacer deployed to WebGL using emscripten.
+- Probably a short 2-3 hour day, or broken up into acouple streams.
+- Possibly handle the refreshing of tokens on patreon / twitch oauth
+
 
 **Purpose**
 
-Make it so we can give subscribers access to testing games the simulator.
+Explore how difficult it is to get TurtleBrains supporting WebGL again.
