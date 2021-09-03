@@ -31,4 +31,4 @@ There are many benefits to writing a homebrewn engine, and there are also many b
 
 ## The Reason
 
-My long-term goal is to create a physically-accurate, online-multiplayer, racing simulation and I do not believe I can rely on any particular engine or physics library to do this. I want first-hand knowledege of exactly what shortcuts are taken, and what inaccuaracies are introduced for optimizing.
+My long-term goal is to create a physically-accurate, online-multiplayer, racing simulation and I do not believe I can rely on any particular engine or physics library to do this. I **want** first-hand knowledege of exactly what shortcuts are taken, and what inaccuaracies are introduced for optimizing.
