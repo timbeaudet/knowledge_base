@@ -1,10 +1,13 @@
-# Objectives for Today 2021-09-03
+# Objectives for Today 2021-09-04
 
-- Experiment with getting SoapboxRacer deployed to WebGL using emscripten.
-- Probably a short 2-3 hour day, or broken up into acouple streams.
-- Possibly handle the refreshing of tokens on patreon / twitch oauth
-
+- Jamming away on the SoapboxRacer gameplay side.
+- Create an editor for the race tracks.
+- Detect when a car is on/off track to change the physics.
+- Have the server tell the game clients which track is being played.
+- Race restart (simplified and without any lag compensation)
+- Add some secret sauce to SoapboxRacer.
+- Seeing where this party goes!
 
 **Purpose**
 
-Explore how difficult it is to get TurtleBrains supporting WebGL again.
+Have a bit of fun for community supported stream!
