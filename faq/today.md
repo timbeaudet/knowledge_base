@@ -1,13 +1,14 @@
-# Objectives for Today 2021-09-04
+# Objectives for Today 2021-09-05
 
-- Jamming away on the SoapboxRacer gameplay side.
-- Create an editor for the race tracks.
-- Detect when a car is on/off track to change the physics.
-- Have the server tell the game clients which track is being played.
-- Race restart (simplified and without any lag compensation)
-- Add some secret sauce to SoapboxRacer.
-- Seeing where this party goes!
+- Update all the Key Performance Indicators for last week.
+- Update the weekly_topic in Discord
+- See if today is a good day for the reddit "I am an indie dev"
+- Collect all the racing games released on Steam in August 2021.
+- Dig a bit deeper into decision to move on Rally of Rockets.
+- Define a target audience for Rally of Rockets
+- Setup mailing list and drip campaign for Rally of Rockets
+- Make the Rally of Rockets landing point point to a RoR email list.
 
 **Purpose**
 
-Have a bit of fun for community supported stream!
+Move forward with this new project and 
