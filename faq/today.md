@@ -1,11 +1,10 @@
-# Objectives for Today 2021-09-09
+# Objectives for Today 2021-09-10
 
-- Post the Indie Game Business Stream promo stuffs.
-- Get the darn trigger working in Rally of Rockets.
-- Try giving the cars a PUSH/SHOVE mechanic
-- Implement some form of timer for the rounds to restart automatically
-- Display the server participants so we know who is on!
-- Run a playtest with proper KotH
+- Exploring Godot for the first time.
+- Making Highway Racer in Godot
+- 11:30 prepare for interview with Indie Games Business
+- 12:00-1:00 interview with Indie Games Business
+- Rally of Rockets planning and prototyping???
 
 **Purpose**
 
