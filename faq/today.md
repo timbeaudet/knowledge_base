@@ -1,11 +1,10 @@
-# Objectives for Today 2021-09-10
+# Objectives for Today 2021-09-12
 
-- Exploring Godot for the first time.
-- Making Highway Racer in Godot
-- 11:30 prepare for interview with Indie Games Business
-- 12:00-1:00 interview with Indie Games Business
-- Rally of Rockets planning and prototyping???
+- Exploring building Turtle Brains framework as a static library to reduce build times.
+- Exploring improving build scripts and to reduce duplication.
+- Maybe exploring adding the testing step to nightly build system.
+- Perhaps exploring working with and deploying code with a DLL.
 
 **Purpose**
 
-Move forward with a prototype of KotH RoR.
+Just have some fun with lower level engine stuff, and perhaps improve Quality of Life with the tools.
