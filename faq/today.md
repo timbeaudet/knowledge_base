@@ -1,10 +1,10 @@
-# Objectives for Today 2021-09-12
+# Objectives for Today 2021-09-13
 
-- Exploring building Turtle Brains framework as a static library to reduce build times.
-- Exploring improving build scripts and to reduce duplication.
-- Maybe exploring adding the testing step to nightly build system.
-- Perhaps exploring working with and deploying code with a DLL.
+- Updating the key performance indicators for the adventure.
+- Updating the weekly topic on Discord and Reddit.
+- Writing some email content for RoR drip campaign.
+- Implement/refector to the new auth service in Rally of Rockets.
 
 **Purpose**
 
-Just have some fun with lower level engine stuff, and perhaps improve Quality of Life with the tools.
+Start getting the email campaign drip running!
