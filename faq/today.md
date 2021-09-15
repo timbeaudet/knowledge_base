@@ -1,10 +1,10 @@
-# Objectives for Today 2021-09-13
+# Objectives for Today 2021-09-15
 
-- Updating the key performance indicators for the adventure.
-- Updating the weekly topic on Discord and Reddit.
-- Writing some email content for RoR drip campaign.
-- Implement/refector to the new auth service in Rally of Rockets.
+- Add bullet physics to the new Rally of Rockets project.
+- Create a physics/logic representation of the track and display the debug visuals.
+- Maybe create some JoinServer handshake to get what track is being played.
+- Start adding the rocket car physics/logic separated.
 
 **Purpose**
 
-Start getting the email campaign drip running!
+Get Rally of Rockets back to running on the new codebase, with logic separate from visuals.
