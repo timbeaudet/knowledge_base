@@ -135,6 +135,13 @@ feature/name and master should now match.
 Stash anything left in working directory; otherwise **lose it**  
 `git reset --hard COMMIT_ID`  
 
+**If worked on master without creating branch**
+
+`git branch feature/name`
+`git stash`
+`git log` and find commit id where master SHOULD be
+`git reset --hard COMMIT_ID`
+
 **If history was randomly flattened** _(you ran git pull --rebase without preserve (successfully rebased) and done nothing else...)**
 
 `git status`     Ensure the working directory is in a clean state, stash as needed, untracked files are okay.  
