@@ -1,8 +1,8 @@
-# Objectives for Today 2021-09-18
+# Objectives for Today 2021-09-19
 
-- Begin adding the Rocket Powered Car.
-- This is the spaghetti and meatballs of Rally of Rockets.
+- Fix the nightly build area failures, still got a few dangling projects with random issues.
+- Player leaving the server and dropping for bad ping.
 
 **Purpose**
 
-Separate visuals from logic in Rally of Rockets to get project back to where it was.
+Step a little close to new Rally of Rockets playtest.
