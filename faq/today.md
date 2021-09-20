@@ -1,8 +1,11 @@
-# Objectives for Today 2021-09-19
+# Objectives for Today 2021-09-20
 
-- Fix the nightly build area failures, still got a few dangling projects with random issues.
-- Player leaving the server and dropping for bad ping.
+- Update the key performance indicators of the adventure.
+- Update weekly topic in discord and post on reddit
+- Continue with writing emails for the Rally of Rockets drip campaign.
+- Brainstorm ideas for Twitch community growth, targeting gamedevs
+- Brainstorm ideas for Sim Racing YouTube channel.
 
 **Purpose**
 
-Step a little close to new Rally of Rockets playtest.
+Try growing the community and preparing people for awesome!
