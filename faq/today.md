@@ -1,11 +1,12 @@
-# Objectives for Today 2021-09-20
+# Objectives for Today 2021-09-21
 
-- Update the key performance indicators of the adventure.
-- Update weekly topic in discord and post on reddit
-- Continue with writing emails for the Rally of Rockets drip campaign.
-- Brainstorm ideas for Twitch community growth, targeting gamedevs
-- Brainstorm ideas for Sim Racing YouTube channel.
+- Get ping working so the server will disconnect player after timeout.
+- Rally of Rockets player leaving the server more gracefully.
+- Add screenshake on stomped landings.
+  - May need to make an event system so visuals/game can listen for logic events.
+- Add the visuals of particle effects.
+- Add the audio of rocket engine and other sounds.
 
 **Purpose**
 
-Try growing the community and preparing people for awesome!
+Try getting Rally of Rockets about where it was before this rewrite.
