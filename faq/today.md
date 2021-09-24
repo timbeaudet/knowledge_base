@@ -1,13 +1,8 @@
-# Objectives for Today 2021-09-23
+# Objectives for Today 2021-09-24
 
-- Get the screen resolution support working a bit better for lobby/results/gameplay.
-- Display the GameTimer counting down.
-- Remove the particles from the rockets that are not in use.
-- Once "ready" synced the timing of all Players to start the event.
-- CarUpdate packets need to go to GameServer / Players.
-- Add nametags hovering over each car to display usernames.
-- MAYBE: Add some chat messages / events to the Lobby state / Game.
+- Community Reward Day: Tim Spends a Day in Vim
+- Get some admin and analytical tools working on webhost.
 
 **Purpose**
 
-Try getting Rally of Rockets about where it was before this rewrite.
+Learn some Vim, make some progress on admin stuff.
