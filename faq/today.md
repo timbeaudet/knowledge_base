@@ -1,8 +1,9 @@
-# Objectives for Today 2021-09-24
+# Objectives for Today 2021-09-25
 
-- Community Reward Day: Tim Spends a Day in Vim
-- Get some admin and analytical tools working on webhost.
+- Trying to get "played demo" flag to Moosend.
+- Working on Rally of Rockets state change / sync.
+- Trying to send car updates for Rally of Rockets.
 
 **Purpose**
 
-Learn some Vim, make some progress on admin stuff.
+To get closer to the first playtest since rewrite started.
