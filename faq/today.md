@@ -1,8 +1,9 @@
-# Objectives for Today 2021-09-25
+# Objectives for Today 2021-09-26
 
-- Trying to get "played demo" flag to Moosend.
 - Working on Rally of Rockets state change / sync.
 - Trying to send car updates for Rally of Rockets.
+- Add a list of players to the results/lobby screen.
+- Add nametags over the cars for each of the players.
 
 **Purpose**
 
