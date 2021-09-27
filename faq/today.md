@@ -1,10 +1,12 @@
-# Objectives for Today 2021-09-26
+# Objectives for Today 2021-09-27
 
-- Working on Rally of Rockets state change / sync.
-- Trying to send car updates for Rally of Rockets.
-- Add a list of players to the results/lobby screen.
-- Add nametags over the cars for each of the players.
+- Update the Key Performance Indicators
+- Update weekly topic in Discord / question on Reddit
+- Dig into what is going on with the Marketing Data Collector not running nightlies.
+- Setup the Rally of Rockets drip campaign.
+- Offstream work on some important details for opportunity
+- Likely more stream in afternoon / evening.
 
 **Purpose**
 
-To get closer to the first playtest since rewrite started.
+Bring information about Tyre Bytes to the world!
