@@ -6,9 +6,9 @@ This will wipe all cronjobs without prompting "are you sure?". Just gone. No mor
 
 ## General Usage
 
-These jobs do not know how to play with the ~ which is a bash feature. Must specify `/home/username/path`
-Try running the job each minute (or 10 minutes if that makes more sense) until you prove it works!
-The $PATH might not contain all the paths the normal bash user would have, I add the following to `nightly_job.sh` to fix
+- These jobs do not know how to play with the ~ which is a bash feature. Must specify `/home/username/path`
+- Try running the job each minute (or 10 minutes if that makes more sense) until you prove it works!
+- The $PATH might not contain all the paths the normal bash user would have, I add the following to `nightly_job.sh` to fix
 
 ```
 PATH=$PATH:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin
