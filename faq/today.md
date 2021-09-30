@@ -1,9 +1,11 @@
-# Objectives for Today 2021-09-29
+# Objectives for Today 2021-09-30
 
-- Dig into why web-server is getting so many emails...
-- Fix the SIGPIPE issue found during the playtest.
-- Spend some time in Blender and/or Track Builder to make some test arenas
-- more?
+- Fix the SIGPIPE issue with networking, is it possible to do within Turtle Brains?
+- Add a car select screen and create a blue / orange / green rocket.
+- Add scoring of some sort for Rally of Rockets
+- Add Spawn Points and "Hill sphere" to the arena json information
+- Do something to notify others that a rocket has captured a flag.
+- Try a playtest with the CTF mashup to see if it works at all.
 
 **Purpose**
 
