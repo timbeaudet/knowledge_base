@@ -1,12 +1,12 @@
-# Objectives for Today 2021-09-30
+# Objectives for Today 2021-10-01
 
-- Fix the SIGPIPE issue with networking, is it possible to do within Turtle Brains?
-- Add a car select screen and create a blue / orange / green rocket.
-- Add scoring of some sort for Rally of Rockets
-- Add Spawn Points and "Hill sphere" to the arena json information
-- Do something to notify others that a rocket has captured a flag.
-- Try a playtest with the CTF mashup to see if it works at all.
+- Notepad day (a Community Day for ~8 hours)
+- Fix template project with libraries
+- Make small project like snake or something for community fun.
+- Business in Review for September
+- Send emails around 9am
+- Start pizza around 12 to 1pm (takes ~2 hours first rise, 30 minute second rise)
 
 **Purpose**
 
-Figure out if Rally of Rockets is the right path forward, or get to the bail point as soon as possible.
+Community Reward for Tim to deal with pain in Notepad.
