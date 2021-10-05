@@ -72,6 +72,11 @@
 - Don’t write the backstory of your game world.
 - Don’t put images, especially moving ones, between each feature point. [Forza](https://store.steampowered.com/app/1293830/Forza_Horizon_4/)
 
+### **Yucky** Steam Behaviors that Seem to Give an Edge
+
+- List your game as free-to-play even if it is not out yet, people may click and then wishlist.
+- Update the "release date" to pop back up the lists as if newly released.
+
 ---
 
 ## How to use Twitter
