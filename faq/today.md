@@ -1,8 +1,10 @@
-# Objectives for Today 2021-10-13
+# Objectives for Today 2021-10-14
 
 - Write an email to get moving towards closing the deal on the opportunity.
-- Work on getting shadows, particles, reflection maps and high detail (pbr) shader working in GLES 3.0 / WebGL 2.
+- Fiddle a bit more in Blender, wild-and-free, the-way-to-be!
+- Begin getting up to speed with Track Builder, where is it at, commit materials.
+- Begin separating Track Bundler loading/saving as separate library from builder.
 
 **Purpose**
 
-Get Internal Combustion Engine working on WebGL/WebASM for the first time.
+Begin adding object/entity properties editor into Track Builder to edit arenas and other games more freely.
