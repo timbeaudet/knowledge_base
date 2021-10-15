@@ -1,10 +1,11 @@
-# Objectives for Today 2021-10-14
+# Objectives for Today 2021-10-15
 
-- Write an email to get moving towards closing the deal on the opportunity.
-- Fiddle a bit more in Blender, wild-and-free, the-way-to-be!
-- Begin getting up to speed with Track Builder, where is it at, commit materials.
-- Begin separating Track Bundler loading/saving as separate library from builder.
+- Surprise meeting could come at any surprise time.
+- Working on the drag racing overlay game for community reward.
+- Adding a situation where the winner continues to the next race.
+- Get more aggressive at removing inactive users???
+- Taking suggestions, prioritizing short & simple features.
 
 **Purpose**
 
-Begin adding object/entity properties editor into Track Builder to edit arenas and other games more freely.
+To give back to the community supporting my adventure.
