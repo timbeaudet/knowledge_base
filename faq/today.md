@@ -1,11 +1,10 @@
-# Objectives for Today 2021-10-18
+# Objectives for Today 2021-10-19
 
-- Update Key Performance Indicators for the adventure.
-- Discord / Reddit / other weekly topics/questions.
-- Write the article on How to View Failure.
-- Video creation, practice talking to sim racers.
-- Potential call to get the deal closed on the top-secret opportunity.
+- Build random blocked out levels for Rally of Rockets capture the flag.
+- Prototype the BONK behavior, so pushing another rocket has more effect.
+- Run more playtest on capture the flag.
+- Early end of day; lunch + meetings, will be racing tonight.
 
 **Purpose**
 
-To practice talking to the Sim Racing audience, build confidence and make engaging video content.
+- Build Rally of Rockets Capture the Flag Game.
