@@ -13,7 +13,7 @@
 
 **Coming Soon**
 
-2021-10-22 (Friday) will be a late start.
-No Streams Saturday or Sunday
-2021-10-25 (Monday) will be a late start.
-2021-10-26 (Tuesday) may be a late start.
+- 2021-10-22 (Friday) will be a late start.
+- No Streams Saturday or Sunday
+- 2021-10-25 (Monday) will be a late start.
+- 2021-10-26 (Tuesday) may be a late start.
