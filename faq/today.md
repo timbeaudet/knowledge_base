@@ -1,10 +1,19 @@
-# Objectives for Today 2021-10-20
+# Objectives for Today 2021-10-21
 
-- Get a dynamic object, spinning block, to simulate and show matching visuals.
+- Create a more developer friendly launch of the game to speed up development.
+- Patchup some of the hacks and holes created to get dynamic objects into the game.
+- Ensure the dynamic objects are properly reset at the point of sync.
+- Deal with spawn points, capture areas, and goals from Track Builder.
 - Build random blocked out levels for Rally of Rockets capture the flag.
 - Maybe: Prototype the BONK behavior, so pushing another rocket has more effect.
-- Maybe: Run more playtest on capture the flag. (starting 1pm to 2pm ET if it happens)
 
 **Purpose**
 
 - Build Rally of Rockets Capture the Flag Game.
+
+**Coming Soon**
+
+2021-10-22 (Friday) will be a late start.
+No Streams Saturday or Sunday
+2021-10-25 (Monday) will be a late start.
+2021-10-26 (Tuesday) may be a late start.
