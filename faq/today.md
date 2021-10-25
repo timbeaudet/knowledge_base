@@ -1,18 +1,15 @@
-# Objectives for Today 2021-10-22
+# Objectives for Today 2021-10-25
 
-- Patchup some of the hacks and holes created to get dynamic objects into the game.
-- Ensure the dynamic objects are properly reset at the point of sync.
-- Deal with spawn points, capture areas, and goals from Track Builder.
-- Build random blocked out levels for Rally of Rockets capture the flag.
-- Maybe: Prototype the BONK behavior, so pushing another rocket has more effect.
+- Update the marketing key performance indicators.
+- Update the weekly topic in Discord, Reddit and TIGSource.
+- Research and script writing for Sim Racing YouTube channel.
+- Announcement in afternnon, sometime **after** 1pm ET
 
 **Purpose**
 
-- Build Rally of Rockets Capture the Flag Game.
+- Get some progress on the sim racing channel.
 
 **Coming Soon**
 
-- No Streams Saturday or Sunday
-- 2021-10-25 (Monday) will be a late start.
-- Announcement on Monday Afternoon!
+- Announcement on Monday Afternoon, sometime after 1pm ET!
 - 2021-10-26 (Tuesday) may be a late start.
