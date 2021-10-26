@@ -1,15 +1,10 @@
-# Objectives for Today 2021-10-25
+# Objectives for Today 2021-10-26
 
-- Update the marketing key performance indicators.
-- Update the weekly topic in Discord, Reddit and TIGSource.
-- Research and script writing for Sim Racing YouTube channel.
-- Announcement in afternnon, sometime **after** 1pm ET
-
-**Purpose**
-
-- Get some progress on the sim racing channel.
+- Wrapup the Rocket Spawn Point stuff from Track Builder into an Arena.
+- Change back over to the WebGL branch of Rally of Rockets.
+- Get bullet introduced into the WebGL demo to get the libraries built.
+- Going to be a shorter day.
 
 **Coming Soon**
 
-- Announcement on Monday Afternoon, sometime after 1pm ET!
-- 2021-10-26 (Tuesday) may be a late start.
+- Playing Rally of Rockets from the [Ultimate Games](https://ultimate.games/) platform.
