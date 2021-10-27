@@ -1,9 +1,10 @@
-# Objectives for Today 2021-10-26
+# Objectives for Today 2021-10-27
 
-- Wrapup the Rocket Spawn Point stuff from Track Builder into an Arena.
-- Change back over to the WebGL branch of Rally of Rockets.
-- Get bullet introduced into the WebGL demo to get the libraries built.
-- Going to be a shorter day.
+- Convert all the current arenas into Track Builder .trk files.
+- Add some dynamic obstacles for arena designs.
+- Possibly make an arena or two with new dynamic obstacles.
+- Do a playtest at unknown time.
+- Going to be a slightly shorter day.
 
 **Coming Soon**
 
