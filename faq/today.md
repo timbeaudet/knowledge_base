@@ -1,10 +1,9 @@
-# Objectives for Today 2021-10-27
+# Objectives for Today 2021-10-28
 
-- Convert all the current arenas into Track Builder .trk files.
-- Add some dynamic obstacles for arena designs.
-- Possibly make an arena or two with new dynamic obstacles.
-- Do a playtest at unknown time.
-- Going to be a slightly shorter day.
+- Get the shover object finished and added to some arenas.
+- Add the spinner objects to the game and create some levels.
+- Probably do a playtest at unknown time.
+- Likely to be a shorter day for potential meetings...
 
 **Coming Soon**
 
