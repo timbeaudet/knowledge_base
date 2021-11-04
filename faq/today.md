@@ -1,7 +1,8 @@
-# Objectives for Today 2021-11-03
+# Objectives for Today 2021-11-04
 
-- Working on Track Builder quality of life improvements and new features.
-- This is a shorter day as parents are visiting for a bit.
+- Working on new features for Track Builder!
+- Camera orientation tool, potentially with perspective/ortho.
+- This is a shorter day as meetings take some time around noon.
 
 **Coming Soon**
 
