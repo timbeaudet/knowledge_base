@@ -1,8 +1,9 @@
-# Objectives for Today 2021-11-04
+# Objectives for Today 2021-11-05
 
-- Working on new features for Track Builder!
-- Camera orientation tool, potentially with perspective/ortho.
-- This is a shorter day as meetings take some time around noon.
+- Creating some grey-block obstacles for the arenas.
+- Design and create some more arenas.
+- Messing with physics, adding car hop and limiting air boost?
+- **Viewer Reward:** Cooking Lasagna! Starting around noon to 3pm ET
 
 **Coming Soon**
 
