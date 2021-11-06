@@ -1,9 +1,10 @@
-# Objectives for Today 2021-11-05
+# Objectives for Today 2021-11-06
 
-- Creating some grey-block obstacles for the arenas.
-- Design and create some more arenas.
-- Messing with physics, adding car hop and limiting air boost?
-- **Viewer Reward:** Cooking Lasagna! Starting around noon to 3pm ET
+- Finish creation of the grey-block obstacles (popup ramps and walls) for the arenas.
+- Potentially jump into building Rally of Rockets for WebASM with networking.
+- Maybe design and create some more arenas.
+- Considering messing with physics, adding car hop and limiting air boost?
+- Possibility of sim racing.
 
 **Coming Soon**
 
