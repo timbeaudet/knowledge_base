@@ -1,12 +1,10 @@
-# Objectives for Today 2021-11-07
+# Objectives for Today 2021-11-08
 
-- Replace the broken link for the Turbo Boom! Pitch deck.
-- No idea what the plans for today actually are, just doing things to move forward
-  - Maybe design and create some more arenas.
-  - Potentially jump into building Rally of Rockets for WebASM with networking.
-  - Considering messing with physics, adding car hop and limiting air boost?
-  - Possibility of sim racing in the F3
-- Possible short stream so Tim can go hiking... 
+- Updating the Key Performance Indicators of the Adventure
+- Update the Discord/Reddit weekly topic.
+- Writing an article for marketing game development stream.
+- Writing script for final YouTube "closing" video.
+- Potentially jump into building Rally of Rockets for WebASM with networking.
 
 **Coming Soon**
 
