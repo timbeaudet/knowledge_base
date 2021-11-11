@@ -1,9 +1,9 @@
-# Objectives for Today 2021-11-10
+# Objectives for Today 2021-11-11
 
+- Investigating why Track Builder failed building for Windows during nightlies (gitea went down last night).
 - Try proxying a websocket server to Rally of Rockets to get testing where the game is at in browser.
-- Fixing Track Builder build for Windows (the platform define doesn't work for directory path there).
-- Building arenas, or otherwise making some progress on rally of rockets where ever possible.
-- Will be a shortened day as there is a meeting at 11am ET
+- May continue working on Rocket Antenna fun stuffs.
+- Will be a shortened day as there is, _yet another_, meeting at 12pm ET
 
 **Coming Soon**
 
