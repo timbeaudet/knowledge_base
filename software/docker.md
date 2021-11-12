@@ -1,6 +1,7 @@
 # Notes About Docker
 
-First you must almost always use `sudo` for some weird reasons based on how I installed with apt-get?, not sure why and not a fan. Mentally add it to all the commands listed below.
+First you must almost always use `sudo` for some weird reasons based on how I installed with apt-get?, not sure why and not a fan. Mentally add it to all the commands listed below.  
+It may be possible to deal with [via this](https://docs.docker.com/engine/install/linux-postinstall/).
 
 ### Stopping a Container
 
