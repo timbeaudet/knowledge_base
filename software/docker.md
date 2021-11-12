@@ -19,4 +19,6 @@ The docker file in Rally of Rockets has some extra notes on the dockerfile, not 
 ### Run / Test the container
 
 Run the docker file and let it make port 5000 on the machine act as 9999 inside the container. If a game-server in the container listened on port A the docker container listens on port B and send that to the game as it would expect.  
-`docker run -p 5000:9999 tyrebytes/rally-of-rockets`
+`docker run -p 5000:9999 tyrebytes/rally-of-rockets`  
+
+`docker run -it -p 9999:9999 tyrebytes/rally-of-rockets:alpha0.0.2 /bin/bash`
