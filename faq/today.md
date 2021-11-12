@@ -1,9 +1,13 @@
-# Objectives for Today 2021-11-11
+# Objectives for Today 2021-11-12
 
-- Investigating why Track Builder failed building for Windows during nightlies (gitea went down last night).
-- Try proxying a websocket server to Rally of Rockets to get testing where the game is at in browser.
-- May continue working on Rocket Antenna fun stuffs.
-- Will be a shortened day as there is, _yet another_, meeting at 12pm ET
+- Investigating if authentication is causing the issue where client doesn't get into game.
+- Create a docker container with/for the game server, ideally an automated script.
+- Brainstorm some catchy titles for stream.
+- No meeting today that I am currently aware of.
+
+**Daily Goal**
+
+- Will stream cooking + dinner content at 4-6pm ET if 4900 bits.
 
 **Coming Soon**
 
