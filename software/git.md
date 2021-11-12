@@ -41,6 +41,7 @@ git config --global alias.co 'checkout'
 git config --global alias.cop 'checkout --patch'
 git config --global alias.st 'status'
 git config --global alias.ss 'stash save'
+git config --global alias.sp 'stash pop'
 ```
 
 Unformatted below.
