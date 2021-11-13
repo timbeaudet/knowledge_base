@@ -11,7 +11,7 @@
 - Write an article: How I put a game written in C++ in your web browser!
 - DO THINGS
 - No meeting today that I am currently aware of, no hiking either (raining).
-
+- Cooking content on stream around 2-5pm ET
 
 **Notice**
 
