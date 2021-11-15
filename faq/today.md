@@ -1,21 +1,11 @@
-# Objectives for Today 2021-11-13
+# Objectives for Today 2021-11-15
 
-- Set default volume to 0.5 or something that is not deafening.
-- Look into the issues with atenna shader ... 90% of issue may be using gl3.2 core shader....
-- Potentially randomize names and show the players name in a different color.
-- Long round times to not reset all the time.
-- Prepare a gift for #screenshotsaturday for twitter, cta jump on stream/playtest!
-- Continue allowing Rally of Rockets to run the server, see how that goes.
-- 
+- Update the Key Performance Indicators
+- Update the weekly topic in Discord and Reddit
 - Brainstorm some catchy titles for stream.
+- Brainstorm some more weekly topic questions.
+- Video editing for the final YouTube devlog videos.
 - Write an article: How I put a game written in C++ in your web browser!
-- DO THINGS
-- No meeting today that I am currently aware of, no hiking either (raining).
-- Cooking content on stream around 2-5pm ET
-
-**Notice**
-
-- Rally of Rockets
 
 **Coming Soon**
 
