@@ -1,11 +1,11 @@
-# Objectives for Today 2021-11-15
+# Objectives for Today 2021-11-16
 
-- Update the Key Performance Indicators
-- Update the weekly topic in Discord and Reddit
-- Brainstorm some catchy titles for stream.
-- Brainstorm some more weekly topic questions.
-- Video editing for the final YouTube devlog videos.
-- Write an article: How I put a game written in C++ in your web browser!
+- Allow game to change the sky settings in ice Engine
+- Create a sky editor for TrackBuilder
+- Load the skies in Rally of Rockets
+- Refactor / new feature of allowing an ice Graphic to set shader uniforms
+  - This would allow each rocket car to have its own antenna properly working.
+- If there is time remaining put the perspective / FoV matrix in the ice Camera object.
 
 **Coming Soon**
 
