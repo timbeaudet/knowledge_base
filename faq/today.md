@@ -1,11 +1,12 @@
-# Objectives for Today 2021-11-16
+# Objectives for Today 2021-11-17
 
-- Allow game to change the sky settings in ice Engine
-- Create a sky editor for TrackBuilder
-- Load the skies in Rally of Rockets
+- Load the sky changes into Rally of Rockets.
 - Refactor / new feature of allowing an ice Graphic to set shader uniforms
   - This would allow each rocket car to have its own antenna properly working.
 - If there is time remaining put the perspective / FoV matrix in the ice Camera object.
+  - This would allow TrackBuilder to do the ortho/perspective mode / games with dynamic FoV effects.
+- Maybe jump into Blender work on gray boxing an arena?
+- There are meetings today, so stream ends a little early.
 
 **Coming Soon**
 
