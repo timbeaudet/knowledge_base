@@ -12,7 +12,7 @@
 
 **Bit Goals**
 
-- Weekly Total Bits: 3600
+- Weekly Total Bits: 4700
   - 5000 content of cooking Pizza on Friday evening if it before Friday 9am ET
 - Daily Total Bits: HIT!!!
   - 1500 bits for Indie pet camera content unlock all day
