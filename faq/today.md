@@ -9,3 +9,10 @@
 **Coming Soon**
 
 - Playing Rally of Rockets from the [Ultimate Games](https://ultimate.games/) platform.
+
+**Bit Goals**
+
+- Weekly Total Bits: 1600
+  - 5000 content of cooking Pizza on Friday evening if it before Friday 9am ET
+- Daily Total Bits: 0
+  - 1500 bits for Indie pet camera content unlock all day
