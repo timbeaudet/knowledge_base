@@ -1,12 +1,10 @@
-# Objectives for Today 2021-11-17
+# Objectives for Today 2021-11-18
 
-- Load the sky changes into Rally of Rockets.
-- Refactor / new feature of allowing an ice Graphic to set shader uniforms
-  - This would allow each rocket car to have its own antenna properly working.
-- If there is time remaining put the perspective / FoV matrix in the ice Camera object.
-  - This would allow TrackBuilder to do the ortho/perspective mode / games with dynamic FoV effects.
+- Write up a work order / description for potential help with arena design.
+- Write up a work order / description for help with art / visuals.
+- Prepare a package with the game wasm and docker file to launch RoR on UG platform.
 - Maybe jump into Blender work on gray boxing an arena?
-- There are meetings today, so stream ends a little early.
+- There may be socialization in afternoon, and Indie baby sitting!
 
 **Coming Soon**
 
