@@ -9,7 +9,5 @@
 **Coming Soon**
 
 - Tomorrow?? Playing Rally of Rockets from the [Ultimate Games](https://ultimate.games/) platform.
-
-- 2021-11-20: (tomorrow) 5+ hours of Portal 2, as long as my PC handles it.
-- 2021-11-??: (Some Future Friday) Hiking "Stream" Video / Talk 
-- 2021-11-??: (Some Future Friday) 2-3 hours of learning regex
+- 2021-??-??: (Some Future Friday) Hiking "Stream" Video / Talk 
+- 2021-??-??: (Some Future Friday) 2-3 hours of learning regex
