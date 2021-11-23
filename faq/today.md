@@ -1,13 +1,13 @@
-# Objectives for Today 2021-11-22
+# Objectives for Today 2021-11-23
 
-- Update the Key Performance Indicators for the adventure.
-- Update a #weekly_topic for Discord and Reddit.
-- Update the Development Reports because I am behind...
-- Find the audience / persona for Rally of Rockets.
-- Continue editing the Eggcelerate! sales / post-mortem video.
+- Play with world space grid/blue-print shader.
+- Brainstorm and prioritize tasks for Rally of Rocket MVP.
+- Make the game better, do the things, play with some physics.
 
 **Coming Soon**
 
-- Tomorrow?? Playing Rally of Rockets from the [Ultimate Games](https://ultimate.games/) platform.
-- 2021-??-??: (Some Future Friday) Hiking "Stream" Video / Talk 
+- MAY not be streaming Thursday - Sunday (2021-11-25 - 2021-11-28) for Thanksgiving break.
+- Now we play Rally of Rockets from the [Ultimate Games](https://ultimate.games/) platform.
+- 2021-??-??: (Some Future Weekend/Night?) Continue Portal 2 Reward Steam (2hrs)
+- 2021-??-??: (Some Future Friday) Hiking "Stream" Video / Talk
 - 2021-??-??: (Some Future Friday) 2-3 hours of learning regex
