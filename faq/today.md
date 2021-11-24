@@ -1,8 +1,10 @@
-# Objectives for Today 2021-11-23
+# Objectives for Today 2021-11-24
 
-- Play with world space grid/blue-print shader.
-- Brainstorm and prioritize tasks for Rally of Rocket MVP.
-- Make the game better, do the things, play with some physics.
+- Dig into whatever is causing issues with the shadows in Rally of Rockets.
+- Add support for setting a shader on an object in Track Builder / Bundler.
+- Set the current working director of Track Builder to the Game Root.
+- Set track/arena save/load directories as well as prefab/skies/other directories in Track Builder.
+  - with the objective of reducing navigation when opening prefab/skies/track.
 
 **Coming Soon**
 
