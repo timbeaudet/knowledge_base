@@ -1,9 +1,11 @@
-# Objectives for Today 2021-11-28
+# Objectives for Today 2021-11-29
 
-- Fixed an issue with TurtleBot not announcing notification...
-- Likely going to jump into business review of November / planning December.
-- Might be writing an article on Building a Game in WebASM
-- Might be adding a WebSocket connection to TurtleBot -> OBS for remote controlling.
+- Updating the Key Performance Indicators of the adventure.
+- Updating the weekly topic in Discord and Reddit.
+- Creating two thumbnails for the final YouTube videos.
+- Trying to add more overlays/action to the Fulltime GameDev video.
+- Writing an article on Building a Game in WebASM or something else.
+- Digging into plan to convert active Mailchimp list into Moosend.
 - Might start playing with physics in Rally of Rockets.
 
 **Coming Soon**
