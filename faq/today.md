@@ -11,6 +11,7 @@
 **Coming Soon**
 
 - Now we play Rally of Rockets from the [Ultimate Games](https://ultimate.games/) platform.
+- 2021-12-03: 3pm ET, 2 hour Hiking "Stream" Video / Talk
 - 2021-12-04: Continue Portal 2 Reward Steam (2hrs)
-- 2021-12-03: 2 hour Hiking "Stream" Video / Talk
+- 2021-12-10: 3pm ET, 2 hour MX Bikes Playtest (sponsored by Simonaut_)
 - 2021-12-17: 2-3 hours of learning regex
