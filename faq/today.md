@@ -1,17 +1,16 @@
 # Objectives for Today 2021-11-29
 
-- Updating the Key Performance Indicators of the adventure.
-- Updating the weekly topic in Discord and Reddit.
-- Creating two thumbnails for the final YouTube videos.
-- Trying to add more overlays/action to the Fulltime GameDev video.
-- Writing an article on Building a Game in WebASM or something else.
-- Digging into plan to convert active Mailchimp list into Moosend.
-- Might start playing with physics in Rally of Rockets.
+- New physics in Rally of Rockets, aiming to get predictable/controllable rocket car.
+- Setup a new rocket visual that looks a lot more prototype (like a box)
+- Allow adjustment with the width / length of the wheelbase.
+- Potentially not using the bullet vehicle physics at all??
+- Accelerate to a top speed quite quickly, brake back to stopping.
+  - Get Forward to Reverse switch working nicely.
+- Turning without losing much grip unless drift/"handbrake" is applied.
 
 **Coming Soon**
 
 - Now we play Rally of Rockets from the [Ultimate Games](https://ultimate.games/) platform.
-- 2021-12-03: 3pm ET, 2 hour Hiking "Stream" Video / Talk
+- 2021-12-03: 3pm ET (ish), 2 hour Hiking "Stream" Video / Talk
 - 2021-12-04: Continue Portal 2 Reward Steam (2hrs)
-- 2021-12-10: 3pm ET, 2 hour MX Bikes Playtest (sponsored by Simonaut_)
 - 2021-12-17: 2-3 hours of learning regex
