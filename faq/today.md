@@ -13,4 +13,5 @@
 - Now we play Rally of Rockets from the [Ultimate Games](https://ultimate.games/) platform.
 - 2021-12-03: 3pm ET (ish), 2 hour Hiking "Stream" Video / Talk
 - 2021-12-04: Continue Portal 2 Reward Steam (2hrs)
+- 2021-12-14: Testing Fllr's Oval Racing Ideas (may occur sooner if physics wrapup sooner)
 - 2021-12-17: 2-3 hours of learning regex
