@@ -1,4 +1,4 @@
-# Objectives for Today 2021-11-30
+# Objectives for Today 2021-12-01
 
 - New physics in Rally of Rockets, aiming to get predictable/controllable rocket car.
 - Setup a new rocket visual that looks a lot more prototype (like a box)
