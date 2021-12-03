@@ -1,15 +1,12 @@
-# Objectives for Today 2021-12-02
+# Objectives for Today 2021-12-03
 
-- Need to "pay" myself for the month of November... to live... in December.
-  - How much do I get paid?  (Also need to pay rent & energy bill)
 - New physics in Rally of Rockets, aiming to get predictable/controllable rocket car.
-- Allow adjustment with the width / length of the wheelbase.
 - Accelerate to a top speed quite quickly, brake back to stopping.
   - Get Forward to Reverse switch working nicely.
 - Turning without losing much grip unless drift/"handbrake" is applied.
 
 **Notice**
-- Likely needing a nap, longer mid day break; didn't grab much sleep...
+- The day may be cut short for personal stuff.
 
 **Coming Soon**
 
