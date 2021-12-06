@@ -2,6 +2,8 @@
 
 - Update Key Performance Indicators of the Adventure
 - Update weekly topic for Discord and Reddit
+- Create a task-list for the week.
+- Setup the cleanup/conversion drip campaign for Mailchip to Moosend list.
 - Write an article about some fun tech stuff we done did on strim
 - Make some new YouTube Thumbnails
 - Research on Thumbnails, Titles and Videos or Channels about Sim Racing
