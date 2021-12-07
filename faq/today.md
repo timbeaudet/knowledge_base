@@ -1,14 +1,7 @@
-# Objectives for Today 2021-12-06
+# Objectives for Today 2021-12-07
 
-- Update Key Performance Indicators of the Adventure
-- Update weekly topic for Discord and Reddit
-- Create a task-list for the week.
-- Setup the cleanup/conversion drip campaign for Mailchip to Moosend list.
-- Write an article about some fun tech stuff we done did on strim
-- Make some new YouTube Thumbnails
-- Research on Thumbnails, Titles and Videos or Channels about Sim Racing
-- Possibly add a WebSocket connection from TurtleBot to OBS to control cameras/scenes.
-
+- Physics of turning and rotating the car to point a different direction.
+- Physics of car to car collision to make them slide around and bounce away.
 
 **NOTICE**
 
