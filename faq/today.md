@@ -1,7 +1,8 @@
-# Objectives for Today 2021-12-07
+# Objectives for Today 2021-12-08
 
-- Physics of turning and rotating the car to point a different direction.
 - Physics of car to car collision to make them slide around and bounce away.
+- Adding the oval arena to the game for prototyping the idea.
+- Meetings today with Ultimate Games to stay informed and updated.
 
 **NOTICE**
 
