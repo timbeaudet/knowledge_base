@@ -1,8 +1,8 @@
-# Objectives for Today 2021-12-08
+# Objectives for Today 2021-12-09
 
+- Art Practice: Making an Info Graphic, or learning some layout/design stuff for an info graphic creation.
 - Physics of car to car collision to make them slide around and bounce away.
 - Adding the oval arena to the game for prototyping the idea.
-- Meetings today with Ultimate Games to stay informed and updated.
 
 **NOTICE**
 
