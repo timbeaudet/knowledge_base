@@ -1,8 +1,8 @@
-# Objectives for Today 2021-12-09
+# Objectives for Today 2021-12-10
 
-- Art Practice: Making an Info Graphic, or learning some layout/design stuff for an info graphic creation.
-- Physics of car to car collision to make them slide around and bounce away.
+- Art Practice: ???
 - Adding the oval arena to the game for prototyping the idea.
+- Updating stuff with Ultimate Games to run a new playtest with the oval idea and new physics.
 
 **NOTICE**
 
@@ -17,5 +17,5 @@
 **Coming Soon**
 
 - Now we play Rally of Rockets from the [Ultimate Games](https://ultimate.games/) platform.
-- 2021-12-14: Testing Fllr's Oval Racing Ideas (may occur sooner if physics wrapup sooner)
+- 2021-12-10: Testing Fllr's Oval Racing Ideas (may occur sooner if physics wrapup sooner)
 - 2021-12-17: 2-3 hours of learning regex
