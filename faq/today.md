@@ -6,6 +6,10 @@
 - Release Fulltime indie video and push on reddit and twitter.
 - Update the goals for the week.
 - Complete and send the email for Mailchimp to Moosend conversion to capture active users!
+- Possible: Complete and promote Patreon "New Year 2022" special offer.
+- Possible: Writing an article on Game Development to post and attract attention to stream.
+  - Digging deeper into technical bits seemed to be a hit with the Discord Bot post.
+- Ending stream around 3pm ET for personal stuffs.
 
 **Special Goals**
 
