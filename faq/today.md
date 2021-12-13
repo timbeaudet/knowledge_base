@@ -1,18 +1,15 @@
-# Objectives for Today 2021-12-10
+# Objectives for Today 2021-12-13
 
-- Art Practice: ???
-- Adding the oval arena to the game for prototyping the idea.
-- Updating stuff with Ultimate Games to run a new playtest with the oval idea and new physics.
-
-**NOTICE**
-
-- Streams from 2021-12-06 to 2021-12-10 may start later and end earlier.
-  - I am babysitting Indie which takes longer to get started and I also plan to take him hiking a bit.
+- Update the Key Performance Indicators for the adventure.
+- Update the weekly topic on Discord and (Reddit?)
+- Finalize the Fulltime Indie video thumbnail, title, description, tags, chapter etc.
+- Release Fulltime indie video and push on reddit and twitter.
+- Update the goals for the week.
+- Complete and send the email for Mailchimp to Moosend conversion to capture active users!
 
 **Special Goals**
 
-5000 bits to sponsor Indie Camera from 2021-12-06 to 2021-12-10
-  - Sponsored by i_am_steve_oh
+103 of 5000 bits (before Friday!) to do cooking stream of christmas cookies Friday evening (5pm ET)!
 
 **Coming Soon**
 
