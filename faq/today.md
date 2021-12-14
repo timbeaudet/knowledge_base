@@ -1,15 +1,10 @@
-# Objectives for Today 2021-12-13
+# Objectives for Today 2021-12-14
 
-- Update the Key Performance Indicators for the adventure.
-- Update the weekly topic on Discord and (Reddit?)
-- Finalize the Fulltime Indie video thumbnail, title, description, tags, chapter etc.
-- Release Fulltime indie video and push on reddit and twitter.
-- Update the goals for the week.
-- Complete and send the email for Mailchimp to Moosend conversion to capture active users!
+- Flailing around with Rally of Rockets not connecting to server on deploy.
 - Possible: Complete and promote Patreon "New Year 2022" special offer.
 - Possible: Writing an article on Game Development to post and attract attention to stream.
   - Digging deeper into technical bits seemed to be a hit with the Discord Bot post.
-- Ending stream around 3pm ET for personal stuffs.
+- Ending stream around 10am ET for personal stuffs, _may_ have a second stream later in the afternoon.
 
 **Special Goals**
 
