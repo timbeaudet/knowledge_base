@@ -11,7 +11,7 @@
 
 **Special Goals**
 
-1105 of 5000 bits (before Friday!) to do cooking stream of christmas cookies Friday evening (5pm ET)!
+1106 of 5000 bits (before Friday!) to do cooking stream of christmas cookies Friday evening (5pm ET)!
 
 **Coming Soon**
 
