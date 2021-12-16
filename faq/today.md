@@ -8,9 +8,9 @@
 
 **Special Goals**
 
-4110 of 5000 bits (before Friday!) to do cooking stream of christmas cookies Friday evening (5pm ET)!
 
 **Coming Soon**
 
 - Now we play Rally of Rockets from the [Ultimate Games](https://ultimate.games/) platform.
 - 2021-12-17: 2-3 hours of learning regex
+- 2021-12-17: Cookie stream Friday evening (5pm ET) making cookies!
