@@ -2,8 +2,8 @@
 
 - Nightly Build Area had one more failure to still look into.
 - Dig into new engine features and playing with arts.
+- Add #include feature to shader loading and processing.
 - Writing an article on Game Development to post and attract attention to stream.
-- Stream ending early for a nap, hoping to continue again after.
 
 **Coming Soon**
 
