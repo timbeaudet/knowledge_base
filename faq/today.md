@@ -1,10 +1,9 @@
-# Objectives for Today 2021-12-18
+# Objectives for Today 2021-12-19
 
 - Nightly Build Area had one more failure to still look into.
-- Complete and promote Patreon "New Year 2022" special offer.
+- Dig into new engine features and playing with arts.
 - Writing an article on Game Development to post and attract attention to stream.
-- Maybe jumping on a first Sim Racing video?
-- Stream ending around noon-ish for lunch and (offstream) holiday party.
+- Stream ending early for a nap, hoping to continue again after.
 
 **Coming Soon**
 
