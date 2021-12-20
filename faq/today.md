@@ -1,11 +1,14 @@
-# Objectives for Today 2021-12-19
+# Objectives for Today 2021-12-20
 
-- Nightly Build Area had one more failure to still look into.
-- Dig into new engine features and playing with arts.
-- Add #include feature to shader loading and processing.
+- Update the Key Performance Indicators for the week
+- Update the #weekly_topic in Discord / Reddit
+- Update weekly plans/goals for week #51
+- Finish chance 3 email campaign for mailchimp to moosend conversion.
+  - Schedule to send this on Wednesday.
 - Writing an article on Game Development to post and attract attention to stream.
+- Marketing brainstorm and planning session; focus on moving KPI's.
 
 **Coming Soon**
 
 - Now we play Rally of Rockets from the [Ultimate Games](https://ultimate.games/) platform.
-- No Streams from December 22 to 26th for Christmas Break.
+- (Potentially) No Streams from December 22 to 26th for Christmas Break.
