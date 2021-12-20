@@ -11,4 +11,4 @@
 **Coming Soon**
 
 - Now we play Rally of Rockets from the [Ultimate Games](https://ultimate.games/) platform.
-- (Potentially) No Streams from December 22 to 26th for Christmas Break.
+- (Potentially) No Streams from December 23rd to 26th for Christmas Break.
