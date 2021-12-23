@@ -1,19 +1,16 @@
-# Objectives for Today 2021-12-22
+# Objectives for Today 2021-12-23
 
-- Add a prebuild step to Rally of Rockets on Linux to get protobuf's generated for gRPC.
-- Cleanup anything related to gRPC and get that committed.
-- Create repository and commit the first of ug_api.
-- Get the mouse coordinates working - if possible - for WebGL builds.
-- Remove the menu from Rally of Rockets; jump straight to game play.
-- Fixing bugs and optimizing things.
-- Jump into the Indie Career Tracker to update the 2018-2021 sheets to latest data calculator.
+- Jump into Stream Helper / Turtle Bot to make some improvements.
+  - Attempting to create a connection with OBS so commands can change camera or hide/show some elements. 
+  - Get the stream category and setup states to remove the racing mini game while Sim Racing or Gaming.
+  - Looking and hunting down some of the bugs and issues the bot is facing.
+  - Creating and adding some new campaign animations for stream, "Timogatchi?"
 - Writing an article on Game Development to post and attract attention to stream.
-- Art practice: Create social media assets for the Sim Racing channel.
+- Art practice: Create some overlay stuff for stream campaigns?
 
 **NOTE**
 
-- Stream ends at noon ET for meetings.
-- Stream my end earlier for car to get tires.
+- 12/23 to 12/26 are going to be "fun" streams, they may push adventure forward - but loosening the "need to make money"
 
 **Coming Soon**
 
