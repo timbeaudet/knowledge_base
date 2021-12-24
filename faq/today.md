@@ -1,10 +1,6 @@
-# Objectives for Today 2021-12-23
+# Objectives for Today 2021-12-24
 
-- Jump into Stream Helper / Turtle Bot to make some improvements.
-  - Attempting to create a connection with OBS so commands can change camera or hide/show some elements. 
-  - Get the stream category and setup states to remove the racing mini game while Sim Racing or Gaming.
-  - Looking and hunting down some of the bugs and issues the bot is facing.
-  - Creating and adding some new campaign animations for stream, "Timogatchi?"
+- Play with Turtle Brains / ICE / Track Builder - Engine Stuff for some fun.
 - Writing an article on Game Development to post and attract attention to stream.
 - Art practice: Create some overlay stuff for stream campaigns?
 
