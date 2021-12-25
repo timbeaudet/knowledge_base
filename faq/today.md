@@ -1,6 +1,8 @@
-# Objectives for Today 2021-12-24
+# Objectives for Today 2021-12-25
 
-- Play with Turtle Brains / ICE / Track Builder - Engine Stuff for some fun.
+- Happy Christmas and Merry Holidays.
+- Play with Telemetry Buddy
+- Play with TurtleBrains / ICE / TrackBuilder
 - Writing an article on Game Development to post and attract attention to stream.
 - Art practice: Create some overlay stuff for stream campaigns?
 
