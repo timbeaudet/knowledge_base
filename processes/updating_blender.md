@@ -14,3 +14,5 @@ MKLINK /J game_exporter C:\development\undefined\game_exporter
 Also may want to copy `screencastkeys` and any other addons from the previous version.
 
 May also need to update the script/add-on to support the Blender version.
+
+Once in the export menu, can assign a short cut like `CTRL+SHIFT+E`
