@@ -1,10 +1,9 @@
-# Objectives for Today 2021-12-25
+# Objectives for Today 2021-12-26
 
 - Happy Christmas and Merry Holidays.
-- Play with Telemetry Buddy
-- Play with TurtleBrains / ICE / TrackBuilder
+- Continuing the Animation MVP, just hacking away to add skeletal animation in some form using shaders.
 - Writing an article on Game Development to post and attract attention to stream.
-- Art practice: Create some overlay stuff for stream campaigns?
+- Probably some Sim Racing in the afternoon.
 
 **NOTE**
 
