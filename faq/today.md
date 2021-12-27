@@ -7,6 +7,10 @@
 - Write email response to lawyer(s).
 - Planning out a sim racing video, scripted or otherwise.
 
+**Goal**
+
+100 of 5000 bits by end of 2021 for Cooking Breakfast with Tim (on a future Friday).
+
 **NOTE**
 
 - 12/31-01/02 may be days off for late family Christmas (thanks covid)
