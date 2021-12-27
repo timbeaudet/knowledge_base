@@ -1,13 +1,15 @@
-# Objectives for Today 2021-12-26
+# Objectives for Today 2021-12-27
 
 - Happy Christmas and Merry Holidays.
-- Continuing the Animation MVP, just hacking away to add skeletal animation in some form using shaders.
+- Updating the KPI, weekly topics, and weekly plan.
+- Looking into nightly build failures, I guess the animation stuff broke an ICE API that was actually in use???
 - Writing an article on Game Development to post and attract attention to stream.
-- Probably some Sim Racing in the afternoon.
+- Write email response to lawyer(s).
+- Planning out a sim racing video, scripted or otherwise.
 
 **NOTE**
 
-- 12/23 to 12/26 are going to be "fun" streams, they may push adventure forward - but loosening the "need to make money"
+- 12/31-01/02 may be days off for late family Christmas (thanks covid)
 
 **Coming Soon**
 
