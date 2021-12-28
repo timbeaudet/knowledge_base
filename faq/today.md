@@ -8,7 +8,7 @@
 
 **Goal**
 
-100 of 5000 bits by end of 2021 for Cooking Breakfast with Tim (on a future Friday).
+200 of 5000 bits by end of 2021 for Cooking Breakfast with Tim (on a future Friday).
 
 **NOTE**
 
