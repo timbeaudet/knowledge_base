@@ -1,14 +1,16 @@
-# Objectives for Today 2021-12-28
+# Objectives for Today 2021-12-29
 
-- Looking into nightly build failures, model viewer failing on Linux.
-- Get a minimal code for mouse issue with emscripten.
-- Write email response to lawyer(s).
+- The End is Near! 2021 Wrapping Up.
+- Play around with the mouse issue in TurtleBrains / emscripten.
 - Add a performance monitor to RoR to see framerate / network latency.
-- Split network messages into TCP and UDP packets appropriately.
+- Update sidecar/other things for Ultimate Games platform, prep for staging test.
+- Add a networking performance monitoring tool to see latency.
+- Meetings in the afternoon with one cancelled, dropping off no later than 2pm.
+- Meeting with accountant at 3:30pm ET, what questions should Tim ask?
 
 **Goal**
 
-200 of 5000 bits by end of 2021 for Cooking Breakfast with Tim (on a future Friday).
+1300 of 5000 bits by end of 2021 for Cooking Breakfast with Tim (on a future Friday).
 
 **NOTE**
 
