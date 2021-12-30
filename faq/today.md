@@ -1,12 +1,10 @@
-# Objectives for Today 2021-12-29
+# Objectives for Today 2021-12-30
 
 - The End is Near! 2021 Wrapping Up.
-- Play around with the mouse issue in TurtleBrains / emscripten.
-- Add a performance monitor to RoR to see framerate / network latency.
-- Update sidecar/other things for Ultimate Games platform, prep for staging test.
-- Add a networking performance monitoring tool to see latency.
-- Meetings in the afternoon with one cancelled, dropping off no later than 2pm.
-- Meeting with accountant at 3:30pm ET, what questions should Tim ask?
+- Get player join / leave events from Ultimate Games platform to know usernames.
+- Add the console/terminal tool from LD?? into Rally of Rockets.
+- Make it so an admin can change arena via a command.
+- Dig into either the physics of collision or why the car is bouncing on network.
 
 **Goal**
 
