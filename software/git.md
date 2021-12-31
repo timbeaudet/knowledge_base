@@ -119,18 +119,18 @@ Doesn't actually matter if on master, but master must be up to date.
 `git checkout master`                   Make sure master is all up-to-date, this and pull.  
 `git pull --rebase=preserve`            Make sure to preserve the railroad tracks.  
 `git checkout feature/name`             Make sure to checkout the feature branch where work was done.  
-`git rebase master`                     Replays all feature commits on top of anything in master.  
+`git rebase master --preserve-merges`   Replays all feature commits on top of anything in master, while keeping any merged history.
 `git checkout master`                   
 `git merge --no-ff feature/name`        feature/name can be omitted if you use `-` instead to represent "previous"  
 `git push`  
 
 To continue working on the branch, after merging to master, do  
-`git checkout feature/name && git rebase master`
+`git checkout feature/name && git rebase master --preserve-merges`
 
 **If you forgot that step...** _(and committed to the master branch instead; but have not pushed...)
 
 `git checkout feature/name`  
-`git rebase master`                     Bring the new commits to the branch  
+`git rebase master  --preserve-merges`   Bring the new commits to the branch  
 feature/name and master should now match.  
 `git checkout master`  
 `git log` and find the commit id of the commit BEFORE the one desired.  
