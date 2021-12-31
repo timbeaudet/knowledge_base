@@ -1,10 +1,11 @@
-# Objectives for Today 2021-12-30
+# Objectives for Today 2021-12-31
 
-- The End is Near! 2021 Wrapping Up.
+- The End is Here! The last day of 2021.
 - Get player join / leave events from Ultimate Games platform to know usernames.
-- Add the console/terminal tool from LD?? into Rally of Rockets.
-- Make it so an admin can change arena via a command.
-- Dig into either the physics of collision or why the car is bouncing on network.
+  - Attach it to the player in Rally of Rockets.
+- Dig into why the car is bouncing on networks right so badly with new physics.
+- Maybe have some time left to dig into the physics of collisions.
+- PLAYTEST if all goes well!
 
 **Goal**
 
