@@ -1,8 +1,13 @@
-# Objectives for Today 2022-01-02
+# Objectives for Today 2022-01-03
 
-- Accounting for December make sure that is all updated.
-- Month in Review for December 2021.
-- Year in Review for 2021, dig into all the lessons learned.
+- Update the key performance indicators.
+- Update the weekly topic on discord and reddits.
+- Update the weekly plan for week 1 of 2022.
+- Make a post about something gamedev related on twitter.
+- Write and send the chimp to moosend chance #4 email campaign.
+- Collect all the racing games released on Steam in December 2021.
+- Continue with marketing tasks/brainstorming or RoR <-> UGs communication.
+
 
 **Goal**
 
