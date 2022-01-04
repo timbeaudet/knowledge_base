@@ -1,13 +1,7 @@
-# Objectives for Today 2022-01-03
+# Objectives for Today 2022-01-04
 
-- Update the key performance indicators.
-- Update the weekly topic on discord and reddits.
-- Update the weekly plan for week 1 of 2022.
-- Make a post about something gamedev related on twitter.
-- Write and send the chimp to moosend chance #4 email campaign.
-- Collect all the racing games released on Steam in December 2021.
-- Continue with marketing tasks/brainstorming or RoR <-> UGs communication.
-
+- Digging into the new physics + networking, why is it so bouncy?
+- Rally of Rockets <-> Ultimate Games communication, get player names.
 
 **Goal**
 
