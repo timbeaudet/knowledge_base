@@ -160,6 +160,7 @@ Can even create the code edits first:
 	`git branch | xargs git branch -d`
 	IF deleted master, just checkout again.
 
+If the branch was merged from a different computer it will remain behind and need to use `git branch -D`
 
 ## Running Git Bisect to find broken commit:
 
