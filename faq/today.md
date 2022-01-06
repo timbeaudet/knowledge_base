@@ -1,12 +1,13 @@
-# Objectives for Today 2022-01-05
+# Objectives for Today 2022-01-06
 
+- Dig into why Rally of Rockets is failing the nightly builds on Linux.
 - New Lobby and Game Joining Experience
-  - Refactor RoR so the player joins the game server immediately.
-  - Refactor the rocket selection to happen while the player is online.
-  - Send rocket selection over the network.
+  - Add a method to the UGAPI to tell ultimate the game is ready to start.
   - Server should start the game when all players have rocket, or when admin says "start"
-
-Stream ending at 12pm ET: meetings and personal stuff to do in the afternoon.
+- Focus on Rocket to Rocket collisions to get them feeling good.
+  - Create a forceful push based on velocity and direction.
+  - Create a small upward force to send the victim flying.
+- Start building a new arena.
 
 **Goal**
 
@@ -14,4 +15,4 @@ Stream ending at 12pm ET: meetings and personal stuff to do in the afternoon.
 
 **Coming Soon**
 
-- 2021-01-07 at 3pm ET: Rally of Rockets playtest on the [Ultimate Games](https://ultimate.games/) platform with usernames.
+- 2021-01-07 at 2:00pm to 3:00pm ET: Rally of Rockets playtest on the [Ultimate Games](https://ultimate.games/) platform with usernames.
