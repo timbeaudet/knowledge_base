@@ -1,13 +1,11 @@
-# Objectives for Today 2022-01-06
+# Objectives for Today 2022-01-07
 
-- Dig into why Rally of Rockets is failing the nightly builds on Linux.
-- New Lobby and Game Joining Experience
-  - Add a method to the UGAPI to tell ultimate the game is ready to start.
-  - Server should start the game when all players have rocket, or when admin says "start"
-- Focus on Rocket to Rocket collisions to get them feeling good.
-  - Create a forceful push based on velocity and direction.
-  - Create a small upward force to send the victim flying.
-- Start building a new arena.
+- Get Rally of Rockets running on Ultimate Games platform for playtest at 2pm ET
+  - Ultimate Games needs their end working too.
+- Update the daily goal tracker for 2022 and use checkboxes and sleek stuffs.
+- Initiate a new daily goal for Tim Beaudet's Indie Adventure
+- Bring over the TriggerObject from old Rally of Rockets to use for car-to-car contact.
+- Jump into blender and make some arena ideas.
 
 **Goal**
 
