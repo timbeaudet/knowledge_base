@@ -1,16 +1,16 @@
-# Objectives for Today 2022-01-07
+# Objectives for Today 2022-01-08
 
-- Get Rally of Rockets running on Ultimate Games platform for playtest at 2pm ET
-  - Ultimate Games needs their end working too.
-- Update the daily goal tracker for 2022 and use checkboxes and sleek stuffs.
-- Initiate a new daily goal for Tim Beaudet's Indie Adventure
-- Bring over the TriggerObject from old Rally of Rockets to use for car-to-car contact.
-- Jump into blender and make some arena ideas.
+- Find a new press/journalist/writer to contact and make friends with.
+  - Respond back to the one found yesterday, Taming Gaming.
+- Possible: Work on Telemetry Buddy spinoff for Sim Racing Stream with clear info.
+- Possible: Work on Track Builder quality of life / usability improvements.
+- Possible: Work on Internal Combustion Engine: Render Queue?
+- Mostly just winging it today and seeing where it goes, for fun more than strictly for business.
 
 **Goal**
 
-1300 of 5000 bits for Cooking Breakfast with Tim (on a future Friday).
+1300 of 5000 bits for Pizza Day with Tim (on a future Friday).
 
 **Coming Soon**
 
-- 2021-01-07 at 2:00pm to 3:00pm ET: Rally of Rockets playtest on the [Ultimate Games](https://ultimate.games/) platform with usernames.
+- February 2022: Jumping in Unity to build an Eggcelerate! update!
