@@ -1,10 +1,11 @@
-# Objectives for Today 2022-01-08
+# Objectives for Today 2022-01-10
 
-- Work on Telemetry Buddy spinoff for Sim Racing Streaming with clear information.
-  - Add flags, green?, yellow, blue, white, checkers.
-  - Show players position in race, including estimated position via total distance.
-  - Show current lap and the number of laps remaining (mind that the race may be timed)
-  - Show the current race mode/session, Practice, Qualify, Racing, etc.
+- Update the weekly plan for Week 2 of 2022.
+- Update the Key Performance Indicators for the week.
+- Update the weekly topic on Discord and Reddit.
+- Find and email a new press/journalist/reviewer contact to befriend.
+- Ensure the final email of Mailchimp to Moosend is sent.
+- Find the keys for Idea Generation / Produsign for Rally of Rockets.
 
 **Goal**
 
