@@ -1,11 +1,8 @@
-# Objectives for Today 2022-01-10
+# Objectives for Today 2022-01-11
 
-- Update the weekly plan for Week 2 of 2022.
-- Update the Key Performance Indicators for the week.
-- Update the weekly topic on Discord and Reddit.
-- Find and email a new press/journalist/reviewer contact to befriend.
-- Ensure the final email of Mailchimp to Moosend is sent.
-- Find the keys for Idea Generation / Produsign for Rally of Rockets.
+- Exploring art and trying various things to bring together a new / different style to RoR.
+- Try creating a skybox with the dark blue diagonal squares/rectangles.
+- Try highlighting the car frame.
 
 **Goal**
 
