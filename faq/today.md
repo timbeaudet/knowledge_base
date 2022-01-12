@@ -1,8 +1,8 @@
-# Objectives for Today 2022-01-11
+# Objectives for Today 2022-01-12
 
-- Exploring art and trying various things to bring together a new / different style to RoR.
-- Try creating a skybox with the dark blue diagonal squares/rectangles.
-- Try highlighting the car frame.
+- Creating / finding emotes for some form of player to player communication.
+- More stuff on Rally of Rockets.
+- Meetings in the afternoon, likely stopping around 11 or 12.
 
 **Goal**
 
