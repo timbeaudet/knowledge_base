@@ -1,8 +1,9 @@
-# Objectives for Today 2022-01-12
+# Objectives for Today 2022-01-13
 
-- Creating / finding emotes for some form of player to player communication.
-- More stuff on Rally of Rockets.
-- Meetings in the afternoon, likely stopping around 11 or 12.
+- Rally of Rockets keep away mode
+- Create a trophy pickup for when nobody has a trophy.
+- Show which car has the trophy when someone does.
+- Give that person points as they hold the trophy.
 
 **Goal**
 
