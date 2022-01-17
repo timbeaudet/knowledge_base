@@ -1,6 +1,10 @@
-# Objectives for Today 2022-01-16
+# Objectives for Today 2022-01-17
 
-- Just messing around in Telemetry Buddy and get the overlay for racing streams better.
+- Update the Key Performance Indicators of the adventure.
+- Update the Weekly Plans for Week #3
+- Update the community topics for discord / reddit.
+- Find a press contact and share Eggcelerate! with them.
+- Random marketing and promotion tasks.
 
 **Goal**
 
