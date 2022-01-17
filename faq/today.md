@@ -5,10 +5,12 @@
 - Update the community topics for discord / reddit.
 - Find a press contact and share Eggcelerate! with them.
 - Random marketing and promotion tasks.
+- Fix Tyre Bytes website.
 
 **Goal**
 
 **Coming Soon**
 
 - 2022-01-21: Pizza Day with Tim, making dough, making pizza.
+- 2022-01-21: Playtest at 2pm ET for NEW game mode in Rally of Rockets.
 - February 2022: Jumping in Unity to build an Eggcelerate! update!
