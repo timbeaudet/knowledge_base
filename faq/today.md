@@ -1,13 +1,11 @@
-# Objectives for Today 2022-01-17
+# Objectives for Today 2022-01-18
 
-- Update the Key Performance Indicators of the adventure.
-- Update the Weekly Plans for Week #3
-- Update the community topics for discord / reddit.
-- Find a press contact and share Eggcelerate! with them.
-- Random marketing and promotion tasks.
-- Fix Tyre Bytes website.
-
-**Goal**
+- Finish the Keep Away mode by ensuring it doesn't crash in capture the flag arenas (ones without a trophy).
+- Create a boost pickup spot that can give a charge to the rocket car.
+  - boost pickup should take a moment to replenish (though power boosts without drain at choke points might prove interesting)
+- RocketCar boost should speed up the car while driving on the ground.
+  - boost in the air powers the car forward like a rocket / glider, almost like double jump.
+- RocketCar needs a self-up-righting force when less than three wheels are on the ground.
 
 **Coming Soon**
 
