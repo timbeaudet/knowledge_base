@@ -1,11 +1,13 @@
-# Objectives for Today 2022-01-18
+# Objectives for Today 2022-01-19
 
-- Finish the Keep Away mode by ensuring it doesn't crash in capture the flag arenas (ones without a trophy).
-- Create a boost pickup spot that can give a charge to the rocket car.
-  - boost pickup should take a moment to replenish (though power boosts without drain at choke points might prove interesting)
-- RocketCar boost should speed up the car while driving on the ground.
-  - boost in the air powers the car forward like a rocket / glider, almost like double jump.
-- RocketCar needs a self-up-righting force when less than three wheels are on the ground.
+- Dealing with some emails to get closer to inbox zero, need to respond to lawyers.
+- Release the annual report on patreon.
+- Finding a press/influencer to contact regarding playing Eggcelerate! / business friending.
+- Update the Indie Career Trackers to latest sheet to do the secrets correctly.
+- Add "EndGameSession" to Ultimate Games API and call it when Rally of Rockets Game Round is over.
+  - Check to see if sidecar tells us _anything_ with this.
+- Maybe, stretch goal: Update the Rocket Selection screen to be more better.
+- Jumping off stream at 12pm ET for the afternoon of meetings.
 
 **Coming Soon**
 
