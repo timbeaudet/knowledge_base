@@ -1,13 +1,11 @@
-# Objectives for Today 2022-01-19
+# Objectives for Today 2022-01-20
 
-- Dealing with some emails to get closer to inbox zero, need to respond to lawyers.
-- Release the annual report on patreon.
+- Get the 'city scape' arena in Rally of rockets for playing on PlayTest.
+- Playing with the rocket selection screen to make it more clear / better?
 - Finding a press/influencer to contact regarding playing Eggcelerate! / business friending.
-- Update the Indie Career Trackers to latest sheet to do the secrets correctly.
-- Add "EndGameSession" to Ultimate Games API and call it when Rally of Rockets Game Round is over.
-  - Check to see if sidecar tells us _anything_ with this.
+
 - Maybe, stretch goal: Update the Rocket Selection screen to be more better.
-- Jumping off stream at 12pm ET for the afternoon of meetings.
+
 
 **Coming Soon**
 
