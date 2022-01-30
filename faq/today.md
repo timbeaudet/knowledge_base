@@ -1,14 +1,12 @@
-# Objectives for Today 2022-01-20
+# Objectives for Today 2022-01-30
 
-- Get the 'city scape' arena in Rally of rockets for playing on PlayTest.
-- Playing with the rocket selection screen to make it more clear / better?
-- Finding a press/influencer to contact regarding playing Eggcelerate! / business friending.
-
-- Maybe, stretch goal: Update the Rocket Selection screen to be more better.
+- Make the Trophy reset on the ground where the player last was
+  - If the raycast hits reset plane 
+- Make the trophy reset when the arena reloads/resets.
 
 
 **Coming Soon**
 
-- 2022-01-21: Pizza Day with Tim, making dough, making pizza.
-- 2022-01-21: Playtest at 2pm ET for NEW game mode in Rally of Rockets.
+- 2022-02-??: Pizza Day with Tim, making dough, making pizza.
+- 2022-01-31: Playtest at 2pm ET for NEW game mode in Rally of Rockets.
 - February 2022: Jumping in Unity to build an Eggcelerate! update!
