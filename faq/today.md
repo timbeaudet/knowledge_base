@@ -1,9 +1,9 @@
-# Objectives for Today 2022-01-30
+# Objectives for Today 2022-01-31
 
-- Make the Trophy reset on the ground where the player last was
-  - If the raycast hits reset plane 
-- Make the trophy reset when the arena reloads/resets.
-
+- Updating Key Performance Indicators
+- Updating Weekly Topic in Discord/Reddit
+- Creating a Weekly Plan
+- Digging into a selection screen for Rally of Rockets
 
 **Coming Soon**
 
