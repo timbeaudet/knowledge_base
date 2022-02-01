@@ -1,12 +1,11 @@
-# Objectives for Today 2022-01-31
+# Objectives for Today 2022-02-01
 
-- Updating Key Performance Indicators
-- Updating Weekly Topic in Discord/Reddit
-- Creating a Weekly Plan
-- Digging into a selection screen for Rally of Rockets
+- Exploring Eggcelerate! and begin brainstorming ideas.
+- Find the update ideas and go through the idea generation gate.
+- Play around in blender a little bit, somewhat aimlessly today.
+- Play around in Unity to get back up to speed with some level/Eggcelerate! development, somewhat aimlessly today.
 
 **Coming Soon**
 
 - 2022-02-??: Pizza Day with Tim, making dough, making pizza.
-- 2022-01-31: Playtest at 2pm ET for NEW game mode in Rally of Rockets.
 - February 2022: Jumping in Unity to build an Eggcelerate! update!
