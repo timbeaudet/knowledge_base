@@ -1,9 +1,9 @@
-# Objectives for Today 2022-02-01
+# Objectives for Today 2022-02-02
 
 - Exploring Eggcelerate! and begin brainstorming ideas.
-- Find the update ideas and go through the idea generation gate.
-- Play around in blender a little bit, somewhat aimlessly today.
-- Play around in Unity to get back up to speed with some level/Eggcelerate! development, somewhat aimlessly today.
+- Adjust visuals / materials / camera for winter tracks, so not over bright.
+- Play with ice and snow physics in driving the car.
+- Play around in blender to create more winter track segments.
 
 **Coming Soon**
 
