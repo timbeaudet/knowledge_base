@@ -1,9 +1,10 @@
-# Objectives for Today 2022-02-02
+# Objectives for Today 2022-02-03
 
-- Exploring Eggcelerate! and begin brainstorming ideas.
-- Adjust visuals / materials / camera for winter tracks, so not over bright.
-- Play with ice and snow physics in driving the car.
+- Shared a story of replacing 980ti with 3070ti and then... back again because display ports too wide.
+- Working on Eggcelerate! eggspansion and new features for the game!
+- Ghost for players best time on a track and replaying with an option in menus.
 - Play around in blender to create more winter track segments.
+- Short break for Tim to do some personal stuff (get Sara some food etc)
 
 **Coming Soon**
 
