@@ -1,10 +1,13 @@
-# Objectives for Today 2022-02-03
+# Objectives for Today 2022-02-04
 
-- Shared a story of replacing 980ti with 3070ti and then... back again because display ports too wide.
 - Working on Eggcelerate! eggspansion and new features for the game!
-- Ghost for players best time on a track and replaying with an option in menus.
-- Play around in blender to create more winter track segments.
-- Short break for Tim to do some personal stuff (get Sara some food etc)
+- Write up a work order for the art of new winter vehicles.
+- Write a Steam support ticket about showing API documentation / work.
+- Play around in blender to create more winter track segments and obstacles.
+- Create another track layout for the winter eggspansion.
+- Try creating a snow pile that goes POOF.
+- Get a ghostier material on the ghost car so it fades out of view a bit better.
+- Let it snow, let it snow...
 
 **Coming Soon**
 
