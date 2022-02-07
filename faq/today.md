@@ -8,6 +8,7 @@
 - 3 hour block of time spent collecting emails and contact info for press/reviewers/influencers.
 - Creating an eggcelerate video of some form to post on socials, probably using streamer clips?
 - Write up promotional material / new update for Eggcelerate! steam and itch.io pages about upcoming Eggspansion.
+  - If there is plenty of time, also try creating the Winter Eggspansion pack and some assets to collect wishlists on it.
 - Write a work order for Ian with the audio effects for new/old things in the game.
 - Write a work order for toasterfuel with the particle effects and other possible tasks.
 - Create another track layout for the winter eggspansion.
