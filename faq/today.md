@@ -1,13 +1,17 @@
-# Objectives for Today 2022-02-06
+# Objectives for Today 2022-02-07
 
 - Working on Eggcelerate! eggspansion and new features for the game!
-- Play around in blender to create more winter obstacles and environmental props.
-- Let it snow, let it snow...
-- Get a ghostier material on the ghost car so it fades out of view a bit better.
-- Create a snow pile/snow man that goes POOF on contact.
+- Update the Key Performance Indicators for the adventure.
+- Update the weekly topic in Discord / Reddit
+- Update the weekly plan / goals
+- Collecting information on all the racing games released on Steam in Janaury 2022.
+- 3 hour block of time spent collecting emails and contact info for press/reviewers/influencers.
+- Creating an eggcelerate video of some form to post on socials, probably using streamer clips?
+- Write up promotional material / new update for Eggcelerate! steam and itch.io pages about upcoming Eggspansion.
+- Write a work order for Ian with the audio effects for new/old things in the game.
+- Write a work order for toasterfuel with the particle effects and other possible tasks.
 - Create another track layout for the winter eggspansion.
 
 **Coming Soon**
 
-- 2022-02-??: Pizza Day with Tim, making dough, making pizza.
-- February 2022: Jumping in Unity to build an Eggcelerate! update!
+- 2022-02-11: Pizza Day with Tim, making dough, making pizza.
