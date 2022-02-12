@@ -1,12 +1,12 @@
-# Objectives for Today 2022-02-11
+# Objectives for Today 2022-02-12
 
+- First reactions to snow particles!!
+- Writeup more tasks for toasterfuel in case he has more time.
 - 3 Hour Segment of Icy Modeling
-  - Finishing the clear_path track segments.
-  - Creating the North Pole obstacle
-- Create as many track layouts for the winter eggspansion as possible in 3 hours.
-- Lunch will be slightly longer, then after lunch we prepare pizza dough balls.
-- More eggcelerate levels / props / obstacles.
-- Have a piece of party... (pizza party)
+  - Creating the North Pole obstacle.
+- Create as many track layouts for the winter eggspansion as possible.
+- Create intro_to_traps and other obstacles.
+
 
 **Coming Soon**
 
