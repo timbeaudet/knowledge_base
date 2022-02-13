@@ -1,12 +1,11 @@
-# Objectives for Today 2022-02-12
+# Objectives for Today 2022-02-13
 
-- First reactions to snow particles!!
 - Writeup more tasks for toasterfuel in case he has more time.
-- 3 Hour Segment of Icy Modeling
-  - Creating the North Pole obstacle.
+- Start collecting winter win/lose puns.
 - Create as many track layouts for the winter eggspansion as possible.
-- Create intro_to_traps and other obstacles.
-
+- Create intro_to_north_pole and other obstacles.
+- 3 Hour Segment of Icy Modeling (maybe)
+  - Creating the North Pole obstacle.
 
 **Coming Soon**
 
