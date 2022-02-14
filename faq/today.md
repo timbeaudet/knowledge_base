@@ -1,11 +1,15 @@
 # Objectives for Today 2022-02-13
 
+- Update the Key Performance Indicators for the adventure.
+- Update the weekly topic on discord and reddit.
+- Update the weekly plan so we know what is going down, and where to aim.
+- Write up and release the Eggcelerate! Update 1.2.0 and announce eggspansion.
+- Write an email to mailing list about Winter Eggspanion for Eggcelerate, & the update.
+- Spend 3 hours collecting as many press/influencer/reviewer contact info.
 - Writeup more tasks for toasterfuel in case he has more time.
 - Start collecting winter win/lose puns.
-- Create as many track layouts for the winter eggspansion as possible.
-- Create intro_to_north_pole and other obstacles.
-- 3 Hour Segment of Icy Modeling (maybe)
-  - Creating the North Pole obstacle.
+- More marketing stuffs!
+
 
 **Coming Soon**
 
