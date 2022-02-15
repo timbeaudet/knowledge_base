@@ -1,15 +1,10 @@
-# Objectives for Today 2022-02-13
+# Objectives for Today 2022-02-15
 
-- Update the Key Performance Indicators for the adventure.
-- Update the weekly topic on discord and reddit.
-- Update the weekly plan so we know what is going down, and where to aim.
-- Write up and release the Eggcelerate! Update 1.2.0 and announce eggspansion.
-- Write an email to mailing list about Winter Eggspanion for Eggcelerate, & the update.
-- Spend 3 hours collecting as many press/influencer/reviewer contact info.
-- Writeup more tasks for toasterfuel in case he has more time.
-- Start collecting winter win/lose puns.
-- More marketing stuffs!
-
+- Making some more track segments for ko2fan's track (the bottom hill end)
+- Modeling some more on environment props; cabin / house
+- Designing a level layout or two.
+- 9am to 12pm ET is Tire Tracks in the Snow Experiments
+  - (Note: This is very unlikely to be in final game, but fun to play with the tech)
 
 **Coming Soon**
 
