@@ -1,10 +1,11 @@
-# Objectives for Today 2022-02-15
+# Objectives for Today 2022-02-16
 
-- Making some more track segments for ko2fan's track (the bottom hill end)
 - Modeling some more on environment props; cabin / house
-- Designing a level layout or two.
-- 9am to 12pm ET is Tire Tracks in the Snow Experiments
-  - (Note: This is very unlikely to be in final game, but fun to play with the tech)
+- Leaderboards on steam and perhaps a handful of secret bits as a "co-working stream" while implementing this.
+- Ghosts uploading to leaderboards
+- Showing the time of the WR and or nearest competitor to beat.
+- Finding a way to build DLC levels in an addressables pack.
+- Figure out how to automatically separate the Game from DLC levels with the build and deploy scripts.
 
 **Coming Soon**
 
