@@ -6,6 +6,7 @@
 - Make the build/deploy scripts move the Winter Eggspansion addressables out of main build (prepare for release)
 - Test if the BuildScript now lets the FlowerZones export/save flowers in Addressables.
 - Do all the steps I can to do to prepare for a beta/test build of Winter egg.
+- Ensure the game can run with and without the winter eggspansion DLC, find a way to open link if missing.
 
 ## Block 2
 
