@@ -19,6 +19,10 @@
 - Jump into the todo list and smash out as many of those as possible.
 - Look into the snowman collection feature.
 
+### Getting the Beta
+
+If you have the original Eggcelerate! and  stream/record video of yourself playing the winter eggspansion Tim Wants You! and will give beta access soon, let him know.
+
 **Coming Soon**
 
 - 2022-02-19: 24 Hour Stream??? (Only if it happens)
