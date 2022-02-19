@@ -2,19 +2,22 @@
 
 ## Block 1
 
-- Figuring out the the truck is going on with deploying Winter Eggcelerate! to beta testers....
+- Second pass over as many levels as possible.
+- Placing flowers, trees, checkpoints and reset zones.
+- Look for track cracks and issues that may have appeared when segments got finalized.
+- Try to put a number on difficulty from 1 to 10 as/if we play the level.
 
 ## Block 2
 
-- Remove Facepunch.Steamworks and get Steamworks.NET into the project.
-- Get connected with Steam and display some form of information from it.
-- Get achievements working through Steamworks.NET to keep the old functionality.
-- Post a best track time to leaderboard using Steamworks.NET
-- Submit a ghost run to the leaderboard / UGC
+- Get the magnet / north pole obstacle pulling the car towards it.
+- Play all the levels 5 or 6 times and ensure a difficulty score, set very rough "idea" of goal time.
+- Organize the levels from easiest to hardest and set the rough goal times to prep for playtest.
+- Create a build v1.2.2 for beta testers.
 
 ## Block 3
 
-- Making more models, and a whole bunches of level design.
+- Jump into the todo list and smash out as many of those as possible.
+- Look into the snowman collection feature.
 
 **Coming Soon**
 
