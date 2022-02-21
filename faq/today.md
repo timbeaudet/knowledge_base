@@ -1,10 +1,19 @@
-# Objectives for Today 2022-02-18
+# Objectives for Today 2022-02-21
 
-- Adding snowman nametags back into the snowman after minor issue.
-- Second pass over as many levels as possible still!
-- Placing flowers, trees, checkpoints and reset zones.
-- Look for track cracks and issues that may have appeared when segments got finalized.
-- Try to put a number on difficulty from 1 to 10 as/if we play the level.
+- Update the Key Performance Indicators
+- Update the weekly topic on Discord
+- Update the weekly plan
+- Update the Development Reports for the weekend???
+- Collecting contact information for press & influencers for at least 2 hours.
+- Dig into creating content for the store page, update Eggcelerate! press-kit.
+- Brainstorming the marketing campaign and attack plan.
+- Prepare, or at least brainstorm, several tweet/social media ideas.
+
+## After A Solid Push on Marketing
+
+- Digging into that issue with screenshots to see if we can make that work again.
+  - Would it be possible to just swap the cameras so the first display/main camera is the screenshot cam?
+- Continue polishing and placement of props and obstacles on the tracks.
 
 ### Getting the Beta
 
