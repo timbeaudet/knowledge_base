@@ -1,19 +1,12 @@
-# Objectives for Today 2022-02-21
+# Objectives for Today 2022-02-22
 
-- Update the Key Performance Indicators
-- Update the weekly topic on Discord
-- Update the weekly plan
-- Update the Development Reports for the weekend???
-- Collecting contact information for press & influencers for at least 2 hours.
-- Dig into creating content for the store page, update Eggcelerate! press-kit.
-- Brainstorming the marketing campaign and attack plan.
-- Prepare, or at least brainstorm, several tweet/social media ideas.
-
-## After A Solid Push on Marketing
-
-- Digging into that issue with screenshots to see if we can make that work again.
-  - Would it be possible to just swap the cameras so the first display/main camera is the screenshot cam?
-- Continue polishing and placement of props and obstacles on the tracks.
+- Leaderboards need a few things, those are the things we be doing!
+- Uploading player ghost to the leaderboard to ensure future feature of seeing leaders can work.
+- Grabbing the Leader information from the leaderboards.
+- Updating player rank and leader information when the player posts a best time.
+- May try to download a ghost to ensure they are correctly uploaded.
+- Do a solid push down the TODO list and see what low level fruits we can enjoy.
+- Continue with prop and obstacle placement in levels, get them looking spicy.
 
 ### Getting the Beta
 
