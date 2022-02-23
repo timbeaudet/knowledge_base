@@ -1,12 +1,14 @@
-# Objectives for Today 2022-02-22
+# Objectives for Today 2022-02-23
 
-- Leaderboards need a few things, those are the things we be doing!
-- Uploading player ghost to the leaderboard to ensure future feature of seeing leaders can work.
+- 30 minutes trying to download the ghost from the Steam leaderboards, mostly to ensure it will work in the future.
 - Grabbing the Leader information from the leaderboards.
 - Updating player rank and leader information when the player posts a best time.
-- May try to download a ghost to ensure they are correctly uploaded.
 - Do a solid push down the TODO list and see what low level fruits we can enjoy.
-- Continue with prop and obstacle placement in levels, get them looking spicy.
+  - This will also give us an understanding of what tasks need to be cancelled, and which big ones need time given to them.
+- If there is time try working on screenshot tool a bit to see if we can solve those issues.
+- If there is time try getting developer mode replay working again.
+
+- Continue with prop and obstacle placement in levels, get them looking spicy, 80% of Mount Yeti.
 
 ### Getting the Beta
 
