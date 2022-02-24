@@ -1,14 +1,12 @@
-# Objectives for Today 2022-02-23
+# Objectives for Today 2022-02-24
 
-- 30 minutes trying to download the ghost from the Steam leaderboards, mostly to ensure it will work in the future.
-- Grabbing the Leader information from the leaderboards.
-- Updating player rank and leader information when the player posts a best time.
-- Do a solid push down the TODO list and see what low level fruits we can enjoy.
-  - This will also give us an understanding of what tasks need to be cancelled, and which big ones need time given to them.
-- If there is time try working on screenshot tool a bit to see if we can solve those issues.
-- If there is time try getting developer mode replay working again.
-
+- Take northern woods level and figure out how to split it into prefabs and deal with the consequences for flowers/trees.
+- Run through all the current levels and figure out "where we are" with each of them.
+- North pole obstacle needs to get implemented.
+- Snow cannon needs some polish and figure out how to best place it.
 - Continue with prop and obstacle placement in levels, get them looking spicy, 80% of Mount Yeti.
+- Make a screenshot tool (object/component) that will automatically flip the cameras, kill the hud, and flip switches.
+- If there is time try getting developer mode replay working again.
 
 ### Getting the Beta
 
