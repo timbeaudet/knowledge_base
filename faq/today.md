@@ -1,10 +1,19 @@
-# Objectives for Today 2022-02-25
+# Objectives for Today 2022-02-26
 
-- North pole obstacle needs to get implemented.
-- Snow cannon needs some polish and figure out how to best place it.
-- Continue with prop and obstacle placement in levels, get them looking spicy.
-- Warning there may be Spoilers!!! May do some achievement stuffs.
+## TWENTY FOUR HOURS IN THE LIFE OF TIM
+
+- Starting the day off with a few pesky dishes, cooking some eggs, and eating some breakfasts.
+- Tune up the magnet / north pole obstacle.
+- POSSIBLE: 90 minutes tops for adding a new obstacle for a falling tree / log or something.
+- Filling out the environment of several levels, trying to get them all filled with props.
+- Adding obstacles and making some levels more challenging!
+- POSSIBLE: 90 minutes of Collectables
+- SECRETS: Adding achievements for all the winter level goals and dev times and a few other fun things.
+- Make a build for beta testers at somepoint where it makes sense.
+- As Tim brain slows down, begin playing Winter Eggcelerate! for developer times, and goal times etc.
 - If there is time try getting developer mode replay working again.
+
+### Warning there may be Spoilers!!! May do some achievement stuffs.
 
 ### Getting the Beta
 
@@ -12,5 +21,4 @@ If you have the original Eggcelerate! and stream/record video of yourself playin
 
 **Coming Soon**
 
-- 2022-02-26: 24 Hour Stream??? (Only if it happens, make it happen)
 - 2022-02-28: Development Freeze of [Winter Eggspansion for Eggcelerate!](https://store.steampowered.com/app/1902100/Winter_Eggspansion_for_Eggcelerate/)
