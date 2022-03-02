@@ -2,8 +2,8 @@
 
 ## Back to Rally of Rockets!
 
-- A quick playtest to figure out what / where the project is right now.
 - Playing in photoshop to make some emote icons for players to communicate.
+- Create an emote manager and displayer that shows emotes above a rocket car when sent.
 - Sending emotes to other players with the ability for emotes to be "locked".
 
 ## Then later, working on Eggcelerate!
