@@ -1,10 +1,10 @@
-# Objectives for Today 2022-03-01
+# Objectives for Today 2022-03-03
 
 ## Back to Rally of Rockets!
 
-- Playing in photoshop to make some emote icons for players to communicate.
-- Create an emote manager and displayer that shows emotes above a rocket car when sent.
 - Sending emotes to other players with the ability for emotes to be "locked".
+- Creating an achievement or two for players to achieve things in Rally of Rockets.
+- Create the achievment system to give/take away achievements.
 
 ## Then later, working on Eggcelerate!
 
