@@ -1,15 +1,19 @@
-# Objectives for Today 2022-03-03
+# Objectives for Today 2022-03-04
 
 ## Back to Rally of Rockets!
 
-- Sending emotes to other players with the ability for emotes to be "locked".
-- Creating an achievement or two for players to achieve things in Rally of Rockets.
-- Create the achievment system to give/take away achievements.
+- Create some simple art for achievement icons.
+- Create/give at least one achievement to players, first touch.
+- Update Ultimate Games sidecar and other SDK bits.
+- Updating Ultimate Games API to send an achievement to the platform.
 
 ## Then later, working on Eggcelerate!
 
-- Filling out the environment of several levels, trying to get them all filled with props.
-- Adding obstacles and making some levels more challenging!
+- Fix the issue on the Settings screen with sound options not selectable with gamepad / keyboard.
+- Create the checkpoints / anticuts in Mount Yeti sections 1-4.
+- Begin placing decals on the tracks where bare pavement is abundant; bring pops of color & reference points.
+- Consider moving the blue magnet on level 12 back slightly to give the player a little more space.
+  - or move the icicle so they can still push the car forward?
 
 ## Coming Soon
 
