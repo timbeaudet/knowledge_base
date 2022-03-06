@@ -1,13 +1,15 @@
-# Objectives for Today 2022-03-05
+# Objectives for Today 2022-03-06
+
+## Business Review for February
+
+- Update the bookwork to track financials in/out... yay the joys.
+- Reflect upon February and what lessons could be learned.
 
 ## Then later, working on Eggcelerate!
 
-- Creating Levels and wrapping them up in pretty decals for eye candy.
 - Sound Drops and integration.
-- Fix the issue on the Settings screen with sound options not selectable with gamepad / keyboard.
+- Creating Levels and wrapping them up in pretty decals for eye candy.
 - Begin placing decals on the tracks where bare pavement is abundant; bring pops of color & reference points.
-- Consider moving the blue magnet on level 12 back slightly to give the player a little more space.
-  - or move the icicle so they can still push the car forward?
 
 ## Coming Soon
 
