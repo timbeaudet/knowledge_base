@@ -1,4 +1,4 @@
-# Objectives for Today 2022-03-09
+# Objectives for Today 2022-03-10
 
 ## 8 Hours of Rally of Rockets
 
@@ -7,7 +7,6 @@
   - Get the selected rocket car remembering last session.
 - Create an XP / points bar that gives players some form of progression.
   - May need to note how early the game is in development to also reset progression whenever desired.
-- Meetings with Ultimate Games to make Rally of Rockets great.
 
 ## Then later, probably NOT working on Eggcelerate! this evening, but if I do
 
