@@ -1,14 +1,18 @@
-# Objectives for Today 2022-03-10
+# Objectives for Today 2022-03-11
 
 ## 8 Hours of Rally of Rockets
 
-- Refactor player settings to use the game save data, and send from client to GameServer upon changing.
-  - Get the music/sound volume remembering last session.
-  - Get the selected rocket car remembering last session.
-- Create an XP / points bar that gives players some form of progression.
+- Adding some logging to see where the failure point of save data might be happening.
+- Run a test with local sidecar to ensure that part is working as expected (only tested with mock handler so far).
+- Work with fllr to deal with emscripten and grab the canvas size so Turtle Brains can know the aspect ratio.
+- Work with fllr to deal with emscripten and grab the mouse coordinates in canvas space.
+- Work with fllr to deal with emscripten and allow keyboard usage in the chat area of Ultimate Games lobby.
+- If fllr is busy, Add support of a Sprite from URL to TurtleBrains.
+- If fllr is busy, begin adding nametags and blocking out the Lobby / setup screen.
+- Maybe, but probably not, create an XP / points bar that gives players some form of progression.
   - May need to note how early the game is in development to also reset progression whenever desired.
 
-## Then later, probably NOT working on Eggcelerate! this evening, but if I do
+## Then later working on Eggcelerate!
 
 - Wrapping up the levels with pretty decals for eye candy and wrapup pass.
 - Placing decals on the tracks where bare pavement is abundant; bring pops of color & reference points.
