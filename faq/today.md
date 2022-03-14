@@ -1,14 +1,22 @@
-# Objectives for Today 2022-03-13
+# Objectives for Today 2022-03-14
+
+## Marketing Monday & Weekly Tasks
+
+- Updating the Key Performance Indicators 
+- Update the weekly topic on discord and reddit
+- Update the weekly plans and see how we did last week
+- Write up an email to blast for Eggcelerate! releasing soon
+
+## Then Rally of Rockets Multiplayer Keep Away
+
+- Figuring out what happened Friday; RoR is not playing/working as expected...
+- Dealing with the Aspect Ratio and multi screen/canvas sizing.
+- With any time left begin building the UI / blocking out the Lobby/selection page.
 
 ## Then later working on Eggcelerate!
 
-- Snowmen / snowball smashing code needs a revisit to be solid on glancing blow, but go poof on direct hits.
-- Look a bit deeper into the slip ratio, why do wheels slip so much when car is barely moving but not when it is moving?
-  - tune the audio to be more sensitive to spinning wheels, perhaps only on ice??
-- Random todos to wrap the game.
-- Fix the major issues from last nights play test, (track splits, snowmen that can't be hit)
-- Add achievement for all snowmens collected.
-- Add other achievements for various tasks (warning spoilers & easter eggs)
+- Random wrap up tasks to wrap up Eggcelerate!
+- Fix the major issues from last play test, (Track 12 starting trigger is too far ahead)
 - Start changing around the level order, find the difficulty of each level somehow...
 - Play through the game to collect all the snowmens & achievements.
 - Play through the game and begin setting developer times.
