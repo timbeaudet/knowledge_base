@@ -1,13 +1,11 @@
-# Objectives for Today 2022-03-15
+# Objectives for Today 2022-03-16
 
-## Then Rally of Rockets Multiplayer Keep Away
+## Rally of Rockets Multiplayer Keep Away
 
+- Making the category and item selector so rocket color and other things can be selected by player.
 - Dealing with the Aspect Ratio and multi screen/canvas sizing with the user interface of Lobby.
 - Building the UI / blocking out the Lobby/selection page with dynamic aspect ratio / sizing support.
-
-## Then Later: Racing!!  The Start of 2022 Season 2
-
-- Racing tonight on: https://www.twitch.tv/trailingbrakes 
+- Meetings with Ultimate Games later in the afternoon, then the rest of after/evening for Tim recharging / house chores.
 
 ## Coming Soon
 
