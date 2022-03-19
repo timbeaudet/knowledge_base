@@ -1,16 +1,13 @@
-# Objectives for Today 2022-03-18
+# Objectives for Today 2022-03-19
 
-## Rally of Rockets Multiplayer Keep Away
-
-- Making the category and item selector so rocket color and other things can be selected by player.
-- Adding items to the item carousel selector and having the rocket be selected through that.
-- Adding at least one other category to select to ensure the UI isn't super confusing, and proves it works.
-- Getting the new category / item selector working with both mouse and keyboard controls (not using TurtleBrains UI Kit)
-
-## Then Later Eggcelerate! Goal and Developer Times
+## Winter Eggspansion for Eggcelerate! Goal and Developer Times
 
 - Playing Eggcelerate! to set developer times and goal times to challenge players.
 - Begin some marketing efforts to prepare for the release of Winter Eggspansion for Eggcelerate!
+- Take some raw video footage of gameplay and screenshots for Winter Eggcelerate!
+- Clear save file and go beat the game collecting all snowmen.
+- Ensure Winter Keep it Alive achievement works (using Lid likely)
+- Add names to credits road.
 
 ## Coming Soon
 
