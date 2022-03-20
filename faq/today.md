@@ -1,4 +1,4 @@
-# Objectives for Today 2022-03-19
+# Objectives for Today 2022-03-20
 
 ## Winter Eggspansion for Eggcelerate! Goal and Developer Times
 
