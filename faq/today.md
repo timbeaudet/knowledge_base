@@ -1,18 +1,15 @@
-# Objectives for Today 2022-03-21
+# Objectives for Today 2022-03-22
 
-## Tyre Bytes Marketing Monday Stuffs
+## Rally of Rockets
 
-- Updating the Key Performance Indicators
-- Updating Weekly Topic of Discord / Reddit
-- Updating the #weekly_plans
+- Remove the walls from the current arena, add a few more boost spots.
+- Add a name tag category for the category carousel.
 
 ## Winter Eggspansion for Eggcelerate! Goal and Developer Times
 
-- Creating a short raw gameplay video for press to use + add to top secrets.
 - Collecting / Updating Press kit information for Winter Eggspansion.
-- Capture some screenshots.
+- Capture some more screenshots.
 - Email the press and influencers list to get things moving.
-- Day ends around noon to go look at a house.
 
 ## Still to come
 
