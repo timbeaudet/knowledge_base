@@ -1,22 +1,21 @@
-# Objectives for Today 2022-03-22
+# Objectives for Today 2022-03-23
 
 ## Rally of Rockets
 
-- Remove the walls from the current arena, add a few more boost spots.
-- Add a name tag category for the category carousel.
+- Attempting to deploy latest version of Rally of Rockets to Ultimate Games.
+- Brainstorm questions that should be asked about the target audience.
+- Stripping apart the old settings screen to reduce the options for player.
+- Settings screen to have button presses to switch tabs like in Turbo Boom!
+- General cleanup of all kinds of unused things in the code base, plenty of cruft.
 
-## Winter Eggspansion for Eggcelerate! Goal and Developer Times
+## Winter Eggspansion for Eggcelerate!
 
-- Collecting / Updating Press kit information for Winter Eggspansion.
-- Capture some more screenshots.
-- Email the press and influencers list to get things moving.
-
-## Still to come
-
-- Playing Eggcelerate! to set developer times and goal times to challenge players.
-- Begin some marketing efforts to prepare for the release of Winter Eggspansion for Eggcelerate!
-- Take some raw video footage of gameplay and screenshots for Winter Eggcelerate!
-- Clear save file and go beat the game collecting all snowmen.
+- Set the remaining developer and goal times for Eggcelerate! Winter.
+- Cleanup of a few levels in Winter Eggspansion that didn't make it, put all DLC in addressable pack.
+- Capture some footage of playing the game and showing failures to hook with "I could better than that"
+- Write the emails that will go to players on Tyre Bytes lists that the Eggspansion is now available.
+- Write emails for the press & influencers list to remind them and say game is available.
+- Fix the issues found with tracks while collecting the snowmen.
 - Ensure Winter Keep it Alive achievement works (using Lid likely)
 - Add names to credits road.
 
