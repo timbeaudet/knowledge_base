@@ -11,13 +11,15 @@
 ## Winter Eggspansion for Eggcelerate!
 
 - Set the remaining developer and goal times for Eggcelerate! Winter.
-- Cleanup of a few levels in Winter Eggspansion that didn't make it, put all DLC in addressable pack.
-- Capture some footage of playing the game and showing failures to hook with "I could better than that"
-- Write the emails that will go to players on Tyre Bytes lists that the Eggspansion is now available.
-- Write emails for the press & influencers list to remind them and say game is available.
 - Fix the issues found with tracks while collecting the snowmen.
 - Ensure Winter Keep it Alive achievement works (using Lid likely)
 - Add names to credits road.
+- Cleanup of a few levels in Winter Eggspansion that didn't make it, put all DLC in addressable pack.
+- Write update / release notice for Eggcelerate! steam page and prepare the assets for major update.
+- Write the emails that will go to players on Tyre Bytes lists that the Eggspansion is now available.
+- Write emails for the press & influencers list to remind them and say game is available.
+- Capture some footage of playing the game and showing failures to hook with "I could better than that"
+
 
 ## Coming Soon
 
