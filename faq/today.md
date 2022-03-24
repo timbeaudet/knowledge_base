@@ -1,26 +1,11 @@
-# Objectives for Today 2022-03-23
+# Objectives for Today 2022-03-24
 
-## Rally of Rockets
+## Winter Eggspansion for Eggcelerate! Release Day!!!!!!
 
-- Attempting to deploy latest version of Rally of Rockets to Ultimate Games.
-- Brainstorm questions that should be asked about the target audience.
-- Stripping apart the old settings screen to reduce the options for player.
-- Settings screen to have button presses to switch tabs like in Turbo Boom!
-- General cleanup of all kinds of unused things in the code base, plenty of cruft.
-
-## Winter Eggspansion for Eggcelerate!
-
-- Set the remaining developer and goal times for Eggcelerate! Winter.
-- Fix the issues found with tracks while collecting the snowmen.
-- Ensure Winter Keep it Alive achievement works (using Lid likely)
-- Add names to credits road.
-- Cleanup of a few levels in Winter Eggspansion that didn't make it, put all DLC in addressable pack.
 - Write update / release notice for Eggcelerate! steam page and prepare the assets for major update.
 - Write the emails that will go to players on Tyre Bytes lists that the Eggspansion is now available.
 - Write emails for the press & influencers list to remind them and say game is available.
+- Press the Release Button and let Eggs into the Wild!!
 - Capture some footage of playing the game and showing failures to hook with "I could better than that"
 
-
-## Coming Soon
-
-- 2022-03-24: Release of [Winter Eggspansion for Eggcelerate!](https://store.steampowered.com/app/1902100/Winter_Eggspansion_for_Eggcelerate/)
+## [Wishlist or Fry it Now](https://store.steampowered.com/app/1902100/Winter_Eggspansion_for_Eggcelerate/)
