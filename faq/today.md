@@ -1,14 +1,18 @@
-# Objectives for Today 2022-03-25
+# Objectives for Today 2022-03-27
+
+## Stream Helper Pull Request
+
+- Grab some work the ko2fan did for improving the secrets and other settings.
+- Update the UTC times to be an hour less now that summer time is a thing.
 
 ## Rally of Rockets
 
 - Dig into Turtle Brains issue where the canvas size / aspect ratio is not correct? until it is changed.
 - Continue settings screen cleanup and improvements.
-- Add tab changing with Q and E on the settings screen.
-- Remove gameplay tab and unused options in graphics tab.
-- Get the back button on settings screen.
+- Fix the sorting of the scores in gameplay mode so highest score is at the top.
+- Begin laying out the Results Screen for end game.
 
-## Winter Eggspansion for Eggcelerate! Release Day!!!!!!
+## Winter Eggspansion for Eggcelerate!
 
 - Write/Send the emails that will go to players on Tyre Bytes lists that the Eggspansion is now available.
 - Write/Send emails for the press & influencers list to remind them and say game is available.
