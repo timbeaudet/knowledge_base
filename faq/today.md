@@ -1,10 +1,4 @@
-# Objectives for Today 2022-03-28
-
-## Tyre Bytes
-
-- Update the Key Performance Indicators for the adventure.
-- Update the Discord and Weekly topics
-- Update the weekly plan to know what we are aiming at this week.
+# Objectives for Today 2022-03-29
 
 ## Rally of Rockets
 
@@ -15,8 +9,9 @@
 
 ## Winter Eggspansion for Eggcelerate!
 
-- Write/Send the emails that will go to players on Tyre Bytes lists that the Eggspansion is now available.
-- Write/Send emails for the press & influencers list to remind them and say game is available.
+- Email with superindiegames to get that blast sent out.
+- Write & Send the emails that will go to players on Tyre Bytes lists that the Eggspansion is now available.
+- Write & Send emails for the press & influencers list to remind them and say game is available.
 - Capture some footage of playing the game and showing failures to hook with "I could better than that"
   - Capture at least on social media posting.
 - Send out more keys to streamers/influencers to Eggcelerate! + DLC
