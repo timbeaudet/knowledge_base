@@ -1,12 +1,21 @@
-# Objectives for Today 2022-03-31
+# Objectives for Today 2022-04-01
 
 ## Rally of Rockets
 
 - Trying to create a prettier arena for more presentable gameplay stuffs.
-- Bringing some props from Turbo Boom! and Eggcelerate! to make things happen.
-- Then Tim has life stuff to deal with in the afternoon/evening.
+- Running a playtest around noon-ish with updated/presentable visuals.
 
-## Still to Do for Winter Eggspansion for Eggcelerate!
+## Playing with the Community
+
+- 2pm ET Feedback Friday (for an hour or so)
+- New race track for cars to follow? (narrower)
+- Some campaign messages?
+
+## LudumDare is Announced
+
+- Brainstorming ideas and starting concept, or just going to bed.
+
+## Still to Do (later) for Winter Eggspansion for Eggcelerate!
 
 - Random todo tasks to help the game out with a small update.
   - Like saving the egg splats for returning to levels.
