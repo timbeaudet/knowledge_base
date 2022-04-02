@@ -1,19 +1,9 @@
-# Objectives for Today 2022-04-01
+# Objectives for Today 2022-04-02
 
-## Rally of Rockets
+## Ludum Dare 50
 
-- Trying to create a prettier arena for more presentable gameplay stuffs.
-- Running a playtest around noon-ish with updated/presentable visuals.
-
-## Playing with the Community
-
-- 2pm ET Feedback Friday (for an hour or so)
-- New race track for cars to follow? (narrower)
-- Some campaign messages?
-
-## LudumDare is Announced
-
-- Brainstorming ideas and starting concept, or just going to bed.
+- Theme: Delay the Inevitable
+- Ride a soapbox car down hill and delay crashing / stopping as long as possible.
 
 ## Still to Do (later) for Winter Eggspansion for Eggcelerate!
 
