@@ -1,9 +1,15 @@
-# Objectives for Today 2022-04-02
+# Objectives for Today 2022-04-03
+
+## Tyre Bytes
+
+- Finish the accounting stuff for March 2022 (Update the books)
+- Business Review for March 2022
 
 ## Ludum Dare 50
 
 - Theme: Delay the Inevitable
 - Ride a soapbox car down hill and delay crashing / stopping as long as possible.
+- Add brakes and new track parts.
 
 ## Still to Do (later) for Winter Eggspansion for Eggcelerate!
 
