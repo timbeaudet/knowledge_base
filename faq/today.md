@@ -1,15 +1,24 @@
-# Objectives for Today 2022-04-03
+# Objectives for Today 2022-04-04
+
+## Personal Life
+
+- Transfer money for April expenses & pay rent.
 
 ## Tyre Bytes
 
-- Finish the accounting stuff for March 2022 (Update the books)
-- Business Review for March 2022
+- Update the Key Performance Indicators of the adventure.
+- Update the weekly topic for Discord and Reddit.
+- Update the weekly plan of attack.
+- Collect the racing games on Steam for March 2022.
+
+## Rally of Rockets
+
+- Something something results screen and unlocking options?
 
 ## Ludum Dare 50
 
 - Theme: Delay the Inevitable
-- Ride a soapbox car down hill and delay crashing / stopping as long as possible.
-- Add brakes and new track parts.
+- Make the builds and submit!
 
 ## Still to Do (later) for Winter Eggspansion for Eggcelerate!
 
