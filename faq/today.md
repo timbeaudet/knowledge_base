@@ -1,14 +1,10 @@
-# Objectives for Today 2022-04-05
+# Objectives for Today 2022-04-06
 
 ## Rally of Rockets
 
-- Something something results screen and unlocking options?
+- Continuing the development of batched meshes rendering in ICE for performance gains.
 
-## LudumDare50
-
-- Playing and Rating Your Games (approximately 16:00 ET)
-
-## Still to Do (later) for Winter Eggspansion for Eggcelerate!
+## Winter Eggspansion for Eggcelerate!
 
 - Random todo tasks to help the game out with a small update.
   - Like saving the egg splats for returning to levels.
