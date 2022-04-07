@@ -1,8 +1,9 @@
-# Objectives for Today 2022-04-06
+# Objectives for Today 2022-04-07
 
 ## Rally of Rockets
 
-- Continuing the development of batched meshes rendering in ICE for performance gains.
+- Improve the performance by NOT recreating shadowed text objects every frame.
+- Get back to the results screen to give player points and levels and goodies.
 
 ## Winter Eggspansion for Eggcelerate!
 
