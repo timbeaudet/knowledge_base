@@ -1,9 +1,10 @@
-# Objectives for Today 2022-04-07
+# Objectives for Today 2022-04-08
 
 ## Rally of Rockets
 
-- Improve the performance by NOT recreating shadowed text objects every frame.
 - Get back to the results screen to give player points and levels and goodies.
+- Ending around noon-ish for life stuff and meeting for taxes.
+- No stream on Saturday; forced day off with doggo.
 
 ## Winter Eggspansion for Eggcelerate!
 
