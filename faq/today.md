@@ -1,9 +1,7 @@
-# Objectives for Today 2022-04-18
+# Objectives for Today 2022-04-19
 
-- Update the Key Performance Indicators for adventure
-- Update the Weekly Plan for Week #15
-- Update the weekly topic on discord and reddit
-- Catchup on some development reports
-- Investigate Unity Asset Store further
+- Add UDP connection to Rally of Rockets networking.
+- Send real time update packets over UDP connection.
+- Why is overlay not working correctly??
 
-## [Fry it Now](https://store.steampowered.com/app/1902100/Winter_Eggspansion_for_Eggcelerate/)
+## [Fry Eggcelerate! Now](https://store.steampowered.com/app/1902100/Winter_Eggspansion_for_Eggcelerate/)
