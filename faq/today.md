@@ -1,8 +1,8 @@
 # Objectives for Today 2022-04-20
 
-- Add UDP connection to Rally of Rockets networking.
-- Register the UDP socket with the rocket car to ensure GameServer knows who is who.
+- Measuring a difference in UDP vs TCP (hopefully) over LAN to hippo.
+- Figure out the issue about hacking non-UDP into the TurtleBrains UDP connection for web.
 - Send real time update packets over UDP connection.
-- Display the lag of UDP connection vs TCP connection on graph.
+- Some other fiddling around with stuff, probably less focused - maybe a playtest?
 
 ## [Fry Eggcelerate! Now](https://store.steampowered.com/app/1902100/Winter_Eggspansion_for_Eggcelerate/)
