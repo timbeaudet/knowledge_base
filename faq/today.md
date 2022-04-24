@@ -1,8 +1,8 @@
-# Objectives for Today 2022-04-22
+# Objectives for Today 2022-04-24
 
-- Go see for the first time what results Terrible Brakes had in LD50...
-- Fixing bugs in Eggcelerate! / Winter Eggspansion.
-- Possibly writing script/article about something.
-- General funday.
+- Create the 2022 hiking log and add the 1 mile loop hike.
+- Implement a --config "file" on turtle bot to take use a specific configuration file.
+  - This would allow easier swapping between Development and Sim Racing streams.
+- Create a websocket connection with OBS in TurtleBot, this would allow commands like !camera1 dslr for mods?
 
 ## [Fry Eggcelerate! Now](https://store.steampowered.com/app/1902100/Winter_Eggspansion_for_Eggcelerate/)
