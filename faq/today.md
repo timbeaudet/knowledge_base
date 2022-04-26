@@ -1,13 +1,13 @@
-# Objectives for Today 2022-04-25
+# Objectives for Today 2022-04-26
 
-- Update the Key Performance Indicators of the adventure.
-- Update the weekly_topic in discord/reddit.
-- Brainstorm what single metric to focus on for May.
-- Brainstorm how can I make $500 in May.
-- Update the weekly plan for the goals of the week.
-- Create release notes for Eggcelerate! 1.36.0 and push buttons!
-- Possible: Write a script / article on the second $10,000 of the adventure?
-- Fix the amount of spam from obsRemote in Turtle Bot.
-- Jump into Rally of Rockets & Turtle Brains mouse issues or something...
+- Secrets while Tim sends out a contract for signing.
+- Make the UDP connection in Rally of Rockets 'optional' for now.
+  - If it gets connected find some way to share that information.
+  - If it doesn't get connected, don't crash and don't worry about it.
+- Focusing on the stability of Rally of Rockets
+  - Mouse / Screen resolution issue at startup
+  - Mouse issue with the Lobby while on Ultimate Games Platform
+  - Screen resolution / issue with Ultimate Games changing into gameplay mode (if fllr can help at some point)
+  - Play testing and trying to find and fix more stability issues.
 
 ## [Fry Eggcelerate! Now](https://store.steampowered.com/app/1902100/Winter_Eggspansion_for_Eggcelerate/)
