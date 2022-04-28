@@ -1,4 +1,4 @@
-# Objectives for Today 2022-04-27
+# Objectives for Today 2022-04-28
 
 - Focusing on the stability of Rally of Rockets
   - Mouse / Screen resolution issue at startup
