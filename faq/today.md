@@ -1,4 +1,4 @@
-# Objectives for Today 2022-04-28
+# Objectives for Today 2022-04-29
 
 - Focusing on the stability of Rally of Rockets
 - Stop invisible / inactive cars from stealing the trophy.
