@@ -1,9 +1,11 @@
-# Objectives for Today 2022-05-02
+# Objectives for Today 2022-05-03
 
-- Update Key Performance Indicators of the adventure.
-- Update the discord / reddit weekly topics.
-- Update the weekly plan
-- Collect all the racing games released on Steam in April 2022
-- Prepare a tweet, or other content for May We Sell Games
+- Play with physics and player controls in Rally of Rockets
+- Adding air control in the form of a glider
+- Boost only work in air with the space bar?
+  - IE: Space to Jump, then Space to boost?
+- Playtest the changes if they get wrapped up
+- As soon as the CPU Cooler is delivered, PC building stream!!!
+  - (Expecting to start 1pm to 4pm ET)
 
 ## [Fry Eggcelerate! Now](https://store.steampowered.com/app/1902100/Winter_Eggspansion_for_Eggcelerate/)
