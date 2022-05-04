@@ -1,12 +1,8 @@
-# Objectives for Today 2022-05-03
+# Objectives for Today 2022-05-04
 
-- Play with physics and player controls in Rally of Rockets
-- Adding air control in the form of a glider
-- Boost only work in air with the space bar?
-  - IE: Space to Jump, then Space to boost?
-- Playtest the changes if they get wrapped up
-- As soon as the CPU Cooler is delivered, PC building stream!!!
-  - (Expecting to start 1pm to 4pm ET)
+- Diving into the physics of flying, keeping the rocket upright, and collisions etc.
+- If physics brain fails, will dive into game results and other random game improvements.
 
-Test
-## [Fry Eggcelerate! Now](https://store.steampowered.com/app/1902100/Winter_Eggspansion_for_Eggcelerate/)
+## May We Sell Games
+
+Trying to sell 100 copies of [Eggcelerate!](https://store.steampowered.com/app/1535490/Eggcelerate/) by the end of May!
