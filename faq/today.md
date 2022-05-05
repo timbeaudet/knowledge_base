@@ -1,7 +1,8 @@
 # Objectives for Today 2022-05-04
 
-- Diving into the physics of flying, keeping the rocket upright, and collisions etc.
-- If physics brain fails, will dive into game results and other random game improvements.
+- Mabye diving into some more physics of flying and keeping the rocket upright, and collisions etc.
+- Maybe working on the game results to show the score and all
+- Other random game improvements and stability fixing / tracking an issue.
 
 ## May We Sell Games
 
