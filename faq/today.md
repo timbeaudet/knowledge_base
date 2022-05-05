@@ -1,4 +1,4 @@
-# Objectives for Today 2022-05-04
+# Objectives for Today 2022-05-05
 
 - Mabye diving into some more physics of flying and keeping the rocket upright, and collisions etc.
 - Maybe working on the game results to show the score and all
