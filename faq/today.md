@@ -1,8 +1,12 @@
-# Objectives for Today 2022-05-05
+# Objectives for Today 2022-05-06
 
-- Mabye diving into some more physics of flying and keeping the rocket upright, and collisions etc.
-- Maybe working on the game results to show the score and all
-- Other random game improvements and stability fixing / tracking an issue.
+- UltimateGames API submit points or whatever as an async request
+  - GRPC Async?
+  - Single worker thread?
+  - Something else?
+- Show the end game results for the final score.
+- Try giving end game points for playing a game, even if a set number of points.
+- Other random game improvements and stability fixing.
 
 ## May We Sell Games
 
