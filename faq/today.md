@@ -1,12 +1,6 @@
-# Objectives for Today 2022-05-06
+# Objectives for Today 2022-05-07
 
-- UltimateGames API submit points or whatever as an async request
-  - GRPC Async?
-  - Single worker thread?
-  - Something else?
-- Show the end game results for the final score.
-- Try giving end game points for playing a game, even if a set number of points.
-- Other random game improvements and stability fixing.
+- Streaming and Having Some Community
 
 ## May We Sell Games
 
