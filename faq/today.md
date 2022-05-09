@@ -1,10 +1,11 @@
-# Objectives for Today 2022-05-08
+# Objectives for Today 2022-05-09
 
-- Jump back into Telemetry Buddy for a day.
-- Combine and separate the application into two products;
-  - The original Telemetry Buddy idea for any racer to use to analyze their laps/efforts
-  - Telemetry Buddy Streamer for live streams to display the pedal inputs etc.
-- Dig into the primary loop for how fast it is grabbing and sending data to front-end.
+- Update the Key Performance Indicators for the adventure.
+- Update the weekly topic in Discord / Reddit
+- Update the weekly plan of attack for week #19
+- Create a tweet or two about Eggcelerate, May We Sell Games
+- Writing script of the second $10k of indie adventure
+- Playtesting Rally of Rockets with/without SubmitPoints() to see if that is the issue.
 
 ## May We Sell Games
 
