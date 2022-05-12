@@ -1,4 +1,4 @@
-# Objectives for Today 2022-05-11
+# Objectives for Today 2022-05-12
 
 - Setting up the new machine
 - Installing all the things!
