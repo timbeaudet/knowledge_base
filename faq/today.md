@@ -1,9 +1,9 @@
-# Objectives for Today 2022-05-10
+# Objectives for Today 2022-05-11
 
-- Rally of Rockets end game screen.
-- Give the player experience points after a game, even if a set amount.
-- Lock rocket and nametag selection until certain experiences, achievements or such has been gained.
-- Show the scores of the game and give winner-winner chicker dinner!
+- Setting up the new machine
+- Installing all the things!
+- Upgrading some projects to use VS 2022
+- Adjusting.
 
 ## May We Sell Games
 
