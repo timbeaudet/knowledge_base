@@ -1,4 +1,4 @@
-# Objectives for Today 2022-05-18
+# Objectives for Today 2022-05-19
 
 - Still dealing with the setup of moose, issues everywhere.
 - Digging into Rally of Rockets end round display and item lock/unlock.
