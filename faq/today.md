@@ -2,6 +2,9 @@
 
 - Still dealing with the setup of moose, issues everywhere.
 - Digging into Rally of Rockets end round display and item lock/unlock.
+- First getting the carousel selectors to use a list of items from item manager.
+- Then ensuring an item can be locked and not selected by the player.
+- If there is still time, work on unlocking an item after a game is played.
 
 ## Upcoming Events
 
