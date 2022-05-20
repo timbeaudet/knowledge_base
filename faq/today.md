@@ -1,10 +1,12 @@
-# Objectives for Today 2022-05-19
+# Objectives for Today 2022-05-20
 
 - Still dealing with the setup of moose, issues everywhere.
-- Digging into Rally of Rockets end round display and item lock/unlock.
-- First getting the carousel selectors to use a list of items from item manager.
-- Then ensuring an item can be locked and not selected by the player.
-- If there is still time, work on unlocking an item after a game is played.
+- Digging into performance display in Rally of Rockets to make it more useful.
+- Give the player some experience after a game round and show them earning it.
+- Unlock an item after a game round and hopefully show the unlock notice.
+- Making Pizza dough after lunch (12:00 to 1:00pm EST)
+- Rally of Rockets Playtest with unlocks
+- Making Pizza & eating it (4:00 to 6:00pm EST)
 
 ## Upcoming Events
 
