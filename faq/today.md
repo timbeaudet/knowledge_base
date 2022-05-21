@@ -1,16 +1,9 @@
-# Objectives for Today 2022-05-20
+# Objectives for Today 2022-05-21
 
 - Still dealing with the setup of moose, issues everywhere.
-- Digging into performance display in Rally of Rockets to make it more useful.
-- Give the player some experience after a game round and show them earning it.
-- Unlock an item after a game round and hopefully show the unlock notice.
-- Making Pizza dough after lunch (12:00 to 1:00pm EST)
-- Rally of Rockets Playtest with unlocks
-- Making Pizza & eating it (4:00 to 6:00pm EST)
-
-## Upcoming Events
-
-2022-05-20: Pizza Party!!!  (Making dough around Lunch Time, Cooking and Eating Pizza in Evening)
+- Perhaps setup of the nightly build area and nightly builds on moose.
+- Perhaps building a "web sprite" that will pull a sprite from server.
+- Perhaps playtesting another racing game "Slipstream"
 
 ## May We Sell Games
 
