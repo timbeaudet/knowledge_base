@@ -1,9 +1,11 @@
-# Objectives for Today 2022-05-21
+# Objectives for Today 2022-05-22
 
 - Still dealing with the setup of moose, issues everywhere.
-- Perhaps setup of the nightly build area and nightly builds on moose.
-- Perhaps building a "web sprite" that will pull a sprite from server.
-- Perhaps playtesting another racing game "Slipstream"
+- Why are Linux builds failing in the nightly build area?
+- Time to update all the projects to VS2022 to get Windows building nightlies?
+- Setting up Blender, ice_exporter and getting that art flow working.
+- Brainstorming on 72 hour project idea and plans.
+- Keeping it a short day,  6 to 8 hours.
 
 ## May We Sell Games
 
