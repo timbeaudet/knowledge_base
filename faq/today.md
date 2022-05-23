@@ -1,11 +1,13 @@
-# Objectives for Today 2022-05-22
+# Objectives for Today 2022-05-23
 
-- Still dealing with the setup of moose, issues everywhere.
-- Why are Linux builds failing in the nightly build area?
-- Time to update all the projects to VS2022 to get Windows building nightlies?
-- Setting up Blender, ice_exporter and getting that art flow working.
-- Brainstorming on 72 hour project idea and plans.
-- Keeping it a short day,  6 to 8 hours.
+- Still dealing with the setup of moose, the new PC.
+- Update the Key Performance Indicators of the adventure.
+- Update the weekly topic on reddit and discord.
+- Update the weekly plan of attack for Week #21.
+- Create an exported content area / something on hippo for project files.
+  - This would be a single point of access for marketing content and other resources.
+- Prepare some content for Eggcelerate! push on Twitter or such.
+- Continue working on Rally of Rockets
 
 ## May We Sell Games
 
