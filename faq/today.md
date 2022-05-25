@@ -1,8 +1,9 @@
-# Objectives for Today 2022-05-24
+# Objectives for Today 2022-05-25
 
-- Still dealing with the setup of moose, the new PC.
-- Rally of Rockets work of some sort!
-- Stream ends at 9am (ish) as I must do  some life stuff.
+- Investigate why unlocked items (and other save data?) is not saving?
+- Add temporary label to go from Results into Lobby
+- Investigate why some players joining the first game jump into Results vs Lobby.
+- Meetings with Ultimate Games in the afternoon, then life stuffs later in the day.
 
 ## May We Sell Games
 
