@@ -1,9 +1,9 @@
-# Objectives for Today 2022-05-25
+# Objectives for Today 2022-05-26
 
-- Investigate why unlocked items (and other save data?) is not saving?
-- Add temporary label to go from Results into Lobby
-- Investigate why some players joining the first game jump into Results vs Lobby.
-- Meetings with Ultimate Games in the afternoon, then life stuffs later in the day.
+- Fighting with moose and Windows 10 Pro automatically restarting.
+- Rally of Rockets physics and arena greyboxing.
+
+Tomorrow: Playtest for teaser video recording.
 
 ## May We Sell Games
 
