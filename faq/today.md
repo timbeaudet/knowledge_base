@@ -1,7 +1,12 @@
-# Objectives for Today 2022-05-26
+# Objectives for Today 2022-05-27
 
 - Fighting with moose and Windows 10 Pro automatically restarting.
-- Rally of Rockets physics and arena greyboxing.
+- Continue digging a bit into Web platform GamePad support with TurtleBrains.
+- Continue pondering the physics in Rally of Rockets with car flipping and flopping.
+- Possibly some arena greyboxing and tossing around ideas for keeping the cars closer.
+- Making the developer console able to load a new arena again, it broke somewhere.
+- Giving the developer console commands that can unlock and lock icons for a player.
+- Developer console commands that can kick/ban a player.
 
 Tomorrow: Playtest for teaser video recording.
 
