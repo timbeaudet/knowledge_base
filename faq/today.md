@@ -6,8 +6,6 @@
 - Digging into Turtle Brains documentation and/or Unit Testing
 - Throwing around ideas, 72 hour game plans, random brainstorming
 
-Tomorrow: Playtest for teaser video recording.
-
 ## May We Sell Games
 
 Trying to sell 100 copies of [Eggcelerate!](https://store.steampowered.com/app/1535490/Eggcelerate/) by the end of May!
