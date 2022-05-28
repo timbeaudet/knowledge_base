@@ -1,12 +1,10 @@
-# Objectives for Today 2022-05-27
+# Objectives for Today 2022-05-28
 
-- Fighting with moose and Windows 10 Pro automatically restarting.
-- Continue digging a bit into Web platform GamePad support with TurtleBrains.
-- Continue pondering the physics in Rally of Rockets with car flipping and flopping.
-- Possibly some arena greyboxing and tossing around ideas for keeping the cars closer.
-- Making the developer console able to load a new arena again, it broke somewhere.
-- Giving the developer console commands that can unlock and lock icons for a player.
-- Developer console commands that can kick/ban a player.
+- Twiddle some thumbs and random forward motion with a relaxed business requirement.
+- Eggcelerate! promo video to 9:16
+- Possibly some devlog scripting/writing
+- Digging into Turtle Brains documentation and/or Unit Testing
+- Throwing around ideas, 72 hour game plans, random brainstorming
 
 Tomorrow: Playtest for teaser video recording.
 
