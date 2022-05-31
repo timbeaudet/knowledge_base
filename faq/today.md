@@ -1,10 +1,9 @@
-# Objectives for Today 2022-05-28
+# Objectives for Today 2022-05-31
 
-- Twiddle some thumbs and random forward motion with a relaxed business requirement.
-- Eggcelerate! promo video to 9:16
-- Possibly some devlog scripting/writing
-- Digging into Turtle Brains documentation and/or Unit Testing
-- Throwing around ideas, 72 hour game plans, random brainstorming
+- Updating the Key Performance Indicators for the adventure.
+- Updating the weekly plan to stay on tracks.
+- Forward motion on Rally of Rockets; physics, arenas, unlocks... etc.
+- Perhaps some writeup and wrapup of the scripts.
 
 ## May We Sell Games
 
