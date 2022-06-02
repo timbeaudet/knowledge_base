@@ -1,8 +1,9 @@
-# Objectives for Today 2022-06-01
+# Objectives for Today 2022-06-02
 
-- Forward motion on Rally of Rockets; physics, arenas, unlocks... etc.
-- Getting the iPad today, or should be getting it, maybe, maybe not?
-- Meetings with Ultimate Games in the afternoon, then life stuffs.
+- Create a notification of unlocked item that displays on the results screen.
+- Sort the players by score on the results screen, most points at the top!
+- Why is the scaled static block not working with collision?
+- Build a new arena?
 
 ## May We Sell Games
 
