@@ -1,5 +1,6 @@
-# Objectives for Today 2022-06-05
+# Objectives for Today 2022-06-06
 
-- Business Review of May 2022
-- Fix issues with Eggcelerate! winter pack???
-- Playing Formula D with community on Table Top Simulator at 12pm (1600 UTC)
+- Update the Key Performance Indicators for the Adventure.
+- Update the Weekly Topic in Discord and Reddit.
+- Update the Weekly Plans for Week #23
+- Collect all the Racing Games released on Steam in May 2022.
