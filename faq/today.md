@@ -1,4 +1,4 @@
-# Objectives for Today 2022-06-07
+# Objectives for Today 2022-06-08
 
 - Play with some physics to deal with the flipping issue!
 - Gray blocking another arena?
