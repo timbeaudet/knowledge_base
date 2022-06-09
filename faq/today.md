@@ -1,6 +1,5 @@
-# Objectives for Today 2022-06-08
+# Objectives for Today 2022-06-09
 
-- Play with some physics to deal with the flipping issue!
-- Gray blocking another arena?
-- Stuff on Rally of Rockets
-- Meetings with Ultimate Games in the afternoon.
+- Update the development reports for June.
+- Play in blender with arena design.
+- Stream ends at 8am ET 
