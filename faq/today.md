@@ -1,5 +1,5 @@
-# Objectives for Today 2022-06-09
+# Objectives for Today 2022-06-10
 
-- Update the development reports for June.
-- Play in blender with arena design.
-- Stream ends at 8am ET 
+- Tweet about finding interview, podcast etc to be a part of.
+- Talk about viewing house #2 and other house stuffs.
+- Arena selection on Rally of Rockets, allow the players to choose.
