@@ -1,5 +1,5 @@
-# Objectives for Today 2022-06-10
+# Objectives for Today 2022-06-12
 
-- Tweet about finding interview, podcast etc to be a part of.
-- Talk about viewing house #2 and other house stuffs.
-- Arena selection on Rally of Rockets, allow the players to choose.
+- Playing with "Soapbox Racer" which needs a rename.
+- Perhaps digging into a new engine feature?
+- Playing Project Cars 2 with Turtles!
