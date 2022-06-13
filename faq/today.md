@@ -1,5 +1,9 @@
-# Objectives for Today 2022-06-12
+# Objectives for Today 2022-06-13
 
-- Playing with "Soapbox Racer" which needs a rename.
-- Perhaps digging into a new engine feature?
-- Playing Project Cars 2 with Turtles!
+- Update the Key Performance Indicators for the adventure.
+- Update the weekly topic on Discord and Reddit
+- Update the weekly plans
+- Update the development reports that have fallen a bit
+- Jump from Lobby to AreneSelect
+- Build/layout the screen for arena selection
+- Create the voting for players to choose an arena
