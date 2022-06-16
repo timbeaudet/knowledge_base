@@ -1,7 +1,7 @@
-# Objectives for Today 2022-06-15
+# Objectives for Today 2022-06-16
 
-- Write up, maybe even shoot and edit a video clip: "How to ask questions"
-- Continue working on drag & drop file open; what happens on non-msh/blend file (boom)
+- Reddit question about podcasts / video interviews
 - Adding material support to iceModelViewer
   - Have built-in support for palette64
+  - Save / Load the material definitions with roughness/metalness
   - Allowing custom shader / adjustments
