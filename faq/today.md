@@ -1,8 +1,7 @@
-# Objectives for Today 2022-06-17
+# Objectives for Today 2022-06-20
 
-- Adding material support to iceModelViewer
-  - Add built-in support for palette64
-  - Save / Load the material definitions with roughness/metalness
-  - Allowing custom shader / adjustments
-- Rally of Rockets issue with game results requiring two presses to go into Lobby
-- Issue when loading an arena, possibly when someone disconnects?
+- Update the Key Performance Indicators of the adventure.
+- Update the weekly topic for discord / reddit.
+- Update the weekly plans of attack.
+- Very likely take off afternoon to go on a hike, and attempt streaming from the outdoors.
+- Possible evening stream of computer surgery, GPU replacement & extra fans.
