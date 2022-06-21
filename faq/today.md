@@ -1,7 +1,6 @@
-# Objectives for Today 2022-06-20
+# Objectives for Today 2022-06-21
 
-- Update the Key Performance Indicators of the adventure.
-- Update the weekly topic for discord / reddit.
-- Update the weekly plans of attack.
-- Very likely take off afternoon to go on a hike, and attempt streaming from the outdoors.
-- Possible evening stream of computer surgery, GPU replacement & extra fans.
+- Dig through various art references for style of Rally of Rockets.
+  - Find things I like / dislike etc.
+- Begin digging into the issue with the antennas on WebGL.
+- Add antennas to the customization screen
