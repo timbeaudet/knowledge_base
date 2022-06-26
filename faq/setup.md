@@ -11,7 +11,7 @@
 - Western Digital Black 2tb NVME SSD
 - Corsair HX 1000W PSU
 - EVGA GeForce RTX 3070ti FTW3 Ultra 8gb
-- AMD R7 240 2gb
+- AMD (XFX) RX 6400
 - Creative Sound Blaster Audigy FX (SB1570)
 - Samsung 860 EVO 2TB SSD (video bay)
 - SanDisk 512gb SSD (Linux OS for dual boot)
@@ -67,3 +67,4 @@
 - Wacom Bamboo Pen Tablet
 - Logitech G15
 - Razor Blackwidow Ultimate 2013
+- AMD R7 240 2gb (lying around for testing)
