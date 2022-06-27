@@ -1,6 +1,7 @@
-# Objectives for Today 2022-06-26
+# Objectives for Today 2022-06-27
 
-- Just a chill morning stream, not super business focused.
-- Filling in some of the financial information into tracker.
-- Writing up some scripts for dev YouTube, or articles etc.
-- Maybe art or random tasks of this and that.
+- Update the Key Performance Indicators for the adventure.
+- Update the weekly topic for Discord & Reddit.
+- Update the weekly plan.
+- Write up instructions to install/use model viewer.
+- Keep moving forward, writing video script or a reddit article.
