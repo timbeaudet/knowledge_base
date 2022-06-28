@@ -1,7 +1,7 @@
-# Objectives for Today 2022-06-27
+# Objectives for Today 2022-06-28
 
-- Update the Key Performance Indicators for the adventure.
-- Update the weekly topic for Discord & Reddit.
-- Update the weekly plan.
-- Write up instructions to install/use model viewer.
-- Keep moving forward, writing video script or a reddit article.
+- Investigate the Eggcelerate! Stream Notification issue.
+- Investigate the nightly build email issue, gmail changed some auth things.
+- Get nightly builds setup and working on moose, and emailing from hippo.
+- Announcement at somepoint during the day, be here!
+- Writing of YouTube video scripts, wrapup of the Market Research video.
