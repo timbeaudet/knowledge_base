@@ -15,6 +15,8 @@
 
 ## Setup sendmail to email from command-line
 
+NOTE: If attempting to modify this file, it does NOT auto-complete with tabs while typing out the filepath/name, just type it out anyway and you should see the contents of the file.
+
 0. Grab required packages and setup configuration file:
 ```
 apt-get install sendmail
