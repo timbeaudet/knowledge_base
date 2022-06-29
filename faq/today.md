@@ -1,7 +1,6 @@
-# Objectives for Today 2022-06-28
+# Objectives for Today 2022-06-29
 
-- Investigate the Eggcelerate! Stream Notification issue.
-- Investigate the nightly build email issue, gmail changed some auth things.
-- Get nightly builds setup and working on moose, and emailing from hippo.
-- Announcement at somepoint during the day, be here!
-- Writing of YouTube video scripts, wrapup of the Market Research video.
+- Digging into nightly build failures.
+- Upgrading lots of projects to VS2022.
+- Brainstorming what comes next.
+- MAYBE studio setup and shooting of 3 YouTube videos.
