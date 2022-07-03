@@ -1,6 +1,6 @@
-# Objectives for Today 2022-06-29
+# Objectives for Today 2022-07-03
 
-- Digging into nightly build failures.
-- Upgrading lots of projects to VS2022.
-- Brainstorming what comes next.
+- Digging into nightly build failures on Windows that should get fixed.
+- Business Review of June 2022
+- Brainstorming/announcing what comes next, roadmap for second half of 2022
 - MAYBE studio setup and shooting of 3 YouTube videos.
