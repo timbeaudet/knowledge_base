@@ -4,3 +4,4 @@
 - Business Review of June 2022
 - Brainstorming/announcing what comes next, roadmap for second half of 2022
 - MAYBE studio setup and shooting of 3 YouTube videos.
+- Rocket League Practice!
