@@ -8,5 +8,4 @@
 - Look into the Trailing Brakes website / mailing list setup.
 - MAYBE studio setup and shooting of 3 YouTube videos.
 - Possibly later some Rocket League Practice!
-
 - After finished working Tim is taking the rest of the holiday day!
