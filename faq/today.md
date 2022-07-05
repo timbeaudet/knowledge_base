@@ -1,12 +1,12 @@
-# Objectives for Today 2022-07-04
+# Objectives for Today 2022-07-05
 
-- Updating the Key Performance Indicators of the adventure.
-- Update the weekly topic in Discord and Reddit.
-- Update the development reports for July (yesterday)
-- Update the weekly plan of attack
-- Collect all the racing games released on Steam in June 2022
-- Digging into nightly build failures on Windows that should get fixed.
-- Look into the Trailing Brakes website / mailing list setup.
-- MAYBE studio setup and shooting of 3 YouTube videos.
-- Possibly later some Rocket League Practice!
-- After finished working Tim is taking the rest of the holiday day!
+- Update the steam racing games from July (so far)
+- Update the development reports from Yesterday.
+- Trailing Brakes website needs to link into a moosend list.
+  - Attempt to add a field to know the signup came from website.
+- Complete a work order for the parkign lot
+  - maybe try to add some basic terrian, or shapes for it?
+- Creating the trailing brakes project, lua and "first actual commit"
+- Attempting to get project.lua to swap between engine libraries vs inclusion automatically.
+- Attempting to get AutoBuildSystem to run --test for a pass/fail of unit testing.
+- Display the parking lot as a giant mesh that a flying camera can be used in.
