@@ -1,11 +1,11 @@
-# Objectives for Today 2022-07-07
+# Objectives for Today 2022-07-08
 
 - Update the development reports
-- Create a TriangleMesh for the parking lot (or just use a plane??)
-- Shoot a ray for the wheels/suspension (much like raycast vehicle in Rally of Rockets)
-- Add some very VERY basic forces to get the car moving around (not aiming for realistic here)
-- If all that goes smoothly perhaps start on creating a headless GameServer build, and connection/authentication.
-
+- Fix the darn issue where the car is rotating the wrong direction from the friction force.
+- Add ImGui, the Developer Console and Performance Monitor.
+- Create a connection to get multiple cars in the parking lot.
+- Create a headless GameServer build to authenticate with.
+- Deploy a game server and run test with special turtles.
 
 ## On the Horizon for Sometime Soon
 
