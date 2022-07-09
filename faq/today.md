@@ -1,11 +1,12 @@
-# Objectives for Today 2022-07-08
+# Objectives for Today 2022-07-09
 
 - Update the development reports
-- Fix the darn issue where the car is rotating the wrong direction from the friction force.
-- Add ImGui, the Developer Console and Performance Monitor.
 - Create a connection to get multiple cars in the parking lot.
-- Create a headless GameServer build to authenticate with.
+- Create a headless GameServer build.
+- Authenticate players with twitch and/or patreon etc.
+- Add ImGui, the Developer Console and Performance Monitor.
 - Deploy a game server and run test with special turtles.
+- Regular RocketLeague breaks doing "best of 3" in ranked 1v1.
 
 ## On the Horizon for Sometime Soon
 
