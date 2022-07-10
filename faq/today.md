@@ -1,11 +1,11 @@
-# Objectives for Today 2022-07-09
+# Objectives for Today 2022-07-10
 
-- Update the development reports
-- Create a connection to get multiple cars in the parking lot.
-- Create a headless GameServer build.
+- Create the startup flow to include
+  - "WIP" warning, "SIM" warning and ask for auth permissions.
 - Authenticate players with twitch and/or patreon etc.
-- Add ImGui, the Developer Console and Performance Monitor.
-- Deploy a game server and run test with special turtles.
+- Only if authenticated can the player access the Title Screen and beyond.
+- Create a title screen with options Practice (single player) and Competition (online)
+  - also "Settings" and "Exit"
 - Regular RocketLeague breaks doing "best of 3" in ranked 1v1.
 
 ## On the Horizon for Sometime Soon
