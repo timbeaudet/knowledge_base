@@ -7,6 +7,7 @@
 - Perhaps look into setting up a new Trailing Brakes website?
 - Probably taking a nap, possibly rocket league practice.
 
+## Then later, maybe today, maybe tomorrow...
 - Authenticate players with twitch and/or patreon on the GameServer.
 - Only if authenticated can the player access the Title Screen and beyond.
 - Create a title screen with options Practice (single player) and Competition (online)
