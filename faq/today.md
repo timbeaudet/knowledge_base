@@ -1,8 +1,13 @@
-# Objectives for Today 2022-07-10
+# Objectives for Today 2022-07-11
 
-- Create the startup flow to include
-  - "WIP" warning, "SIM" warning and ask for auth permissions.
-- Authenticate players with twitch and/or patreon etc.
+- Update the KPIs for the adventure!
+- Update the weekly topic on reddit and discord.
+- Update the weekly plan for week #28
+- Write the mailing list an email about Trailing Brakes Racing Simulator.
+- Perhaps look into setting up a new Trailing Brakes website?
+- Probably taking a nap, possibly rocket league practice.
+
+- Authenticate players with twitch and/or patreon on the GameServer.
 - Only if authenticated can the player access the Title Screen and beyond.
 - Create a title screen with options Practice (single player) and Competition (online)
   - also "Settings" and "Exit"
