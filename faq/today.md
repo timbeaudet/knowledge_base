@@ -1,20 +1,11 @@
-# Objectives for Today 2022-07-11
+# Objectives for Today 2022-07-12
 
-- Update the KPIs for the adventure!
-- Update the weekly topic on reddit and discord.
-- Update the weekly plan for week #28
-- Write the mailing list an email about Trailing Brakes Racing Simulator.
-- Perhaps look into setting up a new Trailing Brakes website?
-- Probably taking a nap, possibly rocket league practice.
-
-## Then later, maybe today, maybe tomorrow...
+- Allow access to a disabled Title Screen (not beyond) when not agreed/authed.
+- Add messaging to title screen when user fails to agree or authenticate.
 - Authenticate players with twitch and/or patreon on the GameServer.
-- Only if authenticated can the player access the Title Screen and beyond.
-- Create a title screen with options Practice (single player) and Competition (online)
-  - also "Settings" and "Exit"
-- Regular RocketLeague breaks doing "best of 3" in ranked 1v1.
+- Make a quick icon for the executable and apply it in the post build steps.
+- Create the Windows installer and make that part of the build and distribute
+- Consider writing the mailing list an email about Trailing Brakes Racing Simulator.
+- Regular RocketLeague breaks, every ~3 hours, doing a "best of 3" in ranked 1v1.
 
-## On the Horizon for Sometime Soon
-
-- Attempting to get AutoBuildSystem to run --test for a pass/fail of unit testing.
-
+## Breakfast on Friday if goal is met??  11 subs
