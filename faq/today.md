@@ -1,9 +1,6 @@
-# Objectives for Today 2022-07-18
+# Objectives for Today 2022-07-19
 
-- Update the Key Performance Indicators of the adventure.
-- New weekly_topic for discord and reddit.
-- Update the weekly plans for Week #whatever-it-is.
-- Update the development reports I've been slacking on.
-- Might be a shorter day <-- likely
-- Might work on website for Trailing Brakes
-  - or verify API sending email to specified mailing list.
+- Add stupid solution to ice Physics Unit Testing to run all tests in Trailing Brakes Racing Simulator 
+- Get the ball joint test passing
+- Create a hinged joint constraint test / class to lock position entirely and rotation to a single axis
+- Short day!!! Short day!!! Picking up Indie doggo
