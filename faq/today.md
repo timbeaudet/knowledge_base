@@ -1,6 +1,6 @@
-# Objectives for Today 2022-07-19
+# Objectives for Today 2022-07-20
 
-- Add stupid solution to ice Physics Unit Testing to run all tests in Trailing Brakes Racing Simulator 
-- Get the ball joint test passing
+- Dig into why a unit test is avoiding gravity.
+- Write a graceful email to lawyer...
 - Create a hinged joint constraint test / class to lock position entirely and rotation to a single axis
-- Short day!!! Short day!!! Picking up Indie doggo
+- Likely a short day to hang out with indie doggo.
