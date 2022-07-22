@@ -1,7 +1,7 @@
-# Objectives for Today 2022-07-21
+# Objectives for Today 2022-07-22
 
-- Write Unit Test and ensure matrix rotation goes the correct direction:
-  - When looking down the axis of rotation, the positive value should be clock-wise.
-- Keep moving forward with math and physics for the simulator.
-- Create a hinged joint constraint test / class to lock position entirely and rotation to a single axis
+- Add an exception list in the StreamNotification watcher, to not notify.
+- Ensure the rest of the ice Cameras are rotating the correct directions.
+  - Consider making UnitTests for the cameras to ensure they will always do so in the future.
+- Try refactoring icePhysics to get the BallJointConstraint working again without super hacks.
 - Likely a short day to hang out with indie doggo.
