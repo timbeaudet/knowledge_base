@@ -1,7 +1,9 @@
-# Objectives for Today 2022-07-22
+# Objectives for Today 2022-07-23
 
-- Add an exception list in the StreamNotification watcher, to not notify.
+- Fix TrackBuilder and iceModelViewer as they are failing from ICE API changes.
+  - This includes getting the runtime stuff working.
 - Ensure the rest of the ice Cameras are rotating the correct directions.
   - Consider making UnitTests for the cameras to ensure they will always do so in the future.
-- Try refactoring icePhysics to get the BallJointConstraint working again without super hacks.
+- Create a simple cone, perhaps multiple colors, or use the one from Turbo Boom!
+- Create a small tool to grab cones from LFS to plug into Trailing Brakes parking lot.
 - Likely a short day to hang out with indie doggo.
