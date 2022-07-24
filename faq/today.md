@@ -1,9 +1,8 @@
-# Objectives for Today 2022-07-23
+# Objectives for Today 2022-07-24
 
-- Fix TrackBuilder and iceModelViewer as they are failing from ICE API changes.
-  - This includes getting the runtime stuff working.
-- Ensure the rest of the ice Cameras are rotating the correct directions.
-  - Consider making UnitTests for the cameras to ensure they will always do so in the future.
-- Create a simple cone, perhaps multiple colors, or use the one from Turbo Boom!
-- Create a small tool to grab cones from LFS to plug into Trailing Brakes parking lot.
+- Fix Rally of Rockets and Turbo Boom! for the nightly build system, not sure why TB is failing.
+- Fix the other projects for nightly build system.
+- Add support for triggers in Track Builder.
+- Add support for transparent rendering in ICE RenderQueue.
+- Maybe get an ortho top-down camera for placing the triggers correctly.
 - Likely a short day to hang out with indie doggo.
