@@ -1,9 +1,7 @@
-# Objectives for Today 2022-07-25
+# Objectives for Today 2022-07-26
 
-- Update the marketing Key Performance Indicators for the adventure.
-- Update the weekly topic on discord and reddit.
-  - Write an article for reddit on wednesday?
-- Update the weekly plan
-- Fix the other projects for nightly build system.
-- Maybe get an ortho top-down camera for placing the triggers correctly.
-- Definitely a short day to hang out with indie doggo before he goes home.
+- Have fun.
+- Load a layout of cones from track builder file, or save the temp layout json from Track Builder.
+- Create a possible autocross layout
+- Adjust the physics of the car to allow more sliding behavior (if possible with raycast vehicle).
+- Race night.
