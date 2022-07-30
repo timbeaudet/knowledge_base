@@ -63,6 +63,18 @@ Right-click and save preset...
 
 That is pretty simple, but what a great work-flow improvement it was!
 
+**Auto Synchronizing Multiple Cameras + Audio**
+
+1. Select all audio and video clips in the project window.
+2. Right click (on one) and use "Create Multicam Sequence"
+3. Choose Audio (for how to sync or whatever)
+4. In project window remove Processed Clips (the sequence, not the folder)
+5. Drag namehereMulticam into timeline, or if you renamed it.
+6. Find Multicam icon (may need to enable the icon in the Preview window with +)
+  a. play the timeline, click on the various views, then pause
+  b. use N to drag a bit and adjust
+
+
 **ISSUE: Corrupted MP4 when Camera didn't change anything**
 
 Not sure how this became an issue, but Premiere was complaining of corrupt/incompatible format. The video could be opened in media player.
