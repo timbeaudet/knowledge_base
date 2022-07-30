@@ -1,9 +1,9 @@
-# Objectives for Today 2022-07-28
+# Objectives for Today 2022-07-30
 
-- PIZZA PARTY! Making Dough Balls after Lunch
-- PIZZA PARTY! Cooking and Eating Pizza for Dinner ... with Pineapples :O
-- Ensure the keybinding system is hooked up and working.
-- Look over for any glaring issues or features desired for the playtest.
-- Chalk lines through the rest of the autcross course for more clarity.
-- Attempt to count and report the number of cones a car hits during their run.
-  - This requires adding a bunch of spheres for testing and might be done in the hackiest way possible vs using physics system.
+- Playtest!! First official of Trailing Brakes Racing Simulator
+- Deploy the website to production.
+- Lock down the dev.site to the_boss.
+- Deploy the simulator to dev.site to ensure the download work and all
+  - This will need to add a build_and_distrubute --development switch to script.
+- Begin brainstorming the items to tackle for stage 2.
+- After playtest, assuming good energies: Editing of YouTube video, my second 10k as an indie developer
