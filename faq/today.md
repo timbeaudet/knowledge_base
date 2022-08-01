@@ -6,3 +6,4 @@
   - Continue brainstorming items for stage 2 and the tragjectory / arch of TBRS.
 - Collect all the racing games released on Steam in July 2022.
 - Finish editing YouTube video, my second 10k as an indie developer
+- Might do business in review of July 2022.
