@@ -1,5 +1,10 @@
-# Objectives for Today 2022-08-02
+# Objectives for Today 2022-08-03
 
-- Dive into Telemetry Buddy and start reading code.
-- Leave several cleanup todo's to jump on through the week.
-- Start with a marketing pitch / writeup / decide on direction LEARNER vs STREAMER
+- YouTube: Video popup link and description withtiming to chapters
+- YouTube: Video scheduled and live at 9am
+- Twitch: Add TBRS and TelemetryBuddy Hour Calculators
+- Stream: Review StreamHelper PRs
+- Try reproducing issue with Telemetry Buddy not showing anything, freezing or disconnecting?
+- Codebase cleanup, create a primary loop and start move all the non-streamer stuff somewhere.
+  - Remove code that is just in floating functions.
+- Rough cut of the next YouTube video
