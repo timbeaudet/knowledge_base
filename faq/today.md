@@ -1,10 +1,9 @@
-# Objectives for Today 2022-08-03
+# Objectives for Today 2022-08-04
 
-- YouTube: Video popup link and description withtiming to chapters
-- YouTube: Video scheduled and live at 9am
-- Twitch: Add TBRS and TelemetryBuddy Hour Calculators
-- Stream: Review StreamHelper PRs
+- Create a small Eggcelerate! landing page for Indie Racers Festival 2022
+- Combine the  Telemetry Buddy stream overlays into a single page (vs /stream/ and /timing/)
+  - Grab and use the options to create that page layout.
 - Try reproducing issue with Telemetry Buddy not showing anything, freezing or disconnecting?
-- Codebase cleanup, create a primary loop and start move all the non-streamer stuff somewhere.
+- Continue codebase cleanup, clean the primary loop
   - Remove code that is just in floating functions.
 - Rough cut of the next YouTube video
