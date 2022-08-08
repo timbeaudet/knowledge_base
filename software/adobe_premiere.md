@@ -73,6 +73,8 @@ That is pretty simple, but what a great work-flow improvement it was!
 6. Find Multicam icon (may need to enable the icon in the Preview window with +)
   a. play the timeline, click on the various views, then pause
   b. use N to drag a bit and adjust
+  
+**NOTE:** To continue normal/manual cutting (rather than multi sequence magic) RIGHT-CLICK the 'aligned tracks sequence' in project window and Open in Timeline. Do NOT drag and drop.
 
 
 **ISSUE: Corrupted MP4 when Camera didn't change anything**
