@@ -1,6 +1,7 @@
-# Objectives for Today 2022-08-09
+# Objectives for Today 2022-08-10
 
-- Screwing around with Telemetry Buddy.
-- Working on the position tracker to get it correct at the start/end of a race session.
-  - if that seems impossible, find a way to hide it...
-- Continue with other improvements, showing the RPM / Gear on driver inputs
+- Improving Telemetry Buddy to get a MINIMAL viable product.
+- Qualification mode to show your best lap / current lap.
+- Practice mode to show the racers position / best lap.
+- Continue with other improvements, bigger RPM / Gear on driver inputs.
+- Make stuff happen! Later afternoon might be some physics / arts.
