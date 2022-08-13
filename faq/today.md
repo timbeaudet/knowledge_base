@@ -1,5 +1,5 @@
-# Objectives for Today 2022-08-11
+# Objectives for Today 2022-08-13
 
 - Working on Internal Combustion Engine Physics.
-- Trying to understand why the Euler solver refactor is not passing all tests.
-- Moving forward
+- Playing with tire physics or stuffs.
+- Maybe writing some devlog stuff.
