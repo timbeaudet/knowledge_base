@@ -1,6 +1,9 @@
-# Objectives for Today 2022-08-14
+# Objectives for Today 2022-08-15
 
-- Working on Internal Combustion Engine Physics.
-- Adding a faux gearbox to the autocross racecar.
-  - Make sure the car actually has mass and remove from acceleration function.
+- Update the Key Performance Indicators of the Adventure.
+- Update the weekly plan for week #33
+- Update weekly topic on reddit/discord
+- Handle some discord artist 'applications'
+- Add a first usage web-page for Telemetry Buddy to register an email.
+  - Create an activate email and allow use of Telemetry Buddy once activated?
 - Maybe writing some devlog stuff; How to Get Started
