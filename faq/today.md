@@ -1,9 +1,9 @@
-# Objectives for Today 2022-08-15
+# Objectives for Today 2022-08-16
 
-- Update the Key Performance Indicators of the Adventure.
-- Update the weekly plan for week #33
-- Update weekly topic on reddit/discord
-- Handle some discord artist 'applications'
-- Add a first usage web-page for Telemetry Buddy to register an email.
-  - Create an activate email and allow use of Telemetry Buddy once activated?
-- Maybe writing some devlog stuff; How to Get Started
+- Fixing some nightly build failures, Turbo Boom! failing...
+- Trying to fix position report at end of the race.
+- Make the timing bar of racecars relative vs just the competition.
+  - Show a lapped car in blue and cars a lap ahead in red (match iRacing expectations)
+- Cleanup of the latin to utf8 string, add that to TurtleBrains properly and put in the variable.
+- Race night will take more practice than normal, 14 mile track.
+- 
