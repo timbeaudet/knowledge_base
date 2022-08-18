@@ -1,8 +1,8 @@
-# Objectives for Today 2022-08-17
+# Objectives for Today 2022-08-18
 
-- Cleanup of the latin to utf8 string, add that to TurtleBrains properly and put in the variable.
-- Stream ending early, podcast interview with IGM at 2pm - also need to do the food shopping thing.
+- Playing with physics and/or engine development.
+- Off around 2pm for meetings and shopping for foods.
 
 ## Coming Soon:
 
-Burger and Friesday on Friday 
+Tomorrow: Burger and Friesday!  Around 4 to 6pm ET
