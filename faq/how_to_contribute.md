@@ -3,7 +3,7 @@
 
 ## Financial Donations and Support
 
-Thanks so much for caring about the adventure to the point of being willing to chip in. There are many ways to contribute, perhaps the easiest being financially with supporting the adventure on [Patreon](https://www.patreon.com/timbeaudet), [Paypal](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=EF6QVSLZS3Q9A&lc=US&item_name=Indie%20Adventure&item_number=twitch&currency_code=USD&bn=PP%2dDonationsBF%3abtn_donateCC_LG%2egif%3aNonHosted) or [Twitch](https://www.twitch.tv/timbeaudet). There is also a lineup of games to buy: [Archer](https://timbeaudet.itch.io/archer)
+Thanks so much for caring about the adventure to the point of being willing to chip in. There are many ways to contribute, perhaps the easiest being financially with supporting the adventure on [Patreon](https://www.patreon.com/timbeaudet), [Paypal](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=EF6QVSLZS3Q9A&lc=US&item_name=Indie%20Adventure&item_number=twitch&currency_code=USD&bn=PP%2dDonationsBF%3abtn_donateCC_LG%2egif%3aNonHosted) or [Twitch](https://www.twitch.tv/timbeaudet). There is also a lineup of games to buy: [Archer](https://timbeaudet.itch.io/archer), [Eggcelerate!](https://store.steampowered.com/app/1535490/Eggcelerate/), [Winter Eggspansion DLC](https://store.steampowered.com/app/1902100/Winter_Eggspansion_for_Eggcelerate/)
 
 ## Sharing is Caring
 
