@@ -1,8 +1,9 @@
-# Objectives for Today 2022-08-21
+# Objectives for Today 2022-08-22
 
-- Update the development reports as I've started to fall behind again.
-- Continue Refactor the Simulator / Networking stuff to mean a Connection is a Driver not a Racecar
-  - This will add eventual support for driver swaps in endurance racing.
-  - Also means more drivers could enter a server for spectating while not taking the racecars.
-  - Requires fixing several bugs and issues to get multiplayer working again.
-- Continue refactoring different parts of the project to remove all the cleanup tasks.
+- Update the KPI for the adventure.
+- Update the weekly topic for Discord.
+- Continue the post for reddit adding risk mitigation stratgeies.
+- Update the weekly plans for Week 34.
+- Brainstorming and creation of twitter content for tyrebytes / #IndieRacersFestival
+- Continue working on the Dev Log video for slipping on Eggs.
+- Reach out to possible artist about estimate / progress / interest?
