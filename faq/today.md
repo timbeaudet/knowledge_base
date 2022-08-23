@@ -1,9 +1,6 @@
-# Objectives for Today 2022-08-22
+# Objectives for Today 2022-08-23
 
-- Update the KPI for the adventure.
-- Update the weekly topic for Discord.
-- Continue the post for reddit adding risk mitigation stratgeies.
-- Update the weekly plans for Week 34.
-- Brainstorming and creation of twitter content for tyrebytes / #IndieRacersFestival
+- Finish the Cleanup of Events.
+- Put all the Simulator stuff in Simulator namespace, and Client in Client namespace
+- Begin removing the InterfaceTarget / 1080p interface solution for anchor & scaling solutions.
 - Continue working on the Dev Log video for slipping on Eggs.
-- Reach out to possible artist about estimate / progress / interest?
