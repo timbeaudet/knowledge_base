@@ -1,4 +1,4 @@
-# Objectives for Today 2024-08-23
+# Objectives for Today 2024-08-24
 
 - Continue with code cleaning, refactoring, and building a solid foundation!!!
 - Ensure all icePhysics and TrailingBrakes Simulator area is using the 'physics' math types (Scalar vs Float etc)
