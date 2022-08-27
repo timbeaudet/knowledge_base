@@ -1,6 +1,7 @@
-# Objectives for Today 2024-08-26
+# Objectives for Today 2024-08-27
 
-- Continue with code cleaning, refactoring, and building a solid foundation!!!
-- Reworking the connection join process to contain version, and grab the full racetrack before getting a racecar.
-- Enabling and using the UDP fast connection to get that piece working again!
-- Starting Stage 2 of Trailing Brakes Racing Simulator!!!!
+- Fix timing beams to ensure they are not faulty again, at least as best we can ensure...
+- Send car update packets over UDP instead of TCP.
+- Admin control to change the update packets per second.
+- Try the matrix "orthogonal-normalization" thing to see if it fixes disappearing cars/wheels.
+- Playtest around noon ET **ONLY** if all the above is completed.
