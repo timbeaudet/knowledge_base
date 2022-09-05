@@ -1,5 +1,13 @@
-# Objectives for Today 2022-09-01
+# Objectives for Today 2022-09-05
 
-- Physics work, diving into something physical.
+- Update the Key Performance Indicators of the adventure.
+- Weekly topic in discord / reddit.
+- Collect all Racing Games released on Steam in August 2022
+- Financial tracking (updating income/expenses in August)
+- Business Review of August 2022
+- Weekly plans (probably after Business Review)
 - Web Dev?? Creating a Blog / Roadmap page for Trailing Brakes
-- Moving forward the best I can... Learning is hard.
+
+## NOTICE:
+
+Streams will start about 30-45 minutes later than normal for doggo care/routines, and end slightly earlier (around lunch-ish) so I can spend time Indie.
