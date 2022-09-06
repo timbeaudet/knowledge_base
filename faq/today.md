@@ -1,12 +1,8 @@
-# Objectives for Today 2022-09-05
+# Objectives for Today 2022-09-06
 
-- Update the Key Performance Indicators of the adventure.
-- Weekly topic in discord / reddit.
-- Collect all Racing Games released on Steam in August 2022
-- Financial tracking (updating income/expenses in August)
-- Business Review of August 2022
-- Weekly plans (probably after Business Review)
-- Web Dev?? Creating a Blog / Roadmap page for Trailing Brakes
+- Weekly planning (a day late)
+- Math and physics, getting constrained!
+- Also in need of Web Dev Help to create a simple roadmap page for Trailing Brakes
 
 ## NOTICE:
 
