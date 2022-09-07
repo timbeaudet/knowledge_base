@@ -1,8 +1,9 @@
 # Objectives for Today 2022-09-06
 
-- Weekly planning (a day late)
-- Math and physics, getting constrained!
+- Writing a few emails and communication things...
+- Math and physics, trying to get a fixed length pendulum constraint rotating!
 - Also in need of Web Dev Help to create a simple roadmap page for Trailing Brakes
+- Later: Tim takes indie for a hike!
 
 ## NOTICE:
 
