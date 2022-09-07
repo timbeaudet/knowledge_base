@@ -1,4 +1,4 @@
-# Objectives for Today 2022-09-06
+# Objectives for Today 2022-09-07
 
 - Writing a few emails and communication things...
 - Math and physics, trying to get a fixed length pendulum constraint rotating!
