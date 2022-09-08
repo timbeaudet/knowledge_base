@@ -1,7 +1,7 @@
-# Objectives for Today 2022-09-07
+# Objectives for Today 2022-09-08
 
-- Writing a few emails and communication things...
-- Math and physics, trying to get a fixed length pendulum constraint rotating!
+- A little math and physics to try getting the double body pendulum constraint!
+- May try adding a new tool to Track Builder!
 - Also in need of Web Dev Help to create a simple roadmap page for Trailing Brakes
 - Later: Tim takes indie for a hike!
 
