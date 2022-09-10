@@ -1,9 +1,8 @@
-# Objectives for Today 2022-09-09
+# Objectives for Today 2022-09-10
 
-- Continue adding vegetation/tree brush tool to Track Builder!
-- Create a bumpy terrain so that the trees are actually placed on/colliding with a mesh.
-- Add controls for density and brush radius.
-- Add randomization for height, color tint?
+- Figure out how to support trees with two meshes/graphics/materials ... trunk vs  leaves.
+  - Can or should an iceGraphic contain children graphics?
+- Consider adding a spline tool/mode for auto placing objects like fences; how do we save that data?
 - Also in need of Web Dev Help to create a simple roadmap page for Trailing Brakes
 - Later: Tim takes indie for a hike!
 
