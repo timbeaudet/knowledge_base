@@ -1,10 +1,10 @@
-# Objectives for Today 2022-09-10
+# Objectives for Today 2022-09-12
 
-- Figure out how to support trees with two meshes/graphics/materials ... trunk vs  leaves.
-  - Can or should an iceGraphic contain children graphics?
-- Consider adding a spline tool/mode for auto placing objects like fences; how do we save that data?
-- Also in need of Web Dev Help to create a simple roadmap page for Trailing Brakes
-- Later: Tim takes indie for a hike!
+- Update the Key Performance Indicators for the adventure.
+- Update the weekly topic in discord/reddit.
+- Update the weekly plans / goals for for Week 37
+- Attempt some Web Dev to create a simple roadmap page for Trailing Brakes
+- Short stream: Tim takes indie for a hike!
 
 ## NOTICE:
 
