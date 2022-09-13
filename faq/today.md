@@ -1,9 +1,7 @@
-# Objectives for Today 2022-09-12
+# Objectives for Today 2022-09-13
 
-- Update the Key Performance Indicators for the adventure.
-- Update the weekly topic in discord/reddit.
-- Update the weekly plans / goals for for Week 37
-- Attempt some Web Dev to create a simple roadmap page for Trailing Brakes
+- Doing... Things...
+- Trying to get a tree in engine
 - Short stream: Tim takes indie for a hike!
 
 ## NOTICE:
