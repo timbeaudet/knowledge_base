@@ -1,9 +1,9 @@
-# Objectives for Today 2022-09-13
+# Objectives for Today 2022-09-15
 
-- Doing... Things...
-- Trying to get a tree in engine
-- Short stream: Tim takes indie for a hike!
+- Doing... Things...  Not really sure what, just doing things...
+- Continue trying to get the tree in engine?
+- Short stream: Tim is a Zombie today
 
 ## NOTICE:
 
-Streams will start about 30-45 minutes later than normal for doggo care/routines, and end slightly earlier (around lunch-ish) so I can spend time Indie.
+Next Trailing Brakes Racing Simulator Competition will be October 1st at 11am ET.
