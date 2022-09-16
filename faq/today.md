@@ -1,8 +1,8 @@
-# Objectives for Today 2022-09-15
+# Objectives for Today 2022-09-16
 
-- Doing... Things...  Not really sure what, just doing things...
-- Continue trying to get the tree in engine?
-- Short stream: Tim is a Zombie today
+- Study some maths, practice derivatives...
+- Experimenting with migrating SVN to GIT (just testing things)
+- Short stream? Tim is still a Zombie today
 
 ## NOTICE:
 
