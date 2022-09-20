@@ -1,14 +1,11 @@
-# Objectives for Today 2022-09-19
+# Objectives for Today 2022-09-20
 
-- Update the Key Performance Indicators of the adventure...
-- Update the weekly topic in Discord and reddit
-- Update the weekly plan for week #38
-- Add admin controls to kick / ban users from the GameServer
-- Refactor imgui so it _can_ be allowed in public builds to display performance
-  - That or create a custom performance display for the simulator.
+- Getting the trees to showup in Trailing Brakes, need to load a new part of the Bundle.
+- Consider adding static "one time" meshes/objects to Track Builder?
+- Deal with user interface issues with widescreen / multi-monitor support.
+- Set WindowPosition in TurtleBrains for iceModelViewer, TrackBuilder and TBRS support.
 - Experimenting with migrating SVN to GIT (just testing things)
   - Still waiting for DreamHost help, can't access ANY of the SVN repositories...
-- Shorter stream because Tim is still a Zombie today
 
 ## NOTICE:
 
