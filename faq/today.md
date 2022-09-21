@@ -1,9 +1,7 @@
-# Objectives for Today 2022-09-20
+# Objectives for Today 2022-09-21
 
-- Getting the trees to showup in Trailing Brakes, need to load a new part of the Bundle.
-- Consider adding static "one time" meshes/objects to Track Builder?
-- Deal with user interface issues with widescreen / multi-monitor support.
-- Set WindowPosition in TurtleBrains for iceModelViewer, TrackBuilder and TBRS support.
+- Signals for when a car gets to the stopping point before track, and when to go.
+- Information boxes for the driver to see info while in the car.
 - Experimenting with migrating SVN to GIT (just testing things)
   - Still waiting for DreamHost help, can't access ANY of the SVN repositories...
 
