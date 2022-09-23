@@ -1,12 +1,9 @@
-# Objectives for Today 2022-09-22
+# Objectives for Today 2022-09-23
 
-- Signals for when a car gets to the stopping point before track, and when to go.
-  - This information needs to be networked in some manner it would seem.
-- Fixing the guages displaying the current gear and speedometer.
-- Adding metric/imperial option to user settings.
-- Information boxes for the driver to see info while in the car.
+- Discussion topic: Simulator vs Smaller Games.
+- Experimenting with tire physics from Simonaut.
 - Experimenting with migrating SVN to GIT (just testing things)
-  - Still waiting for DreamHost help, can't access ANY of the SVN repositories...
+  - Still waiting for DreamHost to respond to test account request.
 
 ## NOTICE:
 
