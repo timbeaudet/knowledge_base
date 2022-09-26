@@ -1,9 +1,11 @@
-# Objectives for Today 2022-09-23
+# Objectives for Today 2022-09-24
 
+- Update the Key Performance Indicators of the adventure.
+- Update weekly topic in Discord / Reddit.
+- Update of weekly planning
 - Discussion topic: Simulator vs Smaller Games.
-- Experimenting with tire physics from Simonaut.
 - Experimenting with migrating SVN to GIT (just testing things)
-  - Still waiting for DreamHost to respond to test account request.
+- Create a spring constraint for the 2D double wishbone physics???
 
 ## NOTICE:
 
