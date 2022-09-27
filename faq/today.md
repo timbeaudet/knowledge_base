@@ -1,10 +1,8 @@
-# Objectives for Today 2022-09-24
+# Objectives for Today 2022-09-25
 
-- Update the Key Performance Indicators of the adventure.
-- Update weekly topic in Discord / Reddit.
-- Update of weekly planning
-- Discussion topic: Simulator vs Smaller Games.
+- Fix Trailing Brakes in the Nightly Build area on Windows & Linux
 - Experimenting with migrating SVN to GIT (just testing things)
+- Discussion topic: Simulator vs Smaller Games, play with ideas...
 - Create a spring constraint for the 2D double wishbone physics???
 
 ## NOTICE:
