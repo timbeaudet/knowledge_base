@@ -160,6 +160,7 @@ Can even create the code edits first:
 	DO NOT RUN UNLESS MASTER IS CHECKED OUT:
 	`git branch | xargs git branch -d`
 	IF deleted master, just checkout again.
+	IF branch was removed just, git checkout -b branch/name-here commit-id
 
 If the branch was merged from a different computer after doing a rebase, the branch will remain and you'll need to use `git branch -D`. Be careful!
 
