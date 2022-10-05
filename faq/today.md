@@ -1,7 +1,6 @@
-# Objectives for Today 2022-10-04
+# Objectives for Today 2022-10-05
 
-- Brainstorm / Start Pitch for Stream Sponsors for ~30-60 minutes.
-- Work on Game Developer YouTube / social marketing in some way with any left-over time.
-- May work on parking lot environment for Trailing Brakes, may keep that secret.
+- Work on Game Developer YouTube / social marketings.
+- LudumDare Game playing and rating for at least 1 or 2 hours.
 
-Afternoon/evening of Racing at Mount Panorama!
+Shorter day, off around noon, for off-stream works.
