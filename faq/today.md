@@ -1,6 +1,6 @@
-# Objectives for Today 2022-10-05
+# Objectives for Today 2022-10-06
 
+- Working on the Spoilers / "secrets" of the Trailing Brakes parking lot.
 - Work on Game Developer YouTube / social marketings.
-- LudumDare Game playing and rating for at least 1 or 2 hours.
 
-Shorter day, off around noon, for off-stream works.
+Maybe more LudumDare games on Friday?
