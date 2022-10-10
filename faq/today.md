@@ -1,10 +1,6 @@
-# Objectives for Today 2022-10-07
+# Objectives for Today 2022-10-08
 
-- Working on the Spoilers / "secrets" of the Trailing Brakes parking lot.
-  - Updates were dropped & the two missing assets.
-- Work on Game Developer YouTube / social marketings.
-  - Make an Eggcelerate or Turbo Boom social media posting!
-  - Continue editing the marketing video OR
-  - Writing a script about 'small' projects vs 'large' projects.
-- Maybe more LudumDare games in the afternoon!
-- PIZZA PARTY (after washing the dishes)
+- Updating Key Performance Indicators for the adventure.
+- Update weekly topic on Discord & Reddit
+- Update the weekly plan for Week #41 of 2022
+- Announce the Unity Asset project!
