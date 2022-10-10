@@ -7,3 +7,5 @@
 - Create new t-shirt going into second year of adventure!
 - Create a pitch deck for stream sponsors.
 - Try to wrap up a script for YouTube devlog.
+
+## Announcing Unity Asset Project tomorrow ~6:15am ET
