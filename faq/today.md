@@ -1,4 +1,4 @@
-# Objectives for Today 2022-10-08
+# Objectives for Today 2022-10-10
 
 - Updating Key Performance Indicators for the adventure.
 - Update weekly topic on Discord & Reddit
