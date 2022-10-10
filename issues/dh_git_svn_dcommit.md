@@ -14,7 +14,7 @@ I was last speaking with SOMEONE and created a test account for an SVN issue I w
 
 ### On a Local machine (not a dreamhost server)
 - `svn checkout https://timbea11.dreamhosters.com/testturtlebrains`
-- `echo "timb = Tim Beaudet <tim@tyrebytes.com>\ntimbeaudet = Tim Beaudet <tim@tyrebytes.com>\nsrsdev_tb = Tim Beaudet <tim@tyrebytes.com>" > users.txt`
+- `echo -e "timb = Tim Beaudet <tim@tyrebytes.com>\ntimbeaudet = Tim Beaudet <tim@tyrebytes.com>\nsrsdev_tb = Tim Beaudet <tim@tyrebytes.com>" > users.txt`
 - `git svn clone -A "users.txt" https://timbea11.dreamhosters.com/testturtlebrains ./tb_git`
     - (this step may take a few minutes, 1769 revisions)
 - Make any change to `tb_git/build/build_notes.txt` (_like adding “This is just a test” at the top._)
