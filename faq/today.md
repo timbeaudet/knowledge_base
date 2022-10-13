@@ -1,7 +1,6 @@
-# Objectives for Today 2022-10-12
+# Objectives for Today 2022-10-13
 
 - Keep working on ShadowGhostPro!
-- Saving and Loading of the ghost files to disk.
-- Attempt automatic GhostPlayer setup.
-- Create a test case where a new GhostRecorder object is created/destroyed in middle of recording.
+- First pass at code cleanup to get to 'alpha' status?
+- First stab at MVP level documentations.
 - Minimum-viable product planning and development
