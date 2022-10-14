@@ -1,6 +1,10 @@
-# Objectives for Today 2022-10-13
+# Objectives for Today 2022-10-14
 
-- Keep working on ShadowGhostPro!
-- First pass at code cleanup to get to 'alpha' status?
-- First stab at MVP level documentations.
-- Minimum-viable product planning and development
+- Keep working on ShadowGhostPro documentation!
+- Second pass at sponsor me pitch emails.
+- Art Practice
+- Viewer Call Ins
+- YouTube video scripts
+- Social Snack: The Cucumber
+- Foodie Friday: Moms Chopsuey
+
