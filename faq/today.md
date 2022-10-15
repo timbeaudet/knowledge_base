@@ -1,10 +1,5 @@
-# Objectives for Today 2022-10-14
+# Objectives for Today 2022-10-15
 
-- Keep working on ShadowGhostPro documentation!
-- Second pass at sponsor me pitch emails.
-- Art Practice
-- Viewer Call Ins
 - YouTube video scripts
-- Social Snack: The Cucumber
-- Foodie Friday: Moms Chopsuey
-
+- Art Practice / Level Design fun
+- Short stream, going for hike
