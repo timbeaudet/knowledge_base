@@ -1,6 +1,6 @@
-# Objectives for Today 2022-10-18
+# Objectives for Today 2022-10-19
 
-- Fix ShadowGhostPro ghost manager instantiation issues in Eggcelerate!
-- Put ShadowGhostPro into Eggcelerate! for some good footage.
-- Make an example of using ShadowGhostPro from nothing to having ghost.
-- YouTube video scripts possibly
+- Finish the How To Promo video for ShadowGhostPro, add annotations/zooms/cleanup.
+- Research where to create some buzz for ShadowGhostPro, this is a little niche...
+- Arting a ShadowGhostPro logo, probably on the art station?
+- YouTube video scripts and/or articles.
