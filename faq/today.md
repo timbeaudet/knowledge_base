@@ -1,7 +1,6 @@
-# Objectives for Today 2022-10-20
+# Objectives for Today 2022-10-21
 
-- Finish the How To Promo video for ShadowGhostPro.
-- Research/brainstorm where to create some buzz for ShadowGhostPro, this is a little niche...
-- Create content to broadcast / share ShadowGhostPro...
 - Writing YouTube video scripts and/or articles.
 - Minor chance, but possibly attempting a Blender How-To video.
+- Other random stuff in the afternoon if/when script is finished.
+- AMA gamedev releated, lets have fun!
