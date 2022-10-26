@@ -1,7 +1,11 @@
-# Objectives for Today 2022-10-25
+# Objectives for Today 2022-10-26
 
-- Testing how Terrible Brakes would go into Turtle Brains.
-- Export all Blender art as .msh files
-- Create something to save unity scene and load it in TurtleBrains.
-- Begin adding physics from ICE and see where it goes!
-- AMA gamedev releated, lets have fun!
+- Steam Storepage Assets for Eggcelerate to the Unknown.
+- Secrets to create the actual store page...
+- Responding to DreamHost support ticket for 
+- Support ticket to Steam about Eggcelerate Winter to Sequel vs DLC???
+  - Can players with DLC automatically get changed to the sequel??
+- Mess around with Terrible Brakes, in Unity / Turtle Brains / Physics / Visuals
+- AMA gamedev related, lets have fun!
+
+Will be a shorter day as Tim installs part 1 of 5g.
