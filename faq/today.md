@@ -1,9 +1,13 @@
-# Objectives for Today 2022-10-30
+# Objectives for Today 2022-10-31
 
-- Tyre Bytes accounting ...
-- Business Review of Tyre Bytes adventure through October 2022.
-  - Announcing Racing Simulator vs Racing Games
-- Probably writing some scripts for videos...
-- Arts and Crafts stream (making a new wallet)
+## Happy Halloweeny!
+- Updating of Key Performance Indicators for the adventure!
+- Updating of the discord/weekly topics
+- Updating the weekly plans for week #???
+- Collecting all the racing games released on Steam.
 
-Might be a shorter day as its Sunday and I have F1 to watch.
+## Time Block 2: (9am - 12pm ish)
+- Finalization of Market Research video.
+
+## Time Block 3: (12pm - 3pm ish)
+- Finishing a devlog script (Does size matter?)
