@@ -1,5 +1,9 @@
 # Discord
 
+## Clear all Unread Dots in a Guild/Server:
+
+Press `SHIFT`+`ESCAPE`
+
 ## Adding a Self-Select Role Option for Zira
 
 ```
