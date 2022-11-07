@@ -1,17 +1,20 @@
-# Objectives for Today 2022-11-03
+# Objectives for Today 2022-11-07
 
 Tim will be wrapping up by before noon ET.
 
 ### Time Block 1: (6am - 9am ish)
-- Custom engine physics issues with Terrible Brakes port.
+- Update the Key Performance Indicators for the adventure.
+- Updating a weekly topic / posting on reddit.
+- Updating the weekly plan.
+- Brainstorming ideas for Eggcelerate! to the Unknown
+- Some promo video or writing script / article
 
 ### Time Block 2: (9am - 12pm ish)
-- Art practice for at least 30 minutes...
+- Start a new video script (or finish Does Size Matter?)
 
 ### Time Block 3: (12pm - 3pm ish)
-- Prepare and start the Mongolian Beef cook in slow cooker!
-- Free block, Terrible Brakes rewind dev tool?
+- Finish a video script for developer YouTube channel.
 
 ## Events / Notices / Coming Soon
 
-Foodie Friday Slow Cooked Mongolian Beef
+Eggcelerate to the Unknown in January March
