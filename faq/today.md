@@ -6,6 +6,7 @@ Tim will be wrapping up by before noon ET.
 - Update the Key Performance Indicators for the adventure.
 - Updating a weekly topic / posting on reddit.
 - Updating the weekly plan.
+- Creating Thumbnail, Description, Title, Tags, etc for Market Research video release.
 - Brainstorming ideas for Eggcelerate! to the Unknown
 - Some promo video or writing script / article
 
