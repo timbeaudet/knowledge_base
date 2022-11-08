@@ -1,14 +1,7 @@
-# Objectives for Today 2022-11-07
-
-Tim will be wrapping up by before noon ET.
+# Objectives for Today 2022-11-08
 
 ### Time Block 1: (6am - 9am ish)
-- Update the Key Performance Indicators for the adventure.
-- Updating a weekly topic / posting on reddit.
-- Updating the weekly plan.
-- Creating Thumbnail, Description, Title, Tags, etc for Market Research video release.
-- Brainstorming ideas for Eggcelerate! to the Unknown
-- Some promo video or writing script / article
+- Trying to discover why the car cannot be rotated in Turtle Brains / ICE physics.
 
 ### Time Block 2: (9am - 12pm ish)
 - Start a new video script (or finish Does Size Matter?)
@@ -18,4 +11,4 @@ Tim will be wrapping up by before noon ET.
 
 ## Events / Notices / Coming Soon
 
-Eggcelerate to the Unknown in January March
+Eggcelerate to the Unknown in January to March
