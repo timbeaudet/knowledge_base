@@ -39,6 +39,11 @@ Press `CTRL+SHIFT+P` and type `shortcut` to change user shortcuts and use the fo
 ]
 ```
 
+## Some Good Settings
+
+Press `CTRL+SHIFT+P` and type `settings` to get into settings then search and apply the following if desired!
+- `Wrapping Indent` to `indent` or `deepindent` to help indent a wrapped line when using `ALT+Z`.
+
 ## Fun tips for usage
 - Convert Indentation To Tabs from F1/command palette (jobun44)
 - To commit all changes or staged changes just type message in the field below SOURCE CONTROL: SVN and hit `Shift+Enter` (jobun44)
