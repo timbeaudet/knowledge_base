@@ -16,6 +16,6 @@
 
 ## Events / Notices / Coming Soon
 
-**Wishlist: [Eggcelerate to the North Pole](https://store.steampowered.com/app/2216320/Eggcelerate_to_the_North_Pole/) coming in December**
-Eggcelerate to the Tropics in January to March
+**Wishlist: [Eggcelerate to the North Pole](https://store.steampowered.com/app/2216320/Eggcelerate_to_the_North_Pole/) coming in December**  
+Eggcelerate to the Tropics in January to March  
 72 Hour Game Project Starting Sunday January 8th 2023
