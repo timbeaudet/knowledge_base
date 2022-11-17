@@ -1,12 +1,14 @@
-# Objectives for Today 2022-11-16
+# Objectives for Today 2022-11-17
 
 ### Time Block 1: (6am - 9am ish)
-- Create a git repository for Eggcelerate to the North Pole
-- Begin the separation Winter Eggpsansion from Base Eggcelerate!
-- Remove the Addressables garbage.
+- Digging into achievements to ensure that system is working with the split.
+- Possibly even putting the Achievements / AchievementManager into the common area.
+- Secret screen work for creating the hundreds of achievements in North Pole.
 
 ### Time Block 2: (9am - 12pm ish)
 - Continue splitting Winter Eggspansion from Base Eggcelerate!
+- Fix issue with going 'back' from level select screens into campaign select.
+- Prepare builds that are complete split apart for testing.
 
 ### Time Block 3: (12pm - 3pm ish)
 - Maybe: Art practice with a new palette for color choices.
