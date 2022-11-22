@@ -1,20 +1,21 @@
-# Objectives for Today 2022-11-21
+# Objectives for Today 2022-11-22
 
 ### Time Block 1: (6am - 9am ish)
-- Updating Key Performance Indicators for the Adventure.
-- Updating Weekly Topic on Discord, posting something to reddit.
-- Updating the Weekly Plans for Week 47
-- Some misc. work of some form of marketing, brainstorming, or writing, etc?
+- Already did, earlier than this; worked on Rough Edit of 3 YouTube videos.
 
 ### Time Block 2: (9am - 12pm ish)
-- Likely to be taking a sleep-time nap.
+- Today this block is more like 11am - 2pm ish
+- New YouTube end-video screen??
+- Templates for promotional content for The Sunday Shift??
+- Art/visuals in Photoshop / Premiere / AfterEffects
 
 ### Time Block 3: (12pm - 3pm ish)
-- Likely to be taking a sleep-time nap.
+- Today this block is more like 2pm - 2pm ish
+- Continuing the push for promotional content on The Sunday Shift and other projects!
 
 ## Events / Notices / Coming Soon
 
 - Tim is not streaming for Thanksgiving Holiday (Thursday 11/24 and Friday 11/25)
 - **Wishlist: [Eggcelerate to the North Pole](https://store.steampowered.com/app/2216320/Eggcelerate_to_the_North_Pole/) coming in December**  
 - Eggcelerate to the Tropics in January to March  
-- 72 Hour Game Project Starting Sunday January 8th 2023
+- **The Sunday Shift** starts Sunday January 8th 2023 _(aka; 72 Hour Game Project)_ 
