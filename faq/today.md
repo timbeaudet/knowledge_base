@@ -1,16 +1,19 @@
-# Objectives for Today 2022-11-28
+# Objectives for Today 2022-11-29
 
 ### Time Block 1: (6am - 9am ish)
-- Update the Key Performance Indicators for the adventure.
-- Update the Weekly Topic in Discord & Post o n Reddit
-- Update the Weekly Plans for Week 48?
-- Brainstorm tasks through the week to prepare for releasing ShadowGhost Pro
+- Setup a new stream preparations intro loop for more variety to starting stream.
+- Test OBS recording face & mic in one video, with desktop screen in another, on Moose.
+- Promotional / Branding arts, perhaps update the end-screen for Twitch.
 
 ### Time Block 2: (9am - 12pm ish)
-- Fuller edit of the Unity Asset video.
+- Game Development; ensuring Eggcelerate! to the North Pole achievements are out of Base and opposite.
+- Keeping winter/north achievements in the base game save file, without further display or access.
+- Egg North should try loading the Egg Base save file toe look for previous achievements, and give them.
 
 ### Time Block 3: (12pm - 3pm ish)
-- Creating/editing video template for The Sunday Shift and/or other promotional content!
+- Tedium hell, creating all the Egg North achievements on the Steam to link up with Egg North game.
+- This will be full of secret screen because it is Steam backend stuff covered by NDA.
+- Releasing new beta builds of Egg Base and Egg North to Steam
 
 ## Events / Notices / Coming Soon
 
