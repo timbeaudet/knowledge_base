@@ -1,50 +1,26 @@
 
-# What is Happening?
+# What is Happening? (2022-2023 Edition)
 
-**Designing 14 to 21 racing games!** I am resetting back to 2018 with the goal of producing games from concept to release; _ie **finishing** games_. These games should take 12 to 16 weeks which allows for approximately 350-500 hours of development per game. **The next game will be starting on _or before_ July 1st 2019.** Before that I am focused on building new skills in art, marketing and more as well as improving technology before diving straight into this next project.
+A lot. Seriously, a lot. So much marketing & promotional preparation in November and December for the following:
 
-## Primary Objectives
+## Eggcelerate! to the North Pole
 
-- Finishing games, improving quality over time
-- Attracting players, building an audience over time
-- Improving technology features, tools, integrations
-- Gaining experience in designing racing games
+The winter eggspansion DLC is being converted into a fully standalone sequel. Hopefully to get more visibility, and because it was larger than the base game!! Future versions of Eggcelerate! (like to the Topics) will come out as standalone games.
 
-To learn more lessons and challenges about finishing games to ensure that overtime the games become better and risk of failure gets reduced.
+This will be released sometime in middle of December, [go wishlist now](https://tyrebyt.es/eggnorth1).
 
-## Worried about Quality
+## ShadowGhost Pro
 
-I do not wish to create games with the level of quality Archer contained; however I need to **finish** games before I can **finish good** games. The experience of completing concept to release is more important at this time, and I lost track of that with Rally of Rockets.
+Testing the idea of selling things on the Unity Asset Store while also building future tools for the times I use Unity like I did for Eggcelerate! / LudumDare. This will go live December 5th when the YouTube video is released, and it will start 50% off.
 
-The following should help increase quality:
+The tool helps record and playback the player objects to support time-trail modes and showing the player their best lap in a racing game, or for other games to support the speed running community with ease. Just drag a component and call a single function.
 
-- New TurtleBrains features; UI Menus
-- 3D games have Sky, Shadows and Environment Mapping from template
-- Better deployment strategies
-- Simply being aware of things, lessons learned
+## The Sunday Shift
 
-## Worried about Over Scoping
+Starting January 8th at 7am ET and running every Sunday through March 26th I'll be streaming the attempt to build a game from concept to minimum viable product, and if successful market and sell it. This series should allow viewers to catch the full project from start to finish.
 
-Initially Rally of Rockets was to be completed and shipped in 4 months. The feeling of releasing low quality became overwhelming and the scope **exploded**. Developments time and costs increased drastically beyond confidence in seeing returns so the project was put on hold.
+## Eggcelerate! to the Tropics
 
-To ensure this doesn't happen again:
+Starting mid-December/early-January this will become the main project and take significant focus and effort. Planned to be released at the end of March for Easter 2023 it will be another big effort.
 
-- Set **hard** restrictions to development time of a project; like Archer
-	- Do **not** adjust time afterwards
-- Design very small games
-- Iterate on previous games to grow over time
-
-Any ideas on how to reduce the concerns about quality and over-scoping?
-
-## Worried about the Racing Simulator
-
-The racing simulator is a huge project and going at it without more experience releasing projects in the first place seems like an unwise decision. Still it is the star project in the indie adventure and so it must not be sidelined forever.
-
-To ensure this remains in focus:
-
-- At least 10 hours of focus/effort every month
-	- planning, design, art, etc.
-	- tools, engine dev, physics, etc.
-	- skill building, learning, etc.
-- Can do this in a weekend / few mornings a month.
-- Can be placed end of month A and start of month B to reduce context change.
+November and December are prepping for, or sharing the information about all these projects while simulatenously ensuring the YouTube channel will have content to feed itself through development of Eggcelerate! to the Tropics. This is causing there to be less focus on programming or design, but I am still learning valuable art skills and sharing my content with the world is the only way to make this work, so I need the practice. Please be patient, there will be lots of focused development soon.
