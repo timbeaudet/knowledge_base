@@ -1,15 +1,15 @@
-# Objectives for Today 2022-12-02
+# Objectives for Today 2022-12-04
 
 ### Time Block 1: (6am - 9am ish)
-- Play Eggcelerate! to the North Pole and collect some fun footage.
-- Creating video(s) for promotional purposes.
+- Business Review of November 2022
+- Accounting the income, expenses and hours.
+- Reflecting on November, what did we do / learn
 
 ### Time Block 2: (9am - 12pm ish)
-- Continue playing Eggcelerate! and creating promo video spots.
-- Grab a game for play testing & review?
+- ???
 
 ### Time Block 3: (12pm - 3pm ish)
-- Foodie Friday starting ~3pm-ish "Mongolian Chicken"
+- Probably afternoon off.
 
 ## Events / Notices / Coming Soon
 
