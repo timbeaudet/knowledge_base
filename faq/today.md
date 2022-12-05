@@ -1,15 +1,19 @@
-# Objectives for Today 2022-12-04
+# Objectives for Today 2022-12-05
 
 ### Time Block 1: (6am - 9am ish)
-- Business Review of November 2022
-- Accounting the income, expenses and hours.
-- Reflecting on November, what did we do / learn
+- Update the Key Performance Indicators of the adventure.
+- Update the weekly topic in discord.
+- Update the weekly plans for week #49
+- Collect all the racing games released on Steam in Nov 2022.
 
 ### Time Block 2: (9am - 12pm ish)
-- ???
+- Release ShadowGhost Pro on the Asset Store
+- Release the YouTube video
+- Post on reddit about ShadowGhost Pro
+- Post on Twitter's and other places.
 
 ### Time Block 3: (12pm - 3pm ish)
-- Probably afternoon off.
+- Art practice; create a new palette? 
 
 ## Events / Notices / Coming Soon
 
