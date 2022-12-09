@@ -1,4 +1,4 @@
-# Objectives for Today 2022-12-08
+# Objectives for Today 2022-12-09
 
 ### Time Block 1: (6am - 9am ish)
 - Continue to spread the word about ShadowGhost Pro
