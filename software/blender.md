@@ -136,6 +136,14 @@
 - If having issues with lights leaking through connected objects try turning on Contact Shadows.
 	- Access this by selecting each light and in the light properties there is a Contact Shadows checkbox.
 
+## Create a Wireframe Render
+
+- Use the Wireframe modifier on your mesh.
+- If too busy, make a copy of the object and set an emissive, plain colored material.
+- Use an emissive plain black/colored material for the original mesh.
+- You may want a plane with the same plain colored emissive material for the render.
+- Limitation; this techique does not allow for a transparent render/video.
+
 
 ### Unformatted mess:
 	Mirror as a one off, immediately using menus: `Object > Mirror` which is not a modifier.
