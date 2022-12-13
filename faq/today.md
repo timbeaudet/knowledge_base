@@ -1,16 +1,16 @@
-# Objectives for Today 2022-12-12
+# Objectives for Today 2022-12-13
 
 ### Time Block 1: (6am - 9am ish)
-- Update the Key Performance Indicators for the adventure.
-- Update the weekly topic for discord / post on reddit
-- Update the weekly plan for Week #50
-- Prepare content for Eggcelerate! to the North Pole release.
-
-### Time Block 2: (9am - 12pm ish)
+- Writing email to potental sponsor for stream...
 - YouTube video creation for Getting Started!
 
+### Time Block 2: (9am - 12pm ish)
+- Fix Egg North title screen issues, logo placement, or something wonky in Unity there.
+- Social media video templates for The Sunday Shift posting.
+- Writing email content to press and influencers for Egg North release.
+
 ### Time Block 3: (12pm - 3pm ish)
-- Art practice more Egg North Pole promotional content / Egg Tropics modeling?
+- Art practice more Egg North Pole promotional content / Egg Tropics modeling / Concept Arts?
 - Tackle playing through Eggcelerate! / Eggcelerate! to the North Pole
 
 ## Events / Notices / Coming Soon
