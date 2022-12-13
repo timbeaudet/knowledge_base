@@ -23,4 +23,7 @@ Starting January 8th at 7am ET and running every Sunday through March 26th I'll 
 
 Starting mid-December/early-January this will become the main project and take significant focus and effort. Planned to be released at the end of March for Easter 2023 it will be another big effort.
 
-November and December are prepping for, or sharing the information about all these projects while simulatenously ensuring the YouTube channel will have content to feed itself through development of Eggcelerate! to the Tropics. This is causing there to be less focus on programming or design, but I am still learning valuable art skills and sharing my content with the world is the only way to make this work, so I need the practice. Please be patient, there will be lots of focused development soon.
+## Tim Beaudet's Indie Adventure (YouTube)
+
+With the decision to make racing games vs the racing simulator the my developer channel on YouTube plays a bigger role. This means November and December are prepping for, or sharing the information about all these projects while simulatenously ensuring the YouTube channel will have content to feed itself through development of Eggcelerate! to the Tropics. This is causing there to be less focus on programming or design, but I am still learning valuable art skills and sharing my content with the world is the only way to make this work, so I need the practice. Please be patient, there will be lots of focused development soon.
+
