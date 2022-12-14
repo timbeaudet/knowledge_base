@@ -1,17 +1,19 @@
-# Objectives for Today 2022-12-13
+# Objectives for Today 2022-12-14
 
 ### Time Block 1: (6am - 9am ish)
 - Writing email to potental sponsor for stream...
-- YouTube video creation for Getting Started!
+- Tackle playing through Eggcelerate! / Eggcelerate! to the North Pole
+- YouTube video creation to finish up most of Getting Started!
 
 ### Time Block 2: (9am - 12pm ish)
-- Fix Egg North title screen issues, logo placement, or something wonky in Unity there.
-- Social media video templates for The Sunday Shift posting.
-- Writing email content to press and influencers for Egg North release.
+- Wrapup the Getting Started YouTube video, thumbnails, titles etc.
+- Send emails to press about Egg North release.
 
 ### Time Block 3: (12pm - 3pm ish)
 - Art practice more Egg North Pole promotional content / Egg Tropics modeling / Concept Arts?
-- Tackle playing through Eggcelerate! / Eggcelerate! to the North Pole
+
+### Time Block 4: (3pm - 6pm ish)
+- Rocket League practice??
 
 ## Events / Notices / Coming Soon
 
