@@ -1,14 +1,16 @@
-# Objectives for Today 2022-12-19
+# Objectives for Today 2022-12-22
 
 ### Time Block 1: (6am - 9am ish)
-- Update the Weekly Plan
-- Begin Year End Review for 2022 (writing YouTube Script)
+- Slept in
 
 ### Time Block 2: (9am - 12pm ish)
-- Continue "First Year of Indie GameDev" YouTube script.
+- Continue "First Year of Indie GameDev" YouTube scripts.
 
 ### Time Block 3: (12pm - 3pm ish)
-- Off after lunch to finish sending influencer keys offstream!
+
+
+### Time Block 4: (3pm - 6pm ish)
+-  Off stream continue sending influencer keys!
 
 ## Events / Notices / Coming Soon
 
