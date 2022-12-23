@@ -1,13 +1,18 @@
-# Objectives for Today 2022-12-22
+# Objectives for Today 2022-12-23
 
 ### Time Block 1: (6am - 9am ish)
-- Slept in
+- Defend the WR in North Pole!
+- Continue "First Year of Indie GameDev" YouTube scripts.
+- Working on thumbnails, titles, descriptions and tags.
+- Video editing of Getting Started (adding cake broll).
 
 ### Time Block 2: (9am - 12pm ish)
 - Continue "First Year of Indie GameDev" YouTube scripts.
+- Working on thumbnails, titles, descriptions and tags.
+- Video editing of Getting Started (adding cake broll).
 
 ### Time Block 3: (12pm - 3pm ish)
-
+- Probably off stream to shoot the January videos.
 
 ### Time Block 4: (3pm - 6pm ish)
 -  Off stream continue sending influencer keys!
