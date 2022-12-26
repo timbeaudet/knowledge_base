@@ -1,21 +1,18 @@
 # Objectives for Today 2022-12-23
 
 ### Time Block 1: (6am - 9am ish)
-- Defend the WR in North Pole!
-- Continue "First Year of Indie GameDev" YouTube scripts.
+- Update the Key Performance Indicators for the adventure.
+- Update the Weekly topic in Discord and post something in reddit
+- Fix OBS scenes since the Yeti/Samson ASMR mic's went away.
+- Update the weekly plan for week #52
 - Working on thumbnails, titles, descriptions and tags.
-- Video editing of Getting Started (adding cake broll).
 
 ### Time Block 2: (9am - 12pm ish)
-- Continue "First Year of Indie GameDev" YouTube scripts.
 - Working on thumbnails, titles, descriptions and tags.
-- Video editing of Getting Started (adding cake broll).
+- Create something for social media for The Sunday Shift
 
 ### Time Block 3: (12pm - 3pm ish)
-- Probably off stream to shoot the January videos.
-
-### Time Block 4: (3pm - 6pm ish)
--  Off stream continue sending influencer keys!
+- Ending stream at lunch time to shoot the January videos and continue sending influencer keys!
 
 ## Events / Notices / Coming Soon
 
