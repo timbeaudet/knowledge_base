@@ -1,14 +1,15 @@
-# Objectives for Today 2022-12-27
+# Objectives for Today 2022-12-28
 
 ### Time Block 1: (6am - 9am ish)
-- Rough cut of the two January videos for 2023
-- Working on thumbnails, titles, descriptions and tags.
+- Create something for social media for The Sunday Shift
+  - This also helps the January videos at the same time.
+- Continue & Finish the edit for Financials of 2022 video
 
 ### Time Block 2: (9am - 12pm ish)
-- Continue the edit for Financials of 2022 video
+- Start the edit for 2022 Lessons Learned video
+- Working on thumbnails, titles, descriptions and tags.
 
 ### Time Block 3: (12pm - 3pm ish)
-- Create something for social media for The Sunday Shift
 - Art practice for the rest of the afternoon, unless creatively still strong on video editing.
 - After stream continue sending influencer keys!
 
