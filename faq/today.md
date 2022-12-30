@@ -1,16 +1,18 @@
-# Objectives for Today 2022-12-29
+# Objectives for Today 2022-12-30
 
 ### Time Block 1: (6am - 9am ish)
-- Continue the edit for 2022 Lesson Learned video
+- Create social media content for Eggcelerate! North Pole
+- Create social media content for ShadowGhost Pro
+- Create social media content for Eggy Tropics
+- Create social media content for Eggy Bundle
 
 ### Time Block 2: (9am - 12pm ish)
-- Continue and finish? the edit for 2022 Lesson Learned video
-- Working on titles, descriptions and tags for all videos.
-- Possible: Create and schedule the social media campaigns for The Sunday Shift
+- Create and schedule the social media campaigns for The Sunday Shift
+- Possible, unlikely, Business Review of 2022 and Goals of 2023
+- Possible, if ahead on time, playing with art for Eggcelerate! to the Tropics
 
 ### Time Block 3: (12pm - 3pm ish)
-- Art practice for the rest of the afternoon
-- After stream continue sending influencer keys!
+- Not streaming, personal time until January 2nd 6am (minimal chance strim evening of Jan 1st)
 
 ## Events / Notices / Coming Soon
 
