@@ -1,21 +1,20 @@
-# Objectives for Today 2022-12-30
+# Objectives for Today 2023-01-02
 
 ### Time Block 1: (6am - 9am ish)
-- Create social media content for Eggcelerate! North Pole
-- Create social media content for ShadowGhost Pro
-- Create social media content for Eggy Tropics
-- Create social media content for Eggy Bundle
+- Update the Key Performance Indicators for the adventure.
+- Create a reddit post about first year indie adventure?
+- Cover the goals of the year
+- Description, tags, and any remaining parts before releasing YouTube videos.
 
 ### Time Block 2: (9am - 12pm ish)
-- Create and schedule the social media campaigns for The Sunday Shift
-- Possible, unlikely, Business Review of 2022 and Goals of 2023
-- Possible, if ahead on time, playing with art for Eggcelerate! to the Tropics
+- Arting and design of Track Segments for Eggcelerate! to the Tropics
+- Starting to put together the first tests.
 
 ### Time Block 3: (12pm - 3pm ish)
-- Not streaming, personal time until January 2nd 6am (minimal chance strim evening of Jan 1st)
+- Continuing Eggcelerate! to the Tropics
 
 ## Events / Notices / Coming Soon
 
 - **Buy: [Eggcelerate! to the North Pole](https://store.steampowered.com/app/2216320/Eggcelerate_to_the_North_Pole/) out now!**
-- Eggcelerate! to the Tropics in January to March
+- Now Working on Eggcelerate! to the Tropics, _January to March_
 - **The Sunday Shift** starts Sunday January 8th 2023 _(aka; 72 Hour Game Project)_
