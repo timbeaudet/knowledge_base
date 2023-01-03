@@ -1,17 +1,14 @@
-# Objectives for Today 2023-01-02
+# Objectives for Today 2023-01-03
 
 ### Time Block 1: (6am - 9am ish)
-- Update the Key Performance Indicators for the adventure.
-- Create a reddit post about first year indie adventure?
-- Cover the goals of the year
-- Description, tags, and any remaining parts before releasing YouTube videos.
+- Move as much of the Eggcelerate! base game 'engine' into a common base area.
 
 ### Time Block 2: (9am - 12pm ish)
 - Arting and design of Track Segments for Eggcelerate! to the Tropics
-- Starting to put together the first tests.
 
 ### Time Block 3: (12pm - 3pm ish)
 - Continuing Eggcelerate! to the Tropics
+- Perhaps starting to put together the first test tracks.
 
 ## Events / Notices / Coming Soon
 
