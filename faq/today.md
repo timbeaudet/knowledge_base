@@ -1,14 +1,17 @@
-# Objectives for Today 2023-01-03
+# Objectives for Today 2023-01-04
 
 ### Time Block 1: (6am - 9am ish)
-- Move as much of the Eggcelerate! base game 'engine' into a common base area.
+- Time sheet from yesterday
+- Update the Development Reports for the year...
+- Continue moving the base/common area into the common area
+  - This will require moving the GameManager and solving problems related to it.
 
 ### Time Block 2: (9am - 12pm ish)
 - Arting and design of Track Segments for Eggcelerate! to the Tropics
 
 ### Time Block 3: (12pm - 3pm ish)
-- Continuing Eggcelerate! to the Tropics
-- Perhaps starting to put together the first test tracks.
+- Continuing working on Eggcelerate! to the Tropics
+- Perhaps starting to put together 2 more test tracks.
 
 ## Events / Notices / Coming Soon
 
