@@ -1,18 +1,16 @@
 # Objectives for Today 2023-01-07
 
-### Time Block 1: (6am - 9am ish)
-- Business Review for December 2022
-- Start the Year End Business Review
+### Time Block 1: (6am - 7am ish)
+(Start the screen and face recordings)
+- Planning out the attack for the first day of The Sunday Shift
+ 
+### Time Block 2: (7am - 1pm)
+- The Sunday Shift, Turning Effort into Greatness
 
-### Time Block 2: (9am - 12pm ish)
-- Continue/Wrapup the Year End Business Review
-- Make something for LudumDare 52, perhaps a practice run for tomorrow with a focus on some arts for Eggy.
-
-### Time Block 3: (12pm - 3pm ish)
-- Do a couple hours of LudumDare 52 before calling it a day.
-
-### Short Time Block: 4: (3pm to 5pm ish)
-- Off stream, relaxing, chilling, watching a movie / reading a book.
+### Time Block 2: (1pm - 2pm ish)
+(End the screen and face recordings)
+- Answer questions, discussions etc.
+- Prepare marketing material / content for the week? (possibly on Monday)
 
 ## Events / Notices / Coming Soon
 
