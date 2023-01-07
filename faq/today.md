@@ -1,20 +1,18 @@
-# Objectives for Today 2023-01-06
+# Objectives for Today 2023-01-07
 
 ### Time Block 1: (6am - 9am ish)
-- Continue moving bits of code/project into the base/common area as it makes sense with the project.
-- Spend the day creating various track layouts, and finding situations / desired new track segments.
+- Business Review for December 2022
+- Start the Year End Business Review
 
 ### Time Block 2: (9am - 12pm ish)
-- Arting and design of Track Segments for Eggcelerate! to the Tropics
-- Arting and design of set dressing and random track decororations.
+- Continue/Wrapup the Year End Business Review
+- Make something for LudumDare 52, perhaps a practice run for tomorrow with a focus on some arts for Eggy.
 
 ### Time Block 3: (12pm - 3pm ish)
-- Continuing creating track layouts for Eggcelerate! to the Tropics
+- Do a couple hours of LudumDare 52 before calling it a day.
 
 ### Short Time Block: 4: (3pm to 5pm ish)
-- Attempt to setup the build / deployment system for Tropics to Steam.
-- Looking for 3 to 5 volunteer beta testers who want to regulary play/give feedback.
-  - At least weekly through the February
+- Off stream, relaxing, chilling, watching a movie / reading a book.
 
 ## Events / Notices / Coming Soon
 
