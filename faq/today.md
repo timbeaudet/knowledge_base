@@ -1,17 +1,23 @@
-# Objectives for Today 2023-01-08
+# Objectives for Today 2023-01-09
 
-### Time Block 1: (6am - 7am ish)
-(Start the screen and face recordings)
-- Planning out the attack for the first day of The Sunday Shift
-- Start from the LD50 Terrible Brakes; proof of concept
- 
-### Time Block 2: (7am - 1pm)
-- The Sunday Shift, Turning Effort into Greatness
+### Time Block 1: (6am - 9am ish)
+- Update the Key Performance Indicators for the adventure
+- Update the Weekly Topic on Discord
+- Update the Weekly Plans for Week #2
+- Post "my first year" on Reddit
+- Collecting all the racing games released on Steam in December 2022
 
-### Time Block 2: (1pm - 2pm ish)
-(End the screen and face recordings)
-- Reflect, answer questions, discussions etc.
-- Prepare marketing material / content for the week? (possibly on Monday)
+### Time Block 2: (9am - 12pm ish)
+- Finish collecting all the games.
+- Create a piece of social content for The Sunday Shift or Eggcelerate!
+
+### Time Block 3: (12pm - 3pm ish)
+- Create more track layouts for Eggcelerate! to the Tropics
+- Begin Arting set-dressing and environmental stuff for the Tropics.
+
+### Time Block: 4: (3pm to 6pm ish)
+- Continue working on Eggcelerate to the Tropics!
+
 
 ## Events / Notices / Coming Soon
 
