@@ -1,19 +1,15 @@
-# Objectives for Today 2023-01-09
+# Objectives for Today 2023-01-10
 
 ### Time Block 1: (6am - 9am ish)
-- Update the Key Performance Indicators for the adventure
-- Update the Weekly Topic on Discord
-- Update the Weekly Plans for Week #2
-- Post "my first year" on Reddit
-- Collecting all the racing games released on Steam in December 2022
+- Create more track layouts for Eggcelerate! to the Tropics
 
 ### Time Block 2: (9am - 12pm ish)
-- Finish collecting all the games.
-- Create a piece of social content for The Sunday Shift or Eggcelerate!
-
-### Time Block 3: (12pm - 3pm ish)
 - Create more track layouts for Eggcelerate! to the Tropics
 - Begin Arting set-dressing and environmental stuff for the Tropics.
+
+### Time Block 3: (12pm - 3pm ish)
+- Continue creating more track layouts for Eggcelerate! to the Tropics
+- Continue arting set-dressing and environmental stuff for the Tropics.
 
 ### Time Block: 4: (3pm to 6pm ish)
 - Continue working on Eggcelerate to the Tropics!
