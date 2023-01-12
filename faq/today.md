@@ -1,9 +1,7 @@
-# Objectives for Today 2023-01-11
+# Objectives for Today 2023-01-12
 
 ### Time Block 1: (6am - 9am ish)
-- Update development reports for yesterday.
-- Secrets work to send out contract for artist.
-- Brainstorm some tropical stream titles.
+- Creating cliffs and terrain tiles for Eggcelerate Tracks.
 - Create more track layouts for Eggcelerate! to the Tropics
 
 ### Time Block 2: (9am - 12pm ish)
@@ -11,12 +9,13 @@
 - Begin Arting set-dressing and environmental stuff for the Tropics.
 
 ### Time Block 3: (12pm - 3pm ish)
+- Unlikely to happen today; never got to sleep.
 - Continue creating more track layouts for Eggcelerate! to the Tropics
 - Continue arting set-dressing and environmental stuff for the Tropics.
 
 ### Time Block: 4: (3pm to 6pm ish)
-- Only if energy is high enough, possibly need to meet with artist.
-- Continue working on Eggcelerate to the Tropics!
+- Unlikely to happen today; never got to sleep.
+- Otherwise continue working on Eggcelerate to the Tropics!
 
 ## Events / Notices / Coming Soon
 
