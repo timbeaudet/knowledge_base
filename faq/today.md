@@ -1,20 +1,20 @@
-# Objectives for Today 2023-01-12
+# Objectives for Today 2023-01-13
 
 ### Time Block 1: (6am - 9am ish)
-- Creating cliffs and terrain tiles for Eggcelerate Tracks.
-- Create more track layouts for Eggcelerate! to the Tropics
+- Creating some more vertical track segments, hills, bumps jumps?
+- Prototyping the various ups and downs!
 
 ### Time Block 2: (9am - 12pm ish)
-- Create more track layouts for Eggcelerate! to the Tropics
-- Begin Arting set-dressing and environmental stuff for the Tropics.
+- Prototyping a river of water through the jungle.
+- Creating tileset for river banks, or reusing the cliffs.
+- Create a tile for narrow straight cave, similar to fallen log.
 
 ### Time Block 3: (12pm - 3pm ish)
-- Unlikely to happen today; never got to sleep.
-- Continue creating more track layouts for Eggcelerate! to the Tropics
-- Continue arting set-dressing and environmental stuff for the Tropics.
+- Create more track layouts for Eggcelerate! to the Tropics
+- Possible arting set-dressing and environmental stuff for the Tropics.
 
 ### Time Block: 4: (3pm to 6pm ish)
-- Unlikely to happen today; never got to sleep.
+- Foodie Friday will start around 4:30 to 5:30pm ish.
 - Otherwise continue working on Eggcelerate to the Tropics!
 
 ## Events / Notices / Coming Soon
