@@ -1,28 +1,16 @@
-# Objectives for Today 2023-01-16
+# Objectives for Today
 
 ### Time Block 1: (6am - 9am ish)
-- Update weekly topic on Discord (and Reddit)
-- Continue to tackle and plan the demo build.
-- Check how the water splash effect is working.
-- Prototype of the large cave tiles.
+- Making games and stuff, probably still waking up.
 
 ### Time Block 2: (9am - 12pm ish)
-- Create a new track layout, possibly starting from River Jump?
-- Prototype the "look at" camera zones
-- Refactor the "Loop De Loop" / "Windmill" zone names for more generic purposes.
-- Refactor the "Test Track" detection to get it outside the base common game area.
-- Add collectable names to the track_info of the track
-  - Is it possible to do this automagically with a collectible component registering while in editor?
+- Making games and stuff, probably having a snack.
 
 ### Time Block 3: (12pm - 3pm ish)
-- Create more track layouts for Eggcelerate! to the Tropics
-- Possible arting set-dressing and environmental stuff for the Tropics.
-  - Create informational signs for various paths
+- Making games and stuff, probably making progress.
 
 ### Time Block: 4: (3pm to 6pm ish)
-- Otherwise continue working on Eggcelerate to the Tropics!
-- Create a first demo build on Steam (not public) and update the build scripts to create/upload demo
-  - Build scripts should #define EggyDemo and create eggy_demo build etc.
+- Possibly making games and stuff, possibly off doing life things.
 
 ## Events / Notices / Coming Soon
 
