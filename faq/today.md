@@ -1,5 +1,14 @@
 # Objectives for Today
 
+- Updating Key Performance Indicators
+- Updating the weekly topic in Discord
+- Updating the weekly plans
+- Preparing and releasing new video on YouTube
+- Preparing and pushing reddit post(s) about Eggcelerate! to the Tropics Demo
+- Collecting all the Racing Games released on Steam in January 2023
+- Reviewing game store pages/presentation
+
+
 ### Time Block 1: (6am - 9am ish)
 - Making games and stuff, probably still waking up.
 
