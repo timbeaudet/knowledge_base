@@ -1,5 +1,17 @@
 # Objectives for Today
 
+- Polish up the press announcement email / copy.
+- Update and touchup the presskit page.
+- Finish writing the reasons for the press emails
+- Send the press announcement to the press!
+- Request keys for influencers and giveaways
+- If well before lunch then use some time to create an action clip or two
+- LUNCH BREAK
+- Share something new for the first time on stream!! WOOO
+  - This is still game marketing related, but a step thats been hidden before
+-
+
+
 ### Time Block 1: (6am - 9am ish)
 - Making games and stuff, probably still waking up.
 
