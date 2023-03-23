@@ -85,6 +85,11 @@ Click in the empty area of swatches palette to add the color.
 4. On the white layer, click "Add Layer Mask" at the bottom of the Layers panel.
 5. Go to Channels tab of Layer panel, select all `CTRL+A` and paste the contents, `CTRL+V`.
 
+### Creating Outlined Font with Transparent Center
+> This was used for Eggcelerate! to the Tropics store/keymailer pages to have a nice bubbly font.
+1. Open the Layer Style for the Text object (same place you find/open Stroke)
+2. Center screen, in Advanced Blending turn Knockout to `Shallow` and uncheck all except `Blen Clipped Layers as Group` and `Transparency Shapes Layer`
+3. Slide Fill Opacity to 0%
 
 ### Cutting an area out of a layer (Knockout)
 1. `CTRL+LEFT CLICK` layer preview of the layer of the cookie cutter shape, this will select all parts of that layer immediately.
