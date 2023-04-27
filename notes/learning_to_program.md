@@ -1,6 +1,8 @@
 
 # Where/how can I learn to program
 
+Checkout my video on [The First Steps of Your Game Development Dream!](https://youtu.be/wgRk8HE0FAI)
+
 By picking a language and getting started. Make small projects at first, and just keep learning. It takes a long time, a lot of effort and a lot failures before you will really get the hang of things. The answer also depends greatly on your current expertise and interest levels.
 
 If you do not know if programming is of _serious_ interest I highly recommend using the visual code editors like [Game Maker](https://www.yoyogames.com/gamemaker), [Construct](https://www.scirra.com/), [Clickteam Fusion](https://www.clickteam.com/clickteam-fusion-2-5), (exact software not super important) to start making something happen in a logical way. Once you feel if the interest is there, or not, you can continue with actual scripts (or not).
