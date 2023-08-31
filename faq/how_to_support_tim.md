@@ -1,7 +1,7 @@
 
 # How to Support Tim
 
-Thank-you for considering to support my adventure, not all support requires money. Share but don't spam. Make sure the community you post to would appreciate the content. For example other game developers may like my stream content, while gaming communiteis may like my games.
+Thank-you for considering to support my adventure, not all support requires money. Share but don't spam. Make sure the community you post to would appreciate the content. For example other game developers may like my stream content, while gaming communities may like my games.
 
 ## Ideas
 
