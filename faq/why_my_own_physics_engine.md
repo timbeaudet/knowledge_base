@@ -12,4 +12,4 @@
 
 Yes. It sure does.
 
-### [More Advantages/Disadvantages of Custom Engines](https://github.com/timbeaudet/knowledge_base/blob/master/faq/why_my_own_engine.md)
+### [More Advantages/Disadvantages of Custom Engines](https://github.com/timbeaudet/knowledge_base/blob/main/faq/why_my_own_engine.md)
