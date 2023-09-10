@@ -19,7 +19,7 @@ mkdir /home/<username>/<folder_name> #share location.
 sudo vim /etc/samba/smb.conf
 ```
 
-Use: [/etc/samba/smb.conf](https://github.com/timbeaudet/knowledge_base/blob/master/processes/linux_file_share.md)
+Use: [/etc/samba/smb.conf](https://github.com/timbeaudet/knowledge_base/blob/main/processes/linux_file_share.md)
 
 > NOTE: Ensure that `[<share_name>]` area does not contain an item `valid users = ` initially I found a source claiming that opened up for any user, but it seemed to be the cause for an inaccessible share.
 
