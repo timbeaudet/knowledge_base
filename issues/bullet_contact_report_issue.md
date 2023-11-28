@@ -72,7 +72,7 @@ void MyPhysicsStepCallback(btDynamicsWorld* dynamicsWorld, btScalar timeStep)
 		{
 			const btManifoldPoint& pt = contactManifold->getContactPoint(p);
 
-			//If you're using collision margins, or want to, this pt.getDistance test may actually want to become
+			//If you're using collision margins, or want to, the follow check may want to become
  		 	//   if (pt.Distance <= Constants.Physics.CollisionMargin3d * 2.0)
 			if (pt.getDistance() <= 0.0f)
 			{
