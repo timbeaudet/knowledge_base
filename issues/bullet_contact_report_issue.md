@@ -71,6 +71,9 @@ void MyPhysicsStepCallback(btDynamicsWorld* dynamicsWorld, btScalar timeStep)
 		for (int p = 0; p < contactManifold->getNumContacts(); ++p)
 		{
 			const btManifoldPoint& pt = contactManifold->getContactPoint(p);
+
+			//If you're using collision margins, or want to, this pt.getDistance test may actually want to become
+ 		 	//   if (pt.Distance <= Constants.Physics.CollisionMargin3d * 2.0)
 			if (pt.getDistance() <= 0.0f)
 			{
 				skipReport = false;
