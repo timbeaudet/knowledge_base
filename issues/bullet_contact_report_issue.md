@@ -72,9 +72,13 @@ void MyPhysicsStepCallback(btDynamicsWorld* dynamicsWorld, btScalar timeStep)
 		{
 			const btManifoldPoint& pt = contactManifold->getContactPoint(p);
 
-			//If you're using collision margins, or want to, the follow check may want to become
- 		 	//   if (pt.Distance <= Constants.Physics.CollisionMargin3d * 2.0)
-			if (pt.getDistance() <= 0.0f)
+			// from @bryanedds:
+			// I've found that I need a value greater than zero or else you will filter too much and not get legitimate
+			// collision reports. at first I tried CollisionMargins * 2.0f, but that wasn't enough. Then I also added a
+			// 0.0001f epsilon, but that also wasn't enough. now I'm just slapping 0.05f in there and it seems to fix
+			// over-filtering for my cases. Ideally, we would understand exactly what this offset should consist of in
+			// terms of bullet's representation.
+			if (pt.getDistance() <= 0.05f)
 			{
 				skipReport = false;
 			}
