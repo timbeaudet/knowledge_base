@@ -72,9 +72,12 @@ void MyPhysicsStepCallback(btDynamicsWorld* dynamicsWorld, btScalar timeStep)
 		{
 			const btManifoldPoint& pt = contactManifold->getContactPoint(p);
 
-			// USER REPORT: you need some value greater than zero or else you will filter too much and not get legitimate collision reports.
-                        // at first I tried CollisionMargins * 2.0f, but that wasn't enough. Then I also added a 0.0001f epsilon, but it also wasn't enough.
-                        // now I'm just slapping in there and it seems to work for my cases.
+			// from @bryanedds:
+			// I've found that I need a value greater than zero or else you will filter too much and not get legitimate
+			// collision reports. at first I tried CollisionMargins * 2.0f, but that wasn't enough. Then I also added a
+			// 0.0001f epsilon, but that also wasn't enough. now I'm just slapping 0.05f in there and it seems to fix
+			// over-filtering for my cases. Ideally, we would understand exactly what this offset should consist of in
+			// terms of bullet's representation.
 			if (pt.getDistance() <= 0.05f)
 			{
 				skipReport = false;
