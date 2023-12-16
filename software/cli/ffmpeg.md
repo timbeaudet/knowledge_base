@@ -14,3 +14,7 @@
 
 - `-c` keep the same audio and video codex
 - `-c:v` or `-c:a` for just video or audio.
+
+## Yank a portion of footage from a video, saving it in a separate copy.
+
+`ffmpeg -ss 15:30 -i 20200219_games_for_research.mp4 -t 2:30 -c copy battle_riders.mp4`
