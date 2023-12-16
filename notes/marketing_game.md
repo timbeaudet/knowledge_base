@@ -77,6 +77,10 @@
 - List your game as free-to-play even if it is not out yet, people may click and then wishlist.
 - Update the "release date" to pop back up the lists as if newly released.
 
+## Posting Steam News for the Game
+
+This certainly helps at least a little, both by keeping existing game community in the loop and also for attracting new views. At least for original Eggcelerate! the "Regular Update" got major views and almost certainly increased sales. With Tropics it seemed I only stuck with "News" and this might have been part of the lower sales issues. Consider use of other categories especially "Upcoming Release" and "Game Release". These put little news items on the game page that makes it look a little more lively than without.
+
 ---
 
 ## How to use Twitter
