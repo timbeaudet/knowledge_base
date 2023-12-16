@@ -10,3 +10,8 @@
    - Also: `16x16@2x.png`, `32x32@2x.png`, `128x128@2x.png`, and `256x256@2x.png`
    - Resize each of the images as necessary.
    - Run the command `iconutil -c icns macos_icon.iconset` to get the icns.
+
+
+## Also Adding Images to Description
+
+```[img]{STEAM_APP_IMAGE}/extras/release_banner.png[/img]```
