@@ -1,31 +1,21 @@
-# Objectives for Today
-
-- Polish up the press announcement email / copy.
-- Update and touchup the presskit page.
-- Finish writing the reasons for the press emails
-- Send the press announcement to the press!
-- Request keys for influencers and giveaways
-- If well before lunch then use some time to create an action clip or two
-- LUNCH BREAK
-- Share something new for the first time on stream!! WOOO
-  - This is still game marketing related, but a step thats been hidden before
--
-
+# Objectives for Today 2024-01-01
 
 ### Time Block 1: (6am - 9am ish)
-- Making games and stuff, probably still waking up.
+- Updating KPI
+- Formatting of the Career Tracker
+- Weekly Plan / Complete Goals/Review December 2023
 
 ### Time Block 2: (9am - 12pm ish)
-- Making games and stuff, probably having a snack.
+- Brainstorming & Defining the Target Audience for Snailed It!
+- Thinking about game features, content jokes/sillyness and marketing "content" moments.
 
 ### Time Block 3: (12pm - 3pm ish)
-- Making games and stuff, probably making progress.
-
-### Time Block: 4: (3pm to 6pm ish)
-- Possibly making games and stuff, possibly off doing life things.
+- Offstream work: Sending collaboration contract.
+- Offstream work: Prepare for macOS streaming tomorrow, remote desktop?
+- Offstream life: Calling about wheel lock issues...
 
 ## Events / Notices / Coming Soon
 
-- **Buy: [Eggcelerate! to the North Pole](https://store.steampowered.com/app/2216320/Eggcelerate_to_the_North_Pole/) out now!**
-- Now Working on Eggcelerate! to the Tropics, _January to March_
-- **The Sunday Shift** episode 3 is live on Sunday January 22nd 2023
+- February 4th: Business Review of January 2024
+- **Buy: [Eggcelerate! to the Tropics](https://store.steampowered.com/app/1621320/Eggcelerate_to_the_Tropics/) out now!**
+
