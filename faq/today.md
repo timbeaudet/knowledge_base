@@ -1,18 +1,20 @@
-# Objectives for Today 2024-01-01
+# Objectives for Today 2024-01-02
 
 ### Time Block 1: (6am - 9am ish)
-- Updating KPI
-- Formatting of the Career Tracker
-- Weekly Plan / Complete Goals/Review December 2023
+- Art practice, doodling out a Snailed It! logo or such.
+- Start the wrapup of Trophy Brawlers, scan through remaining TODOs and get them done.
 
 ### Time Block 2: (9am - 12pm ish)
-- Brainstorming & Defining the Target Audience for Snailed It!
-- Thinking about game features, content jokes/sillyness and marketing "content" moments.
+- Finish the wrapup of Trophy Brawlers, and TODOs after this will get done after Snailed It!
 
 ### Time Block 3: (12pm - 3pm ish)
-- Offstream work: Sending collaboration contract.
-- Offstream work: Prepare for macOS streaming tomorrow, remote desktop?
+- Creation of Snailed It! repository (from the Trophy Brawlers template).
+- Attempting to get Snailed It! running on Windows and macOS
+
+### Post Stream:
+
 - Offstream life: Calling about wheel lock issues...
+- Offstream life: Other Phone Calls...
 
 ## Events / Notices / Coming Soon
 
