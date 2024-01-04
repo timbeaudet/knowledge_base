@@ -1,16 +1,17 @@
-# Objectives for Today 2024-01-03
+# Objectives for Today 2024-01-04
 
 ### Time Block 1: (6am - 9am ish)
-- Art practice, doodling out a Snailed It! logo or such.
-- Jump onto macOS and try to solve the Turtle Brains / macOS issues; OpenGL initialization
+- Art practice, doodling out a Snailed It! track or something in Blender.
+- Jump back onto macOS and fix premake / script / locations of macosx vs macos.
 
 ### Time Block 2: (9am - 12pm ish)
-- Brainstorming content/game mechanics and ideas for Snailed It!
-- Writeup a Pitlane Report that announces the new project, Snailed It!
+- Mess around with premake scripts and XCode attempting to get workspaces working.
+  - Wanting to see Snailed It! workspace with TurtleBrains, ICE, TrackBundler, SnailedIt.
+- Try fixing C++ dialect (again) as well as Always Search Headers and other manual changes, working dir.
 
 ### Time Block 3: (12pm - 3pm ish)
-- Finish PitlaneReport.
-- Finish the macOS / Turtle Brains issue.
+- Brainstorming content/game mechanics and ideas for Snailed It!
+- Writeup a Pitlane Report that announces the new project, Snailed It!
 
 ### Post Stream:
 
