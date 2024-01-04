@@ -80,12 +80,13 @@
 
 ## Helpful Workflows
 
-### Creating Tubed Pipes
+### Creating Tubed Pipes / Track Surfaces
 
 - Create a curve, `SHIFT+A` Curve > Bezier Curve
 - In the Curve Properties tab, _above Materials_, adjust Bevel Depth/Resolution
 	- Resolution of 0 is 4 sided, 1 is 6, 2 is 8 ...
 - Manipulate the curve as desired, remember you can change the type of a specic handle with `V`
+- Note: Blender may choose Z as the "normal" axis for deformation which is the reason why tilt 90 may be required to get a track surface to remain flat. As to why Y vs -Y acts differently with tilt, just mess around with it I guess.
 
 #### When doing it manually with cylinder mesh / already to-meshed tube
 
