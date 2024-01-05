@@ -1,15 +1,15 @@
 # Objectives for Today 2024-01-04
 
 ### Time Block 1: (6am - 9am ish)
-- Art practice, doodling out a Snailed It! track or something in Blender.
-- Jump back onto macOS and fix premake / script / locations of macosx vs macos.
+- Start getting the bearings of the state of animations in Internal Combusion Engine.
+- Sponsored unboxing & setup & playing with KinesisGaming Edge Split RGB !keyboard.
 
 ### Time Block 2: (9am - 12pm ish)
-- Mess around with premake scripts and XCode attempting to get workspaces working.
-  - Wanting to see Snailed It! workspace with TurtleBrains, ICE, TrackBundler, SnailedIt.
-- Try fixing C++ dialect (again) as well as Always Search Headers and other manual changes, working dir.
+- Maybe find some neat CC0 animation to use for testing purposes.
+- Start digging into the problems and get the animation working.
 
 ### Time Block 3: (12pm - 3pm ish)
+- Brainstorming / Diving into per month Twitch sub/cheer goals for rewards.
 - Brainstorming content/game mechanics and ideas for Snailed It!
 - Writeup a Pitlane Report that announces the new project, Snailed It!
 
