@@ -1,4 +1,4 @@
-# Objectives for Today 2024-01-04
+# Objectives for Today 2024-01-06
 
 ### Time Block 1: (6am - 9am ish)
 - Learn how to use the NLA Editor in Blender to create different animation sequences
