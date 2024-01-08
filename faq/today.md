@@ -1,16 +1,16 @@
-# Objectives for Today 2024-01-07
+# Objectives for Today 2024-01-08
 
 ### Time Block 1: (6am - 9am ish)
-- Jump back in the middle of the ice/exporter/viewer issues from Yesterday, see if we can fix.
-- Figure out how to extract the Animation Bone data (hierarchy & keyframes) from armatures / NLA sequences.
-  - Keeping support for the parent structure (might) be worthwhile, but don't fight it too hard.
+- Updating the Key Performance Indicators
+- Update the weekly plans
+- Start defining the target audience for Snailed It!
+- Write rough draft of Pitlane Report email 
 
 ### Time Block 2: (9am - 12pm ish)
-- Continue writing the Blender exporter, will need to start defining version/data being added.
-- If that problem is resolved, maybe spend some cleanup time in iceModelViewer; can consilidate a lot.
-- 
+- Jump back into the Blender Exporter and start working on collecting the "Bone Hierarchy" (refactoring of parent/child)
+
 ### Time Block 3: (12pm - 3pm ish)
-- Animation, Exporter, just chilling; it is Saturday
+- Start working on Blender Exporter Bone Hierarchy from an armature.
 
 ## Events / Notices / Coming Soon
 
