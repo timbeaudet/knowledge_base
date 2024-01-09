@@ -1,16 +1,17 @@
-# Objectives for Today 2024-01-08
+# Objectives for Today 2024-01-09
 
 ### Time Block 1: (6am - 9am ish)
-- Updating the Key Performance Indicators
-- Update the weekly plans
-- Start defining the target audience for Snailed It!
-- Write rough draft of Pitlane Report email 
+- Jumping back into the Blender exporter!
+- Dig into and fix the bone matrices from an armature, shake says maybe Blender stores them as Y up coordinate space.
 
 ### Time Block 2: (9am - 12pm ish)
-- Jump back into the Blender Exporter and start working on collecting the "Bone Hierarchy" (refactoring of parent/child)
+- Bones didn't have a matrix_world so we need to compute boneToWorld (it is actually almost certainly boneToRoot that we want)
+- Save key frames at the animation framerate by sampling each frame in order to use Blenders animation curves.
 
 ### Time Block 3: (12pm - 3pm ish)
-- Start working on Blender Exporter Bone Hierarchy from an armature.
+- Jump back into ICE engine and start playing with the animation controller and other codes.
+- Will need to make decisions on whether we exporter boneToRoot or boneToParent matrices, answer depends on anim controller API
+  - Can we have a SetBoneToParent() while otherwise using all the boneToRoots? I think we did in the tbCore::Node 
 
 ## Events / Notices / Coming Soon
 
