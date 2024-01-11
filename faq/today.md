@@ -1,17 +1,14 @@
-# Objectives for Today 2024-01-09
+# Objectives for Today 2024-01-11
 
 ### Time Block 1: (6am - 9am ish)
-- Jumping back into the Blender exporter!
-- Dig into and fix the bone matrices from an armature, shake says maybe Blender stores them as Y up coordinate space.
+- Upgrade from animated tank to wacky arm dude (and add arms to wacky arm dude)
+- Jump into the ice animation shader and C++ codes and get up to speed (investigations etc)
 
 ### Time Block 2: (9am - 12pm ish)
-- Bones didn't have a matrix_world so we need to compute boneToWorld (it is actually almost certainly boneToRoot that we want)
-- Save key frames at the animation framerate by sampling each frame in order to use Blenders animation curves.
+- Start adding N bones to animation shader/C++ code to apply skinned animation.
 
 ### Time Block 3: (12pm - 3pm ish)
-- Jump back into ICE engine and start playing with the animation controller and other codes.
-- Will need to make decisions on whether we exporter boneToRoot or boneToParent matrices, answer depends on anim controller API
-  - Can we have a SetBoneToParent() while otherwise using all the boneToRoots? I think we did in the tbCore::Node 
+- Continue working on animation, if the bones & weights go smoothly jump into animation controller / rig API stuff.
 
 ## Events / Notices / Coming Soon
 
