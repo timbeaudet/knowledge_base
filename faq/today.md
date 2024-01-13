@@ -1,14 +1,14 @@
-# Objectives for Today 2024-01-11
+# Objectives for Today 2024-01-13
 
 ### Time Block 1: (6am - 9am ish)
-- Upgrade from animated tank to wacky arm dude (and add arms to wacky arm dude)
-- Jump into the ice animation shader and C++ codes and get up to speed (investigations etc)
+- Messing with animation stuff
+- Hardcoding sequences and getting sequences "saved"/loaded in ANM files.
 
 ### Time Block 2: (9am - 12pm ish)
-- Start adding N bones to animation shader/C++ code to apply skinned animation.
+- Get animation controller to start Playing an animation sequence, like "dance" or "wave".
 
 ### Time Block 3: (12pm - 3pm ish)
-- Continue working on animation, if the bones & weights go smoothly jump into animation controller / rig API stuff.
+- More animaton support, continue with the Animation controller and start getting a procedural rig?
 
 ## Events / Notices / Coming Soon
 
