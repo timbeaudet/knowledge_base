@@ -1,14 +1,16 @@
-# Objectives for Today 2024-01-13
+# Objectives for Today 2024-01-14
 
 ### Time Block 1: (6am - 9am ish)
-- Messing with animation stuff
-- Hardcoding sequences and getting sequences "saved"/loaded in ANM files.
+- Top Secrets, sending collaborations contracts
+- Refactor the AnimationData to use RiggedPose / Pose
+- Create the RiggedPose API stuff in the AnimationController
 
 ### Time Block 2: (9am - 12pm ish)
-- Get animation controller to start Playing an animation sequence, like "dance" or "wave".
+- Grab the head bone of the snail, and move it programattically.
+- Begin creating some snail-like movement while pressing up, left and right.
 
 ### Time Block 3: (12pm - 3pm ish)
-- More animaton support, continue with the Animation controller and start getting a procedural rig?
+- Maybe some cleanup, maybe some nothing, unsure
 
 ## Events / Notices / Coming Soon
 
