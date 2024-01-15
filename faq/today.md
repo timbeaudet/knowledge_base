@@ -1,16 +1,15 @@
-# Objectives for Today 2024-01-14
+# Objectives for Today 2024-01-15
 
 ### Time Block 1: (6am - 9am ish)
-- Top Secrets, sending collaborations contracts
-- Refactor the AnimationData to use RiggedPose / Pose
-- Create the RiggedPose API stuff in the AnimationController
+- Updating the KPI
+- Updating the weekly plans
+- Write email content for Pit Lane Reports
 
 ### Time Block 2: (9am - 12pm ish)
-- Grab the head bone of the snail, and move it programattically.
-- Begin creating some snail-like movement while pressing up, left and right.
+- Mess around with snail movement, try to add the animation.
 
 ### Time Block 3: (12pm - 3pm ish)
-- Maybe some cleanup, maybe some nothing, unsure
+- Maybe a short day, maybe more snail prototyping. Unsure.
 
 ## Events / Notices / Coming Soon
 
