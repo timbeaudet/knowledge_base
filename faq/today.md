@@ -3,6 +3,7 @@
 ### Time Block 1: (6am - 9am ish)
 - Updating the KPI
 - Updating the weekly plans
+- Finish December 2023 review (summary etc)
 - Write email content for Pit Lane Reports
 
 ### Time Block 2: (9am - 12pm ish)
