@@ -1,16 +1,14 @@
 # Objectives for Today 2024-01-15
 
 ### Time Block 1: (6am - 9am ish)
-- Updating the KPI
-- Updating the weekly plans
-- Finish December 2023 review (summary etc)
-- Write email content for Pit Lane Reports
+- Art practice for the first hour, making giant "leaves"
+- Snail motion, hopefully getting head & shell to move funly.
 
 ### Time Block 2: (9am - 12pm ish)
-- Mess around with snail movement, try to add the animation.
+- Start & finish / core win/lose loop?
 
 ### Time Block 3: (12pm - 3pm ish)
-- Maybe a short day, maybe more snail prototyping. Unsure.
+- Keep working with snails.
 
 ## Events / Notices / Coming Soon
 
