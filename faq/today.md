@@ -1,13 +1,18 @@
-# Objectives for Today 2024-01-15
+# Objectives for Today 2024-01-17
 
 ### Time Block 1: (6am - 9am ish)
-- Art practice for the first hour, making giant "leaves"
-- Snail motion, hopefully getting head & shell to move funly.
+- Art practice for the first hour, doodling icons?
+- Tackle the TrackBuilder release crash (not debug)
 
 ### Time Block 2: (9am - 12pm ish)
-- Start & finish / core win/lose loop?
+- If still trying to fix TrackBuilder issue, put it on backburner and use debug TrackBuilder to move on.
+- Create a simple environment for Snailed It! testing
+- Snailed It! to load an ImprovedTrackBundle from TrackBuilder, use custom components.
 
 ### Time Block 3: (12pm - 3pm ish)
+- Snail motion using physics in the GameState / logic area of the codebase.
+- Start & finish / core win/lose loop? (Proving the objects / components / etc work)
+- Begin the slingshot mechanic for the snails using the physics.
 - Keep working with snails.
 
 ## Events / Notices / Coming Soon
