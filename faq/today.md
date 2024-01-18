@@ -1,19 +1,15 @@
-# Objectives for Today 2024-01-17
+# Objectives for Today 2024-01-18
 
 ### Time Block 1: (6am - 9am ish)
-- Art practice for the first hour, doodling icons?
-- Tackle the TrackBuilder release crash (not debug)
+- Getting started... this is a chatty fun day, raids, today, devreports etc.
+- Make the racecar in GameState behave like a Snail from the mini-prototype.
 
 ### Time Block 2: (9am - 12pm ish)
-- If still trying to fix TrackBuilder issue, put it on backburner and use debug TrackBuilder to move on.
-- Create a simple environment for Snailed It! testing
-- Snailed It! to load an ImprovedTrackBundle from TrackBuilder, use custom components.
+- Load an arena/track/environment from TrackBuilder's ImprovedTrackBundler (with components)
+- Create a finish area from the component thing...
 
 ### Time Block 3: (12pm - 3pm ish)
-- Snail motion using physics in the GameState / logic area of the codebase.
-- Start & finish / core win/lose loop? (Proving the objects / components / etc work)
-- Begin the slingshot mechanic for the snails using the physics.
-- Keep working with snails.
+- Start blocking out a "green house" for the snail playground.
 
 ## Events / Notices / Coming Soon
 
