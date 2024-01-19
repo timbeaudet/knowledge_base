@@ -1,12 +1,12 @@
-# Objectives for Today 2024-01-18
+# Objectives for Today 2024-01-19
 
 ### Time Block 1: (6am - 9am ish)
-- Getting started... this is a chatty fun day, raids, today, devreports etc.
-- Make the racecar in GameState behave like a Snail from the mini-prototype.
+- Getting started... fighting computer restart... just chatting & fun day.
+- Get the concept of Box Colliders working for blocks / statics?
 
 ### Time Block 2: (9am - 12pm ish)
-- Load an arena/track/environment from TrackBuilder's ImprovedTrackBundler (with components)
-- Create a finish area from the component thing...
+- Snail velocity put into the rigidbody, instead of hacked around.
+- Start working on slingshot capabilities.
 
 ### Time Block 3: (12pm - 3pm ish)
 - Start blocking out a "green house" for the snail playground.
