@@ -1,17 +1,18 @@
-# Objectives for Today 2024-01-29
+# Objectives for Today 2024-02-05
 
 Note: Times are currently out of whack, Tim will be trying to adjust to a more normal schedule through the week.
 
 ### Time Block 1: (6am - 9am ish)
 - Updating the KPI for the adventure
 - Updating the weekly plans
+- Collecting racing games on Steam
+- Writing support ticket to dreamhost...
 
 ### Time Block 2: (9am - 12pm ish)
-- Figure out where we left off with Snailed It!
-- Get the snail to cross the finish line and restart (core-loop)
+- Solving the jitter bug issue in the prototype now that gravity is turned on.
 
 ### Time Block 3: (12pm - 3pm ish)
-- Start blocking out a "green house" for the snail playground.
+- Start adding slingshot mechanic to Snailed It! prototype.
 
 ## Events / Notices / Coming Soon
 
