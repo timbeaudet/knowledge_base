@@ -105,7 +105,11 @@ This certainly helps at least a little, both by keeping existing game community 
 	- I worked X hours, years etc on whatever. [postmortem like, use numbers, time tracking]
 	- I worked X hours,  or I worked Y years ... game is out
 
+## Influencer Marketing (Twitch)
 
+- Using SullyGnome to search for similar games you can export the information to csv and then use VLOOKUP command to keep/exclude duplicates.
+	- This would be for last 365 days of Eggcelerate!: https://sullygnome.com/game/Eggcelerate_/365/watched
+- After culling the target list by multiple games checkout the channels to exclude/include and personalize.
 
 ## Places to discuss/promote indie games:
 	https://www.reddit.com/r/gamedeals/
