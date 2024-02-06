@@ -1,0 +1,5 @@
+# Fighting Volume Controls
+
+As a content creator, or technical user of Windows I was running into issues with communication apps changing the global microphone volume. Zoom, Skype, Meets, Discord etc, all automatically adjust the volume and then I would go to stream or record something with lower than ideal settings.
+
+To fix this, I have installed [nircmd](https://www.nirsoft.net/utils/nircmd.html) _(scroll to very bottom)_ and used the command `nircmd setvolume 1 65535 65535` to set the volume of the default recording device _(which is the 1 in the command)_ to maximum _(65535)_ for both left/right channels. As long as the default recording device matches the one used for streaming/recording it will work properly, though there is risk of using a different microphone in the call and that one still being modified. _(This is still a potential issue because the communication app might grab a different mic, like the samson, and modify its volume globally. While I would typically stream with the Yeti maybe a kitchen stream swaps to now quiet samson mic still unaware the changes occurred. Hopefully rare enough not to worry.)_
