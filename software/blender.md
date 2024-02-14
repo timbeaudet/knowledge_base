@@ -145,6 +145,21 @@
 - You may want a plane with the same plain colored emissive material for the render.
 - Limitation; this techique does not allow for a transparent render/video.
 
+## Intersecting an Edge with a Face
+
+This used to test ray and box intersection stuff. Blender 4.0.2
+
+- Set snap tool to face, and use CTRL or turn on snap
+- Subdivide or grab an edge with "grab grab" mode to restrict to motion along the ray.
+- Done, profit. If that is broken (it was in the past, use the steps below)
+
+Longer steps in case the above simple solution fails;
+- Select the edge representing the ray.
+- Change Global orientation to a Custom with +"
+- Next to magnet, change snap mode to Face
+- Use one of the end-points, or subdivide the edge and grab the middle...
+- Restrict to Y axis and snap (with CTRL) to land on the face of intersection.
+- Delete Custom edge orientation by selecting it and pressing the X
 
 ### Unformatted mess:
 	Mirror as a one off, immediately using menus: `Object > Mirror` which is not a modifier.
