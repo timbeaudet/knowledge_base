@@ -1,14 +1,11 @@
-# Objectives for Today 2024-02-13
+# Objectives for Today 2024-02-15
 
 ### Time Block 1: (6am - 9am ish)
-- Update the KPI's of the adventure
-- Update weekly plans
-- Update Weekly topic
-- Create some unit test to prove / fix the Ray to Box intersect tests.
-
-### Time Block 2: (9am - 12pm ish)
 - Continue working with the snail crawling on surfaces and the slingshot mechanic.
 - Define/begin combining into other movement mechanics.
+  
+### Time Block 2: (9am - 12pm ish)
+- Snail movement mechanics and creating snail playgrounds.
 
 ### Time Block 3: (12pm - 3pm ish)
 - See where energy is at.
