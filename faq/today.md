@@ -1,8 +1,8 @@
-# Objectives for Today 2024-02-15
+# Objectives for Today 2024-02-16
 
 ### Time Block 1: (6am - 9am ish)
-- Continue working with the snail crawling on surfaces and the slingshot mechanic.
-- Define/begin combining into other movement mechanics.
+- Continue working with the snail movement, turbo, slide and crawls modes.
+- Start building more of a playground to get some scope on size of world etc.
   
 ### Time Block 2: (9am - 12pm ish)
 - Snail movement mechanics and creating snail playgrounds.
