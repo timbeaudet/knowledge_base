@@ -36,18 +36,19 @@
 
 ## On the Primary Setup
 
-- Obutto Ozone Cockpit
+- [Obutto Ozone Cockpit](https://obutto.com/product/ozone-cockpit/)
 - Custom monitor stand with:
   - 4 27" BenQ GW2760S Monitors
   - 2 22" Acer VG220Q Monitors
 - Logitech 5.1 Surround Sound
-- Logitech G430 Headset
-- Kinesis Gaming RGB EdgeSplit 2
-- ButtKicker Gamer ~~with SimVibe~~
-- Track IR _(rarely used)_
-- Logitech G29 Steering Wheel
-  - Ricmotech Load Cell Brake
-  - Clutch and Throttle springs replaced with original G29 brake and clutch springs respectively.
+- [Logitech G430 Headset](https://www.amazon.com/Logitech-981-000537-G430-Gaming-Headset/dp/B00CJ5FPUE)
+- [Kinesis Gaming RGB EdgeSplit 2](https://gaming.kinesis-ergo.com/product/freestyle-edge/)
+- [ButtKicker Gamer](https://thebuttkicker.com/products/buttkicker-gamer-plus) ~~with SimVibe~~
+- [Track IR](https://www.trackir.com/) _(rarely used since triples)_
+- [Logitech G29 Steering Wheel](https://www.logitechg.com/en-us/products/driving/driving-force-racing-wheel.html)
+  - ~~Ricmotech Load Cell Brake~~
+  - ~~Clutch and Throttle springs replaced with original G29 brake and clutch springs respectively.~~
+- [Moza CRP Pedals](https://mozaracing.com/product/crp-pedals)
 - Zephyr HxM Smart (Heartbeat Monitor)
 
 ## Additional Streaming Equipment
