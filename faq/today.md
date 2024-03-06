@@ -1,16 +1,13 @@
-# Objectives for Today 2024-03-04
+# Objectives for Today 2024-03-06
 
 ### Time Block 1: (6am - 9am ish)
-- Update the Key Performance Indicators for the adventure
-- Update the weekly plan for week #10
-- Post a weekly topic or do something from the "stream growth" list
-- Collect all the racing games from Steam released in Feb 2024.
-  (this will involve dealing with some tracker issues)
+- Update the Development Reports
+- Start digging into TrackBuilder unit tests (2 tests already failing to investigate)
   
 ### Time Block 2: (9am - 12pm ish)
-- TrackBuilder bugs and issues, fixing the hierarchy drag that used to work.
-- Fix TrackBuilder issue of rejecting components that have a null-id (and fix the Static Physics Object whoopsie)
-- Continue with TrackBuilder issues
+- Continue investing already failing TrackBuilder test (DaisyChain'ed prefab test)
+- Implement Component property updates so that test can start passing.
+- Ensure if a unit test fails, the developer is VERY aware of it (to avoid this situation)
 
 ### Time Block 3: (12pm - 3pm ish)
 - See where energy is at.
