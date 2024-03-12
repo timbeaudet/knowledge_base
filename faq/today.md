@@ -15,5 +15,5 @@
 ## Events / Notices / Coming Soon
 
 - March 15th: Playtesting Mechanic Heros
-- March 31st?: Business Review of March 2024
 - April 1st: Collecting the Racing Games on Steam in March 2024
+- April 7th: Business Review of March 2024
