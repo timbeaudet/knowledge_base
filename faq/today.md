@@ -1,19 +1,19 @@
-# Objectives for Today 2024-03-12
+# Objectives for Today 2024-03-18
 
 ### Time Block 1: (6am - 9am ish)
+- Updated Key Performance Indicators 
 - Updating the Weekly Tasks
-- Fixing crash issues (with unit tests) and other work in Track Builder
-- Crashing when moving parent node into a child because ... whoops.
+- Just doing things
+- Researching stuff for Marketing Snailed It!
   
 ### Time Block 2: (9am - 12pm ish)
-- Crashing when selecting a block from Snailed It playground ... hmmm?
-- Messing with other Track Builder issues (getting version stuff patched up)
+- Hopefully having a better direction than this morning.
 
 ### Time Block 3: (12pm - 3pm ish)
 - No stream today, early end.
 
 ## Events / Notices / Coming Soon
 
-- March 15th: Playtesting Mechanic Heros
+- March 22nd: The Study of Racing on https://www.twitch.tv/trailingbrakes 
 - April 1st: Collecting the Racing Games on Steam in March 2024
 - April 7th: Business Review of March 2024
