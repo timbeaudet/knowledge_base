@@ -24,6 +24,17 @@
 - 2x 4TB in Raid 1
 - SSD for OS/stuff.
 
+## Hippo's Replacement [still in shipping] (New Linux Home Server)
+
+- Intel i5 12600K 10 cores 3.7 GHz
+- Cooler Master Hyper 212
+- ASRock Z690M-ITX/ax Mini (Motherboard)
+- 32gb Ram (Corsair Vengeance LPX 2x16)
+- Fractal Design Node 304 Mini ITX Tower Case
+- EVGA 500 BQ PSU (500w)
+- 2x 8TB (WD Red Plus) for Storage (Raid 1)
+- 500GB WD Blue M.2 for OS
+
 ## Falcon (Windows Test Machine)
 
 - Asus Maximus VIII Hero
