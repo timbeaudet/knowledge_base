@@ -1,7 +1,7 @@
-# Objectives for Today 2024-04-09
+# Objectives for Today 2024-04-11
 
 ### Time Block 1: (6am - 9am ish)
-- Play with YouTube VoDs to avoid flooding subs.
+- Caught up with a few development reports
 - Make the lift lift the car if it is on the lift area
 - Get the car to show frame & tires (or wheel hubs) when on the lift
   
@@ -18,7 +18,7 @@
 
 ## Events / Notices / Coming Soon
 
-- March 29th: Pizza Friday
-- March 29th: The Study of Racing on https://www.twitch.tv/trailingbrakes 
-- April 1st: Collecting the Racing Games on Steam in March 2024
-- April 7th: Business Review of March 2024
+- April 12-14: LUDUM DARE 55 - Playing in Godot
+- April 15th: Steam Review for racing games released in March 2024
+- May 5th: Business Review of March 2024
+- May 6th: Steam Review for racing games released in April 2024
