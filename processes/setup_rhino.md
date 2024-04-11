@@ -18,6 +18,7 @@ Things to do (everything) _and while doing so, keep these notes up to date_.
   - Partition the drives: 2 TB for shelter, the rest for media
   - Mirror (Raid 1) the drives for some level of redundancy
 - Setup sshkey stuff so `ssh rhino` does not require any password stuffs.
+- Setup rhino to automatically wake and startup with power (auto power on).
 - Update the linux setup script (last run in like 2014ish with hippo build)
   - Get hippo setup to build some projects
   - sendmail setup (for nightly mails) can be [found here](https://github.com/timbeaudet/knowledge_base/blob/main/platforms/linux.md)
