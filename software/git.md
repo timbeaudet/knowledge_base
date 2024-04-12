@@ -24,6 +24,12 @@
   - During the install flow I used "Open Key" to add the existing _private_ key to TortoiseGit / PuTTy. For this I navigated to `C:/Users/<username>/.ssh/id_rsa` and saved a PuTTy version of it.
 - Test to ensure it works by cloning a repository with ssh from TortoiseGit.
 
+## Moving a Repository from Gitea to Github (or elsewhere)
+- Create a new repository on github, do not initialize repo with anything. No readme, .gitignore or license
+- Use `git remote set-url origin git@github.com:TyreBytes/<REPOSITORY_NAME>.git` on each machine accessing the repo.
+- On the very first machine, or ideally the one with most recent changes, run a `git push` to send repo to Github.
+- Profit?
+
 ## Setup Just the Way I like it
 
 > Use the following git alias commands to setup everything well.
