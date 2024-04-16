@@ -6,6 +6,7 @@
 4. in timbeaudet.com/streams/gamejam vim BOTH index.php and queue.php to modify  `$eventNumber = XY`
 5. Use [theboss](https://timbeaudet.com/streams/gamejam/theboss.php) page for administration details.
 6. Run the gamejam bot found in private/gamejam/ with `php main.php`, probably in a screen.
+7. !editcmd submit to Submit your LDXY game here https://timbeaudet.com/streams/gamejam/ to be placed into the !queue timbeaHype
 
 ## To continue running the game:
 
