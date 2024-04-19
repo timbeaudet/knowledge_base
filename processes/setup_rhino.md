@@ -12,6 +12,42 @@ sudo apt install ssh
 sudo systemctl enable sshd && sudo systemctl start ssh
 ```
 
+### Setup RAID for the Storage Drives
+
+I was following [this article](https://www.linuxbabe.com/linux-server/linux-software-raid-1-setup) through these steps, which seems slightly out of date or something.
+
+1. Use `sudo fdisk -l` to get the list of disks and find the storage drives. (for rhino sda and sdb were the storage drives)
+2. Run the following which will wipe all data and partitions from the storage drives. Make sure they are backed up or empty already...
+```
+sudo parted /dev/sda mklabel gpt
+sudo parted /dev/sdb mklabel gpt
+```
+
+(after doing this I saw `Information: You may need to update /etc/fstab.` which ... idk what that means.)
+
+3. Run `sudo fdisk /dev/sda` to actually create the partitions, no changes until the write at the end.
+  - Type `n` at the prompt for New Partition
+  - Type `1` to give it partition id 1, aka `/dev/sda1`
+  - Press enter to choose default first and last sectors, use the whole drive.
+  - Using `p` will print out the information, and we need to verify the partition type to be Linux raid autodetect (or in my case Linux RAID)
+  - To do that I had to use `t` and `29` but check through that list for what makes sense.
+  - Double check with `p` again
+  - Finally write with `w` and perform all of this again for `/dev/sdb` or the other storage drives.
+
+4. Install mdadm (Linux software raid) with `sudo apt install mdadm`
+5. Check that mdadm sees the drives/partions:
+  - `sudo mdadm --examine /dev/sda /dev/sdb`
+  - `sudo mdadm --examine /dev/sda1 /dev/sdb1`
+6. Create the raid mirror: `sudo mdadm --create /dev/md0 --level=mirror --raid-devices=2 /dev/sda1 /dev/sdb1` which is named md0
+  - y to create, and if we see `Device or resource busy` we may need to reboot...
+  - This will take a WHOLE lot of time (estimated ~10 hours on rhino)
+  - Use `cat /proc/mdstat` to check the progress.
+
+
+
+
+## Things to still do
+
 Things to do (everything) _and while doing so, keep these notes up to date_.
 
 - Setup storage drives
