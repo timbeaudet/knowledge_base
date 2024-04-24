@@ -24,7 +24,7 @@
 - 2x 4TB in Raid 1
 - SSD for OS/stuff.
 
-## Hippo's Replacement [still in shipping] (New Linux Home Server)
+## Rhino [still in setup process] (New Linux Home Server)
 
 - Intel i5 12600K 10 cores 3.7 GHz
 - Cooler Master Hyper 212
