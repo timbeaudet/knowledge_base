@@ -12,7 +12,7 @@ sudo apt install ssh
 sudo systemctl enable sshd && sudo systemctl start ssh
 ```
 
-### Setup RAID for the Storage Drives
+## Setup RAID for the Storage Drives
 
 **Warning: Will take HOURS (10+) with large drives...**  
 I was following [this article](https://www.linuxbabe.com/linux-server/linux-software-raid-1-setup) through these steps, which seems slightly out of date or something.
@@ -57,19 +57,16 @@ sudo parted /dev/sdb mklabel gpt
 This seems to require removing the drive, which, I didn't do it on rhino. YOLO.
 
 
-
-
+## Setup SSH Key stuff... 
+From `moose`, just needed to `ssh copy-id rhino` and type password. Done. If there were issues or moose needed more setup [checkout this.](https://github.com/timbeaudet/knowledge_base/blob/main/processes/sshkey_auto_login.md)
 
 
 ## Things to still do
 
 Things to do (everything) _and while doing so, keep these notes up to date_.
 
-- Setup storage drives
-  - Partition the drives: 2 TB for shelter, the rest for media
-  - Mirror (Raid 1) the drives for some level of redundancy
-- Setup sshkey stuff so `ssh rhino` does not require any password stuffs.
 - Setup rhino to automatically wake and startup with power (auto power on).
+    - requires booting into bios stuff and... ???
 - Update the linux setup script (last run in like 2014ish with hippo build)
   - Get hippo setup to build some projects
   - sendmail setup (for nightly mails) can be [found here](https://github.com/timbeaudet/knowledge_base/blob/main/platforms/linux.md)
