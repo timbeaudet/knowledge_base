@@ -14,6 +14,7 @@ sudo systemctl enable sshd && sudo systemctl start ssh
 
 ### Setup RAID for the Storage Drives
 
+**Warning: Will take HOURS (10+) with large drives...**  
 I was following [this article](https://www.linuxbabe.com/linux-server/linux-software-raid-1-setup) through these steps, which seems slightly out of date or something.
 
 1. Use `sudo fdisk -l` to get the list of disks and find the storage drives. (for rhino sda and sdb were the storage drives)
@@ -42,6 +43,20 @@ sudo parted /dev/sdb mklabel gpt
     - y to create, and if we see `Device or resource busy` we may need to reboot...
     - This will take a WHOLE lot of time (estimated ~10 hours on rhino)
     - Use `cat /proc/mdstat` to check the progress.
+7. After waiting forever until that finished, confirm it worked with:
+    - `sudo mdadm --detail /dev/md0` to ensure Raid level: is set to raid1 and State is clean
+    - `sudo mdadm --examine /dev/sda1 /dev/sdb1` to ensure each has Raid level: raid1 and Raid devices 2.
+8. Install the FileSystem
+    ```
+    sudo mkfs.ext4 /dev/md0
+    sudo mkdir /mnt/raid1
+    sudo mount /dev/md0 /mnt/raid1
+    ```
+
+### Optional: Test the Raid Setup
+This seems to require removing the drive, which, I didn't do it on rhino. YOLO.
+
+
 
 
 
