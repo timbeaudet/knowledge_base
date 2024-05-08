@@ -4,6 +4,8 @@
 
 1. Download Ubuntu 22.04 iso, and install on USB jump-drive with rufus
 2. Plug jump-drive in, setup bios to boot from it and install Ubuntu 22.04
+3. Setup bios to boot from the real drive
+4. While in bios setup the automatic wake/startup on power (auto power on).
 
 First issue, ssh is now disabled in Ubuntu 22.04, so enable it with
 
@@ -65,8 +67,6 @@ From `moose`, just needed to `ssh copy-id rhino` and type password. Done. If the
 
 Things to do (everything) _and while doing so, keep these notes up to date_.
 
-- Setup rhino to automatically wake and startup with power (auto power on).
-    - requires booting into bios stuff and... ???
 - Update the linux setup script (last run in like 2014ish with hippo build)
   - Get hippo setup to build some projects
   - sendmail setup (for nightly mails) can be [found here](https://github.com/timbeaudet/knowledge_base/blob/main/platforms/linux.md)
