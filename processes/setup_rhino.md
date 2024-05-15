@@ -67,6 +67,7 @@ From `moose`, just needed to `ssh copy-id rhino` and type password. Done. If the
 
 Things to do (everything) _and while doing so, keep these notes up to date_.
 
+- Setup the twitch alert monitor script/cronjob & connect with all things
 - Update the linux setup script (last run in like 2014ish with hippo build)
   - Get hippo setup to build some projects
   - sendmail setup (for nightly mails) can be [found here](https://github.com/timbeaudet/knowledge_base/blob/main/platforms/linux.md)
