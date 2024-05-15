@@ -37,8 +37,8 @@
 ```
 git config --global alias.last 'log -1 HEAD'
 git config --global alias.lg 'log --oneline --graph'
-git config --global alias.lg1 'log --graph --abbrev-commit --decorate --format=format:\'%C(bold blue)%h%C(reset) - %C(bold green)(%ar)%C(reset) %C(white)%s%C(reset) %C(dim white)- %an%C(reset)%C(bold yellow)%d%C(reset)\' --all'
-git config --global alias.lg2 = 'log --graph --abbrev-commit --decorate --format=format:\'%C(bold blue)%h%C(reset) %C(cyan)%an%C(reset) - %C(white)%s%C(reset) %C(dim white)(%ar)%C(reset) %C(bold yellow)%d%C(reset)\' --all'
+git config --global alias.lg1 "log --graph --abbrev-commit --decorate --format=format:'%C(bold blue)%h%C(reset) - %C(bold green)(%ar)%C(reset) %C(white)%s%C(reset) %C(dim white)- %an%C(reset)%C(bold yellow)%d%C(reset)' --all"
+git config --global alias.lg2 "log --graph --abbrev-commit --decorate --format=format:'%C(bold blue)%h%C(reset) %C(cyan)%an%C(reset) - %C(white)%s%C(reset) %C(dim white)(%ar)%C(reset) %C(bold yellow)%d%C(reset)' --all"
 git config --global alias.ap 'add --patch'
 git config --global alias.cm 'commit --message'
 git config --global alias.cam 'commit --all --message'
