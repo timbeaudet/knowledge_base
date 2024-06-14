@@ -63,6 +63,42 @@ This seems to require removing the drive, which, I didn't do it on rhino. YOLO.
 From `moose`, just needed to `ssh-copy-id rhino` and type password. Done. If there were issues or moose needed more setup [checkout this.](https://github.com/timbeaudet/knowledge_base/blob/main/processes/sshkey_auto_login.md)
 I think I got that working through git-bash, but to get working in PowerShell too I had to `ssh hippo` and `cat .ssh/authorized_keys` copy that output and paste into the same place on rhino; `ssh rhino` and `vim .ssh/authorized_keys`
 
+## Setup of SAMBA Share
+
+Much of this was just copied from Hippo, however I did have to add `server min protocol = NT1` to the [global] settings for the WDTV to connect. I didn't really use this [website source](https://help.ubuntu.com/community/How%20to%20Create%20a%20Network%20Share%20Via%20Samba%20Via%20CLI%20%28Command-line%20interface/Linux%20Terminal%29%20-%20Uncomplicated%2C%20Simple%20and%20Brief%20Way%21), but keeping it around in case. Make sure to replace any <user_name> with desired username, typically: `timbeaudet` and likely good idea to set same password as user account. Also replace <folder_name> with the desired path/folder name to share, likely: shelter
+```
+    sudo apt-get install samba
+    sudo smbpasswd -a <user_name>
+    mkdir /home/<user_name>/<folder_name>
+    sudo cp /etc/samba/smb.conf ~
+
+    # Edit the samba configuration file:
+    sudo vim /etc/samba/smb.conf
+```
+
+I manually scanned and copied contents from hippo into rhino, but the following was in the old notes:
+
+```
+    # Add the following to the very bottom, swap <user_name> and <folder_name> as needed:
+    # May also need to find the user group and change to desired, default is WORKGROUP
+
+    [<folder_name>]
+    path = /home/<user_name>/<folder_name>
+    valid users = <user_name>
+    read only = no
+```
+
+and after making any changes, restart with:
+```
+    # Finally restart samba service, and test if it worked:
+    testparm
+    sudo service smbd restart    
+```
+
+
+
+
+
 ## Things to still do
 
 Things to do (everything) _and while doing so, keep these notes up to date_.
