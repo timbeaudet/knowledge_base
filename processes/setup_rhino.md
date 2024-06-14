@@ -99,6 +99,9 @@ and after making any changes, restart with:
 
 
 
+
+
+
 ## Things to still do
 
 Things to do (everything) _and while doing so, keep these notes up to date_.
@@ -119,3 +122,14 @@ Things to do (everything) _and while doing so, keep these notes up to date_.
 Once everything is starting to come together:
 - Copy data from hippo over to rhino
 - Begin using rhino as the primary, keeping hippo around until confident
+
+
+
+## Copying the Data from Hippo to Rhino
+
+From inside `shelter` on rhino run the following.
+
+`rsync -aivPz timbeaudet@hippo:/mnt/shelter/shelter/backup_cheetah ./`
+
+Having a trailing slash `shelter/backup_cheetah/` will cause it to copy the contents without the directory, as in no backup_cheetah directory will be created on rhino.
+
