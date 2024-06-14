@@ -60,8 +60,8 @@ This seems to require removing the drive, which, I didn't do it on rhino. YOLO.
 
 
 ## Setup SSH Key stuff... 
-From `moose`, just needed to `ssh copy-id rhino` and type password. Done. If there were issues or moose needed more setup [checkout this.](https://github.com/timbeaudet/knowledge_base/blob/main/processes/sshkey_auto_login.md)
-
+From `moose`, just needed to `ssh-copy-id rhino` and type password. Done. If there were issues or moose needed more setup [checkout this.](https://github.com/timbeaudet/knowledge_base/blob/main/processes/sshkey_auto_login.md)
+I think I got that working through git-bash, but to get working in PowerShell too I had to `ssh hippo` and `cat .ssh/authorized_keys` copy that output and paste into the same place on rhino; `ssh rhino` and `vim .ssh/authorized_keys`
 
 ## Things to still do
 
