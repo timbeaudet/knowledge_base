@@ -15,7 +15,7 @@
 
 - [Add SSH key](https://help.github.com/articles/adding-a-new-ssh-key-to-your-github-account/) to [github](https://github.com/settings/keys) and/or gitea
   - `clip < ~/.ssh/id_rsa.pub`
-  - If that fails, use `cat ~/.ssh/id_rsa/pub` (ensure .pub, as no extension is **private**) and proceed to copy the contents.
+  - If that fails, use `cat ~/.ssh/id_rsa.pub` (ensure .pub, as no extension is **private**) and proceed to copy the contents.
   - In User Settings > SSH Keys add a new SSH key and paste contents.
 
 - Test to ensure it works by cloning a repository with ssh.
