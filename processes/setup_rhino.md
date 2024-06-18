@@ -106,6 +106,8 @@ and after making any changes, restart with:
 
 Things to do (everything) _and while doing so, keep these notes up to date_.
 
+- Any build & distribute script will need to swap hippo for rhino
+  - This script copies the build over to development/game_builds/... and that needs to go to rhino
 - Setup the twitch alert monitor script/cronjob & connect with all things
 - Update the linux setup script (last run in like 2014ish with hippo build)
   - Get hippo setup to build some projects
@@ -115,6 +117,7 @@ Things to do (everything) _and while doing so, keep these notes up to date_.
 - jekyll and/or hugo, whichever stuff is used for latest site developments
 - crossmac compiling macos stuff (handy, not required)
 - Windows VM for building msvc nightlies from rhino (handy, not required) [some info](https://dev.to/pwd9000/create-a-docker-based-self-hosted-github-runner-windows-container-3p7e)
+
 
 Once everything is starting to come together:
 - Copy data from hippo over to rhino
