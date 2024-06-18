@@ -110,9 +110,6 @@ Things to do (everything) _and while doing so, keep these notes up to date_.
 - Update the linux setup script (last run in like 2014ish with hippo build)
   - Get hippo setup to build some projects
   - sendmail setup (for nightly mails) can be [found here](https://github.com/timbeaudet/knowledge_base/blob/main/platforms/linux.md)
-- Ensure SAMBA is setup so that both Windows 10 (moose / falcon) can access as well as WDTV should have access to rhino
-  - This will require smbv1, find the samba config from hippo - it was picky as hell to setup
-  - May even be something with `server min protocol = NT1` but the hippo config should help
 - Get a nightly build or two running.
 - emscripten for webgl builds
 - jekyll and/or hugo, whichever stuff is used for latest site developments
