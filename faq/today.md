@@ -1,20 +1,16 @@
-# Objectives for Today 2024-07-29
+# Objectives for Today 2024-07-30
 
 ### Time Block 1: (6am - 9am ish)
-- Update KPI
-- Brainstorm a community topic
-- Make update announcement
-- Come up with a simple weekly plan, small task each day
-- Tackle Marketing Data Collector on rhino and improve error handling / reporting.
-  - Why does it say "Something went wrong" every night... I think google auth/sheets stuff.
+- Finish commiting & pushing Marketing Data Collector changes.
+- Begin Updating TurtleBrains, ICE, TrackBuilder & TrophyBrawlers for new GCC
+  - Possibly jump to C++20? (this probably requires paying some attention to macOS
+- Fix all the warnings in the above projects & get them commited.
   
 ### Time Block 2: (9am - 12pm ish)
-- Continue focusing on Marketing Data Collector improvements
-- Or if finished: Start updating Turtle Brains / ICE / Track Builder to latest GCC for rhino building
-- Figure out a way to tell Turtle Brains / ICE / Track Builder to build a specific commit in a specific directory...
-  - As in how we use to be able to assign a specific SVN revision to TurtleBrains from a project.
-- Update the dev_reports with what was achieved.
-- Update today notes for Tuesday (keep it small)
+- Get TurtleBrains, ICE, TrackBuilder & TrophyBrawlers building nightlies on Linux
+- Attempt to fix TrackBuilder & RallyOfRockets nightly builds on Windows
+- Begin investigating project specifying a commit for TurtleBrains/etc
+- Update dev reports, !today for 07/31 and the hours in tracker!
 
 ### Time Block 3: (12pm - 3pm ish)
 - Probably the rest of day off, don't push too hard.
