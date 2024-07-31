@@ -1,16 +1,13 @@
 # Objectives for Today 2024-07-30
 
 ### Time Block 1: (6am - 9am ish)
-- Finish commiting & pushing Marketing Data Collector changes.
-- Begin Updating TurtleBrains, ICE, TrackBuilder & TrophyBrawlers for new GCC
-  - Possibly jump to C++20? (this probably requires paying some attention to macOS
-- Fix all the warnings in the above projects & get them commited.
-  
-### Time Block 2: (9am - 12pm ish)
-- Get TurtleBrains, ICE, TrackBuilder & TrophyBrawlers building nightlies on Linux
 - Attempt to fix TrackBuilder & RallyOfRockets nightly builds on Windows
+- Attempt to fix any nightly build issues on Linux or Windows
+- Begin building / experimenting with C++20/C++23 in Windows and macOS.
+
+### Time Block 2: (9am - 12pm ish)
 - Begin investigating project specifying a commit for TurtleBrains/etc
-- Update dev reports, !today for 07/31 and the hours in tracker!
+- Update dev reports, !today for 08/01 and the hours in tracker!
 
 ### Time Block 3: (12pm - 3pm ish)
 - Probably the rest of day off, don't push too hard.
