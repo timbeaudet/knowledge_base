@@ -1,13 +1,13 @@
-# Objectives for Today 2024-07-30
+# Objectives for Today 2024-08-01
 
 ### Time Block 1: (6am - 9am ish)
-- Attempt to fix TrackBuilder & RallyOfRockets nightly builds on Windows
-- Attempt to fix any nightly build issues on Linux or Windows
-- Begin building / experimenting with C++20/C++23 in Windows and macOS.
+- Maintaining and Updating the Nightly Build System for Tyre Bytes.
+- Allowing a project to specify a specific commit/revision of TurtleBrains/ICE/TrackBuilder
+- Rewriting initialize_externals.bat and initialize_externals.sh
 
 ### Time Block 2: (9am - 12pm ish)
-- Begin investigating project specifying a commit for TurtleBrains/etc
-- Update dev reports, !today for 08/01 and the hours in tracker!
+- Continuing nightly build maintenance.
+- Update the development reports and today notes for the following day.
 
 ### Time Block 3: (12pm - 3pm ish)
 - Probably the rest of day off, don't push too hard.
