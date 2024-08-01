@@ -53,6 +53,12 @@ git config --global alias.ss 'stash save'
 git config --global alias.sp 'stash pop'
 ```
 
+> Use the following git config command to immediately set branch as upstream and push without requiring the git push --set-upstream origin blah/blah-blah
+
+```
+git config --global --add --bool push.autoSetupRemote true
+```
+
 Unformatted below.
 
 	If git ever says "you cannot push because there are other stuff on the remote" do a `git pull --rebase`
