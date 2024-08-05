@@ -1,12 +1,18 @@
-# Objectives for Today 2024-08-01
+# Objectives for Today 2024-08-05
 
-### Time Block 1: (6am - 9am ish)
-- Maintaining and Updating the Nightly Build System for Tyre Bytes.
-- Allowing a project to specify a specific commit/revision of TurtleBrains/ICE/TrackBuilder
-- Rewriting initialize_externals.bat and initialize_externals.sh
+### Time Block 1: (First 3ish Hours)
+- Updating the Key Performance Indicators
+- Updating the Weekly Topic in Discord
+- Updating the Weekly plans
+- Attempt to figure out which week of adventure it is?
+- Collecting Racing Games on Steam (July 2024 edition)
 
-### Time Block 2: (9am - 12pm ish)
-- Continuing nightly build maintenance.
+### Time Block 2:
+- Continuing nightly build / build system maintenance.
+- Add a Hello World / Example Project to TurtleBrains (an executable)
+  - The executable will help solve linker issues faster than TurtleBrains > ICE > TrackBuilder > TrophyBrawlers
+  - The executable is also needed for running TurtleBrains unit test with --test for nightlies (as planned).
+- Fix the 64bit windows issues
 - Update the development reports and today notes for the following day.
 
 ### Time Block 3: (12pm - 3pm ish)
