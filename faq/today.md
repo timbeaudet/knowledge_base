@@ -1,11 +1,9 @@
-# Objectives for Today 2024-08-05
+# Objectives for Today 2024-08-07
 
 ### Time Block 1: (First 3ish Hours)
-- Updating the Key Performance Indicators
-- Updating the Weekly Topic in Discord
-- Updating the Weekly plans
-- Attempt to figure out which week of adventure it is?
-- Collecting Racing Games on Steam (July 2024 edition)
+- Catching --platform from the post_build scripts (batch & bash)
+- Grabbing all the branches on rhino and ensuring we still build
+- Refactor & cleanup of make_project.sh (on rhino) to add features & make it more generic if possible.
 
 ### Time Block 2:
 - Continuing nightly build / build system maintenance.
