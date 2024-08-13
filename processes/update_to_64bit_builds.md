@@ -9,6 +9,7 @@
 4. Modify `post_build.sh` to copy macos executable to project_name_macos_config (rather than project_name_config)
 5. Before TurtleBrains Logger is created (making a console window) copy this code to the VERY start of main:
 6. Remove `build_version_xyz` from the `build/abs_build_configuration` file.
+7. Add a `build/version.txt` file if one doesn't exist, set the contents to X.Y.Z of the current project version.
 ```
 int main(const int argumentCount, const char* argumentValues[])
 {
