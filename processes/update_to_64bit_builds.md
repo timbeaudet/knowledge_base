@@ -30,3 +30,7 @@ This one is a little more manual, since each project requires different things, 
 2. --build-version updated to grab from file or CLI (ensure it has both parts)
 3. Initialize the solution(workspace) and any settings common to ALL projects in the solution.
 4. Setup each project with specific like kind, files, etc.
+
+### Update post_build.sh / bat
+
+1. In the sh where it checks executableName/buildConfig etc, `exit 1` should be `return 404` to not kill a main script.
