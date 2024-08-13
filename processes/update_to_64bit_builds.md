@@ -8,19 +8,19 @@
 3. Probably need to copy/update the `initialize_externals` scripts (.sh and .bat) from TrophyBrawlers.
 4. Modify `post_build.sh` to copy macos executable to project_name_macos_config (rather than project_name_config)
 5. Before TurtleBrains Logger is created (making a console window) copy this code to the VERY start of main:
-```
-int main(const int argumentCount, const char* argumentValues[])
-{
-	for (int argumentIndex = 0; argumentIndex < argumentCount; ++argumentIndex)
-	{	//Run unit tests if --test is present as an argument.
-		if (tbCore::tbString("--test") == argumentValues[argumentIndex])
-		{
-			return (true == TurtleBrains::Core::UnitTest::RunAllTests()) ? 0 : 1;
+	```
+	int main(const int argumentCount, const char* argumentValues[])
+	{
+		for (int argumentIndex = 0; argumentIndex < argumentCount; ++argumentIndex)
+		{	//Run unit tests if --test is present as an argument.
+			if (tbCore::tbString("--test") == argumentValues[argumentIndex])
+			{
+				return (true == TurtleBrains::Core::UnitTest::RunAllTests()) ? 0 : 1;
+			}
 		}
-	}
 
-	// Run --test above this so it can output the results into the nightly build emails.
-```
+		// Run --test above this so it can output the results into the nightly build emails.
+	```
 6. Remove `build_version_xyz` from the `build/abs_build_configuration` file.
 7. Add a `build/version.txt` file if one doesn't exist, set the contents to X.Y.Z of the current project version.
 
