@@ -1,15 +1,15 @@
-# Objectives for Today 2024-08-08
+# Objectives for Today 2024-08-18
 
 ### Time Block 1: (First 3ish Hours)
-- Working on the build system still, yippee.
-- Adding an ice example executable to give it a testable thing.
-- Testing if Automated Build System is capable of running on macos (not originally built to)
+- Investigating tasks required for TrackBuilder to fully support Prefabs
+- Fixing any issues that come up with prefab support.
+- Keep digging into TrackBuilder issues until fully resolved.
 
 ### Time Block 2:
-- Update the development reports and today notes for the following day.
+- More of the same.
 
 ### Time Block 3: (12pm - 3pm ish)
-- Probably the rest of day off, don't push too hard.
+- More of the same.
 
 ## Events / Notices / Coming Soon
 
