@@ -1,15 +1,16 @@
-# Objectives for Today 2024-08-26
+# Objectives for Today 2024-08-30
 
 ### Time Block 1: (First 3ish Hours)
-- Update the adventure KPIs
-- Update the weekly goals
-- Jump into track builder add a node to a prefab, or at least start testing.
+- Discussing recent hike & reading & learnings...
+- Panic. Track Builder failed yesterday in a way I expected Unit Tests to already cover. (Thanks simo)
+- Do more unit testing and implemention for ApplyToPrefab (Add & Remove Node from Hierarchy)
 
 ### Time Block 2:
-- More of the same, keep working on Track Builder minimal workable prefabs
+- Continue more unit testing and implemention for ApplyToPrefab (Add & Remove Node from Hierarchy)
 
 ### Time Block 3: (12pm - 3pm ish)
-- More of the same, keep working on Track Builder minimal workable prefabs
+- Potentially another hike & reading adventure?
+- Maybe take the camera & record a RAW (barely edited) Outside Game
 
 ## Events / Notices / Coming Soon
 
