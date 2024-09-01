@@ -1,16 +1,14 @@
-# Objectives for Today 2024-08-30
+# Objectives for Today 2024-09-01
 
 ### Time Block 1: (First 3ish Hours)
-- Discussing recent hike & reading & learnings...
-- Panic. Track Builder failed yesterday in a way I expected Unit Tests to already cover. (Thanks simo)
-- Do more unit testing and implemention for ApplyToPrefab (Add & Remove Node from Hierarchy)
+- Updating August 2024 financial data
+- Reflecting on August 2024, Business Review & looking forward to September
 
 ### Time Block 2:
-- Continue more unit testing and implemention for ApplyToPrefab (Add & Remove Node from Hierarchy)
+- IndieTavern with GBGames
 
 ### Time Block 3: (12pm - 3pm ish)
-- Potentially another hike & reading adventure?
-- Maybe take the camera & record a RAW (barely edited) Outside Game
+- TrackBuilder ApplyTransformToPrefab work, implementation & testing.
 
 ## Events / Notices / Coming Soon
 
