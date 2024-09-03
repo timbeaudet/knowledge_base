@@ -100,11 +100,18 @@ and after making any changes, restart with:
     sudo service smbd restart    
 ```
 
+## Setup Linode-CLI
 
+Web stated to do pretty much the following (the first pip may be ignorable) and so this was the path I started using when trying to get linode-cli installed on rhino.
 
+```
+    sudo apt-get install python-pip
+    sudo apt-get install python3
+    sudo apt-get install python3-pip
+    pip3 install linode-cli
+```
 
-
-
+However that didn't work right away because it wasn't in the PATH, so we had to `vim ~/.profile` to add it, and then `source ~/.profile` to update the env-variables.
 
 
 ## Things to still do
