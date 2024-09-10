@@ -6,8 +6,9 @@
 1. Directly copy `build/make_project.sh` and `build/make_project.bat` from an upgraded project.
 2. Rename `PROJECT_NAME=trophy_brawlers` in both of the newly copied scripts.
 3. Probably need to copy/update the `initialize_externals` scripts (.sh and .bat) from TrophyBrawlers.
-4. Modify `post_build.sh` to copy macos executable to project_name_macos_config (rather than project_name_config)
-5. Before TurtleBrains Logger is created (making a console window) copy this code to the VERY start of main:
+4. Ensure `initialize_externals` scripts are setup to `main` branches and skipping init during automated_builds by default
+5. Modify `post_build.sh` to copy macos executable to project_name_macos_config (rather than project_name_config)
+6. Before TurtleBrains Logger is created (making a console window) copy this code to the VERY start of main:
 	```
 	int main(const int argumentCount, const char* argumentValues[])
 	{
@@ -21,8 +22,8 @@
 
 		// Run --test above this so it can output the results into the nightly build emails.
 	```
-6. Remove `build_version_xyz` from the `build/abs_build_configuration` file.
-7. Add a `build/version.txt` file if one doesn't exist, set the contents to X.Y.Z of the current project version.
+7. Remove `build_version_xyz` from the `build/abs_build_configuration` file.
+8. Add a `build/version.txt` file if one doesn't exist, set the contents to X.Y.Z of the current project version.
 
 
 ### Update the premake script
