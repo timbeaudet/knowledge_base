@@ -62,6 +62,13 @@ Bottom right of status bar click on `LF` or `CRLF`, this will bring up (near top
 It appears this setting may be per folder.
 
 
+### Building Linux with F8 to Find Tasks
+
+1. From a VSCode window that is ssh:rhino and opened to some project... (the ssh:rhino may? be important)
+1. Use CTRL-SHIFT-P (command palette) to open Tasks: Open User Tasks, which will be system wide tasks for user.
+2. Copy the contents, or some of the tasks from: https://github.com/timbeaudet/knowledge_base/blob/main/config/vscode_tasks.json
+3. Use CTRL-SHIFT-B to build, and F8 to navigate the errors (good luck choosing not the first)
+
 ### Some ShortCuts
 
 - Middle-Mouse Button will close the tab without pressing the [x].
