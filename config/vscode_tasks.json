@@ -1,0 +1,53 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"label": "Build Release",
+			"type": "shell",
+			"command": "cd $PWD/build/ && ./make_project.sh --release",
+			"problemMatcher": {
+				"owner": "cpp",
+				"pattern": {
+					"regexp": "^\\.\\./\\.\\./(.*):(\\d+):(\\d+):\\s+(error|warning|note):\\s+(.*)$",
+					"file": 1, "line": 2, "column": 3, "severity": 4, "message": 5
+				}
+			},
+			"group": {
+				"kind": "build",
+				"isDefault": true
+			}
+		},
+		{
+			"label": "Clean Build Release",
+			"type": "shell",
+			"command": "cd $PWD/build/ && ./make_project.sh --release --clean",
+			"problemMatcher": {
+				"owner": "cpp",
+				"pattern": {
+					"regexp": "^\\.\\./\\.\\./(.*):(\\d+):(\\d+):\\s+(error|warning|note):\\s+(.*)$",
+					"file": 1, "line": 2, "column": 3, "severity": 4, "message": 5
+				}
+			},
+			"group": {
+				"kind": "build",
+				"isDefault": true
+			}
+		},
+		{
+			"label": "Build Debug",
+			"type": "shell",
+			"command": "cd $PWD/build/ && ./make_project.sh --debug",
+			"problemMatcher": {
+				"owner": "cpp",
+				"pattern": {
+					"regexp": "^\\.\\./\\.\\./(.*):(\\d+):(\\d+):\\s+(error|warning|note):\\s+(.*)$",
+					"file": 1, "line": 2, "column": 3, "severity": 4, "message": 5
+				}
+			},
+			"group": {
+				"kind": "build",
+				"isDefault": true
+			}
+		}
+	]
+}
