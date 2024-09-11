@@ -2,9 +2,9 @@
 # Updating Projects to 64bit Builds and More
 
 1. Ensure the project is on tyrebytes/github (instead of gitea) and ensure the default/primary branch is `main`.
-1. Create a branch `feature/64bit-builds-and-more` to perform all this work.
-1. Directly copy `build/make_project.sh` and `build/make_project.bat` from an upgraded project.
-2. Rename `PROJECT_NAME=trophy_brawlers` in both of the newly copied scripts.
+2. Create a branch `feature/64bit-builds-and-more` to perform all this work.
+3. Directly copy `build/make_project.sh` and `build/make_project.bat` from an upgraded project.
+    - Rename `PROJECT_NAME=trophy_brawlers` in both of the newly copied scripts.
 3. Probably need to copy/update the `initialize_externals` scripts (.sh and .bat) from TrophyBrawlers.
 4. Ensure `initialize_externals` scripts are setup to `main` branches and skipping init during automated_builds by default
 5. Modify `post_build.sh` to copy macos executable to project_name_macos_config (rather than project_name_config)
