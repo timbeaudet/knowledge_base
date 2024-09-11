@@ -7,7 +7,7 @@
     - Rename `PROJECT_NAME=trophy_brawlers` in both of the newly copied scripts.
 4. Probably need to copy/update the `initialize_externals` scripts (.sh and .bat) from TrophyBrawlers.
     - Ensure `initialize_externals` scripts are setup to `main` branches and skipping init during automated_builds by default
-5. Modify `post_build.sh` to copy macos executable to project_name_macos_config (rather than project_name_config)
+5. Modify `post_build.sh` to copy macos executable to `project_name_macos_config` (rather than `project_name_config`)
 6. Before TurtleBrains Logger is created (making a console window) copy this code to the VERY start of main:
 	```
 	int main(const int argumentCount, const char* argumentValues[])
