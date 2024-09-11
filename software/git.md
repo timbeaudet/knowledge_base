@@ -57,8 +57,6 @@ git branch --unset-upstream
 git branch -u origin/main
 git symbolic-ref refs/remotes/origin/HEAD refs/remotes/origin/main
 git branch --remotes -d origin/master
-
-git something to actually put head on main or something
 ```
 
 
