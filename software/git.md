@@ -30,6 +30,38 @@
 - On the very first machine, or ideally the one with most recent changes, run a `git push` to send repo to Github.
 - Profit?
 
+## Renaming from master Branch to main
+Following steps from: https://gist.github.com/danieldogeanu/739f88ea5312aaa23180e162e3ae89ab
+
+1.  Run these commands from the local repository
+```
+git branch -m master main
+git push -u origin main
+```
+2.  Change default branch on Github/Gitea
+    - Settings: https://github.com/TyreBytes/<REPOSITORY_NAME>/settings
+    - Find default branch and click arrows to change to main
+3.  Back in local repository update tracking with `git branch -u origin/main main`
+4.  On Github delete old master branch
+    - Navigate to branches: https://github.com/TyreBytes/<REPOSITORY_NAME>/branches
+    - Use trash-can on the right to delete master (don't delete main)
+5. Run: `git symbolic-ref refs/remotes/origin/HEAD refs/remotes/origin/main` to tell origin/HEAD to follow main.
+
+With any other cloned versions of the repository, say in the nightly_build_area or on rhino, update by:
+
+```
+git checkout master
+git branch -m master main
+git fetch
+git branch --unset-upstream
+git branch -u origin/main
+git symbolic-ref refs/remotes/origin/HEAD refs/remotes/origin/main
+git branch --remotes -d origin/master
+
+git something to actually put head on main or something
+```
+
+
 ## Setup Just the Way I like it
 
 > Use the following git alias commands to setup everything well.
