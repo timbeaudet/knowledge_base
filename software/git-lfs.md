@@ -24,7 +24,9 @@ Also getting information from https://josh-ops.com/posts/migrate-to-git-lfs/ whi
 
 ## Already Existing Repository
 
-### WARNING: Migrate Modified History
+### WARNING: Migrate Modifies History
+
+That part is known but if you don't add `--include="*.ext"` it does NOT use the tracked files in `.gitattributes` and instead makes ALL files large-file storage... I broke Trailing Brakes repo by failing to see this detail which is buried pretty deep and it is also a terrible default behavior!
 
 ```
 git lfs install
