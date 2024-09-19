@@ -1,13 +1,12 @@
-# Objectives for Today 2024-09-09
+# Objectives for Today 2024-09-19
 
 ### Time Block 1: (First 3ish Hours)
-- Updating the Key Performance Indicators of the adventure.
-- Update the weekly topic in Discord
-- Update the weekly plans
-- Finish the last known test for prefabs.
+- Learning git-lfs (large file support)
+- Possibly learning git-secret (for secrets)
 
 ### Time Block 2:
-- Create a new track with TrackBuilder, start playing with prefabs and see what breaks.
+- Probably continued learning / "class" on git-lfs and git-secrets
+- Maybe nightly build stuffs & build system things...
 
 ### Time Block 3: (12pm - 3pm ish)
 
