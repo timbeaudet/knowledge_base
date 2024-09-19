@@ -4,7 +4,9 @@ Notice there is a difference between `git-secrets` and `git-secret`. This docume
 
 Will be using https://sobolevn.me/git-secret/ 
 
-## Installing Windows
+## Installation
+
+### Installing Windows
 
 gpg is required, it appears `gpg (GnuPG) 2.2.29-unknown` was already working with git-bash (and or was installed with git-lfs or something else?)
 [scoop](https://scoop.sh/) may also be needed to grab other requirements...  which was installed with the following command in VSCode PS terminal.
@@ -35,9 +37,10 @@ rm -rf git-secret-tool
 
 And of course verify with `git-secret --version`
 
-## Installing Linux (rhino)
+### Installing Linux (rhino)
 
 It appears `gpg (GnuPG) 2.2.27` was already installed on rhino from something, maybe git-lfs?
+I just ran the commands provided on https://sobolevn.me/git-secret/installation for linux and verified with `git-secret --version` which worked first try.
 
 
 ## Setting up a GPG KeyPair
@@ -54,9 +57,9 @@ passwd   // enter old passwd, and new passwd twice...
 quit //close the gpg prompt.
 ```
 
-To copy the gpg keys to another machine (like rhino, etc) we can do the following...
+### Copy Existing GPG Keys
 
-1. Run the command: `gpg --armor --export-secret-key tim@tyrebytes.com > secret-gpgkeys`
+1. From moose/original machine run the command: `gpg --armor --export-secret-key tim@tyrebytes.com > secret-gpgkeys`
 2. Copy the `secret-gpgkeys` file to rhino (or the other machine).
 3. From rhino/other machine run the command `gpg --batch --import secret-gpgkeys`
 
