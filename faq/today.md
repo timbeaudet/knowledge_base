@@ -1,12 +1,13 @@
-# Objectives for Today 2024-09-19
+# Objectives for Today 2024-09-22
 
 ### Time Block 1: (First 3ish Hours)
-- Learning git-lfs (large file support)
-- Possibly learning git-secret (for secrets)
+- Save snap settings in the Project settings (and keep them upon reload)
+- Update ImGui and attempt to add multi-select to the NodeHierarchy
+- Filter track opening by .trk to ... filter the rest
+- Start adding / using custom components to add behaviors in Trophy Brawlers
 
 ### Time Block 2:
-- Probably continued learning / "class" on git-lfs and git-secrets
-- Maybe nightly build stuffs & build system things...
+- Continue plowing through Track Builder features & improvements before LudumDare test #1
 
 ### Time Block 3: (12pm - 3pm ish)
 
