@@ -1,16 +1,14 @@
-# Objectives for Today 2024-09-23
+# Objectives for Today 2024-09-24
 
 ### Time Block 1: (First 3ish Hours)
-- Update the KPI
-- Update the Weekly Topic
-- Update the weekly plans
-- Solve the DataResourceTable null insert from Playground.
+- Clean up the PrimaryEditorMode (move all Node/Component/Prefab code into TrackBundler)
+- Keep the PrimaryEditorMode responsibilities limited to editing stuff...
 
 ### Time Block 2:
 - Continue plowing through Track Builder features & improvements before LudumDare test #1
 
 ### Time Block 3: (12pm - 3pm ish)
-
+- Go outside, chill & read the Made to Stick book
 
 ## Events / Notices / Coming Soon
 
