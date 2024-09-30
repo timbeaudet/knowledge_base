@@ -1,10 +1,9 @@
-# Objectives for Today 2024-09-27
+# Objectives for Today 2024-09-30
 
 ### Time Block 1: (First 3ish Hours)
-- Refactor to add feature of Name/Transform overrides to Nodes.
-- Add override capabilities to Name and IsActive states.
-- Fight the API changes to remove Deprecate_ functions in UnitTesting
-- Get the unit tests working again.
+- Update KPI and weekly topics
+- Unit testing ApplyToTransform and such...
+- Getting prefab transform/name/active overrides complete
 
 ### Time Block 2:
 - Continue plowing through Track Builder features & improvements before LudumDare 56, aka: test #1
