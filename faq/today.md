@@ -1,14 +1,12 @@
-# Objectives for Today 2024-09-30
+# Objectives for Today 2024-10-02
 
-### Time Block 1: (First 3ish Hours)
-- Update KPI and weekly topics
-- Unit testing ApplyToTransform and such...
-- Getting prefab transform/name/active overrides complete
-
-### Time Block 2:
+- Get BoxSelect grabbing a ControlPoint from a Spline (in SplinePath Editor)
+- Get a simple visual to display for when no SplineMesh component is used.
+- Generate a Mesh visual for the SplineMeshComponent.
+- Make the SplinePathEditor save the spline path changes into the Component.
+- Tell the PrimaryEditor that a Node visual changed from SplinePathEditor after control point moves.
 - Continue plowing through Track Builder features & improvements before LudumDare 56, aka: test #1
 
-### Time Block 3: (12pm - 3pm ish)
 
 ## Events / Notices / Coming Soon
 
