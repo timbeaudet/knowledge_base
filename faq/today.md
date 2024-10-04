@@ -1,12 +1,12 @@
-# Objectives for Today 2024-10-02
+# Objectives for Today 2024-10-04
 
-- Get BoxSelect grabbing a ControlPoint from a Spline (in SplinePath Editor)
-- Get a simple visual to display for when no SplineMesh component is used.
-- Generate a Mesh visual for the SplineMeshComponent.
-- Make the SplinePathEditor save the spline path changes into the Component.
-- Tell the PrimaryEditor that a Node visual changed from SplinePathEditor after control point moves.
-- Continue plowing through Track Builder features & improvements before LudumDare 56, aka: test #1
-
+- Creating a Data Resource Explorer for speedier file selection (by filtering by type).
+- Create the LudumDare project from Trophy Brawlers copy, rename & remove everything possible.
+- Mess around with theme of Track Builder so we don't need to commit imgui_spectrum stuff.
+- Maybe pizza party? Maybe just go get pizza & eat before 4pm...
+- If time play tsjosts 3 min game
+- Party. Party. Party.
+- Begin LudumDare ideation phase at 6pm when theme is announced.
 
 ## Events / Notices / Coming Soon
 
