@@ -7,6 +7,6 @@
 
 ## Events / Notices / Coming Soon
 
-- October 4th-6th: LudumDare 56, theme unknown
+- October 4th-6th: LudumDare 56, Tiny Creatures
 - October 26-27th: DevOrDie Competition (game jam)
 - October 31st: Halloween / ??Carve a Pumpkin??
