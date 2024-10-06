@@ -1,12 +1,9 @@
-# Objectives for Today 2024-10-04
+# Objectives for Today 2024-10-06
 
-- Creating a Data Resource Explorer for speedier file selection (by filtering by type).
-- Create the LudumDare project from Trophy Brawlers copy, rename & remove everything possible.
-- Mess around with theme of Track Builder so we don't need to commit imgui_spectrum stuff.
-- Maybe pizza party? Maybe just go get pizza & eat before 4pm...
-- If time play tsjosts 3 min game
-- Party. Party. Party.
-- Begin LudumDare ideation phase at 6pm when theme is announced.
+- Business Review of September 2024
+- Indie Tavern with GBGames 9am-10am
+- Working through LudumDare game improvements.
+- Testing Track Builder by making tracks for ludum dare.
 
 ## Events / Notices / Coming Soon
 
