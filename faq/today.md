@@ -1,9 +1,9 @@
-# Objectives for Today 2024-10-06
+# Objectives for Today 2024-10-08
 
-- Business Review of September 2024
-- Indie Tavern with GBGames 9am-10am
-- Working through LudumDare game improvements.
-- Testing Track Builder by making tracks for ludum dare.
+- Start the Triangle of Hell refactor/fixing of loading tracks in game/editor/engine.
+- Around 10am ET Start play Parking Garage Rally Circuit
+- Grab lunch & setup the LudumDare submission page
+- Play and rate ludumdare games after lunch until... tired.
 
 ## Events / Notices / Coming Soon
 
