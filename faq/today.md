@@ -1,9 +1,7 @@
-# Objectives for Today 2024-10-09
+# Objectives for Today 2024-10-12
 
-- Setup small fishbowl camera & stream deck buttons
-- Adding Component to TurtleBrains::Core / Node.
-- Around ~10am ET Start play Parking Garage Rally Circuit
-- Continue Triangle of Hell adding Components & Creators to Engine.
+- Continue Triangle of Hell adding Components & Creators to Engine & using from TrackBuilder.
+- Remove the old creation of visuals & such.
 
 ## Events / Notices / Coming Soon
 
