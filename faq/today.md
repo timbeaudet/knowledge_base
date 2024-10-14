@@ -1,7 +1,10 @@
-# Objectives for Today 2024-10-12
+# Objectives for Today 2024-10-14
 
-- Continue Triangle of Hell adding Components & Creators to Engine & using from TrackBuilder.
-- Remove the old creation of visuals & such.
+- Update the KPIs
+- Update the weekly topic
+- Update the weekly plans
+- Continue working on Triangle of Hell (loading track bundles in game/engine)
+- Trying to add Physics bodies, colliders, triggers
 
 ## Events / Notices / Coming Soon
 
