@@ -1,20 +1,35 @@
 # Objectives for Today 2024-10-14
 
-- LudumDare: PainPoint: Crashed!!! Removed a string property from a Component.
-		Had a component "Racetrack Information" that added a "next_track" string property. Eventually moved that to
-	  another component and in doing so removed it from the "Racetrack Information" component to avoid confustion.
-		Upon loading TrackBuilder after doing this, then opening a .trk that had a Node/Component with RaceTrack Info
-		and the next_track property, it crashed; seemingly in the ImGui GadgetInspector, and I even saw that it had
-		the whole next_track field... so perhaps something with apply/remove prefab?  It only crashes once the
-		racetrack / bad object was clicked on.
+☐ LudumDare: PainPoint: Found spawn point kept resetting when modifying default.trk
+	I think this is prefabs within prefabs, racetrack had a prefab spawn point - and it might even involve
+	modifying the racetrack prefab (I changed a Track Name poperty); but moving the spawnpoint and saving will
+	work, then reopen make changes to that racetrack property and save and I think it moves back to OG position?
+☐ LudumDare: PainPoint: A SplineMesh component added to Prefab re-enabled itself?
+	https://www.twitch.tv/timbeaudet/clip/AssiduousFrailWhaleKeepo-PVpMMLxynJCv8SuQ
+ 
+	Seems to be ApplyToPrefab automatically enabled a disabled component. I'm pretty sure we discovered that the
+	component active state is not overrideable, or even really saved/loaded properly. I think it follows the
+	same type of issue Node active/name/transform state had before the NodeComponent refactor.
+	☐ 2024-10-06: LudumDare: PainPoint: Can't apply/revert active state of component to a prefab.
+		This isn't a property, so that makes some sense, but yup... where else would that data get saved?
 
-    The Code crashed in
-		DynamicStructure(const DynStruct& other) with a bad mValueType (messed up data, or something... maybe loading
-		a track file gets disrupted somehow?? Seems unlikely... but also the data was messed up)
+☐ LudumDare: PainPoint: Single Node Prefabs don't keep rotation/scale when Instantiating.
+	I had added a BoxCollider to a "finish_zone" node. Which was then modified by quickly scaling the node rather
+	than editing the Size/Center of the BoxCollider. This was all good until I made it a prefab object. Then 
+	adding the prefab broked because the Prefab RootNode wipes out the scale/rotation/translation (IE Identity...)
+	Perhaps we need to keep scale only? That seems odd.
 
-    It appears to be something with an override, and I say this because I was able to put the component property
-		back and then proceeded to remove any overrides, removed the property from the component and reloaded just
-		fine.
+	Hey, guess what. This happened again... This time I added Mesh, scaled up the Node and made a prefab but
+	placing that prefab killed scale. Worked around by adding a mesh node which got scaled up.
+
+	I believe the solution here is to force prefabs to have/used a "root node" that somehow gets removed on
+	instantiation? The rootNode would always be at origin, the other node then keeps rotation/scale. Possibly
+	a different way to look/solve it might be to simply SetPosition(Origin) versus SetIdentity(). This should
+	probably have a unit test since it is the desired work flow model.
+
+☐ PainPoint: Prefabs probably need to save with a Root node (breaking format)
+	This is almost certainly how we should be solving the "scaled/rotated" issue listed in another painpoint
+	where I tried having scale applied to a object and then instantiating the prefab reset the scale/rotation
 
 Among other Track Builder painpoints from LudumDare 56 weekend.
 
