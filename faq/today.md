@@ -1,9 +1,8 @@
-# Objectives for Today 2024-10-23
+# Objectives for Today 2024-10-24
 
-- Continue working on splitting Transform into three properties: Position, Rotation, Scale for prefab overrides.
-- Fixing the Scale issue in the apply transform test.
-- Making a stronger test with the apply transform test.
-- Potentially trying to create a Rigidbody component, and add non static/global colliders to a Node.
+- Continue working root / single node prefabs retaining scale/rotation etc on instantiation.
+- This will break old tests that expected prefab roots to be at the origin.
+- Very unlikely, but maybe trying to create a Rigidbody component, and add non static/global colliders to a Node.
 
 Among other Track Builder painpoints from LudumDare 56 weekend.
 
