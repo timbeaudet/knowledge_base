@@ -27,7 +27,7 @@
 ## Moving a Repository from Gitea to Github (or elsewhere)
 - Create a new repository on github, do not initialize repo with anything. No readme, .gitignore or license
 - Use `git remote set-url origin git@github.com:TyreBytes/<REPOSITORY_NAME>.git` on each machine accessing the repo.
-- On the very first machine, or ideally the one with most recent changes, run a `git push` to send repo to Github.
+- On the very first machine, or ideally the one with most recent changes, run a `git push --all` to send repo to Github. `git push --tags`
 - Profit?
 
 ## Renaming from master Branch to main
