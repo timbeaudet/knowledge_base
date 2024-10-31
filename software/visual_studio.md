@@ -17,3 +17,4 @@ After installing the extensions [install the CurrentSettings](https://github.com
 ## Other tricks and tips
  - Search using symbols; use `CTRL+,` (jobun44)
  - Use `CTRL+K`, `CTRL+\` to remove all trailing whitespace in a file. (extension required)
+ - `CTRL+SHIFT+T` can allow Visual Studio to fuzzy search for a file, so if you wanted to open ice_light.cpp, just type light and it will find it!
