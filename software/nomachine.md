@@ -13,3 +13,5 @@ To fix each time rhino restarts and attempting to connect NoMachine use the foll
 sudo systemctl stop display-manager
 sudo /etc/NX/nxserver --restart
 ```
+
+https://kb.nomachine.com/AR03P00973
