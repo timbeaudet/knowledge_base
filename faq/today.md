@@ -1,10 +1,11 @@
-# Objectives for Today 2024-10-29
+# Objectives for Today 2024-10-31
 
-- Improve Trophy Brawlers as a Template
-- Some renaming, organization, and experimentation...
-- Play/experiment with palette256 ideas.
-
-Among other Track Builder painpoints from LudumDare 56 weekend.
+- Happy Halloween!!!
+- Pumpkin Carving after lunch (about 1pm ET)
+- Cleanup & commit the physics work in ICE/TrackBuilder/Engine
+- Work on updating the game builds...
+  - Turbo Boom on Linux & MacOS
+  - Trailing Brakes to Windows 64bit, etc etc
 
 ## Events / Notices / Coming Soon
 
