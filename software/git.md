@@ -207,6 +207,18 @@ Can even create the code edits first:
 
 If the branch was merged from a different computer after doing a rebase, the branch will remain and you'll need to use `git branch -D`. Be careful!
 
+## Changing to Remote Branch When Doesn't Exist Locally
+
+For some reason `git prp` or `git fetch` or `git fetch --all` was not allowing macOS to let me see a local branch that matched my expectations and typical experience to do this I had to manually create/checkout the local branch while setting up the tracking details to the remote using the following command. You can see all the branches on the remote with `branch -r`
+
+```
+git checkout -b [local-branch-name] [remote-name]/[remote-branch-name]
+
+EX:  git checkout -b release/v0.1.2 origin/release/v0.1.2
+```
+
+[Source](https://graphite.dev/guides/git-branch-not-showing-all-branches)
+
 ## Running Git Bisect to find broken commit:
 
 Go to the root directory  
