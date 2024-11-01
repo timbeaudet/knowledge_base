@@ -16,7 +16,8 @@
 		{	//Run unit tests if --test is present as an argument.
 			if (tbCore::tbString("--test") == argumentValues[argumentIndex])
 			{
-				return (true == TurtleBrains::Core::UnitTest::RunAllTests()) ? 0 : 1;
+ 				const tbCore::tbString testHeader = "Testing " + Version::ProjectVersionString() + " ------------\n";
+				return (true == TurtleBrains::Core::UnitTest::RunAllTests(testHeader)) ? 0 : 1;
 			}
 		}
 
