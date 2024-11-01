@@ -25,6 +25,7 @@
 7. Remove `build_version_xyz` from the `build/abs_build_configuration` file.
 8. Add a `build/version.txt` file if one doesn't exist, set the contents to X.Y.Z of the current project version.
 9. Add a `run/release_notes.md` file for an executable or `release_notes.md` in root directory for framework/tech.
+10. Update or add version.hpp from Trophy Brawlers.
 
 
 ### Update the premake script
