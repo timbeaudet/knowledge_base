@@ -1,8 +1,8 @@
-# Objectives for Today 2024-11-01
+# Objectives for Today 2024-11-02
 
-- Build system for all the projects, get Turbo Boom! (bullet3) building again.
-- Trailing Brakes to Windows 64bit, etc etc
-- Terrible Brakes to Windows 64bit, etc etc
+- A little digging into why projects are failing the nightly builds.
+- Improvements to Trophy Brawlers game template; lots of optins just getting moving.
+  - Potential for: Driving Physics, Multiplayer Fixes, Dynamic Rigidbodies/Trigger Areas
 
 ## Events / Notices / Coming Soon
 
