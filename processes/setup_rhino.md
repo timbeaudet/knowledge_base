@@ -114,6 +114,23 @@ Web stated to do pretty much the following (the first pip may be ignorable) and 
 However that didn't work right away because it wasn't in the PATH, so we had to `vim ~/.profile` to add it, and then `source ~/.profile` to update the env-variables.
 
 
+## Updating to GCC 12
+
+GCC11 was being a butt-head. Really, TrackBuilder & NodeCluster needed a map<> but that doesn't work with a forward declared (or partially declared) type...
+
+```
+sudo apt install gcc-12
+sudo apt install g++-12
+
+ls -la /usr/bin/ | grep gcc-
+rm /usr/bin/gcc
+rm /usr/bin/g++
+ln -s /usr/bin/gcc-12 /usr/bin/gcc
+ln -s /usr/bin/g++-12 /usr/bin/g++
+```
+
+
+
 ## Things to still do
 
 Things to do (everything) _and while doing so, keep these notes up to date_.
