@@ -11,7 +11,7 @@ https://help.github.com/en/articles/generating-a-new-ssh-key-and-adding-it-to-th
 
 1. First generate the ssh-key to use
   `ssh-keygen -t rsa -b 4096 -C "your_email@example.com"`
-2. Allow it to save to default location `/home/username/.ssh/id_rsa`
+2. Allow it to save to default location `/home/username/.ssh/id_rsa` (or on Windows with git bash: `/c/Users/timbeaudet/.ssh/id_rsa`)
 3. Use a passphrase.
 
 ## As Needed
