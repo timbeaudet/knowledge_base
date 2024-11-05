@@ -1,9 +1,8 @@
-# Objectives for Today 2024-11-04
+# Objectives for Today 2024-11-05
 
-- Updating the KPI, Weekly Plans
-- Collecting the racing games released on Steam in October
-- Write channel trailer script
+- Building Racetracks with Splines & Hills
+- Working on physics so AI drivers can use those physics!
 
 ## Events / Notices / Coming Soon
 
-- November 4th: 6am-9am: Market Research, Racing Games on Steam
+Roadtrip camera display (like weather cam) coming to Stream "soon" tm.
