@@ -69,6 +69,21 @@ It appears this setting may be per folder.
 2. Copy the contents, or some of the tasks from: https://github.com/timbeaudet/knowledge_base/blob/main/config/vscode_tasks.json
 3. Use CTRL-SHIFT-B to build, and F8 to navigate the errors (good luck choosing not the first)
 
+### Opening Files from Multiple Directories?
+
+I'm opening files from Turtle Brains, ICE, Track Builder and Game Projects all the time, such as the various release notes etc. You can use `workbench.editor.customLabels.patterns` to customize this and shorten it without the built-in path making the tabs extra long.
+
+```
+	"workbench.editor.customLabels.patterns": {
+		"**/turtle_brains/release_notes.md": "🐢Notes",
+		"**/ice/release_notes.md": "🧊Notes",
+		"**/track_builder/run/release_notes.md": "🚧Notes",
+		"**/turtle_brains/**": "🐢${filename}.${extname}",
+		"**/ice/**": "🧊${filename}.${extname}",
+		"**/track_builder/**": "TRK: ${filename}.${extname}",
+	}
+ ```
+
 ### Some ShortCuts
 
 - Middle-Mouse Button will close the tab without pressing the [x].
