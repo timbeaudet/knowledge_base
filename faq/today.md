@@ -1,4 +1,4 @@
-# Objectives for Today 2024-11-06
+# Objectives for Today 2024-11-07
 
 - How to get friction model to match?
 - Trying to get the friction model to be very close to typical slip model of Unity/Physics etc so that Terrible Brakes can feel right.
