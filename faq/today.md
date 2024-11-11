@@ -1,9 +1,9 @@
-# Objectives for Today 2024-11-08
+# Objectives for Today 2024-11-11
 
-- Stream Day Friday (4 or so morning hours)
-- Open the overlay / bot and attempt to fix bugs & add new features.
-- Fix bot "sleeping" when grabbing subs.
-- Tryg to see why overlay stops showing followers when running long time.
+- Updating the KPI
+- Update the Weekly Plans
+- Collect the rest of the racing games on Steam (October 2024)
+- Keep trying to tackle the BasicSlip physics model & matching Unity/PhysX
 
 (later / tomorrow)
 
