@@ -1,7 +1,7 @@
-# Objectives for Today 2024-11-12
+# Objectives for Today 2024-11-13
 
 - Keep trying to tackle the BasicSlip physics model & matching Unity/PhysX
-- Start by tackling Sprung Mass and see if that is expected and if we can get that matching in ICE.
+- Start by dropping a constrained 'test rig' with a spring, sensors for wheel/rig position
 - Then attempt to match longitudinal slip forces and interactions
 - And attempt to match lateral slip forces and interactions
 
