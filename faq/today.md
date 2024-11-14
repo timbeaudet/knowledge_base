@@ -1,8 +1,7 @@
-# Objectives for Today 2024-11-13
+# Objectives for Today 2024-11-14
 
 - Keep trying to tackle the BasicSlip physics model & matching Unity/PhysX
-- Start by dropping a constrained 'test rig' with a spring, sensors for wheel/rig position
-- Then attempt to match longitudinal slip forces and interactions
+- Attempting to match longitudinal slip forces and interactions
 - And attempt to match lateral slip forces and interactions
 
 (later / tomorrow)
