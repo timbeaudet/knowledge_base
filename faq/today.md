@@ -1,8 +1,8 @@
-# Objectives for Today 2024-11-14
+# Objectives for Today 2024-11-21
 
-- Keep trying to tackle the BasicSlip physics model & matching Unity/PhysX
-- Attempting to match longitudinal slip forces and interactions
-- And attempt to match lateral slip forces and interactions
+- Finally Buying Direct Drive Wheel Base & Wheel: Moza R16 & GS V2P GT Wheel
+- getchaotic.com (a website with a password screen)
+- More coding & stuffs... 
 
 (later / tomorrow)
 
