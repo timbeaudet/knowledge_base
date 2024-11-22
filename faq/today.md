@@ -1,14 +1,7 @@
-# Objectives for Today 2024-11-21
+# Objectives for Today 2024-11-22
 
-- Finally Buying Direct Drive Wheel Base & Wheel: Moza R16 & GS V2P GT Wheel
-- getchaotic.com (a website with a password screen)
-- More coding & stuffs... 
-
-(later / tomorrow)
-
-- How to get friction model to match?
-- Trying to get the friction model to be very close to typical slip model of Unity/Physics etc so that Terrible Brakes can feel right.
-- That slip model should fix the sudden spin around issue we've had in Trophy Brawlers; too much grip.
+- Trying to add a Websocket connection from TurtleBot to Twitch to get Events.
+- This should help get followers/subs without polling and info on when Ads will run.
 
 ## Events / Notices / Coming Soon
 
