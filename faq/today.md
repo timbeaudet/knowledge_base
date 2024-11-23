@@ -1,7 +1,8 @@
-# Objectives for Today 2024-11-22
+# Objectives for Today 2024-11-23
 
-- Trying to add a Websocket connection from TurtleBot to Twitch to get Events.
-- This should help get followers/subs without polling and info on when Ads will run.
+- ?? Writing technical article about creating a Prefab System in C++
+- ?? Adding support to InstantiatePrefab in TrackBuilder (or other steps toward Trigger Areas).
+- Definitely going racing in the afternoon, maybe earlier than expected.
 
 ## Events / Notices / Coming Soon
 
