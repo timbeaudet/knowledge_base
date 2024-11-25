@@ -1,4 +1,4 @@
-# Objectives for Today 2024-11-24
+# Objectives for Today 2024-11-25
 
 - Updating the KPI, Weekly Plans etc
 - Collect Racing Games from Steam for one the months
