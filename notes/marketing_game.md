@@ -37,6 +37,8 @@
 - Make sure to use a spellchecker for the text material posted.
 - Read it outloud a few times and try finding any oddities in posted text.
 - Give features a short title/headline then add details. Use colors of [MXGP](https://store.steampowered.com/app/1259800/MXGP_2020__The_Official_Motocross_Videogame/)
+- In announcements on the Steam page link the game/demo (Like [JDM Rise of the Scorpion](https://store.steampowered.com/app/1364930/JDM_Rise_of_the_Scorpion/)
+
 
 ### Do if release Early Access:
 - Put WIP / EA / In Development etc in the screenshots / video. (top banner/corner flag etc)
