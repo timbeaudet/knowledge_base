@@ -1,7 +1,7 @@
-# Objectives for Today 2024-11-25
+# Objectives for Today 2024-11-26
 
-- Updating the KPI, Weekly Plans etc
-- Collect Racing Games from Steam for one the months
+- Discuss potential plans for Turbo Boom!
+- Creating FPT mini-game in Turtle Bot
 - Writing technical article about creating a Prefab System in C++
 
 ## Events / Notices / Coming Soon
