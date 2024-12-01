@@ -1,11 +1,7 @@
-# Objectives for Today 2024-11-26
+# Objectives for Today 2024-12-01
 
-- Discuss potential plans for Turbo Boom!
-- Creating FPT mini-game in Turtle Bot
-- Writing technical article about creating a Prefab System in C++
+- Business Review of November 2024 (looking into December)
 
 ## Events / Notices / Coming Soon
 
-Tim is off Wed-Sat  
-Roadtrip camera display (like weather cam) coming to Stream "soon" tm.  
-  (Road trip happening this week)
+??
