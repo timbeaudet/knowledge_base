@@ -1,9 +1,8 @@
-# Objectives for Today 2024-12-02
+# Objectives for Today 2024-12-03
 
-- KPI Updates & Weekly Plans
-- Collecting Racing Games on Steam from May 2024
-- Fix Turtle Bot oauth stuffs; it isn't refreshing tokens correctly (nor initiating)
-  - We should have the code we want in Trophy Brawlers where players auth their twitch accounts (although it uses server flow?).
+- Commit the Stream Helper changes for OAUTH
+- Physics of Tires, Introduce the Problem
+- Dig into Turbo Boom! slightly, why doesn't the installed version run? (Is it the save settings/etc)
 
 ## Events / Notices / Coming Soon
 
