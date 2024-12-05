@@ -56,9 +56,11 @@
 - [Kinesis Gaming RGB EdgeSplit 2](https://gaming.kinesis-ergo.com/product/freestyle-edge/)
 - [ButtKicker Gamer](https://thebuttkicker.com/products/buttkicker-gamer-plus) ~~with SimVibe~~
 - [Track IR](https://www.trackir.com/) _(rarely used since triples)_
-- [Logitech G29 Steering Wheel](https://www.logitechg.com/en-us/products/driving/driving-force-racing-wheel.html)
+- ~~[Logitech G29 Steering Wheel](https://www.logitechg.com/en-us/products/driving/driving-force-racing-wheel.html)~~
   - ~~Ricmotech Load Cell Brake~~
   - ~~Clutch and Throttle springs replaced with original G29 brake and clutch springs respectively.~~
+- [Moza R16 Base](https://mozaracing.com/product/wheel-base-r16/)
+- [Moza GS V2P GT Wheel](https://mozaracing.com/product/gs-steering-wheel/)
 - [Moza CRP Pedals](https://mozaracing.com/product/crp-pedals)
 - Zephyr HxM Smart (Heartbeat Monitor)
 
