@@ -17,14 +17,7 @@
 - SanDisk 512gb SSD (Linux OS for dual boot)
 - Corsair 5000D Airflow
 
-## Hippo (Linux Home Server)
-
-- Intel i5
-- 2x 2TB in Raid 1
-- 2x 4TB in Raid 1
-- SSD for OS/stuff.
-
-## Rhino [still in setup process] (New Linux Home Server)
+## Rhino (Linux Home Server)
 
 - Intel i5 12600K 10 cores 3.7 GHz
 - Cooler Master Hyper 212
@@ -34,6 +27,13 @@
 - EVGA 500 BQ PSU (500w)
 - 2x 8TB (WD Red Plus) for Storage (Raid 1)
 - 500GB WD Blue M.2 for OS
+
+## Hippo (Old Linux Home Server)
+
+- Intel i5
+- 2x 2TB in Raid 1
+- 2x 4TB in Raid 1
+- SSD for OS/stuff.
 
 ## Falcon (Windows Test Machine)
 
