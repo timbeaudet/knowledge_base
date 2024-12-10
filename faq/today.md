@@ -1,11 +1,8 @@
 # Objectives for Today 2024-12-09
 
-- Update the Key Performance Indicators
-- Update the weekly plans, what ever may we do?
-- Collect Racing Games released on Steam in May 2024
-- Writing Prefab Article?
-- Maybe playtest a racing game?
+- Investigate lateral slip and yaw angle/rate for Terrible Brakes Unity vs ICE.
+- Continue working on tire physics
 
 ## Events / Notices / Coming Soon
 
-??
+January 6th -> January 17th: Experimenting with streaming from 3am -> 11am!!!
