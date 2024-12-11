@@ -1,4 +1,4 @@
-# Objectives for Today 2024-12-09
+# Objectives for Today 2024-12-11
 
 - Investigate lateral slip and yaw angle/rate for Terrible Brakes Unity vs ICE.
 - Continue working on tire physics
