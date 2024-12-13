@@ -3,6 +3,7 @@
 - Emotes work order brainstorming & writing
 - Getting following event going through the EventSub path.
 - Creating first place trophy database?
+- Writing the prefab article.
 - Maybe playing with Telemetry Buddy for Distance Driven / Incident tracking.
 
 ## Events / Notices / Coming Soon
