@@ -1,7 +1,9 @@
-# Objectives for Today 2024-12-11
+# Objectives for Today 2024-12-13
 
-- Investigate lateral slip and yaw angle/rate for Terrible Brakes Unity vs ICE.
-- Continue working on tire physics
+- Emotes work order brainstorming & writing
+- Getting following event going through the EventSub path.
+- Creating first place trophy database?
+- Maybe playing with Telemetry Buddy for Distance Driven / Incident tracking.
 
 ## Events / Notices / Coming Soon
 
