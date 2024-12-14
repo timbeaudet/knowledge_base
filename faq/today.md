@@ -1,10 +1,8 @@
-# Objectives for Today 2024-12-13
+# Objectives for Today 2024-12-14
 
+- Playing with Telemetry Buddy for Distance Driven / Incident tracking.
 - Emotes work order brainstorming & writing
-- Getting following event going through the EventSub path.
-- Creating first place trophy database?
 - Writing the prefab article.
-- Maybe playing with Telemetry Buddy for Distance Driven / Incident tracking.
 
 ## Events / Notices / Coming Soon
 
