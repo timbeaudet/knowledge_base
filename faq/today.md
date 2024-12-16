@@ -1,8 +1,9 @@
-# Objectives for Today 2024-12-14
+# Objectives for Today 2024-12-16
 
-- Playing with Telemetry Buddy for Distance Driven / Incident tracking.
-- Emotes work order brainstorming & writing
-- Writing the prefab article.
+- Update the Key Performance Indicators
+- Updating the weekly plans.
+- Writing the prefab article
+- Physics of Tires & Terrible Brakes in ICE???
 
 ## Events / Notices / Coming Soon
 
