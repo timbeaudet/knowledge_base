@@ -1,9 +1,9 @@
-# Objectives for Today 2024-12-16
+# Objectives for Today 2024-12-17
 
-- Update the Key Performance Indicators
-- Updating the weekly plans.
-- Writing the prefab article
-- Physics of Tires & Terrible Brakes in ICE???
+- Physics of Tires & Terrible Brakes in ICE!
+- What is the sprung mass of each of the wheels in TerribleBrakes Unity?
+- How much does that differ from TerribleBrakes in ICE? (And how can we make it more similar!)
+- Maybe a diagnostic display for spring compression for each wheel on the vehicle diagnostics screen.
 
 ## Events / Notices / Coming Soon
 
