@@ -1,8 +1,7 @@
-# Objectives for Today 2024-12-17
+# Objectives for Today 2024-12-18
 
 - Physics of Tires & Terrible Brakes in ICE!
-- What is the sprung mass of each of the wheels in TerribleBrakes Unity?
-- How much does that differ from TerribleBrakes in ICE? (And how can we make it more similar!)
+- Why is the ICE version going faster than the Unity version?
 - Maybe a diagnostic display for spring compression for each wheel on the vehicle diagnostics screen.
 
 ## Events / Notices / Coming Soon
