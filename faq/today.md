@@ -1,6 +1,8 @@
-# Objectives for Today 2024-12-18
+# Objectives for Today 2024-12-19
 
 - Physics of Tires & Terrible Brakes in ICE!
+- What is happening with the primary collider slamming into the ground on the Vehicle Drop test?
+  - This seems to cause front wheels to stay fully compressed, I think CoM issue?
 - Why is the ICE version going faster than the Unity version?
 - Maybe a diagnostic display for spring compression for each wheel on the vehicle diagnostics screen.
 
