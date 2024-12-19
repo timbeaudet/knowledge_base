@@ -8,4 +8,4 @@
 
 ## Events / Notices / Coming Soon
 
-January 6th -> January 17th: Experimenting with streaming from 3am -> 11am!!!
+January 6th -> January 17th: Experimenting with streaming from 3am ET -> 11am ET!!!
