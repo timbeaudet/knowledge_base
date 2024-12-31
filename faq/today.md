@@ -1,10 +1,14 @@
-# Objectives for Today 2024-12-30
+# Objectives for Today 2024-12-31
 
-- Update the KPI's
-- Begin End of Year Review
-- Begin New Goals of 2025
+- The last and final day of 2024.
+- Tomorrow is a New Year!
+- End of Year Review 2024
+- Review / Finalize New Goals of 2025
+
 
 ## Events / Notices / Coming Soon
+
+January 6th -> January 17th: Experimenting with streaming from 3am ET -> 11am ET!!!
 
 - Physics of Tires & Terrible Brakes in ICE!
 - What is happening with the primary collider slamming into the ground on the Vehicle Drop test?
@@ -14,4 +18,3 @@
 - Maybe a diagnostic display for spring compression for each wheel on the vehicle diagnostics screen.
   - Objective: Diagnose if the spring compression is causing the spin issues.
 
-January 6th -> January 17th: Experimenting with streaming from 3am ET -> 11am ET!!!
