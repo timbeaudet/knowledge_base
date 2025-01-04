@@ -1,7 +1,6 @@
-# Objectives for Today 2025-01-03
+# Objectives for Today 2025-01-04
 
 - Art practice, what is building a new car like in Blender?
-- Marketing / Art practice? Creating a Ticket for Business Review (promoting the stream).
 - Plausible: Twitch Bot work; why are followers not showing without restart overlay still?
 - Diving into and starting Turbo Boom! Demo (Coming Soon)
 
