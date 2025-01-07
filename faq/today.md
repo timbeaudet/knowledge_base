@@ -1,13 +1,9 @@
-# Objectives for Today 2025-01-06
+# Objectives for Today 2025-01-07
 
-- Update the KPI's of the Adventure
-- Update the weekly plans for Week #2
-- Collect all racing games released on Steam in December 2024
-- Breaking Down Steam Payment by Game
-- Finalize / Update End of Year Review
-- Create 1 30-60 second video for YouTube shorts/socials etc to promote? GameDev strim.
-- Creating announcement material & other marketings for Turbo Boom! demo
-- Diving into and starting Turbo Boom! Demo (Tomorrow is Codes)
+- Investigate why particles are discolored (likely due to bloom/ao upgrades of 2022)
+- Fix the discolored particles
+- At least 1 hour of art practice or improving visuals for Turbo Boom!
+- Maybe more demo work, demonstration not demolition!
 
 ## Events / Notices / Coming Soon
 
