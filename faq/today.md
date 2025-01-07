@@ -4,6 +4,9 @@
 - Fix the discolored particles
 - At least 1 hour of art practice or improving visuals for Turbo Boom!
 - Maybe more demo work, demonstration not demolition!
+- Fix the missile launch direction, something messed up the transforms - probably something changed in engine maths.
+- Fix the User Interface scaling wrong at 1280x720 (working okay at 1080p)
+- Fix the Window startup position/size (this doesn't save... probably because old versions would constantly move)
 
 ## Events / Notices / Coming Soon
 
