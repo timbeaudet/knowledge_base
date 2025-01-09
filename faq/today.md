@@ -1,9 +1,9 @@
-# Objectives for Today 2025-01-08
+# Objectives for Today 2025-01-09
 
 - Just Chatting as we Get started & warmed up.
-- Making reddit post looking for artist for Turbo Boom! UI Update
-- Create a demo build for turbo boom, as a separate 'project' build thing.
-- Start hooking up steam api for leaderboards & ghosts??
+- Updating reddit post and collecting the artist info for Turbo Boom! in a sheet, along with questions to ask candidates.
+- Start hooking up steam api for leaderboards & ghosts, see how far that gets.
+- Stream END by 10am ET - car to mechanic
 
 ## Events / Notices / Coming Soon
 
