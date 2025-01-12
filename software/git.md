@@ -168,6 +168,10 @@ Doesn't actually matter if on master, but master must be up to date.
 `git merge --no-ff feature/name`        feature/name can be omitted if you use `-` instead to represent "previous"  
 `git push`  
 
+If you accidently had local commits and had to rebase them changing history use `push --force-with-lease --force-if-includes` because it doesn't override stuff somebody else/other machines may have pushed and will error if you haven't `git prp` (git pull --rebase=preserve). 
+https://git-scm.com/docs/git-push#Documentation/git-push.txt---no-force-with-lease
+https://git-scm.com/docs/git-push#Documentation/git-push.txt---no-force-if-includes
+
 To continue working on the branch, after merging to master, do  
 `git checkout feature/name && git rebase master --preserve-merges`
 
