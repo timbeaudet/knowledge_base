@@ -160,11 +160,11 @@ Doesn't actually matter if on master, but master must be up to date.
 
 **Do code edits once finished...**
 
-`git checkout master`                   Make sure master is all up-to-date, this and pull.  
+`git checkout release/vX.Y.Z`                   Make sure master is all up-to-date, this and pull.  
 `git pull --rebase=preserve`            Make sure to preserve the railroad tracks.  
 `git checkout feature/name`             Make sure to checkout the feature branch where work was done.  
-`git rebase master --preserve-merges`   Replays all feature commits on top of anything in master, while keeping any merged history.
-`git checkout master`                   
+`git rebase release/vX.Y.Z --rebase-merges`     Replays all feature commits on top of anything in master, while keeping any merged history.
+`git checkout release/vX.Y.Z`                   
 `git merge --no-ff feature/name`        feature/name can be omitted if you use `-` instead to represent "previous"  
 `git push`  
 
