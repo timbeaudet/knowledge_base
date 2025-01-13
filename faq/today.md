@@ -4,6 +4,7 @@
 - Updating the Weekly KPI of the adventure.
 - Updating the weekly plans for Week #3
 - Creating, Planning and Preparing Demo announcement content
+- Save enough energy to shoot the trailer channel video post stream!
 - Paws the Steam Distribution and Steam Leaderboards for Marketing Monday
 - Attempt to build Turbo Boom! on macOS and Linux to 'see' where it is at, does it go smoothly?
 - Create a distribute to steam script to upload (at least the windows build)
