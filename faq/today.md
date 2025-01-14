@@ -1,4 +1,4 @@
-# Objectives for Today 2025-01-12
+# Objectives for Today 2025-01-14
 
 - Just Chatting as we Get started & warmed up.
 - Plenty of SECRETS while we setup the Steam backend for demo & game builds.
