@@ -1,15 +1,11 @@
 # Objectives for Today 2025-01-12
 
 - Just Chatting as we Get started & warmed up.
-- Updating the Weekly KPI of the adventure.
-- Updating the weekly plans for Week #3
-- Creating, Planning and Preparing Demo announcement content
-- Save enough energy to shoot the trailer channel video post stream!
-- Paws the Steam Distribution and Steam Leaderboards for Marketing Monday
-- Attempt to build Turbo Boom! on macOS and Linux to 'see' where it is at, does it go smoothly?
-- Create a distribute to steam script to upload (at least the windows build)
+- Plenty of SECRETS while we setup the Steam backend for demo & game builds.
+- Create a distribute to Steam script to upload Turbo Boom! from rhino.
+- Launch & Play a demo and game from Steam client.
   
-## Back to this soon:
+## Stuff on Paws - Comming Back Soon:
 - Continue hooking up steam api for leaderboards & ghosts, see if we can submit and retrieve ghost.
 - Assuming ghosts / leaderboards work quickly, start the distribute to steam scripts. :O
 
