@@ -74,6 +74,7 @@ git config --global alias.cm 'commit --message'
 git config --global alias.cam 'commit --all --message'
 git config --global alias.pr 'pull --rebase'
 git config --global alias.prp 'pull --rebase=merges'  (or git config --global alias.prp 'pull --rebase=preserve')
+git config --global alias.rbm 'rebase --rebase-merges'
 git config --global alias.pra 'pull --rebase --autostash'
 git config --global alias.b 'branch'
 git config --global alias.co 'checkout'
@@ -161,9 +162,9 @@ Doesn't actually matter if on master, but master must be up to date.
 **Do code edits once finished...**
 
 `git checkout release/vX.Y.Z`                   Make sure master is all up-to-date, this and pull.  
-`git pull --rebase=preserve`            Make sure to preserve the railroad tracks.  
+`git pull --rebase=preserve`            Make sure to preserve the railroad tracks, aliased to `git prp`.  
 `git checkout feature/name`             Make sure to checkout the feature branch where work was done.  
-`git rebase release/vX.Y.Z --rebase-merges`     Replays all feature commits on top of anything in master, while keeping any merged history.
+`git rebase --rebase-merges release/vX.Y.Z`     Replays all feature commits on top of anything in master, while keeping any merged history, aliased to `git rbm`.
 `git checkout release/vX.Y.Z`                   
 `git merge --no-ff feature/name`        feature/name can be omitted if you use `-` instead to represent "previous"  
 `git push`  
