@@ -1,18 +1,15 @@
-# Objectives for Today 2025-01-16
+# Objectives for Today 2025-01-17
 
 - Just Chatting as we Get started & warmed up.
-- Bring the Steam connection branch back to v0.4.8 for now; connection & leaderboards have been 'started'
-- Fix the controller maximum axes issue tsjost found with RGB Keyboard.
-- Create a before / after renderdoc for async with shakesoda help.
 - Update the arts required on the Steam backend for GAME, DEMO and PLAYTEST pages (collect all the green checkmarks).
-- Record (or find a volunteer) raw gameplay footage.
-- Run down the Demo / Game todo lists and knock out as many as we can.
+- Collect and probably stitch together some of the channel trailer b-roll / non-face footage.
+- Around 9:30 to 10:am ET (after a slightly longer lunch break to prepare) Kindle Batter Swap & Fall Guys.
+- Stream end at 1pm ET because virtual coffee meetup with indie dev.
 
 ## Post Stream
 
-- Prepare for kindle battery stream, (workspace, mic setup).
 - Contact fiverr artist and get the emotes job moving forward.
-- Don't forget coffee meet Friday 2pm
+- Coffee meet Friday 2pm
 
 ## Events / Notices / Coming Soon
 
