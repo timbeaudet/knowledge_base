@@ -1,4 +1,4 @@
-# Objectives for Today 2025-01-17
+# Objectives for Today 2025-01-20
 
 - Just Chatting as we Get started & warmed up.
 - Update the KPI for the adventure (including add a new KPI)
