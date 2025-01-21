@@ -1,11 +1,9 @@
-# Objectives for Today 2025-01-20
+# Objectives for Today 2025-01-21
 
 - Just Chatting as we Get started & warmed up.
-- Update the KPI for the adventure (including add a new KPI)
-- Update the weekly plans for Week #4
-- Write announcement(s) for Turbo Boom! Leaderboards feature, Demo announce date etc.
-- Doubtful: Collect and probably stitch together some of the channel trailer b-roll / non-face footage.
-- Stream end at 6am ET because Miata goes to mechanic.
+- Planning out the Tyre Bytes Tool Box a little bit.
+- Finding something random to polish in Turbo Boom!
+- Art practice, play around in Blender modeling.
 
 ## Post Stream
 
