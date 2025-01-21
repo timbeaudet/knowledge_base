@@ -2,7 +2,8 @@
 
 - Just Chatting as we Get started & warmed up.
 - Planning out the Tyre Bytes Tool Box a little bit.
-- Finding something random to polish in Turbo Boom!
+- Fix all the warning in the Turbo Boom! code base (compile without warnings on MSVC & GCC)
+- Remove changing of name when connected to Steam (force name = steam name)
 - Art practice, play around in Blender modeling.
 
 ## Post Stream
