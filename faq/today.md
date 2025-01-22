@@ -1,9 +1,10 @@
-# Objectives for Today 2025-01-21
+# Objectives for Today 2025-01-22
 
 - Just Chatting as we Get started & warmed up.
-- Planning out the Tyre Bytes Tool Box a little bit.
-- Fix all the warning in the Turbo Boom! code base (compile without warnings on MSVC & GCC)
-- Remove changing of name when connected to Steam (force name = steam name)
+- Fixed the game sales by year on 2025 tracker (new Turbo Boom KPI messed it up)
+- Created the Winter to Mechanic Road trip video and exporting for stream.
+- More Cleanup of TurboBoom: Bring TurboBoom Physics into namespace.
+- Find and Delete the files that we remove now (application handler being one)
 - Art practice, play around in Blender modeling.
 
 ## Post Stream
@@ -13,7 +14,4 @@
 
 ## Events / Notices / Coming Soon
 
-January 17th around 10am ET (1500 UTC) -> Kindle Battery Swap & Fall Guys afternoon.
 Continue the 3am experiment until end of January, normal 6am-2 schedule for February
-
-
