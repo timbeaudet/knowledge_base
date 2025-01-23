@@ -1,10 +1,8 @@
-# Objectives for Today 2025-01-22
+# Objectives for Today 2025-01-23
 
 - Just Chatting as we Get started & warmed up.
-- Fixed the game sales by year on 2025 tracker (new Turbo Boom KPI messed it up)
-- Created the Winter to Mechanic Road trip video and exporting for stream.
-- More Cleanup of TurboBoom: Bring TurboBoom Physics into namespace.
-- Find and Delete the files that we remove now (application handler being one)
+- Writing on the Prefab Article & Steam News/Announcements for Turbo Boom!
+- Replacing Kindle 3G Keyboard screen (sometime around 8am-10am ET)
 - Art practice, play around in Blender modeling.
 
 ## Post Stream
