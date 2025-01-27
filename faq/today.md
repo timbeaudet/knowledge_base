@@ -2,6 +2,9 @@
 
 - Just Chatting as we Get started & warmed up.
 - Secret Updates on WebHost
+- Update KPI
+- Update Weekly Plans
+- Post weekly topic
 - Writing Steam News/Announcements for Turbo Boom!
 - Writing on the Prefab System Series of Articles
 - Likely a short day, likely no stream tomorrow due to Pathfinder
