@@ -1,8 +1,10 @@
-# Objectives for Today 2025-01-24
+# Objectives for Today 2025-01-27
 
 - Just Chatting as we Get started & warmed up.
-- Work on some Turtle Bot / Overlay for stream, getting First Place Trophy
-- Writing on the Prefab Article & Steam News/Announcements for Turbo Boom!
+- Secret Updates on WebHost
+- Writing Steam News/Announcements for Turbo Boom!
+- Writing on the Prefab System Series of Articles
+- Likely a short day, likely no stream tomorrow due to Pathfinder
 
 ## Events / Notices / Coming Soon
 
