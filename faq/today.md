@@ -1,13 +1,8 @@
-# Objectives for Today 2025-01-27
+# Objectives for Today 2025-01-29
 
 - Just Chatting as we Get started & warmed up.
-- Secret Updates on WebHost
-- Update KPI
-- Update Weekly Plans
-- Post weekly topic
-- Writing Steam News/Announcements for Turbo Boom!
-- Writing on the Prefab System Series of Articles
-- Likely a short day, likely no stream tomorrow due to Pathfinder
+- Tring to understand Turtle Brains Scene management and add 'transition scenes'.
+- Maybe writing on the Prefab System Series of Articles later.
 
 ## Events / Notices / Coming Soon
 
