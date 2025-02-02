@@ -1,11 +1,10 @@
-# Objectives for Today 2025-01-31
+# Objectives for Today 2025-02-02
 
 - Just Chatting as we Get started & warmed up.
-- Fix qualifying points after championship is announced?
-- TurtleBot -> TwitchEvents needs to handle timeout/keep-alive messages.
-- macOS hot-reloading support in TurtleBrains
-- Writing on the Prefab System Series of Articles later.
-- NOTICE: STREAM END AT 7:30, may do a second stream, may go racing/practice.
+- Do the finance 'statement' for January 2025 (income/expense etc)
+- Business Review for January 2025
+- Indie Tavern with GBGames
+- Maybe some art practice, finally?
 
 ## Events / Notices / Coming Soon
 
