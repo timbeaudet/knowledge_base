@@ -11,6 +11,9 @@
 - Write on the prefab article series?
 - Art practice, create a new hexagon tile!
 
+TOMORROW: Try seeing how much time it would take to peek at the "released yesterday" games and make a content post of it.
+  Theory: Telling fans of racing/driving games that games are out, might be a good way to build a base of the right general audience.
+
 ## Events / Notices / Coming Soon
 
 - Circle back to Turtle Brains Scene management and add 'transition scenes'.
