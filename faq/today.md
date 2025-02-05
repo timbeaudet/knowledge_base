@@ -1,7 +1,6 @@
-# Objectives for Today 2025-02-04
+# Objectives for Today 2025-02-05
 
 - Just Chatting as we Get started & warmed up.
-- Get Turtle Bot reauthorized (need to eventually automate...)
 - Create the Tyre Bytes Tool Box to start supporting Steam Leaderboards & more.
 - Art practice, create a new hexagon tile!
 - Write on the prefab article series?
