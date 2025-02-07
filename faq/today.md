@@ -1,4 +1,4 @@
-# Objectives for Today 2025-02-06
+# Objectives for Today 2025-02-07
 
 - Just Chatting as we Get started & warmed up.
 - Try figuring out RefreshTokens in TurtleBot (keeps requiring manual reauth)
