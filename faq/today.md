@@ -1,14 +1,9 @@
-# Objectives for Today 2025-02-17
+# Objectives for Today 2025-02-18
 
 - Just Chatting as we Get started & warmed up.
-- Update the KPI of the adventure
-- Update the Weekly Plans for Week #8
-- Update a Weekly Topic / question on reddit/discord.
-- Writing a Update for Turbo Boom game page (maybe about live streaming, features under development?)
-- Attempt to find/fix Turtle Bot Twitch Events crash
-- Art practice: Create new thumbnails for YouTube stream
+- Run through the emotes that had GREEN level feedback for double check.
+- Try fixing macOS bullet3 build issues, build without SIMD or other solutions?
 - Writing more on the Prefab Article series.
-- Maybe: Create a Steam build, try to fix macOS build issue
 
 ## Events / Notices / Coming Soon
 
