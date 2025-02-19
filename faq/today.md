@@ -1,9 +1,10 @@
-# Objectives for Today 2025-02-18
+# Objectives for Today 2025-02-19
 
 - Just Chatting as we Get started & warmed up.
-- Run through the emotes that had GREEN level feedback for double check.
-- Try fixing macOS bullet3 build issues, build without SIMD or other solutions?
+- Run through the emotes that had PURPLE level feedback for double check.
+- Fix hot-reloading support in macOS, maybe even identify why it "clean rebuilds" every time...
 - Writing more on the Prefab Article series.
+- Short day, end by 11:30 for virtual coffee-meet an indie developer
 
 ## Events / Notices / Coming Soon
 
