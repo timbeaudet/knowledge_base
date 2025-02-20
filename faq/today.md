@@ -1,10 +1,9 @@
 # Objectives for Today 2025-02-19
 
 - Just Chatting as we Get started & warmed up.
-- Run through the emotes that had PURPLE level feedback for double check.
-- Fix hot-reloading support in macOS, maybe even identify why it "clean rebuilds" every time...
+- Dig slightly into Turtle Bot crash on reconnection.
+- Scene transitions from A to B in Turbo Boom! / Turtle Brains.
 - Writing more on the Prefab Article series.
-- Short day, end by 11:30 for virtual coffee-meet an indie developer
 
 ## Events / Notices / Coming Soon
 
