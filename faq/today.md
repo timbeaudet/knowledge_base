@@ -1,4 +1,4 @@
-# Objectives for Today 2025-02-19
+# Objectives for Today 2025-02-20
 
 - Just Chatting as we Get started & warmed up.
 - Dig slightly into Turtle Bot crash on reconnection.
