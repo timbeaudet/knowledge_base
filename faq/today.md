@@ -1,10 +1,10 @@
-# Objectives for Today 2025-02-20
+# Objectives for Today 2025-02-21
 
 - Just Chatting as we Get started & warmed up.
-- Dig slightly into Turtle Bot crash on reconnection.
-- Scene transitions from A to B in Turbo Boom! / Turtle Brains.
 - Writing more on the Prefab Article series.
-
+- Scene transitions from A to B in Turbo Boom! / Turtle Brains. (Why RenderTarget's not working?)
+- Going until 'sleepy' then taking a nap/sleep... and seeing how the day unfolds. Didn't sleep last night.
+  
 ## Events / Notices / Coming Soon
 
 
