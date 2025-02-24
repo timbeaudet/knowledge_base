@@ -1,8 +1,12 @@
-# Objectives for Today 2025-02-23
+# Objectives for Today 2025-02-24
 
 - Just Chatting as we Get started & warmed up.
+- Update the KPI for the adventure
+- Update the weekly planed for Week #9
+- Thumbnail for Business Review on Sunday
+- Write a couple YouTube description blocks for future Streams.
 - Writing more on the Prefab Article series.
-- Cleanup scene transitions from A to B in Turbo Boom! / Turtle Brains. (Why RenderTarget's not working?)
+- Marketing research; playing & review of a racing game on Steam.
   
 ## Events / Notices / Coming Soon
 
