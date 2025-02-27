@@ -1,11 +1,10 @@
-# Objectives for Today 2025-02-26
+# Objectives for Today 2025-02-27
 
 - Just Chatting as we Get started & warmed up.
-- Polygon button support for Turbo Boom!
+- Work on Stencil Buffer support in TurtleBrains for non-rectangular clipping areas.
 - Increasing polish & celebrations after victory!
 - Adding placeholder comic book area / scene
 - Maybe: Writing more on the Prefab Article series.
-- Marketing research; playing & review of a racing game on Steam.
   
 ## Events / Notices / Coming Soon
 
