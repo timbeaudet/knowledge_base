@@ -1,9 +1,8 @@
-# Objectives for Today 2025-03-14
+# Objectives for Today 2025-03-18
 
 - Just Chatting as we Get started & warmed up.
-- Consider if pitching Turbo Boom! to publishers is worthwhile.
-- Writing more on the Prefab Article series.
-- Add additional debug logging to TurtleBrains RenderTarget creation for StencilBuffer support.
-  - Try to pinpoint shakesoda's issue the best we can.
-  
+- Update the Weekly Plans
+- Implementing the Turbo Boom! Victory screen.
+- Maybe: Writing more on the Prefab Article series.
+
 ## Events / Notices / Coming Soon
