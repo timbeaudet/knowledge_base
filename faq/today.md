@@ -1,4 +1,4 @@
-# Objectives for Today 2025-03-19
+# Objectives for Today 2025-03-20
 
 - Just Chatting as we Get started & warmed up.
 - Update the Weekly Plans
