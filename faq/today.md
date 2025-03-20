@@ -1,11 +1,8 @@
-# Objectives for Today 2025-03-18
+# Objectives for Today 2025-03-19
 
 - Just Chatting as we Get started & warmed up.
 - Update the Weekly Plans
-- Implementing SDF Font/Text in TurtleBrains/Turbo Boom!
-  - Fixing the alignment / offset / padding issues.
-  - Fixing the power of two texture issues.
-  - Adding support for outlined / dropshadow effects.
-- Maybe: Writing more on the Prefab Article series.
+- Writing more on the Prefab Article series.
+- Maybe: Open up Track Builder and hack things around to open/save (super legacy) Turbo Boom! tracks.
 
 ## Events / Notices / Coming Soon
