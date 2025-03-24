@@ -5,6 +5,6 @@
 - Update the weekly plans.
 - Update a weekly topic.
 - Prepare article 1 and 2 for release on dev.to and perhaps even reddit. (maybe even personal blog as well?) 
-- Editing and Writing more on the Prefab Article series, hopefully to FINISH it.
+- Editing and Writing #3, #4 and #5 of the Prefab Article series.
 
 ## Events / Notices / Coming Soon
