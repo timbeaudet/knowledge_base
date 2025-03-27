@@ -2,8 +2,8 @@
 
 - Just Chatting as we Get started & warmed up.
 - How did Windows nightly builds go last night with git branch adjustments?
-- Try and FINALIZE Article 1 & 2 of Prefab System to dev.to / reddit / blog (incl images)
-- Putting interface art into game!! Wooo. Probably Main Menu & Settings.
+- Putting interface art into game!! Wooo. Probably Level Select / Information screens.
+- Day ends by lunch time, might even be an early lunch...
 
 ## Events / Notices / Coming Soon
 
