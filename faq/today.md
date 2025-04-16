@@ -1,7 +1,6 @@
-# Objectives for Today 2025-04-15
+# Objectives for Today 2025-04-16
 
 - Just Chatting as we Get started & warmed up.
-- Update the weekly plans
 - Putting art from art deliveries into Turbo Boom! UI.
 - Creating art / poster / stream content for BOOK CLUB: Game Feel
 - Maybe look into a 3 hour game for LD.
