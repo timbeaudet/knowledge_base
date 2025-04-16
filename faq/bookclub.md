@@ -1,7 +1,7 @@
 
 # Book Club
 
-Reading through [Game Feel](https://www.amazon.com/dp/0123743281) and discussing each section as we do. 
+[JustinSix](https://www.twitch.tv/justinsix) and I will be reading through [Game Feel](https://www.amazon.com/dp/0123743281) and discussing each section as we do. If you'd like to join read each section before the stream and let us know your thoughts/questions. Lets learn to make better games.
 
 ## Schedule:
 
