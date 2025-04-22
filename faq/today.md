@@ -1,9 +1,10 @@
 # Objectives for Today 2025-04-16
 
 - Just Chatting as we Get started & warmed up.
+- Update KPI, Weekly plans
 - Putting art from art deliveries into Turbo Boom! UI.
+- Create BVH for Mesh Colliders.
 - Creating art / poster / stream content for BOOK CLUB: Game Feel
-- Maybe look into a 3 hour game for LD.
 
 ## Events / Notices / Coming Soon
 
