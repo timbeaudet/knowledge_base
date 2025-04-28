@@ -1,10 +1,11 @@
-# Objectives for Today 2025-04-16
+# Objectives for Today 2025-04-28
 
 - Just Chatting as we Get started & warmed up.
+- **SHORT STREAM TODAY**
 - Update KPI, Weekly plans
+- YouTube video Thumbnail for bookclub ep0.
 - Putting art from art deliveries into Turbo Boom! UI.
-- Create BVH for Mesh Colliders.
-- Creating art / poster / stream content for BOOK CLUB: Game Feel
+- Going to hike & read for bookclub at pond because NICE DAY.
 
 ## Events / Notices / Coming Soon
 
