@@ -1,8 +1,9 @@
-# Objectives for Today 2025-05-02
+# Objectives for Today 2025-05-19
 
 - Just Chatting as we Get started & warmed up.
 - Work on Aspect Ratio Safety for Turbo Boom! settings screen.
-- BOOK CLUB EPISODE ONE!!!!
+- Likely Going on a Roadtrip this summer **[Add Points of Interest](https://tyrebyt.es/trip)** 
+
 
 ## Events / Notices / Coming Soon
 
