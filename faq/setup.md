@@ -82,3 +82,4 @@
 - Logitech G15
 - Razor Blackwidow Ultimate 2013
 - AMD R7 240 2gb (lying around for testing)
+- Dell Latitude 5490 | 14 inch Full HD FHD Business Laptop | Intel 8th Gen i5-8350U Quad Core | 16GB DDR4 | 256GB SSD | Win 10 Pro
