@@ -1,10 +1,10 @@
-# Objectives for Today 2025-05-20
+# Objectives for Today 2025-07-14
 
 - Just Chatting as we Get started & warmed up.
-- Work on a few Turbo Boom! bugs/issues real quick.
-- Dive into a smol, 2 day, project exploring C# as language, .NET and probably a database of sorts: PostgreSQL, MySQL or MongoDB
-  - This task is to refresh the brain on C# and prepare for discussion in job opportunity
-- Likely Going on a Roadtrip this summer **[Add Points of Interest](https://tyrebyt.es/trip)** 
+- Various Announcements
+- Catch up financial sheets... they are ... behind :(
+- Dive back into Turbo Boom! a bit, what is actually needed for release???
+- Potential Roadtrip this summer **[Add Points of Interest](https://tyrebyt.es/trip)** 
 
 
 ## Events / Notices / Coming Soon
