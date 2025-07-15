@@ -1,11 +1,10 @@
-# Objectives for Today 2025-07-14
+# Objectives for Today 2025-07-15
 
 - Just Chatting as we Get started & warmed up.
-- Various Announcements
-- Catch up financial sheets... they are ... behind :(
-- Dive back into Turbo Boom! a bit, what is actually needed for release???
-- Potential Roadtrip this summer **[Add Points of Interest](https://tyrebyt.es/trip)** 
-
+- Shopping for Motorcycle "summer" jacket/shirt for safety & comfort compromise...
+- Dive back into Turbo Boom! (or) Make Some Art in Blender
+- Potential Roadtrip this summer **[Add Points of Interest](https://tyrebyt.es/trip)**
+- Plan the Great Lakes Trip?
 
 ## Events / Notices / Coming Soon
 
