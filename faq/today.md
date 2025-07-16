@@ -1,12 +1,12 @@
-# Objectives for Today 2025-07-15
+# Objectives for Today 2025-07-16
 
 - Just Chatting as we Get started & warmed up.
-- Shopping for Motorcycle "summer" jacket/shirt for safety & comfort compromise...
-- Dive back into Turbo Boom! (or) Make Some Art in Blender
+- Working on the nightly builds to figure out why they are failing so consistently...
+- Look at the general.todo and marketing.todo tasks to find things to do - and make them done.
+- Consider / Planning the Road Trip Reward, or choose where we will set it up!
 - Potential Roadtrip this summer **[Add Points of Interest](https://tyrebyt.es/trip)**
 - Plan the Great Lakes Trip?
 
 ## Events / Notices / Coming Soon
 
-- Optimizing Physics, added a BVH to icePhysics/Terrible Brakes.
-- How did Windows nightly builds go last night (it failed, anything we can solve)?
+- Surprise Guest Discussion at 9am-10am (Tim Time, ET)
