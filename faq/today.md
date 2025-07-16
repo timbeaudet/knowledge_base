@@ -9,4 +9,4 @@
 
 ## Events / Notices / Coming Soon
 
-- Surprise Guest Discussion at 9am-10am (Tim Time, ET)
+- Surprise Guest Discussion Friday at 9am-10am (Tim Time, ET)
