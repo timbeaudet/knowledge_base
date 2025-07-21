@@ -10,4 +10,4 @@
 
 - Consider / Planning the Road Trip Reward, or choose where we will set it up!
 - Working on the nightly builds to figure out why they are failing so consistently...
-- The Pitstop Dialog at 9am-10am (Tim Time, ET)  [ Surprise Guest Discussion  ]
+- The Pitstop Dialog Friday at 9am-10am (Tim Time, ET) 
