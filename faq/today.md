@@ -1,4 +1,4 @@
-# Objectives for Today 2025-07-21
+# Objectives for Today 2025-07-22
 
 - Just Chatting as we Get started & warmed up.
 - Brainstorm: What can we change/focus on in a Racing Game?
