@@ -1,7 +1,8 @@
-# Objectives for Today 2025-07-22
+# Objectives for Today 2025-07-24
 
 - Just Chatting as we Get started & warmed up.
-- Brainstorm: What can we change/focus on in a Racing Game?
+- Brainstorm: What can we change/focus on in a Racing Game? Like what can we remove and still be racing game?
+- Brainstorm: What other genres/mechanics can we make into a good racing themed game?
 - Market Research, Playing Games, Idea Generation
 - Potential Roadtrip this summer **[Add Points of Interest](https://tyrebyt.es/trip)**
 - Plan the Great Lakes Trip?
