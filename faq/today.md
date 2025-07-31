@@ -1,10 +1,11 @@
-# Objectives for Today 2025-07-30
+# Objectives for Today 2025-07-31
 
-- Happy Birthday Month!!!
+- Happy Birthday Month!!! (5+ Gifted Subs 35% off wooo)
 - Just Chatting as we Get started & warmed up.
 
-- Open IDE and code projects and attempt to get nightlies closer to working again...
-- Try finding out why TurtleBot is crashing...
+- Why did nightlies fail on Windows? The riddle of all time!
+- What do all (most) of the projects in the 100 Day Idea Generation have in common???
+- Building a technology / research / uprgrade tree in TurtleBrains!
 - Unlikely Roadtrip this summer **[Add Points of Interest](https://tyrebyt.es/trip)**
 - Possible smaller Great Lakes Trip?
 
