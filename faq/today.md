@@ -1,13 +1,10 @@
-# Objectives for Today 2025-07-31
+# Objectives for Today 2025-08-04
 
-- Happy Birthday Month!!! (5+ Gifted Subs 35% off wooo)
 - Just Chatting as we Get started & warmed up.
-
 - Why did nightlies fail on Windows? The riddle of all time!
-- What do all (most) of the projects in the 100 Day Idea Generation have in common???
+- Does Tyre Bytes try to make an incremental game???????
 - Building a technology / research / uprgrade tree in TurtleBrains!
-- Unlikely Roadtrip this summer **[Add Points of Interest](https://tyrebyt.es/trip)**
-- Possible smaller Great Lakes Trip?
+- Plan out the Great Lakes trip?
 
 ## Events / Notices / Coming Soon
 
