@@ -1,13 +1,9 @@
-# Objectives for Today 2025-08-08
+# Objectives for Today 2025-08-11
 
 - Just Chatting as we Get started & warmed up.
-- **Tyre Bytes is building an incremental racing game!**
-- Write up a report on Loop Hero. Do NOT OPEN LOOP HERO.
-- Begin planning the game to make $15,000
-- Pitstop Dialog with ThornityCo discussing the plan!?
 - Why did nightlies fail on Windows? TrophyBrawlers still failing...
-
-- 
+- **Tyre Bytes is building an incremental racing game!**
+- Begin planning the game to make $15,000
 - Plan out the Great Lakes trip?!
 
 ## Events / Notices / Coming Soon
