@@ -1,9 +1,10 @@
-# Objectives for Today 2025-08-11
+# Objectives for Today 2025-08-12
 
 - Just Chatting as we Get started & warmed up.
-- Why did nightlies fail on Windows? TrophyBrawlers still failing...
+- WINDOWS NIGHTLY BUILDS FINALLY SUCCEEDED!!!
+- Lets make the Linux Nightly Builds stop failing!
 - **Tyre Bytes is building an incremental racing game!**
-- Begin planning the game to make $15,000
+- Continue planning the game to make $15,000
 - Plan out the Great Lakes trip?!
 
 ## Events / Notices / Coming Soon
