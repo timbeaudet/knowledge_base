@@ -1,4 +1,4 @@
-# Objectives for Today 2025-08-13
+# Objectives for Today 2025-08-14
 
 - Just Chatting as we Get started & warmed up.
 - **Tyre Bytes is building an incremental racing game!**
