@@ -1,11 +1,10 @@
-# Objectives for Today 2025-08-16
+# Objectives for Today 2025-08-17
 
 - Just Chatting as we Get started & warmed up.
 - **Tyre Bytes is building an incremental racing game!**
 - Continue planning the game to make $15,000
   - Continue the Turbo Bots Experiment
 - Plan out the Great Lakes trip?!
-- Play a CO-OP run or two of PEAK (not speed runny).
 
 ## Events / Notices / Coming Soon
 
