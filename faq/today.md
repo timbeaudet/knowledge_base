@@ -1,11 +1,8 @@
-# Objectives for Today 2025-08-18
+# Objectives for Today 2025-08-19
 
 - Just Chatting as we Get started & warmed up.
-- Updated the KPI of the adventure.
-- Update the weekly plans
-- Produsign for the incremental games...
-  - How will we talk about these games to the audience?
 - **Tyre Bytes is building an incremental racing game!**
+- EXPERIMENT: CSV data into codes to build tech tree.
 - Plan out the Great Lakes trip?!
 
 ## Events / Notices / Coming Soon
