@@ -2,7 +2,8 @@
 
 - Just Chatting as we Get started & warmed up.
 - **Tyre Bytes is building an incremental racing game!**
-- EXPERIMENT: CSV data into codes to build tech tree.
+- Showing "Truck Yeet" 
+- EXPERIMENT: CSV data into codes to create a MINI incremental game.
 - Plan out the Great Lakes trip?!
 
 ## Events / Notices / Coming Soon
