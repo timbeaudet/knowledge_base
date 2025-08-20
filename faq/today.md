@@ -4,6 +4,8 @@
 - **Tyre Bytes is building an incremental racing game!**
 - Showing "Truck Yeet" 
 - EXPERIMENT: CSV data into codes to create a MINI incremental game.
+- Opening unknown package
+- Announcing little surprise for viewers
 - Plan out the Great Lakes trip?!
 
 ## Events / Notices / Coming Soon
