@@ -1,11 +1,9 @@
-# Objectives for Today 2025-08-19
+# Objectives for Today 2025-08-21
 
 - Just Chatting as we Get started & warmed up.
+- Figure out END TIME.
 - **Tyre Bytes is building an incremental racing game!**
-- Showing "Truck Yeet" 
-- EXPERIMENT: CSV data into codes to create a MINI incremental game.
-- Opening unknown package
-- Announcing little surprise for viewers
+- EXPERIMENT: Create an expandable tech tree to have game control more logic.
 - Plan out the Great Lakes trip?!
 
 ## Events / Notices / Coming Soon
