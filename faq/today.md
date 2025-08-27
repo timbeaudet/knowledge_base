@@ -1,10 +1,11 @@
-# Objectives for Today 2025-08-26
+# Objectives for Today 2025-08-27
 
 - Just Chatting as we Get started & warmed up.
 - **Tyre Bytes is building an incremental racing game!**
-- TODO Tuesday, aka, Trailer Tuesday or Marketing Tuesday... 
+- Marketing Wednesday... 
+- Create content for Discord announcements/event thing.
 - Create an announcement trailer for 100 day game to run on socials, stream etc.
-- Create a new Offline Image to CTA Follow to Watch 100 day Game Oct 1st.
+- Create a sharable document on how the community can help!!
 - Create more content for the teasing and promotions of 100 day game announcements.
 - Plan out the Great Lakes trip?!
 
