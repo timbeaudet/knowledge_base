@@ -1,7 +1,6 @@
 # Objectives for Today 2025-08-29
 
 - Just Chatting as we Get started & warmed up.
-- Created a Good Morning Turtles scene to try using.
 - Create content for Discord announcements/event thing.
 - Create an announcement trailer for 100 day game to run on socials, stream etc.
 - Plan out the Great Lakes trip?!
