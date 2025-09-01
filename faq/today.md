@@ -1,9 +1,9 @@
-# Objectives for Today 2025-08-29
+# Objectives for Today 2025-09-01
 
 - Just Chatting as we Get started & warmed up.
-- Create content for Discord announcements/event thing.
-- Create an announcement trailer for 100 day game to run on socials, stream etc.
+- Update the KPIs of the Adventure... for BluePin
 - Plan out the Great Lakes trip?!
+- Create content for Discord announcements/event thing.
 
 ## Events / Notices / Coming Soon
 
