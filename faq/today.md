@@ -1,9 +1,8 @@
-# Objectives for Today 2025-09-23
+# Objectives for Today 2025-09-24
 
 - Just Chatting as we Get started & warmed up.
 - Catchup on Dev Reports / Hours
-- Create a weekly plan of some sort.
-- Write up the "Time Managment as Indie Dev" article/post.
+- Release 100 Day Game Trailer and Tyre Bytes first Attempt EVER at Running Ads
 - Art Practice create a potential simple city scene.
 - Preproduction / Design / Planning of "100 Day Game"
   
