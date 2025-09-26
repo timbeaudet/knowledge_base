@@ -1,10 +1,17 @@
-# Objectives for Today 2025-09-25
+# Objectives for Today 2025-09-26
 
 - Just Chatting as we Get started & warmed up.
-- Promotional stuff for the 100 day game kickoff party...
-- Discussion on which Game Idea
-- Preproduction / Design / Planning of "100 Day Game"
-- Art Practice create a potential simple city scene.
+- Tiny bits of Promotional stuff for the 100 day game kickoff party...
+- Just Talk Games
+- Favorite games
+- General Game Design
+- What is your favorite moment in a game?
+- How I became a game developer?
+- What was it like in the professional game industry?
+- How I became an Indie Developer?
+- What is full time indie like?
+- Give back to other developers, especially new devs!
+- Playing Games while Discussing Games and Game Dev
   
 ## Events / Notices / Coming Soon
 
