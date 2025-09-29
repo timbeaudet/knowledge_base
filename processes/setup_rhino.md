@@ -19,7 +19,7 @@ sudo systemctl enable sshd && sudo systemctl start ssh
 **Warning: Will take HOURS (10+) with large drives...**  
 I was following [this article](https://www.linuxbabe.com/linux-server/linux-software-raid-1-setup) through these steps, which seems slightly out of date or something.
 
-1. Use `sudo fdisk -l` to get the list of disks and find the storage drives. (for rhino sda and sdb were the storage drives)
+1. Use `lsblk` or `sudo fdisk -l` to get the list of disks and find the storage drives. (for rhino sda and sdb were the storage drives)
 2. Run the following which will wipe all data and partitions from the storage drives. Make sure they are backed up or empty already...
 ```
 sudo parted /dev/sda mklabel gpt
