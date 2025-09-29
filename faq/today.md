@@ -1,18 +1,14 @@
-# Objectives for Today 2025-09-26
+# Objectives for Today 2025-09-29
 
 - Just Chatting as we Get started & warmed up.
-- Tiny bits of Promotional stuff for the 100 day game kickoff party...
-- Just Talk Games
-- Favorite games
-- General Game Design
-- What is your favorite moment in a game?
-- How I became a game developer?
-- What was it like in the professional game industry?
-- How I became an Indie Developer?
-- What is full time indie like?
-- Give back to other developers, especially new devs!
-- Playing Games while Discussing Games and Game Dev
-  
+- Update KPI for the adventure
+- Update the weekly plan
+- Ensure AppData was copied from Moose to Rhino
+- Surgery on Rhino to insert bigger drives.
+- Setup raid on the new Rhino drives and begin transfering some data?
+- Surgery on Moose to insert new 4tb NVME Video Drive
+- Reformat OS drive with Windows 11?? 
+    
 ## Events / Notices / Coming Soon
 
 - FIRST DAY OF 100 DAY GAME: October 1st.
