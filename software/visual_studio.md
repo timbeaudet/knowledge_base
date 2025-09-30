@@ -10,6 +10,7 @@ Install the following extensions:
 - [Trailing Whitespace Visualizer (Mads Kristensen)](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.TrailingWhitespaceVisualizer)
   - Tools > Options > Trailing Whitespace > Remove whitespace on save: `true`
 - [Editor Guidelines (Paul Harrington)](https://marketplace.visualstudio.com/items?itemName=PaulHarrington.EditorGuidelines)
+  - Right-click on column 121 and use context menu to `Guidelines > Add Guideline`. _(Note: 121 = 120 characters wide, the column count is 1 based.)_
 
 After installing the extensions [install the CurrentSettings](https://github.com/timbeaudet/knowledge_base/blob/main/config/visual_studio/CurrentSettings.vssettings), copy into `Documents/Visual Studio 2015/Settings/`
 
