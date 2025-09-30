@@ -1,14 +1,14 @@
-# Objectives for Today 2025-09-29
+# Objectives for Today 2025-09-30
 
 - Just Chatting as we Get started & warmed up.
-- Update KPI for the adventure
-- Update the weekly plan
-- Ensure AppData was copied from Moose to Rhino
-- Surgery on Rhino to insert bigger drives.
-- Setup raid on the new Rhino drives and begin transfering some data?
-- Surgery on Moose to insert new 4tb NVME Video Drive
-- Reformat OS drive with Windows 11?? 
-    
+- Installing Visual Studio
+- Installing Adobe stuff
+- Installing things to make games
+- Install and Setuup StreamDeck
+- Continue getting Moose setup.
+- AutoHotKey script BUSTED v1 -> v2  Bleh
+- Getting setup for game design & development
+      
 ## Events / Notices / Coming Soon
 
 - FIRST DAY OF 100 DAY GAME: October 1st.
