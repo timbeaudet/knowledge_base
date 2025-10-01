@@ -14,6 +14,10 @@ Install the following extensions:
 
 After installing the extensions [install the CurrentSettings](https://github.com/timbeaudet/knowledge_base/blob/main/config/visual_studio/CurrentSettings.vssettings), copy into `Documents/Visual Studio 2015/Settings/`
 
+## Setup the following hotkeys to match.
+Open `Tools > Options > Environment > Keyboard` (or search hotkey) then show commands containing:
+  `Edit.InsertCaretsatAllMatching` and set it to `CTRL+F2` this shortcut was already being used but I never used it. CTRL+F2 matches VSCode for easier swaps.
+
 
 ## Other tricks and tips
  - Search using symbols; use `CTRL+,` (jobun44)
