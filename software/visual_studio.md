@@ -18,6 +18,9 @@ After installing the extensions [install the CurrentSettings](https://github.com
 Open `Tools > Options > Environment > Keyboard` (or search hotkey) then show commands containing:
   `Edit.InsertCaretsatAllMatching` and set it to `CTRL+F2` this shortcut was already being used but I never used it. CTRL+F2 matches VSCode for easier swaps.
 
+## Turn off automatic comment continuation:
+  Open `Tools > Options > Text Editor > C/C++ > Code Style > General` and uncheck the 'Insert existing comment style at the start of new lines when writing comments' box.
+  Also in `Text Editor > C# > Advanced` turn off `Generate XML documentation...`, `Insert // at new lines...` and `Insert * at new lines`.
 
 ## Other tricks and tips
  - Search using symbols; use `CTRL+,` (jobun44)
