@@ -22,6 +22,10 @@ Open `Tools > Options > Environment > Keyboard` (or search hotkey) then show com
   Open `Tools > Options > Text Editor > C/C++ > Code Style > General` and uncheck the 'Insert existing comment style at the start of new lines when writing comments' box.
   Also in `Text Editor > C# > Advanced` turn off `Generate XML documentation...`, `Insert // at new lines...` and `Insert * at new lines`.
 
+Also in `Tools > Options > Text Editor > C/C++ > Advanced` we can turn Brace Completion (Add semicolon for types, Complete parentheses... and Complete multiline comments) to False
+Also in `Tools > Options > Text Editor > C/C++ > Advanced` we can find `Text Editor` and turn off `Format After Auto Surround` and `Expand Selection for Surround Scopes` while setting `Auto Surrond Mode` to `Never`
+
+
 ## Other tricks and tips
  - Search using symbols; use `CTRL+,` (jobun44)
  - Use `CTRL+K`, `CTRL+\` to remove all trailing whitespace in a file. (extension required)
