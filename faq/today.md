@@ -1,9 +1,10 @@
-# Objectives for Today 2025-10-01
+# Objectives for Today 2025-10-02
 
 - Just Chatting as we Get started & warmed up.
-- Kickoff Party for 100 day Game
-- Announcing Game Idea
-- Creating the first lines of code and all...
+- Add a Tech Tree to the "garage" / "shop" scene.
+- Get one or two tech upgrades to adjust numbers in some manner (from a csv upgrade file).
+- This should complete a very rough core loop scavenge > upgrade > scavenge > upgrade.
+- If all that is going superbly then begin tackling the challenger race mode.
       
 ## Events / Notices / Coming Soon
 
