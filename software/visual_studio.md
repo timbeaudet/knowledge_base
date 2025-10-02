@@ -19,11 +19,23 @@ Open `Tools > Options > Environment > Keyboard` (or search hotkey) then show com
   `Edit.InsertCaretsatAllMatching` and set it to `CTRL+F2` this shortcut was already being used but I never used it. CTRL+F2 matches VSCode for easier swaps.
 
 ## Turn off automatic comment continuation:
-  Open `Tools > Options > Text Editor > C/C++ > Code Style > General` and uncheck the 'Insert existing comment style at the start of new lines when writing comments' box.
-  Also in `Text Editor > C# > Advanced` turn off `Generate XML documentation...`, `Insert // at new lines...` and `Insert * at new lines`.
+  Open `Tools > Options > Text Editor > C/C++ > Code Style > General` and uncheck the 'Insert existing comment style at the start of new lines when writing comments' box.  
+  Also in `Text Editor > C# > Advanced` turn off `Generate XML documentation...`, `Insert // at new lines...` and `Insert * at new lines`.  
 
-Also in `Tools > Options > Text Editor > C/C++ > Advanced` we can turn Brace Completion (Add semicolon for types, Complete parentheses... and Complete multiline comments) to False
-Also in `Tools > Options > Text Editor > C/C++ > Advanced` we can find `Text Editor` and turn off `Format After Auto Surround` and `Expand Selection for Surround Scopes` while setting `Auto Surrond Mode` to `Never`
+Also in `Tools > Options > Text Editor > C/C++ > Advanced` we can turn Brace Completion (Add semicolon for types, Complete parentheses... and Complete multiline comments) to False  
+Also in `Tools > Options > Text Editor > C/C++ > Advanced` we can find `Text Editor` and turn off `Format After Auto Surround` and `Expand Selection for Surround Scopes` while setting `Auto Surrond Mode` to `Never`  
+
+## Add Premake Tool
+  Open `Tools > External Tools` and click `Add` to add "Run Premake" to the Tool menu. Beats having to find the project and manually click it, also the one in `development/tools/windows` will update Turtle Brains, ICE and other framework stuff at the same time.
+
+  - Title: `Run Premake`
+  - Command: `cmd.exe`
+  - Arguments: `/c run_premake.bat`
+  - Initial Directory: `$(ProjectDir)\..\`
+
+The running in `cmd.exe /c run_premake.bat` may help the explorer window not have final focus, but this issue seemed to reappear until I checked `Use Output Window` to avoid the cmd prompt appearing.
+
+
 
 
 ## Other tricks and tips
