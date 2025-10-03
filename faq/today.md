@@ -1,10 +1,11 @@
-# Objectives for Today 2025-10-02
+# Objectives for Today 2025-10-03
 
 - Just Chatting as we Get started & warmed up.
-- Add a Tech Tree to the "garage" / "shop" scene.
-- Get one or two tech upgrades to adjust numbers in some manner (from a csv upgrade file).
-- This should complete a very rough core loop scavenge > upgrade > scavenge > upgrade.
-- If all that is going superbly then begin tackling the challenger race mode.
+- Create the drag racing game to bring the racing in incremental racing.
+- Create an engine that can rev up a tachometer in some way.
+- Poor, Okay, Good and Perfect launches off the line at green light.
+- Poor, Okay, Good and Perfect shifting through gears for more/less speed boost.
+- IF there is time use it to create the challenger intro/results screens.
       
 ## Events / Notices / Coming Soon
 
