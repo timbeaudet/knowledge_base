@@ -12,22 +12,29 @@ Install the following extensions:
 * `Shader languages support for VS Code` by slevesque
 * `Live Server` by Ritwick Dey
 
-Press `CTRL+,` to open settings and use the following
+Press `CTRL+,` to open settings and use the following (may need to `CTRL+SHIFT+P` JSON Preferences)
 ```
-"editor.tabSize": 4,
-"editor.insertSpaces": false,
-"editor.renderWhitespace": "all",
+	"editor.autoClosingBrackets": "never",
+	"workbench.secondarySideBar.defaultVisibility": "hidden",
 
-"todo.timekeeping.started.format": "YYYYMMDD HH:mm", // Format used for displaying time inside @started
-"todo.timekeeping.finished.format": "YYYYMMDD HH:mm", // Format used for displaying time inside @done/cancelled
-"todo.colors.done": "#2b8b2c",
-"todo.colors.cancelled": "#a12525",
-"todo.colors.project": "#02d6ff",
+	"editor.tabSize": 4,
+	"editor.insertSpaces": false,
+	"editor.renderWhitespace": "all",
 
-"liveServer.settings.donotShowInfoMsg": true,
-"workbench.sideBar.location": "right",
+	"todo.timekeeping.started.format": "YYYYMMDD HH:mm", // Format used for displaying time inside @started
+	"todo.timekeeping.finished.format": "YYYYMMDD HH:mm", // Format used for displaying time inside @done/cancelled
+	"todo.symbols.box": "☐", // Box symbol
+	"todo.symbols.done": "✔", // Done symbol
+	"todo.symbols.cancelled": "✘", // Cancelled symbol
+	"todo.colors.done": "#2288cc", // Done todo color
+	"todo.colors.cancelled": "#bb33aa", // Cancelled todo color
+	"todo.colors.code": "#33FFBB", // Code color
+	"todo.colors.comment": "#557799", // Comment color
+	"todo.colors.project": "#33BBFF", // Project color
+	"todo.colors.tag": "#FF33BB", // Tag color
 
-"files.insertFinalNewline": true
+	"liveServer.settings.donotShowInfoMsg": true,
+	"files.insertFinalNewline": true,
 ```
 
 Press `CTRL+SHIFT+P` and type `shortcut` to change user shortcuts and use the follow
