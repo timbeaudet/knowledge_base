@@ -1,11 +1,10 @@
-# Objectives for Today 2025-10-06
+# Objectives for Today 2025-10-07
 
 - Just Chatting as we Get started & warmed up.
-- Updating the KPIs of the adventure.
-- Update the weekly plans
-- Git TurtleBrains committed / Cleaned up
-- Rough layout of the challengers scene (just boxes etc)
-- Create challenger dialog transition "scenes" for intro, results, taunts etc.
+- Buy an asset pack or two.
+- ~30 minutes building tech tree upgrades.
+- Probably improving Tool Tip with cost etc
+- Maybe adding a "Text Box" for multi-line support?
 - Create a list of features required to tackle for Rusty Racer (alpha)
 
 ## Events / Notices / Coming Soon
