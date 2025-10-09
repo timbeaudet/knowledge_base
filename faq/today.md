@@ -1,8 +1,8 @@
-# Objectives for Today 2025-10-08
+# Objectives for Today 2025-10-09
 
 - Just Chatting as we Get started & warmed up.
-- ~30 minutes building tech tree upgrades.
-- Maybe adding a "Text Box" for multi-line support?
+- SupplyRun_v3
+- ~Building tech tree upgrades.
 - Create a list of features required to tackle for Rusty Racer (alpha)
 
 ## Events / Notices / Coming Soon
