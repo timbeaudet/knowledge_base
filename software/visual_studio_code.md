@@ -11,6 +11,7 @@ Install the following extensions:
 * `Prettify JSON` by Mohsen Azimi
 * `Shader languages support for VS Code` by slevesque
 * `Live Server` by Ritwick Dey
+* `Rainbow CSV` by mechatrona
 
 Press `CTRL+,` to open settings and use the following (may need to `CTRL+SHIFT+P` JSON Preferences)
 ```
@@ -43,6 +44,9 @@ Press `CTRL+SHIFT+P` and type `shortcut` to change user shortcuts and use the fo
 [
 	{ "key": "ctrl+k ctrl+k",         "command": "bookmarks.toggle", "when": "editorFocus" },
 	{ "key": "ctrl+k ctrl+n",         "command": "bookmarks.jumpToNext", "when": "editorFocus" },
+
+    //To automatically align CSV on save of .csv/.tsv with Rainbow CSV extension installed.
+    { "key": "ctrl+s",                "command": "runCommands", "when": "resourceExtname == .csv || resourceExtname == .tsv", "args": { "commands": [ "rainbow-csv.Align", "workbench.action.files.save" ] } }
 ]
 ```
 
