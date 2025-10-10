@@ -59,6 +59,11 @@ sudo parted /dev/sdb mklabel gpt
 
 Make sure fstab knows the UUID of the md0 raid thingy, this was accidentally skipped and not in the initial instructions and heavily depended on shakesoda helping. Using command `df` should show `/dev/md0` mounted on `/mnt/raid1` or something similar. Without doing this we will wind up copying all the data onto `/` the system drive. May also be worthwhile to reboot and verify. It is possible it works until the reboot unmounts something.
 
+1. `sudo blkid` and find the UUID of `md0`.
+2. `vim /etc/fstab`
+3. Make a line like: `UUID=63dac483-69c5-2ffe-8daf-90f46571f41e /mnt/raid1      ext4    defaults          0       0`
+   Replace the UUID and potentially raid1 as necessary.
+
 
 ### Optional: Test the Raid Setup
 This seems to require removing the drive, which, I didn't do it on rhino. YOLO.
