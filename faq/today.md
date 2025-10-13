@@ -1,10 +1,10 @@
-# Objectives for Today 2025-10-10
+# Objectives for Today 2025-10-13
 
 - Just Chatting as we Get started & warmed up.
-- Building tech tree upgrades, the main plan of the day.
-- Adding more cars, adding more searchable spots, gaining fame
-- Making game.
-- Create a list of features required to tackle for Rusty Racer (alpha)
+- Collecting KPIs for the adventure...
+- Create clips / promote the stream with the 100 day game.
+- Find a reddit game to play & feedback on. May require stream restart...
+- Shorter stream ends at lunch time....
 
 ## Events / Notices / Coming Soon
 
