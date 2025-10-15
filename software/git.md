@@ -207,8 +207,12 @@ Can even create the code edits first:
 ## Cleanup (delete) all the merged branches:
 DO NOT RUN UNLESS `MAIN` IS CHECKED OUT:
 ```git branch | xargs git branch -d```
-IF deleted master, just checkout again.  
-IF branch was removed just, git checkout -b branch/name-here commit-id
+* IF deleted master, just checkout again.  
+* IF branch was removed just, git checkout -b branch/name-here commit-id
+
+May also want to cleanup specific branches:
+```git branch --merged | grep 'feature/' | xargs -I{} git branch -d {}``` or
+```git branch --merged | grep 'refactor/' | xargs -I{} git branch -d {}``` etc.
 
 If the branch was merged from a different computer after doing a rebase, the branch will remain and you'll need to use `git branch -D`. Be careful!
 
