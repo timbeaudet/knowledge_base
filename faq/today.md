@@ -1,14 +1,12 @@
-# Objectives for Today 2025-10-15
+# Objectives for Today 2025-10-16
 
 - Just Chatting as we Get started & warmed up.
-- Jump into Tech Tree Editor for less than 60 minutes to add SUPER POWER quality of life update.
-- Give the player more information after a Supply Run
-- Ideally "hold their hand" up until the first challenger is unlocked.
-- Work on the tech tree for at least 30 minutes, ideally more than 60 minutes.
-- NOT A SUPER LONG DAY TODAY
+- Work tech tree upgrades for as long as possible and get hopefully a balanced 10 minutes of game.
+- Ideally "hold the players hand" until the first challenger is unlocked at about 10 minutes into game.
 
 ## Events / Notices / Coming Soon
 
+* **Learning Git Skills - Monday October 20th 8am ET**
 
 ### 100 Day Game Schedule:  6am -> ??? Tues-Fri
   with a few exceptions:
