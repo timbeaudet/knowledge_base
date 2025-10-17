@@ -1,6 +1,9 @@
-# Objectives for Today 2025-10-16
+# Objectives for Today 2025-10-17
 
 - Just Chatting as we Get started & warmed up.
+- Try building StreamHelper to ensure no SDF text (hopefully FPS boost)
+- Check rhino adventure trails to see if the saved with vscode closed...
+- Integrate some assets in the game.
 - Work tech tree upgrades for as long as possible and get hopefully a balanced 10 minutes of game.
 - Ideally "hold the players hand" until the first challenger is unlocked at about 10 minutes into game.
 
