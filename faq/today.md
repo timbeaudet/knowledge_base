@@ -1,15 +1,15 @@
-# Objectives for Today 2025-10-17
+# Objectives for Today 2025-10-20
 
 - Just Chatting as we Get started & warmed up.
-- Try building StreamHelper to ensure no SDF text (hopefully FPS boost)
-- Check rhino adventure trails to see if the saved with vscode closed...
-- Integrate some assets in the game.
-- Work tech tree upgrades for as long as possible and get hopefully a balanced 10 minutes of game.
-- Ideally "hold the players hand" until the first challenger is unlocked at about 10 minutes into game.
+- Updating the KPIs of the adventure
+- Updating the weekly plans
+- Collecting racing games from Steam release in some month of 2025.
+- 8am Learning & Improving Git Skills
+- Probably a slightly shortish day to prepare for tomorrow.
 
 ## Events / Notices / Coming Soon
 
-* **Learning Git Skills - Monday October 20th 8am ET**
+* Halloween 24hr stream!
 
 ### 100 Day Game Schedule:  6am -> ??? Tues-Fri
   with a few exceptions:
