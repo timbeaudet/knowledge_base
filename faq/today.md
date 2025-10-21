@@ -1,11 +1,9 @@
-# Objectives for Today 2025-10-20
+# Objectives for Today 2025-10-21
 
 - Just Chatting as we Get started & warmed up.
-- Updating the KPIs of the adventure
-- Updating the weekly plans
-- Collecting racing games from Steam release in some month of 2025.
-- 8am Learning & Improving Git Skills
-- Probably a slightly shortish day to prepare for tomorrow.
+- Bolt 2D shaders into the game (like ICE does for 3D)
+- Create a width x 1080p target for "game/world space" rendering
+- Create a pass for Interface Rendering
 
 ## Events / Notices / Coming Soon
 
@@ -13,7 +11,6 @@
 
 ### 100 Day Game Schedule:  6am -> ??? Tues-Fri
   with a few exceptions:
-  * WORKING: Monday October 6
   * BREAK: Thanksgiving Nov 27-30
   * BREAK: Christmas Dec 22-28
 
