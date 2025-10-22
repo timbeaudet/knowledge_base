@@ -1,9 +1,11 @@
-# Objectives for Today 2025-10-21
+# Objectives for Today 2025-10-22
 
 - Just Chatting as we Get started & warmed up.
-- Bolt 2D shaders into the game (like ICE does for 3D)
-- Create a width x 1080p target for "game/world space" rendering
-- Create a pass for Interface Rendering
+- Create a Flexible Resolution/Aspect Ratio solution for Title Screen.
+- Reorder a few things on the tech tree, perhaps a few cost edits.
+- Give the player feedback on chain gained/Challenger unlocked.
+- Decide if we want 'minions' as well as challengers, or just challengers.
+- Give the player MUCH NEEDED feedback in drag racing scene
 
 ## Events / Notices / Coming Soon
 
