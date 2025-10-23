@@ -1,10 +1,11 @@
-# Objectives for Today 2025-10-22
+# Objectives for Today 2025-10-23
 
 - Just Chatting as we Get started & warmed up.
-- Create a Flexible Resolution/Aspect Ratio solution for Title Screen.
-- Reorder a few things on the tech tree, perhaps a few cost edits.
-- Give the player feedback on chain gained/Challenger unlocked.
-- Decide if we want 'minions' as well as challengers, or just challengers.
+- Challengers / Race tab needs to support minions and "bosses"
+- Drag Race mode needs an overhaul, the launch area is completely awful.
+- Drag Racing needs to give feedback as the tachometer approaches SHIFT POINT.
+- Drag Racing needs to be updated to handled "World Space"
+- Drag Racing needs to be tied to a few upgrades to show that player can make car faster.
 - Give the player MUCH NEEDED feedback in drag racing scene
 
 ## Events / Notices / Coming Soon
