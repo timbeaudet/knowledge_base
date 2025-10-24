@@ -1,12 +1,12 @@
-# Objectives for Today 2025-10-23
+# Objectives for Today 2025-10-24
 
 - Just Chatting as we Get started & warmed up.
 - Challengers / Race tab needs to support minions and "bosses"
-- Drag Race mode needs an overhaul, the launch area is completely awful.
-- Drag Racing needs to give feedback as the tachometer approaches SHIFT POINT.
-- Drag Racing needs to be updated to handled "World Space"
+- Drag Racing needs to be updated to handled "Interface Space"
 - Drag Racing needs to be tied to a few upgrades to show that player can make car faster.
 - Give the player MUCH NEEDED feedback in drag racing scene
+- LUNCH will be slightly longer today
+- Playtest after lunch, probably starting around 1pm-2:30pm Tims Tim.
 
 ## Events / Notices / Coming Soon
 
