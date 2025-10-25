@@ -1,12 +1,12 @@
-# Objectives for Today 2025-10-24
+# Objectives for Today 2025-10-25
 
 - Just Chatting as we Get started & warmed up.
-- Challengers / Race tab needs to support minions and "bosses"
-- Drag Racing needs to be updated to handled "Interface Space"
-- Drag Racing needs to be tied to a few upgrades to show that player can make car faster.
-- Give the player MUCH NEEDED feedback in drag racing scene
-- LUNCH will be slightly longer today
-- Playtest after lunch, probably starting around 1pm-2:30pm Tims Tim.
+- Turtle Brains improvements from the 'pain points' or needs of Rusty Racer.
+- Pitstop Dialog with Thornity discussing current progress of Rusty Racer.
+  - Taking notes, planning the needs, preparing for adjust
+- Tackle Turtle Brains text improvements;
+  - Aiming to support \n in a String for multi-lined text.
+  - Aiming to support 'Best Fit to Box' with alignment/multi-lined text.
 
 ## Events / Notices / Coming Soon
 
