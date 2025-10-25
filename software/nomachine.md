@@ -15,3 +15,7 @@ sudo /etc/NX/nxserver --restart
 ```
 
 https://kb.nomachine.com/AR03P00973
+
+### Alternatively
+
+If you have to do this often a DUMMY hdmi dongle may be a great solution. System believes a monitor is active.
