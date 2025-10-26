@@ -1,10 +1,8 @@
-# Objectives for Today 2025-10-25
+# Objectives for Today 2025-10-26
 
 - Just Chatting as we Get started & warmed up.
-- Turtle Brains improvements from the 'pain points' or needs of Rusty Racer.
-- Pitstop Dialog with Thornity discussing current progress of Rusty Racer.
-  - Taking notes, planning the needs, preparing for adjust
 - Tackle Turtle Brains text improvements;
+  - Potential sizing concerns when calculating anchors?
   - Aiming to support \n in a String for multi-lined text.
   - Aiming to support 'Best Fit to Box' with alignment/multi-lined text.
 
