@@ -1,10 +1,11 @@
-# Objectives for Today 2025-10-26
+# Objectives for Today 2025-10-27
 
 - Just Chatting as we Get started & warmed up.
-- Tackle Turtle Brains text improvements;
-  - Potential sizing concerns when calculating anchors?
-  - Aiming to support \n in a String for multi-lined text.
-  - Aiming to support 'Best Fit to Box' with alignment/multi-lined text.
+- Update the KPI of the Adventure
+- Collect Racing Games released on Steam (we are WAAAAY behind here)
+- Maybe play Lyca, was suggested as necessary for incremental of my type...
+  - With quick review
+- Maybe short day, maybe tackle text kerning?
 
 ## Events / Notices / Coming Soon
 
