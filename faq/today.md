@@ -1,11 +1,10 @@
-# Objectives for Today 2025-10-27
+# Objectives for Today 2025-10-28
 
 - Just Chatting as we Get started & warmed up.
-- Update the KPI of the Adventure
-- Collect Racing Games released on Steam (we are WAAAAY behind here)
-- Maybe play Lyca, was suggested as necessary for incremental of my type...
-  - With quick review
-- Maybe short day, maybe tackle text kerning?
+- Try figuring out what is up with the dialog/racing system
+- Spend a moment planning out the feature list, only 12 more days until feature lock.
+- MAYBE: Spend a few minute creating the saving and loading system w/ tech tree load.
+- Definite shorter day, shopping, touch grass, read book, enjoy life
 
 ## Events / Notices / Coming Soon
 
