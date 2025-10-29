@@ -1,10 +1,11 @@
 # Objectives for Today 2025-10-28
 
 - Just Chatting as we Get started & warmed up.
-- Try figuring out what is up with the dialog/racing system
-- Spend a moment planning out the feature list, only 12 more days until feature lock.
-- MAYBE: Spend a few minute creating the saving and loading system w/ tech tree load.
-- Definite shorter day, shopping, touch grass, read book, enjoy life
+- Make the start of the game "World Loot" only
+- Add the Minor Core Loop: Quests
+- Add the Minor Core Loop: Your Group
+- Saving and Loading of Progression
+  - Should hot-reload tech-tree so editor changes can be made mid-run
 
 ## Events / Notices / Coming Soon
 
