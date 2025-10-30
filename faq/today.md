@@ -1,9 +1,10 @@
-# Objectives for Today 2025-10-28
+# Objectives for Today 2025-10-30
 
 - Just Chatting as we Get started & warmed up.
+- Add Feature to TurtleBrains BasicShape for UVs.
 - Make the start of the game "World Loot" only
-- Add the Minor Core Loop: Quests
-- Add the Minor Core Loop: Your Group
+- Add the Minor Core Loop: The Camp
+- MAYBE add the Minor Core Loop: Relics
 - Saving and Loading of Progression
   - Should hot-reload tech-tree so editor changes can be made mid-run
 
