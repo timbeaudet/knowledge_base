@@ -1,16 +1,27 @@
-# Objectives for Today 2025-10-30
+# Objectives for Today 2025-10-31
 
 - Just Chatting as we Get started & warmed up.
-- Add Feature to TurtleBrains BasicShape for UVs.
-- Make the start of the game "World Loot" only
-- Add the Minor Core Loop: The Camp
-- MAYBE add the Minor Core Loop: Relics
-- Saving and Loading of Progression
-  - Should hot-reload tech-tree so editor changes can be made mid-run
+- Happy Halloween! 24 Hour Party Stream
+
+## Halloween Stream GameDev
+- Environment and SearchableTargets from data driven sources.
+- Prototype the Fog being hard-attached to the mouse
+- Probably messing with the Drag Race logic; trying to get ties when expected.
+- Settings Scene Popup with Music/Sound Volume, Reset Game?
+- Much needed focus on Tech Tree with 'choke points' for balancing
+- Add content for quests and unlock the first quest at somepoint that makes sense.
+- Unlock "Challengers" once the player reaches level 10.
+- Unlock "The Camp" through tech tree (probably early for testing, it might enable at 60+ minutes in final version).
+- Add an "Alert" icon to the Challengers / Quests / Camp buttons when something is active.
+- HOPING: If we got far enough in racing we should have tech upgrades for the car & multiple drivers.
+
+## Halloween Stream Extras!
+- 9am ET: Pumpkin Carving
+- Costume Reveal at some random time, probably with the pushups.
+- Costume stays ON the rest of stream starting 4-5pm ET until bed.
+- Foodie Friday: Mongolian Chicken
 
 ## Events / Notices / Coming Soon
-
-* Halloween 24hr stream!
 
 ### 100 Day Game Schedule:  6am -> ??? Tues-Fri
   with a few exceptions:
