@@ -1,9 +1,8 @@
-# Objectives for Today 2025-11-01
+# Objectives for Today 2025-11-02
 
 - Just Chatting as we Get started & warmed up.
-- Fixed the Nightly Build Failures from (small) TurtleBrains api changes.
-- Just puttering around, Turtle Brains improvements, Text?
-- Preparing for The HEAT Championship & Business Review
+- Indie GameDev Business Review
+- Race 1 of The HEAT Championship (may not be streamed)
 
 ## Events / Notices / Coming Soon
 
