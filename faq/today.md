@@ -1,8 +1,11 @@
-# Objectives for Today 2025-11-02
+# Objectives for Today 2025-11-03
 
 - Just Chatting as we Get started & warmed up.
-- Indie GameDev Business Review
-- Race 1 of The HEAT Championship (may not be streamed)
+- Setting up the audio at the standing desk setup (falcon).
+- Update the KPI of the adventure
+- Updating the weekly plans of the adventure
+- Spend a moment trying to help a developer on reddits.
+- Market Research the Racing Games on Steam (until 9:30)
 
 ## Events / Notices / Coming Soon
 
