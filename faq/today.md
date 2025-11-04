@@ -1,11 +1,11 @@
-# Objectives for Today 2025-11-03
+# Objectives for Today 2025-11-04
 
 - Just Chatting as we Get started & warmed up.
-- Setting up the audio at the standing desk setup (falcon).
-- Update the KPI of the adventure
-- Updating the weekly plans of the adventure
-- Spend a moment trying to help a developer on reddits.
-- Market Research the Racing Games on Steam (until 9:30)
+- Secret Steam Backend Stuff!
+- Building a Game.
+- Working through the early tech tree?
+- Creating the first quests?
+- Attempting a new idea to balance the racing?
 
 ## Events / Notices / Coming Soon
 
