@@ -83,6 +83,8 @@ git config --global alias.cop 'checkout --patch'
 git config --global alias.st 'status'
 git config --global alias.ss 'stash save'
 git config --global alias.sp 'stash pop'
+
+git config set push.autoSetupRemote true
 ```
 
 > Use the following git config command to immediately set branch as upstream and push without requiring the git push --set-upstream origin blah/blah-blah
