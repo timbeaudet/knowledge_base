@@ -1,11 +1,10 @@
-# Objectives for Today 2025-11-04
+# Objectives for Today 2025-11-05
 
 - Just Chatting as we Get started & warmed up.
-- Secret Steam Backend Stuff!
-- Building a Game.
+- Building a Game!
 - Working through the early tech tree?
 - Creating the first quests?
-- Attempting a new idea to balance the racing?
+- Get the racing to show end results!
 
 ## Events / Notices / Coming Soon
 
