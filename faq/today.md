@@ -1,4 +1,4 @@
-# Objectives for Today 2025-11-06
+# Objectives for Today 2025-11-07
 
 - Just Chatting as we Get started & warmed up.
 - Building a Game!
