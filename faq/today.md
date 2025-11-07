@@ -2,9 +2,10 @@
 
 - Just Chatting as we Get started & warmed up.
 - Building a Game!
-- Refactor the UnlockedQuestMode and ReputationFirstGainedChain into an common Event.
-- Ensure the game can exit back through the title screen then desktop, without Alt-F4.
-- Renaming the code-base from rusty_racer to rushcremental
+- Open code editor!
+- ???
+- PROFIT
+- Eat pizza
 - Working through the early tech tree, building new upgrades, costs etc.
 - Getting upgrades through the first challenger/race
 
