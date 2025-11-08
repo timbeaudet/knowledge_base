@@ -1,13 +1,13 @@
-# Objectives for Today 2025-11-07
+# Objectives for Today 2025-11-08
 
 - Just Chatting as we Get started & warmed up.
-- Building a Game!
-- Open code editor!
-- ???
-- PROFIT
-- Eat pizza
-- Working through the early tech tree, building new upgrades, costs etc.
-- Getting upgrades through the first challenger/race
+- Diving into git, should I use tags for version even in TurtleBrains etc too?
+- Moving TurtleBrains back to main? And jumping to v0.4.4 to begin breaking the API.
+- Testing and figuring out how to create Template To/From DynamicStructure that is also "Project Safe"
+  - Project Safe meaning easy to specialize without extending a TurtleBrains namespace (may need global space)
+  - Also want to figure out how to OPTIONALLY pass debug information to at least FROM DynStruct.
+- Once we have that solution, we shall apply it to Read/Write Binary and To/From String.
+- Continue down the list of API breaking changes in Core, Graphics and other Kits.
 
 ## Events / Notices / Coming Soon
 
