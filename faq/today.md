@@ -1,11 +1,11 @@
-# Objectives for Today 2025-11-09
+# Objectives for Today 2025-11-10
 
 - Just Chatting as we Get started & warmed up.
-- Moving Internal Combustion back to main And jumping to v0.4.4 to begin breaking the API.
-- String:: functions moving into StringUtilities:: namespace.
-- string_utilities.cpp/hpp files
-- Rename tbString to String, and add it to TurtleBrains:: primary namespace, no more tbCore::tbString inside TurtleBrains
-- Continue down the list of API breaking changes in Core, Graphics and other Kits.
+- Update the KPI for the adventure.
+- Collect as many racing games from the Steam 2025 list as possible in 90 minutes?
+- Brainstorm a list of game ideas, pong, snake etc that could be built in 3 hours (or one day).
+- Challenge of the day: brainstorm a list of "projects" that could be shippable in 1 month (not necessarily games)
+- Brainstorm things we can do to to make the stream 10x better.
 
 ## Events / Notices / Coming Soon
 
