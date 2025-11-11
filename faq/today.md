@@ -1,11 +1,9 @@
-# Objectives for Today 2025-11-10
+# Objectives for Today 2025-11-11
 
 - Just Chatting as we Get started & warmed up.
-- Update the KPI for the adventure.
-- Collect as many racing games from the Steam 2025 list as possible in 90 minutes?
-- Brainstorm a list of game ideas, pong, snake etc that could be built in 3 hours (or one day).
-- Challenge of the day: brainstorm a list of "projects" that could be shippable in 1 month (not necessarily games)
-- Brainstorm things we can do to to make the stream 10x better.
+- Attempting to bring Rushcremental to TurtleBrains 0.4.4 (the API breaking version)
+- Adding content to the Rushcremental game-loops to get the game progression.
+- Adding the Tyre Bytes Tool Box? (Maybe??)
 
 ## Events / Notices / Coming Soon
 
