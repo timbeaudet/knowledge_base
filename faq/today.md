@@ -1,9 +1,10 @@
-# Objectives for Today 2025-11-12
+# Objectives for Today 2025-11-13
 
 - Just Chatting as we Get started & warmed up.
-- Adding Steam achievements to Tyre Bytes Tool Box & Rushcremental
-- Diving into Steam stats & a few other 'things' potentially adding to Tyre Bytes Tool Box
 - Create a SettingsEntity to deal with the settings of the game.
+- Add a slider for volume settings
+- Add some control for resolution settings
+- Add a checkbox for fullscreen/boolean settings
 - Create a Credits Scene to show the lovely credits of the people who worked on game.
 - If still time & energy: Adding content to the Rushcremental game-loops to get the game progression.
 
