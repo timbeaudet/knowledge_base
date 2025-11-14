@@ -1,12 +1,10 @@
-# Objectives for Today 2025-11-13
+# Objectives for Today 2025-11-14
 
 - Just Chatting as we Get started & warmed up.
 - Create a SettingsEntity to deal with the settings of the game.
-- Add a slider for volume settings
-- Add some control for resolution settings
-- Add a checkbox for fullscreen/boolean settings
 - Create a Credits Scene to show the lovely credits of the people who worked on game.
-- If still time & energy: Adding content to the Rushcremental game-loops to get the game progression.
+- Adding as much content as possible the Rushcremental game-loops to get the game progression.
+- Playtest after noon (around 1pm Tim time)
 
 ## Events / Notices / Coming Soon
 
