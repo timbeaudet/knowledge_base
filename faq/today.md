@@ -1,10 +1,10 @@
-# Objectives for Today 2025-11-14
+# Objectives for Today 2025-11-15
 
 - Just Chatting as we Get started & warmed up.
-- Create a SettingsEntity to deal with the settings of the game.
-- Create a Credits Scene to show the lovely credits of the people who worked on game.
-- Adding as much content as possible the Rushcremental game-loops to get the game progression.
-- Playtest after noon (around 1pm Tim time)
+- Breaking down the engine to the basics so we can change a few gaskets.
+- Hoping to get core-kit and externals/dependencies figured out.
+- Begin protection against including internal/implementation details.
+- Zoom zoom!!
 
 ## Events / Notices / Coming Soon
 
