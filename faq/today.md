@@ -1,8 +1,8 @@
-# Objectives for Today 2025-11-15
+# Objectives for Today 2025-11-16
 
 - Just Chatting as we Get started & warmed up.
 - Breaking down the engine to the basics so we can change a few gaskets.
-- Hoping to get core-kit and externals/dependencies figured out.
+- Jumping into breaking the TurtleBrains graphics kit.
 - Begin protection against including internal/implementation details.
 - Zoom zoom!!
 
