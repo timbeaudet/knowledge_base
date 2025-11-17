@@ -1,10 +1,12 @@
-# Objectives for Today 2025-11-16
+# Objectives for Today 2025-11-17
 
 - Just Chatting as we Get started & warmed up.
-- Breaking down the engine to the basics so we can change a few gaskets.
-- Jumping into breaking the TurtleBrains graphics kit.
-- Begin protection against including internal/implementation details.
-- Zoom zoom!!
+- Collecting the KPI for the adventure.
+- Creating the Weekly Plans.
+- Collecting the racing games released on Steam in 2025
+- Considering / Planning of "Tim Jam": Do You Wanna Build a Fun Game?
+  - Chat has already picked this to be "Asteroids"
+- Potentially jumping into Turtles Brains API/namespace cleanups...
 
 ## Events / Notices / Coming Soon
 
