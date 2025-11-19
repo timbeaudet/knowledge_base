@@ -1,14 +1,13 @@
-# Objectives for Today 2025-11-17
+# Objectives for Today 2025-11-19
 
 - Just Chatting as we Get started & warmed up.
-- Collecting the KPI for the adventure.
-- Creating the Weekly Plans.
-- Collecting the racing games released on Steam in 2025
-- Considering / Planning of "Tim Jam": Do You Wanna Build a Fun Game?
-  - Chat has already picked this to be "Asteroids"
+- Diving into racing, logic and upgrades.
+- Solve issues with fog, screensize (aspect) and gameplay...
 - Potentially jumping into Turtles Brains API/namespace cleanups...
 
 ## Events / Notices / Coming Soon
+
+"Tim Jam": Do You Wanna Build a Fun Game? Sundays in December
 
 ### 100 Day Game Schedule:  6am -> ??? Tues-Fri
   with a few exceptions:
