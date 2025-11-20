@@ -1,9 +1,8 @@
-# Objectives for Today 2025-11-19
+# Objectives for Today 2025-11-20
 
 - Just Chatting as we Get started & warmed up.
-- Diving into racing, logic and upgrades.
+- Update the racing logic to separate the acceleration and RPMs.
 - Solve issues with fog, screensize (aspect) and gameplay...
-- Potentially jumping into Turtles Brains API/namespace cleanups...
 
 ## Events / Notices / Coming Soon
 
