@@ -1,4 +1,4 @@
-# Objectives for Today 2025-11-20
+# Objectives for Today 2025-11-21
 
 - Just Chatting as we Get started & warmed up.
 - Update the racing logic to separate the acceleration and RPMs.
