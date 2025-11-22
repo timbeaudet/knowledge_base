@@ -1,8 +1,10 @@
-# Objectives for Today 2025-11-21
+# Objectives for Today 2025-11-22
 
 - Just Chatting as we Get started & warmed up.
-- Update the racing logic to separate the acceleration and RPMs.
-- Solve issues with fog, screensize (aspect) and gameplay...
+- Setting up December Jam: Do you Wanna Build a Fun Game?
+- Written Review of Neon White
+- Dive into TurtleBrains Graphics Kit api-breaks...
+- Chill day.
 
 ## Events / Notices / Coming Soon
 
