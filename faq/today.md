@@ -1,9 +1,8 @@
 # Objectives for Today 2025-11-22
 
 - Just Chatting as we Get started & warmed up.
-- Setting up December Jam: Do you Wanna Build a Fun Game?
-- Written Review of Neon White
 - Dive into TurtleBrains Graphics Kit api-breaks...
+- Play Heat Championship with Allov & toasterfuel vs twitch chat.
 - Chill day.
 
 ## Events / Notices / Coming Soon
