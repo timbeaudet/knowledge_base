@@ -1,4 +1,4 @@
-# Objectives for Today 2025-11-22
+# Objectives for Today 2025-11-23
 
 - Just Chatting as we Get started & warmed up.
 - Dive into TurtleBrains Graphics Kit api-breaks...
