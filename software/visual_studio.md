@@ -42,3 +42,4 @@ The running in `cmd.exe /c run_premake.bat` may help the explorer window not hav
  - Search using symbols; use `CTRL+,` (jobun44)
  - Use `CTRL+K`, `CTRL+\` to remove all trailing whitespace in a file. (extension required)
  - `CTRL+SHIFT+T` can allow Visual Studio to fuzzy search for a file, so if you wanted to open ice_light.cpp, just type light and it will find it!
+ - `ALT+SHIFT+.` will select the next occurance of the highlighted word/token, place before a comma to grab next comma etc. (I changed my hotkeys to use CTRL+D since VSCode uses CTRL+D)
