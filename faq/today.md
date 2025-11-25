@@ -1,12 +1,12 @@
-# Objectives for Today 2025-11-23
+# Objectives for Today 2025-11-25
 
 - Just Chatting as we Get started & warmed up.
-- Dive into TurtleBrains Graphics Kit api-breaks...
-- Play Heat Championship with Allov & toasterfuel vs twitch chat.
-- Chill day.
+- Weekly Plans
+- Diving into the Drag Races, using the full sim method.
 
 ## Events / Notices / Coming Soon
 
+Nov 30th: Business Review Day
 "Tim Jam": Do You Wanna Build a Fun Game? Sundays in December
 
 ### 100 Day Game Schedule:  6am -> ??? Tues-Fri
