@@ -1,8 +1,10 @@
-# Objectives for Today 2025-11-25
+# Objectives for Today 2025-11-26
 
 - Just Chatting as we Get started & warmed up.
-- Weekly Plans
-- Diving into the Drag Races, using the full sim method.
+- Going to quickly touch 100 day game, less than 60 minutes.
+- Marketing Monday ... I mean ... Whatever Wednesday!
+- Collecting the Racing Games on Steam.
+- Maybe some typing practice?
 
 ## Events / Notices / Coming Soon
 
