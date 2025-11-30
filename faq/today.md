@@ -1,14 +1,13 @@
-# Objectives for Today 2025-11-26
+# Objectives for Today 2025-11-30
 
 - Just Chatting as we Get started & warmed up.
-- Going to quickly touch 100 day game, less than 60 minutes.
-- Marketing Monday ... I mean ... Whatever Wednesday!
-- Collecting the Racing Games on Steam.
-- Maybe some typing practice?
+- Doing the Financial Accounting stuffs, income/expenses...
+- Business Review, summary, lessons learned, achievements- etc.
+- Maybe some typing practice, maybe some Neon White?
+- VERY SHORT 3 hr stream, then Heat: Pedal to the Metal
 
 ## Events / Notices / Coming Soon
 
-Nov 30th: Business Review Day
 "Tim Jam": Do You Wanna Build a Fun Game? Sundays in December
 
 ### 100 Day Game Schedule:  6am -> ??? Tues-Fri
