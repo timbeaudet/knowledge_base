@@ -1,10 +1,8 @@
-# Objectives for Today 2025-11-30
+# Objectives for Today 2025-12-01
 
 - Just Chatting as we Get started & warmed up.
-- Doing the Financial Accounting stuffs, income/expenses...
-- Business Review, summary, lessons learned, achievements- etc.
-- Maybe some typing practice, maybe some Neon White?
-- VERY SHORT 3 hr stream, then Heat: Pedal to the Metal
+- Updating the KPIs
+- Collecting Racing Games from Steam in 2025
 
 ## Events / Notices / Coming Soon
 
