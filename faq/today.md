@@ -1,8 +1,9 @@
-# Objectives for Today 2025-12-01
+# Objectives for Today 2025-12-02
 
 - Just Chatting as we Get started & warmed up.
-- Updating the KPIs
-- Collecting Racing Games from Steam in 2025
+- Make a few tiny adjustments for screenshot/trailer material.
+- First pass through store page content!
+- Dive into tag research to choose the tags for store page.
 
 ## Events / Notices / Coming Soon
 
