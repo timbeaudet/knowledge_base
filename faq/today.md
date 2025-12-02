@@ -8,6 +8,7 @@
 ## Events / Notices / Coming Soon
 
 "Tim Jam": Do You Wanna Build a Fun Game? Sundays in December
+Tim's First Ever Soldering Stream: 9am December 13th... 🪫🔌🔦
 
 ### 100 Day Game Schedule:  6am -> ??? Tues-Fri
   with a few exceptions:
