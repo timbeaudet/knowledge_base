@@ -1,9 +1,10 @@
-# Objectives for Today 2025-12-02
+# Objectives for Today 2025-12-03
 
 - Just Chatting as we Get started & warmed up.
-- Make a few tiny adjustments for screenshot/trailer material.
-- First pass through store page content!
+- Make tiny adjustments for Rushcremental game screenshot/trailer material.
 - Dive into tag research to choose the tags for store page.
+- First pass through store page content!
+- Begin Collecting Footage for Trailer???
 
 ## Events / Notices / Coming Soon
 
