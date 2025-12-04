@@ -1,9 +1,9 @@
-# Objectives for Today 2025-12-03
+# Objectives for Today 2025-12-04
 
 - Just Chatting as we Get started & warmed up.
 - Make tiny adjustments for Rushcremental game screenshot/trailer material.
-- Dive into tag research to choose the tags for store page.
-- First pass through store page content!
+- Record clip of drag racing
+- Create 15s gameplay footage for Indie Showcase
 - Begin Collecting Footage for Trailer???
 
 ## Events / Notices / Coming Soon
