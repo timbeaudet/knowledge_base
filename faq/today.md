@@ -1,10 +1,9 @@
-# Objectives for Today 2025-12-04
+# Objectives for Today 2025-12-05
 
 - Just Chatting as we Get started & warmed up.
 - Make tiny adjustments for Rushcremental game screenshot/trailer material.
-- Record clip of drag racing
-- Create 15s gameplay footage for Indie Showcase
-- Begin Collecting Footage for Trailer???
+- Trying to put together a demo announcement Trailer for Steam page.
+- The Goal: Push the "Review this Page" button on Steam back end (not the go live button).
 
 ## Events / Notices / Coming Soon
 
