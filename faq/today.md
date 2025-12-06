@@ -1,9 +1,11 @@
-# Objectives for Today 2025-12-05
+# Objectives for Today 2025-12-06
 
 - Just Chatting as we Get started & warmed up.
-- Make tiny adjustments for Rushcremental game screenshot/trailer material.
-- Trying to put together a demo announcement Trailer for Steam page.
-- The Goal: Push the "Review this Page" button on Steam back end (not the go live button).
+- Update StreamHelper to use TurtleBrains breaking API stuff. (Remove the mem-leak)
+- Update PrivateHelper to use a different debug_log location to avoid mix
+- Update the game everyone is waiting to play to latest API stuff.
+- Dive into ice shader branch to bring it to the latest API stuff.
+- Play a ton of Rocket League.
 
 ## Events / Notices / Coming Soon
 
