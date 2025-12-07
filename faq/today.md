@@ -1,11 +1,9 @@
-# Objectives for Today 2025-12-06
+# Objectives for Today 2025-12-07
 
 - Just Chatting as we Get started & warmed up.
-- Update StreamHelper to use TurtleBrains breaking API stuff. (Remove the mem-leak)
-- Update PrivateHelper to use a different debug_log location to avoid mix
-- Update the game everyone is waiting to play to latest API stuff.
-- Dive into ice shader branch to bring it to the latest API stuff.
-- Play a ton of Rocket League.
+- Creating the project base for Asteroids timjam project.
+- From 9am (ish) to 1-3pm ish (ET) creating Asteroids.
+- Watching F1... Go Max!
 
 ## Events / Notices / Coming Soon
 
