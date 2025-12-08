@@ -21,6 +21,7 @@ Press `CTRL+,` to open settings and use the following (may need to `CTRL+SHIFT+P
 	"editor.tabSize": 4,
 	"editor.insertSpaces": false,
 	"editor.renderWhitespace": "all",
+	"terminal.integrated.suggest.enabled": false,
 
 	"todo.timekeeping.started.format": "YYYYMMDD HH:mm", // Format used for displaying time inside @started
 	"todo.timekeeping.finished.format": "YYYYMMDD HH:mm", // Format used for displaying time inside @done/cancelled
