@@ -1,9 +1,14 @@
-# Objectives for Today 2025-12-07
+# Objectives for Today 2025-12-08
 
 - Just Chatting as we Get started & warmed up.
-- Creating the project base for Asteroids timjam project.
-- From 9am (ish) to 1-3pm ish (ET) creating Asteroids.
-- Watching F1... Go Max!
+- Update the KPI for the adventure.
+- Update the weekly plan
+- Brainstorm micro tips
+- Collect the racing games released on Steam in 2025
+- Dive into build/deploy system for Rushcremental, why Linux itch.io broken?
+- Merge TurtleBrains/ICE/etc back to main (pause API breaks)
+- Try getting StreamHelper building with engine 0.4.4 (main)
+- End of stream, got stuff to do off stream ...
 
 ## Events / Notices / Coming Soon
 
