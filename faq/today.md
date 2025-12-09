@@ -1,14 +1,11 @@
-# Objectives for Today 2025-12-08
+# Objectives for Today 2025-12-09
 
 - Just Chatting as we Get started & warmed up.
-- Update the KPI for the adventure.
-- Update the weekly plan
-- Brainstorm micro tips
-- Collect the racing games released on Steam in 2025
-- Dive into build/deploy system for Rushcremental, why Linux itch.io broken?
-- Merge TurtleBrains/ICE/etc back to main (pause API breaks)
-- Try getting StreamHelper building with engine 0.4.4 (main)
-- End of stream, got stuff to do off stream ...
+- Debug why all opponents are using Jax's car to ensure we can upgrade opponents...
+- Debug why the "chain of inheritance" seems to break down with cars etc...
+- Remove the "buy a car" to unlock the challenger mode, unlock it when jax introduces...
+- See how much progression we can get.
+- End of stream around lunch-ish, got stuff to do off stream ...
 
 ## Events / Notices / Coming Soon
 
