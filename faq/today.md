@@ -1,10 +1,9 @@
-# Objectives for Today 2025-12-09
+# Objectives for Today 2025-12-10
 
 - Just Chatting as we Get started & warmed up.
-- Debug why all opponents are using Jax's car to ensure we can upgrade opponents...
-- Debug why the "chain of inheritance" seems to break down with cars etc...
-- Remove the "buy a car" to unlock the challenger mode, unlock it when jax introduces...
-- See how much progression we can get.
+- Figure out car upgrades and put a handful in the tech tree.
+- Create 4 challenger cars that get slightly harder as the player progresses.
+- Ensure Jax Minion 3 is not beatable without 2 or 3 upgrades.
 - End of stream around lunch-ish, got stuff to do off stream ...
 
 ## Events / Notices / Coming Soon
