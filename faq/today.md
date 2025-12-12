@@ -1,10 +1,10 @@
-# Objectives for Today 2025-12-10
+# Objectives for Today 2025-12-12
 
 - Just Chatting as we Get started & warmed up.
-- Figure out car upgrades and put a handful in the tech tree.
-- Create 4 challenger cars that get slightly harder as the player progresses.
-- Ensure Jax Minion 3 is not beatable without 2 or 3 upgrades.
-- End of stream around lunch-ish, got stuff to do off stream ...
+- Finding Press and Journalists and Places to Announce Demo Launch.
+- Preparing written content to announce the demo launch.
+- Maybe slight development in the demo progression.
+- Essentially: Preparing to release the demo.
 
 ## Events / Notices / Coming Soon
 
