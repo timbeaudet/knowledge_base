@@ -1,15 +1,13 @@
-# Objectives for Today 2025-12-12
+# Objectives for Today 2025-13-12
 
 - Just Chatting as we Get started & warmed up.
-- Finding Press and Journalists and Places to Announce Demo Launch.
-- Preparing written content to announce the demo launch.
-- Maybe slight development in the demo progression.
-- Essentially: Preparing to release the demo.
+- Tim's First Ever Soldering Stream!!! 🪫🔌🔦
+- Gonna open up an electronics kit and learn to solder.
+- Things will probably break. It is how we learn.
 
 ## Events / Notices / Coming Soon
 
 "Tim Jam": Do You Wanna Build a Fun Game? Sundays in December
-Tim's First Ever Soldering Stream: 9am December 13th... 🪫🔌🔦
 
 ### 100 Day Game Schedule:  6am -> ??? Tues-Fri
   with a few exceptions:
