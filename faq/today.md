@@ -1,4 +1,4 @@
-# Objectives for Today 2025-13-12
+# Objectives for Today 2025-12-13
 
 - Just Chatting as we Get started & warmed up.
 - Tim's First Ever Soldering Stream!!! 🪫🔌🔦
