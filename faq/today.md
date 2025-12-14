@@ -1,8 +1,10 @@
-# Objectives for Today 2025-12-13
+# Objectives for Today 2025-12-14
 
 - Just Chatting as we Get started & warmed up.
-- Tim's First Ever Soldering Stream!!! 🪫🔌🔦
-- Gonna open up an electronics kit and learn to solder.
+- Submitting my own Make Fun Game stage 1 submission.
+- Playing the submitted entries.
+- Probably padding time until 9am... Maybe TurtleBrains::MakeString?
+- 9am: Do You Want To Make a Fun Game Stage 2: Adding Content & Polish
 - Things will probably break. It is how we learn.
 
 ## Events / Notices / Coming Soon
@@ -11,7 +13,6 @@
 
 ### 100 Day Game Schedule:  6am -> ??? Tues-Fri
   with a few exceptions:
-  * BREAK: Thanksgiving Nov 27-30
   * BREAK: Christmas Dec 22-28
 
 ### 100 Day Game Dev Plan: (66 days)
