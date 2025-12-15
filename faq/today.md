@@ -1,11 +1,12 @@
-# Objectives for Today 2025-12-14
+# Objectives for Today 2025-12-15
 
 - Just Chatting as we Get started & warmed up.
-- Submitting my own Make Fun Game stage 1 submission.
-- Playing the submitted entries.
-- Probably padding time until 9am... Maybe TurtleBrains::MakeString?
-- 9am: Do You Want To Make a Fun Game Stage 2: Adding Content & Polish
-- Things will probably break. It is how we learn.
+- Update the KPI for the adventure, 4 Eggcelerate! sales...
+- Update the weekly plans
+- Post on reddit for indie tracking data points...
+- Create announcements for Steam page and Demo Launch: Friday
+- Write two news posts for Steam page; one announcing the demo, the other a demo updated release notes
+- Add a "Wishlist" button to Rushcremental.
 
 ## Events / Notices / Coming Soon
 
