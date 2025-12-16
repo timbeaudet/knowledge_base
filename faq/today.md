@@ -1,12 +1,13 @@
-# Objectives for Today 2025-12-15
+# Objectives for Today 2025-12-16
 
 - Just Chatting as we Get started & warmed up.
-- Update the KPI for the adventure, 4 Eggcelerate! sales...
-- Update the weekly plans
-- Post on reddit for indie tracking data points...
-- Create announcements for Steam page and Demo Launch: Friday
-- Write two news posts for Steam page; one announcing the demo, the other a demo updated release notes
 - Add a "Wishlist" button to Rushcremental.
+- Remove the profile buttons.
+- Increase base radius of scrap collection.
+- Make Apply and Exit on Settings screen do that.
+- Make Cancel and Exit on the Settings screen do that.
+- Find an 'ending' spot for the demo.
+- Begin creating special demo build considerations...
 
 ## Events / Notices / Coming Soon
 
