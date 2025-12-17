@@ -1,14 +1,14 @@
-# Objectives for Today 2025-12-16
+# Objectives for Today 2025-12-17
 
 - Just Chatting as we Get started & warmed up.
-- Add a "Wishlist" button to Rushcremental.
-- Remove the profile buttons.
-- Increase base radius of scrap collection.
-- Make Apply and Exit on Settings screen do that.
-- Make Cancel and Exit on the Settings screen do that.
-- Find an 'ending' spot for the demo.
-- Begin creating special demo build considerations...
-
+- Locking the player out of playing more Supply Runs after Reputation 15
+- Change pricing / add quests to the quest list 
+- Wishlist button on the Wishlist quest
+- Replace minion 3 with spitfire jax (keeping the same difficulty).
+- Dialog for challengers to make actual sense
+- Why is challengers displaying "Muddy Max" after winning a race...
+- Make and push a new build for Demo Testers
+  
 ## Events / Notices / Coming Soon
 
 "Tim Jam": Do You Wanna Build a Fun Game? Sundays in December
