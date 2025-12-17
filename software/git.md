@@ -173,7 +173,10 @@ Doesn't actually matter if on master, but master must be up to date.
 `git merge --no-ff feature/name`        feature/name can be omitted if you use `-` instead to represent "previous"  
 `git push`  
 
-If you accidently had local commits and had to rebase them changing history use `push --force-with-lease --force-if-includes` because it doesn't override stuff somebody else/other machines may have pushed and will error if you haven't `git prp` (git pull --rebase=preserve). 
+If you accidently had local commits and had to rebase them changing history use `git pushf` (or `git push --force-with-lease --force-if-includes`) because it doesn't override stuff somebody else/other machines may have pushed and will error if you haven't `git prp` (git pull --rebase=merges).
+
+>>> [!WARNING], if you use `git pushf` to rewrite history on a branch and other people are using that branch then they will need to delete the branch from their local repo, and then fetch the new one.
+
 https://git-scm.com/docs/git-push#Documentation/git-push.txt---no-force-with-lease
 https://git-scm.com/docs/git-push#Documentation/git-push.txt---no-force-if-includes
 
