@@ -1,12 +1,8 @@
-# Objectives for Today 2025-12-17
+# Objectives for Today 2025-12-18
 
 - Just Chatting as we Get started & warmed up.
-- Locking the player out of playing more Supply Runs after Reputation 15
-- Change pricing / add quests to the quest list 
-- Wishlist button on the Wishlist quest
-- Replace minion 3 with spitfire jax (keeping the same difficulty).
-- Dialog for challengers to make actual sense
-- Why is challengers displaying "Muddy Max" after winning a race...
+- Waking up slowly today... And extra chats
+- Fixing a few more issues with demo, for tomorrows big secret announcement!
 - Make and push a new build for Demo Testers
   
 ## Events / Notices / Coming Soon
