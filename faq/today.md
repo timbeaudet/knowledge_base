@@ -1,9 +1,9 @@
-# Objectives for Today 2025-12-18
+# Objectives for Today 2025-12-19
 
 - Just Chatting as we Get started & warmed up.
-- Waking up slowly today... And extra chats
-- Fixing a few more issues with demo, for tomorrows big secret announcement!
-- Make and push a new build for Demo Testers
+- Reviewing the tech tree words.
+- Preparing another demo build.
+- Making a big announcement today!
   
 ## Events / Notices / Coming Soon
 
