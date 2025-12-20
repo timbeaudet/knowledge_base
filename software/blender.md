@@ -23,6 +23,17 @@
 - Hotkey: `G`, `G`
 - Holding `ALT` will allow movement beyond the initial edge in the same edge direction it is locked to.
 
+### Linearly Aligning Vertices (off global/local axis)
+
+- ???
+
+### Deforming a Mesh on a Curve (like a Road/Path)
+
+- Mesh location must be at global origin, without rotation or scale.
+- Use `+X axis` as the `forward` direction to avoid needing to tilt. I believe Blender defaults here are broke.
+- Add an `Generate > Array` modifier (or `Array (Legacy)` in Blender 5.0) to create the length to fit curve.
+- Add a `Deform > Curve` modifier to follow the curve.
+
 ## Modifiers
 
 ### Using Mirror Modifier on Cylinder (with ngon caps)
