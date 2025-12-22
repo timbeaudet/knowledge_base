@@ -1,9 +1,7 @@
-# Objectives for Today 2025-12-20
+# Objectives for Today 2025-12-22
 
 - Just chatting as we get warmed up & started on the day.
-- Install Blender 5.0 (or latest)
-- Get the exporter script working in Blender 5.0
-- Do some modeling...
+- Ending whenever, maybe early, maybe not.
   
 ## Events / Notices / Coming Soon
 
