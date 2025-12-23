@@ -1,6 +1,7 @@
-# Objectives for Today 2025-12-22
+# Objectives for Today 2025-12-23
 
 - Just chatting as we get warmed up & started on the day.
+- Stuff. No idea what. Just doing things.
 - Ending whenever, maybe early, maybe not.
   
 ## Events / Notices / Coming Soon
