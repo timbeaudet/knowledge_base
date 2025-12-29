@@ -1,8 +1,12 @@
-# Objectives for Today 2025-12-23
+# Objectives for Today 2025-12-29
 
 - Just chatting as we get warmed up & started on the day.
-- Stuff. No idea what. Just doing things.
-- Ending whenever, maybe early, maybe not.
+- Updating the KPI of the adventure!
+- Trying to find & act upon a plan to build Stream Hype...
+- Brainstorming Micro GameDev Tips
+- Brainstorming YouTube Video topics / writing next video script?
+- Starting End of Year Review???
+- Decide is this week on or off from Rushcremental???
   
 ## Events / Notices / Coming Soon
 
