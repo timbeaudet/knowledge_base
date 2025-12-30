@@ -1,16 +1,17 @@
-# Objectives for Today 2025-12-29
+# Objectives for Today 2025-12-30
 
 - Just chatting as we get warmed up & started on the day.
-- Updating the KPI of the adventure!
-- Trying to find & act upon a plan to build Stream Hype...
+- Art Practice for 60-90 minutes in Blender
+- Day 45 of 100 for Rushcremental
+- Toduesday! Smash out as Many Tasks as Possible.
 - Brainstorming Micro GameDev Tips
 - Brainstorming YouTube Video topics / writing next video script?
-- Starting End of Year Review???
-- Decide is this week on or off from Rushcremental???
   
 ## Events / Notices / Coming Soon
 
-"Tim Jam": Do You Wanna Build a Fun Game? Sundays in December
+New Years Eve / Day "Party"?
+Sunday January 4th is Business Review for December & Year End Review!
+
 
 ### 100 Day Game Schedule:  6am -> ??? Tues-Fri
   with a few exceptions:
