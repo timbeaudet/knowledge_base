@@ -1,11 +1,10 @@
-# Objectives for Today 2025-12-30
+# Objectives for Today 2026-01-01
 
 - Just chatting as we get warmed up & started on the day.
 - Art Practice for 60-90 minutes in Blender
-- Day 45 of 100 for Rushcremental
-- Toduesday! Smash out as Many Tasks as Possible.
+- Pay Day! Time to give a raise??? Ugh...
 - Brainstorming Micro GameDev Tips
-- Brainstorming YouTube Video topics / writing next video script?
+- Business Review for December 2025 & Year End Review 2025
   
 ## Events / Notices / Coming Soon
 
