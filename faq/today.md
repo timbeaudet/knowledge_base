@@ -1,15 +1,15 @@
-# Objectives for Today 2026-01-01
+# Objectives for Today 2026-01-02
 
 - Just chatting as we get warmed up & started on the day.
+- Need to add 2026_devlog.md 
 - Art Practice for 60-90 minutes in Blender
-- Pay Day! Time to give a raise??? Ugh...
 - Brainstorming Micro GameDev Tips
-- Business Review for December 2025 & Year End Review 2025
+- Create a small track & car in TrophyBrawlers::TurboBots (does physics match there?)
+- Saving / Loading of Hexagonal Tracks.
   
 ## Events / Notices / Coming Soon
 
-New Years Eve / Day "Party"?
-Sunday January 4th is Business Review for December & Year End Review!
+Sunday January 4th is Year End Review!
 
 
 ### 100 Day Game Schedule:  6am -> ??? Tues-Fri
