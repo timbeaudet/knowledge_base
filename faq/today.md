@@ -1,11 +1,14 @@
-# Objectives for Today 2026-01-02
+# Objectives for Today 2026-01-03
 
 - Just chatting as we get warmed up & started on the day.
-- Need to add 2026_devlog.md 
-- Art Practice for 60-90 minutes in Blender
-- Brainstorming Micro GameDev Tips
-- Create a small track & car in TrophyBrawlers::TurboBots (does physics match there?)
-- Saving / Loading of Hexagonal Tracks.
+- Fighting Adventure Trails to add 2026_devlog.md to that repo...
+- Adding Fuel / Tire Wear Display to HUD
+- Adding Pit Stops that refuel and "change" tires.
+- Maybe adding Spin Out objects (cones)...
+- Adding Timing & Scoring to TurboBots in TrophyBrawlers.
+- Hopefully adding a Timing/Scoring Display to HUD...
+- Hopefully adding Admin Command to change the Car Stats...
+- Maybe adding Saving / Loading of Hexagonal Tracks.
   
 ## Events / Notices / Coming Soon
 
