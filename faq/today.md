@@ -1,18 +1,15 @@
-# Objectives for Today 2026-01-03
+# Objectives for Today 2026-01-04
 
 - Just chatting as we get warmed up & started on the day.
-- Fighting Adventure Trails to add 2026_devlog.md to that repo...
-- Adding Fuel / Tire Wear Display to HUD
-- Adding Pit Stops that refuel and "change" tires.
-- Maybe adding Spin Out objects (cones)...
-- Adding Timing & Scoring to TurboBots in TrophyBrawlers.
-- Hopefully adding a Timing/Scoring Display to HUD...
+- Try running GameServer on Rhino and Authenticating with Twitch
 - Hopefully adding Admin Command to change the Car Stats...
-- Maybe adding Saving / Loading of Hexagonal Tracks.
+- Potentially adding a Timing/Scoring Display to HUD...
+- Perform the end of Year 2025 Review and Zoom into 2026
   
 ## Events / Notices / Coming Soon
 
 Sunday January 4th is Year End Review!
+Sunday January 4th is also Multiplayer Playtest
 
 
 ### 100 Day Game Schedule:  6am -> ??? Tues-Fri
