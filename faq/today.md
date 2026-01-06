@@ -1,10 +1,11 @@
-# Objectives for Today 2026-01-04
+# Objectives for Today 2026-01-06
 
 - Just chatting as we get warmed up & started on the day.
-- Try running GameServer on Rhino and Authenticating with Twitch
-- Hopefully adding Admin Command to change the Car Stats...
-- Potentially adding a Timing/Scoring Display to HUD...
-- Perform the end of Year 2025 Review and Zoom into 2026
+- Short Stream; Meetings & Stuff After
+- Update the "Key Performance Indicators"
+- Update the Weekly Plans!
+- Collect Racing Games from Steam from December 2025
+- If time: Perform the end of Year 2025 Review and Zoom into 2026
   
 ## Events / Notices / Coming Soon
 
