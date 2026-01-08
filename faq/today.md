@@ -1,12 +1,12 @@
-# Objectives for Today 2026-01-07
+# Objectives for Today 2026-01-08
 
 - Just chatting as we get warmed up & started on the day.
+- Create Upgrades for the Player to buy to improve their race car in the drag race.
 - Make Rushcremental "boss" Races that Lead up to the Final
-- Add Upgrades to the racing tree that progress the car from begin to end.
-- If time: Perform the end of Year 2025 Review and Zoom into 2026
   
 ## Events / Notices / Coming Soon
 
+Finish End of Year 2025 Review
 Friday is no Stream.
 
 ### 100 Day Game Schedule:  6am -> ??? Tues-Fri
