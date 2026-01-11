@@ -1,8 +1,8 @@
-# Objectives for Today 2026-01-08
+# Objectives for Today 2026-01-11
 
 - Just chatting as we get warmed up & started on the day.
-- Create Upgrades for the Player to buy to improve their race car in the drag race.
-- Make Rushcremental "boss" Races that Lead up to the Final
+- Figure out how to finish the End of Year Review
+- Experimental Home Improvement Stream (possibly on Extras)
   
 ## Events / Notices / Coming Soon
 
