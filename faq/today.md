@@ -1,13 +1,17 @@
-# Objectives for Today 2026-01-11
+# Objectives for Today 2026-01-12
 
 - Just chatting as we get warmed up & started on the day.
-- Figure out how to finish the End of Year Review
-- Experimental Home Improvement Stream (possibly on Extras)
+- Update the Key Performance Indicators for the adventure.
+- Update the weekly plans for this week...
+- Do a weekly topic on Discord/Reddit
+- Post a Announcement of Live Development on Rush Steam Page
+- Write email content for Rushcremental
+- Write additional marketing content for Rushcremental ...
   
 ## Events / Notices / Coming Soon
 
-Finish End of Year 2025 Review
-Friday is no Stream.
+???
+
 
 ### 100 Day Game Schedule:  6am -> ??? Tues-Fri
 
