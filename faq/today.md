@@ -1,12 +1,11 @@
-# Objectives for Today 2026-01-12
+# Objectives for Today 2026-01-13
 
 - Just chatting as we get warmed up & started on the day.
-- Update the Key Performance Indicators for the adventure.
-- Update the weekly plans for this week...
-- Do a weekly topic on Discord/Reddit
-- Post a Announcement of Live Development on Rush Steam Page
-- Write email content for Rushcremental
-- Write additional marketing content for Rushcremental ...
+- Finish the tech tree upgrades for the Players Second Car
+- Finish the tech tree upgrades for the Players Third Car
+- Tackle giving winnings/rewards after the race
+- If time allows: Adding Minions for the second boss
+- If time allows: Adding Minions for the third boss
   
 ## Events / Notices / Coming Soon
 
