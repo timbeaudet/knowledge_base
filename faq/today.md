@@ -1,15 +1,18 @@
-# Objectives for Today 2026-01-13
+# Objectives for Today 2026-01-14
 
 - Just chatting as we get warmed up & started on the day.
-- Finish the tech tree upgrades for the Players Second Car
-- Finish the tech tree upgrades for the Players Third Car
+- Input the players buggy car graphics...
+- Finish the performance markers (slow/fast) of each Player car.
+- Finish RECREATING the tech tree upgrades for the Players First Car: hatch
+- Finish RECREATING the tech tree upgrades for the Players Second Car: buggy
+- Finish RECREATING the tech tree upgrades for the Players Third Car: rally
 - Tackle giving winnings/rewards after the race
 - If time allows: Adding Minions for the second boss
 - If time allows: Adding Minions for the third boss
   
 ## Events / Notices / Coming Soon
 
-???
+Big Reveal for Rushcremental on Friday January 23rd.
 
 
 ### 100 Day Game Schedule:  6am -> ??? Tues-Fri
