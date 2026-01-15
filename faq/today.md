@@ -1,14 +1,10 @@
-# Objectives for Today 2026-01-14
+# Objectives for Today 2026-01-15
 
 - Just chatting as we get warmed up & started on the day.
-- Input the players buggy car graphics...
-- Finish the performance markers (slow/fast) of each Player car.
-- Finish RECREATING the tech tree upgrades for the Players First Car: hatch
-- Finish RECREATING the tech tree upgrades for the Players Second Car: buggy
-- Finish RECREATING the tech tree upgrades for the Players Third Car: rally
 - Tackle giving winnings/rewards after the race
-- If time allows: Adding Minions for the second boss
-- If time allows: Adding Minions for the third boss
+- Ensuring the Racing Environment is loaded by data vs hardcoded
+- Adding Minions for the second boss
+- Adding Minions for the third boss
   
 ## Events / Notices / Coming Soon
 
