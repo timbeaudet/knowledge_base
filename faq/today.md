@@ -1,8 +1,7 @@
-# Objectives for Today 2026-01-15
+# Objectives for Today 2026-01-16
 
 - Just chatting as we get warmed up & started on the day.
-- Tackle giving winnings/rewards after the race
-- Ensuring the Racing Environment is loaded by data vs hardcoded
+- Adding Minions for the first box (Spitfire Jax) ...
 - Adding Minions for the second boss
 - Adding Minions for the third boss
   
