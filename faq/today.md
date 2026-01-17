@@ -1,10 +1,10 @@
-# Objectives for Today 2026-01-16
+# Objectives for Today 2026-01-17
 
 - Just chatting as we get warmed up & started on the day.
-- Adding Minions for the first box (Spitfire Jax) ...
-- Adding Minions for the second boss
-- Adding Minions for the third boss
-  
+- Open Turbo Bots in Unity and make the Scale "real-world" sized. (Make it make sense).
+- Adjust the physics until all is fine.
+- We may even make completely new phsyics model for Turbo Bots.
+    
 ## Events / Notices / Coming Soon
 
 Big Reveal for Rushcremental on Friday January 23rd.
