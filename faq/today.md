@@ -1,9 +1,8 @@
-# Objectives for Today 2026-01-17
+# Objectives for Today 2026-01-18
 
 - Just chatting as we get warmed up & started on the day.
-- Open Turbo Bots in Unity and make the Scale "real-world" sized. (Make it make sense).
-- Adjust the physics until all is fine.
-- We may even make completely new phsyics model for Turbo Bots.
+- Stuff with Turbo Bots / Trophy Brawlers
+- The Thing
     
 ## Events / Notices / Coming Soon
 
