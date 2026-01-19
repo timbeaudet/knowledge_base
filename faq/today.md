@@ -1,8 +1,12 @@
-# Objectives for Today 2026-01-18
+# Objectives for Today 2026-01-19
 
-- Just chatting as we get warmed up & started on the day.
-- Stuff with Turbo Bots / Trophy Brawlers
-- The Thing
+- Just chatting as we get warmed up & started with the day.
+- Update the KPI of the adventure!
+- Update the weekly topic, last week went really good!
+- Attempt to cut up a YouTube shorts/social post...
+- Upkeep: Automated Builds have been broken for > 1 week...
+- Maybe: New Steam Game Review Process!!
+- PROBABLY A SHORT DAY: Gotta Stop By Accountant & Shop for Food
     
 ## Events / Notices / Coming Soon
 
