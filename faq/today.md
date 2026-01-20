@@ -1,12 +1,10 @@
-# Objectives for Today 2026-01-19
+# Objectives for Today 2026-01-20
 
 - Just chatting as we get warmed up & started with the day.
-- Update the KPI of the adventure!
-- Update the weekly topic, last week went really good!
-- Attempt to cut up a YouTube shorts/social post...
-- Upkeep: Automated Builds have been broken for > 1 week...
-- Maybe: New Steam Game Review Process!!
-- PROBABLY A SHORT DAY: Gotta Stop By Accountant & Shop for Food
+- Adding the concept of Resources to Rushcremental.
+- Refactoring Bolts/Gears to become Metal/Plastic etc.
+    - May even keep "NutsAndBolts" in code etc AS an alias for Metal???
+- Rework the early tech tree to get BIGGER numbers.
     
 ## Events / Notices / Coming Soon
 
