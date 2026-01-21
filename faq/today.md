@@ -1,4 +1,4 @@
-# Objectives for Today 2026-01-20
+# Objectives for Today 2026-01-21
 
 - Just chatting as we get warmed up & started with the day.
 - Ensure each boss race unlocks the zone etc.
