@@ -1,9 +1,11 @@
 # Objectives for Today 2026-01-20
 
 - Just chatting as we get warmed up & started with the day.
-- Adding the concept of Resources to Rushcremental.
-- Refactoring Bolts/Gears to become Metal/Plastic etc.
-    - May even keep "NutsAndBolts" in code etc AS an alias for Metal???
+- Ensure each boss race unlocks the zone etc.
+- Ensure the new resources will unlock as player progresses.
+- Scope creep discussion and solving racing game design issues...
+    - Racing game: too many upgrades
+    - Racing game: not intertwined with scavenging?
 - Rework the early tech tree to get BIGGER numbers.
     
 ## Events / Notices / Coming Soon
