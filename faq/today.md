@@ -1,12 +1,9 @@
-# Objectives for Today 2026-01-21
+# Objectives for Today 2026-01-22
 
 - Just chatting as we get warmed up & started with the day.
-- Ensure each boss race unlocks the zone etc.
-- Ensure the new resources will unlock as player progresses.
-- Scope creep discussion and solving racing game design issues...
-    - Racing game: too many upgrades
-    - Racing game: not intertwined with scavenging?
+- Show the collected resources on the Supply Results Screen (as player progresses in game, it changes).
 - Rework the early tech tree to get BIGGER numbers.
+- Doing the stuff that needs to be done!
     
 ## Events / Notices / Coming Soon
 
