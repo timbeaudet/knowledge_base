@@ -1,14 +1,14 @@
-# Objectives for Today 2026-01-22
+# Objectives for Today 2026-01-23
 
 - Just chatting as we get warmed up & started with the day.
-- Show the collected resources on the Supply Results Screen (as player progresses in game, it changes).
-- Rework the early tech tree to get BIGGER numbers.
+- Creating an example of 9-slice buttons...
+- Reveal the game in its fullest form! (9am)
+- Start investigating what still needs to be done...
 - Doing the stuff that needs to be done!
     
 ## Events / Notices / Coming Soon
 
-Big Reveal for Rushcremental on Friday January 23rd.
-
+Big Reveal for Rushcremental on Friday January 23rd ... TODAY! ITS TODAY!
 
 ### 100 Day Game Schedule:  6am -> ??? Tues-Fri
 
