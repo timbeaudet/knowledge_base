@@ -1,9 +1,9 @@
-# Objectives for Today 2026-01-23
+# Objectives for Today 2026-01-24
 
 - Just chatting as we get warmed up & started with the day.
-- Creating an example of 9-slice buttons...
-- Reveal the game in its fullest form! (9am)
-- Start investigating what still needs to be done...
+- If shakesoda is around/appears: Turbo Boom Visuals & Shader Cleanup gets Top Priority.
+- Fix the Nightly Builds (they are creating significantly large email reports...)
+- Attempting to Fix the Web Server from Nonsense; archived backup & overall cleanup...
 - Doing the stuff that needs to be done!
     
 ## Events / Notices / Coming Soon
