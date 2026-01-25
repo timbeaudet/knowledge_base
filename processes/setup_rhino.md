@@ -134,6 +134,20 @@ ln -s /usr/bin/gcc-12 /usr/bin/gcc
 ln -s /usr/bin/g++-12 /usr/bin/g++
 ```
 
+## Setup Multiplexing Stuff when using SSH
+
+This is done so that multiple calls to `rsync` from a deploy script will actually share the same connection rather than make new ones which may help reduce issues. It is possible webhost has a limit of 5 new connections in 10 minutes or some other similar timeout scenario.
+
+vim `~/.ssh/config` and add the following:
+
+```
+ControlMaster auto
+ControlPath "~/.ssh/%r@%h:%p"
+ControlPersist 600s
+```
+
+The ControlPath password non-sense is using remote user, host, port for the "connection file" on harddrive.
+
 
 
 ## Things to still do
