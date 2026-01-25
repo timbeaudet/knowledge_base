@@ -1,9 +1,9 @@
-# Objectives for Today 2026-01-24
+# Objectives for Today 2026-01-25
 
 - Just chatting as we get warmed up & started with the day.
-- If shakesoda is around/appears: Turbo Boom Visuals & Shader Cleanup gets Top Priority.
-- Fix the Nightly Builds (they are creating significantly large email reports...)
 - Attempting to Fix the Web Server from Nonsense; archived backup & overall cleanup...
+- Removing WordPress blog, gone, NEVER AGAIN. Don't use this.
+- Figure out Hugo vs Jekyll (which one did I like better?? I am 90% sure hugo)
 - Doing the stuff that needs to be done!
     
 ## Events / Notices / Coming Soon
