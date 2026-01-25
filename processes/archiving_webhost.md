@@ -44,3 +44,10 @@ md5sum -c tyre_bytes.md5 --quiet
 If the `--quiet` doesn't have any output we are good to go, probably.
 
 
+Finally we ran upon a situation that required manually generating `tyre_bytes.md5` on the local copy because 'wordpress' wanted to have issues, and planned to use `diff` to compare the two md5 files. That requires a diff the sorts the files like so:
+
+```
+diff <(sort local_tyre_bytes.md5) <(sort webhost_tyre_bytes.md5)
+```
+
+
