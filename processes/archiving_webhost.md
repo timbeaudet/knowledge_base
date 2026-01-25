@@ -27,6 +27,9 @@ To Double check all the files were as they should be... From within the original
 ```
 cd web_host/tyre_bytes/
 find -type f | xargs md5sum > ../tyre_bytes.md5
+
+# If you have spaces in filenames... because wordpress...
+find -type f | xargs -I{} md5sum "{}" > ../timbeaudet.md5
 ```
 
 Then after downloading and extracting the files, also download that .md5 file directly inside the tyre_bytes on the local copy..
