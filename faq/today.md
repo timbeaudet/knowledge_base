@@ -1,14 +1,14 @@
-# Objectives for Today 2026-01-25
+# Objectives for Today 2026-01-26
 
 - Just chatting as we get warmed up & started with the day.
-- Attempting to Fix the Web Server from Nonsense; archived backup & overall cleanup...
-- Removing WordPress blog, gone, NEVER AGAIN. Don't use this.
-- Figure out Hugo vs Jekyll (which one did I like better?? I am 90% sure hugo)
+- Update the Key Performance Indicators for the adventure.
+- Update the weekly plans for Week #5
+- Update the weekly topic!
+- Figure out what tasks remain, what MUST be done, and how many days remain for Rushcremental...
+- Eggcelerate! 5 Years Later Script...
 - Doing the stuff that needs to be done!
     
 ## Events / Notices / Coming Soon
-
-Big Reveal for Rushcremental on Friday January 23rd ... TODAY! ITS TODAY!
 
 ### 100 Day Game Schedule:  6am -> ??? Tues-Fri
 
