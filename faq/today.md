@@ -1,11 +1,11 @@
 # Objectives for Today 2026-01-26
 
 - Just chatting as we get warmed up & started with the day.
-- Update the Key Performance Indicators for the adventure.
-- Update the weekly plans for Week #5
-- Update the weekly topic!
-- Figure out what tasks remain, what MUST be done, and how many days remain for Rushcremental...
-- Eggcelerate! 5 Years Later Script...
+- Rename the old Garage to "Market" in Rushcremental.
+- Adding the Mechanic Garage to Rushcremental, aka "real" Garage.
+- If Time Allows: Add Grenades as a quick and ugly first pass...
+- If Time Allows: Add Friendly Crate as a quick and ugly first pass...
+- If Time Allows: Create Teddy Bear Loot 'bombs'
 - Doing the stuff that needs to be done!
     
 ## Events / Notices / Coming Soon
