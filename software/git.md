@@ -85,14 +85,17 @@ git config --global alias.ss 'stash save'
 git config --global alias.sp 'stash pop'
 
 git config --global merge.conflictStyle diff3
-git config --global --add --bool push.autoSetupRemote true
+git config --global --add --bool push.autoSetupRemote false
 ```
 
+### Do NOT Use This...
 > Use the following git config command to immediately set branch as upstream and push without requiring the git push --set-upstream origin blah/blah-blah
 
 ```
 git config --global --add --bool push.autoSetupRemote true
 ```
+
+While that does make it easier to push a branch upstream, it also allows the habit of 'git cm work' 'git push' to automatically push a branch that really should be pushed to the remote. This can make it a bit harder to cleanup the branches properly, or at least make things more messy on the remote. Pushing a feature/branch **should be intentional.**
 
 Unformatted below.
 
