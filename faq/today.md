@@ -1,12 +1,10 @@
-# Objectives for Today 2026-01-28
+# Objectives for Today 2026-01-29
 
 - Just chatting as we get warmed up & started with the day.
-- Add Grenades as a quick and ugly first pass...
-- Add Friendly Crate as a quick and ugly first pass...
-- Create Teddy Bear Loot 'bombs'
-- Figure out the rewards for each race in Rush Wars.
-- If still time: brainstorm a list of the charms for the player.
-- If still time: brainstorm / figure out the quests and rewards for Quests.
+- Continue brainstorm the list of the charms for the player.
+- Continue brainstorm the rewards for Quests.
+- Create the 'final' game flow through the game.
+- Rework the tech-tree to begin listing all the icons that will be necessary.
 - Doing the stuff that needs to be done!
     
 ## Events / Notices / Coming Soon
