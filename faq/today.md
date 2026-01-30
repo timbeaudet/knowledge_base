@@ -1,10 +1,9 @@
-# Objectives for Today 2026-01-29
+# Objectives for Today 2026-01-30
 
 - Just chatting as we get warmed up & started with the day.
+- Rework the tech-tree to begin listing all the icons that will be necessary.
 - Continue brainstorm the list of the charms for the player.
 - Continue brainstorm the rewards for Quests.
-- Create the 'final' game flow through the game.
-- Rework the tech-tree to begin listing all the icons that will be necessary.
 - Doing the stuff that needs to be done!
     
 ## Events / Notices / Coming Soon
