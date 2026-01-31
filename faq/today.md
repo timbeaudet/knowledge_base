@@ -1,9 +1,9 @@
-# Objectives for Today 2026-01-30
+# Objectives for Today 2026-01-31
 
 - Just chatting as we get warmed up & started with the day.
-- Rework the tech-tree to begin listing all the icons that will be necessary.
-- Continue brainstorm the list of the charms for the player.
-- Continue brainstorm the rewards for Quests.
+- Try testing an idea I have with TurtleBrains Text objects.
+- If it flows well trying making "Text Fit Box" in the Text Object.
+- Jump into Unity and work on Turbo Bots "real size, non-kart" physics.
 - Doing the stuff that needs to be done!
     
 ## Events / Notices / Coming Soon
