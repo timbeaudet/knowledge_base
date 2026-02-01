@@ -1,10 +1,11 @@
-# Objectives for Today 2026-01-31
+# Objectives for Today 2026-02-01
 
 - Just chatting as we get warmed up & started with the day.
-- Try testing an idea I have with TurtleBrains Text objects.
-- If it flows well trying making "Text Fit Box" in the Text Object.
-- Jump into Unity and work on Turbo Bots "real size, non-kart" physics.
-- Doing the stuff that needs to be done!
+- Business Review of January 2026
+- How much money came in, went out?
+- How much time was spent, on what achievements?
+- What lessons were learned, how can we do better?
+- Where do we go from here?
     
 ## Events / Notices / Coming Soon
 
