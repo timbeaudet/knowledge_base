@@ -1,11 +1,13 @@
-# Objectives for Today 2026-02-01
+# Objectives for Today 2026-02-02
 
-- Just chatting as we get warmed up & started with the day.
-- Business Review of January 2026
-- How much money came in, went out?
-- How much time was spent, on what achievements?
-- What lessons were learned, how can we do better?
-- Where do we go from here?
+- Chatting as we wake up and get started with the day.
+- Updating the KPI of the adventure.
+- Updating the Weekly Plans for Week # 6
+- Update the Weekly Topic on Reddit
+- Collect the Racing Games released on Steam in January 2026
+- Release an Announcement "Major Demo Update incoming" on Steam...
+- Prepare an Announcement for "Major Demo Update" here...
+- Maybe brainstorm some talking points for Bookshelf YouTube video.
     
 ## Events / Notices / Coming Soon
 
