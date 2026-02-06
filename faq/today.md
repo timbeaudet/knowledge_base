@@ -1,9 +1,8 @@
-# Objectives for Today 2026-02-05
+# Objectives for Today 2026-02-06
 
 - Chatting as we wake up and get started with the day.
-- Tackle the Workshop and getting all the racing upgrades figured out.
-- Implement the Racing Rewards
-- Create a Charms display to show the charms the player owns.
+- Its a Friday
+- Would like to wrap up the dmeo. HAHAHAHA
 - Diving into more of the tech tree.
     
 ## Events / Notices / Coming Soon
