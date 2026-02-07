@@ -1,8 +1,11 @@
-# Objectives for Today 2026-02-06
+# Objectives for Today 2026-02-07
 
 - Chatting as we wake up and get started with the day.
-- Its a Friday
-- Would like to wrap up the dmeo. HAHAHAHA
+- Starting with a few cleanup tasks to get momentum...
+- Breaking saves for prior demo users, and moving demo save directory.
+- Game progression from Level 10 to Beating Spitfire Jax.
+- Figure out a few early game quests to add for demo.
+- Would like to wrap up the demo. HAHAHAHA
 - Diving into more of the tech tree.
     
 ## Events / Notices / Coming Soon
