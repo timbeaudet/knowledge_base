@@ -1,11 +1,11 @@
-# Objectives for Today 2026-02-07
+# Objectives for Today 2026-02-08
 
 - Chatting as we wake up and get started with the day.
-- Starting with a few cleanup tasks to get momentum...
-- Breaking saves for prior demo users, and moving demo save directory.
+- Adding asset for effects.
 - Game progression from Level 10 to Beating Spitfire Jax.
 - Figure out a few early game quests to add for demo.
-- Would like to wrap up the demo. HAHAHAHA
+- Cleanup of demo distribution package (shouldn't launch with ALL the things)...
+- Would like to wrap up the demo.
 - Diving into more of the tech tree.
     
 ## Events / Notices / Coming Soon
