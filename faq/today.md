@@ -1,12 +1,13 @@
-# Objectives for Today 2026-02-08
+# Objectives for Today 2026-02-09
 
 - Chatting as we wake up and get started with the day.
-- Adding asset for effects.
-- Game progression from Level 10 to Beating Spitfire Jax.
-- Figure out a few early game quests to add for demo.
-- Cleanup of demo distribution package (shouldn't launch with ALL the things)...
-- Would like to wrap up the demo.
-- Diving into more of the tech tree.
+- Update the Key Performance Indicators of the Adventure.
+- Update the Weekly Topic
+- Update the Weekly Plan
+- Collect new Screenshots & materials for Promotional Stuff.
+- Collect new video footage for a new Trailer
+- Put together new banner videos
+- Marketing Content & Planning
     
 ## Events / Notices / Coming Soon
 
