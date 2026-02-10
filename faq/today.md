@@ -1,12 +1,10 @@
-# Objectives for Today 2026-02-09
+# Objectives for Today 2026-02-10
 
 - Chatting as we wake up and get started with the day.
-- Update the Key Performance Indicators of the Adventure.
-- Update the Weekly Topic
-- Update the Weekly Plan
 - Collect new Screenshots & materials for Promotional Stuff.
 - Collect new video footage for a new Trailer
 - Put together new banner videos
+- Put together new Trailer video...
 - Marketing Content & Planning
     
 ## Events / Notices / Coming Soon
