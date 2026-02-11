@@ -1,6 +1,7 @@
-# Objectives for Today 2026-02-10
+# Objectives for Today 2026-02-11
 
 - Chatting as we wake up and get started with the day.
+- Implement a few things to fix look in screenshots.
 - Collect new Screenshots & materials for Promotional Stuff.
 - Collect new video footage for a new Trailer
 - Put together new banner videos
