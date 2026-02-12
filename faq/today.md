@@ -1,11 +1,11 @@
-# Objectives for Today 2026-02-11
+# Objectives for Today 2026-02-12
 
 - Chatting as we wake up and get started with the day.
 - Implement a few things to fix look in screenshots.
-- Collect new Screenshots & materials for Promotional Stuff.
-- Collect new video footage for a new Trailer
 - Put together new banner videos
 - Put together new Trailer video...
+- Put new content on Steam Page & Press Buttons
+- Continue Preparing the Next Demo Build
 - Marketing Content & Planning
     
 ## Events / Notices / Coming Soon
