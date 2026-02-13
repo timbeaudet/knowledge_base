@@ -1,11 +1,16 @@
-# Objectives for Today 2026-02-12
+# Objectives for Today 2026-02-13
 
 - Chatting as we wake up and get started with the day.
-- Implement a few things to fix look in screenshots.
-- Put together new banner videos
-- Put together new Trailer video...
-- Put new content on Steam Page & Press Buttons
-- Continue Preparing the Next Demo Build
+- Reauthenticating TurtleBot for next 60 days.
+- Update the Developement Reports & Time Sheet (slightly behind)
+- Test out a new surprise Allov made!
+- Work on Next Fest demo and adding some polish...
+- Make tech tree buttons a separate Entity
+- Scale & Wobble the ToolTip window as it appears/disappears.
+- Exclude non-demo files from Linux
+- Exclude non-demo files from macOS
+- Test Demo Build with the excluded files.
+- Continue Preparing the Next Fest Demo Build
 - Marketing Content & Planning
     
 ## Events / Notices / Coming Soon
