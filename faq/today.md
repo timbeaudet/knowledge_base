@@ -1,19 +1,15 @@
-# Objectives for Today 2026-02-13
+# Objectives for Today 2026-02-15
 
 - Chatting as we wake up and get started with the day.
-- Reauthenticating TurtleBot for next 60 days.
-- Update the Developement Reports & Time Sheet (slightly behind)
-- Test out a new surprise Allov made!
-- Work on Next Fest demo and adding some polish...
-- Make tech tree buttons a separate Entity
-- Scale & Wobble the ToolTip window as it appears/disappears.
-- Exclude non-demo files from Linux
-- Exclude non-demo files from macOS
-- Test Demo Build with the excluded files.
-- Continue Preparing the Next Fest Demo Build
-- Marketing Content & Planning
+- See if we can ponder "Texture Width < 0" error boulean found...
+- How to get the timbeaudet.com blog up and running again? WITHOUT WORDPRESS
+- Climba  mountain. :D
     
 ## Events / Notices / Coming Soon
+- Next Fest Demo Release: February 20th
+- Next Fest Starts: February 23rd
+- Business Review Sunday March 1st
+- Market Research of Racing Games on Steam: March 2nd 9am
 
 ### 100 Day Game Schedule:  6am -> ??? Tues-Fri
 
