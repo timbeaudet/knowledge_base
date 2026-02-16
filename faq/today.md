@@ -1,9 +1,10 @@
-# Objectives for Today 2026-02-15
+# Objectives for Today 2026-02-16
 
 - Chatting as we wake up and get started with the day.
-- See if we can ponder "Texture Width < 0" error boulean found...
-- How to get the timbeaudet.com blog up and running again? WITHOUT WORDPRESS
-- Climba  mountain. :D
+- Add "auto saving" calls after important moments in Rushcremental.
+- Create and push build v0.4.3
+- Write an email to idle influencers trying to get them to play Rushcremental for next fest.
+- Sponsored Content: Update the Rushcremental campaign page thing on Keymailer/Partnier.
     
 ## Events / Notices / Coming Soon
 - Next Fest Demo Release: February 20th
