@@ -5,6 +5,7 @@
 - Update the weekly topic on Reddits
 - Update the weekly plans for development
 - Read about and setup DMARC on DreamHost
+- Upload Next Fest Trailer on YouTube
 - Sending out some emails for Rushcremental Next Fest Demo
 - Creating page for Rushcremental on KeyMailer
 
