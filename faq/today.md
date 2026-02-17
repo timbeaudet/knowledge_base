@@ -1,11 +1,14 @@
-# Objectives for Today 2026-02-16
+# Objectives for Today 2026-02-17
 
 - Chatting as we wake up and get started with the day.
-- Add "auto saving" calls after important moments in Rushcremental.
-- Create and push build v0.4.3
-- Write an email to idle influencers trying to get them to play Rushcremental for next fest.
-- Sponsored Content: Update the Rushcremental campaign page thing on Keymailer/Partnier.
-    
+- Updating the Key Performance Indicators
+- Update the weekly topic on Reddits
+- Update the weekly plans for development
+- Read about and setup DMARC on DreamHost
+- Sending out some emails for Rushcremental Next Fest Demo
+- Creating page for Rushcremental on KeyMailer
+
+  
 ## Events / Notices / Coming Soon
 - Next Fest Demo Release: February 20th
 - Next Fest Starts: February 23rd
