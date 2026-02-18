@@ -1,14 +1,8 @@
-# Objectives for Today 2026-02-17
+# Objectives for Today 2026-02-18
 
 - Chatting as we wake up and get started with the day.
-- Updating the Key Performance Indicators
-- Update the weekly topic on Reddits
-- Update the weekly plans for development
-- Read about and setup DMARC on DreamHost
-- Upload Next Fest Trailer on YouTube
-- Sending out some emails for Rushcremental Next Fest Demo
-- Creating page for Rushcremental on KeyMailer
-
+- Try submitting to incrementaldb (did my best)
+- Record a chill gameplay video of Rushcremental demo for the Steam
   
 ## Events / Notices / Coming Soon
 - Next Fest Demo Release: February 20th
