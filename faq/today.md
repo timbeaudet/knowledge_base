@@ -1,8 +1,12 @@
-# Objectives for Today 2026-02-18
+# Objectives for Today 2026-02-19
 
 - Chatting as we wake up and get started with the day.
-- Try submitting to incrementaldb (did my best)
-- Record a chill gameplay video of Rushcremental demo for the Steam
+- Collect a bunch more screenshots, and with any luck organize them...
+  - At least two screenshots of each biome, approximate start / end Supply Run. Maybe middle too.
+  - At least one screenshot of each biome, Race with different vehicle (rarely the boss!)
+  - A few of the tech tree, early, mid, late
+- Prepare and write the content for Press Release and other postings of Next Fest demo launch etc.
+- After marketing burnout, dive into Rush Wars implementation of retry dialog and {payment: true}
   
 ## Events / Notices / Coming Soon
 - Next Fest Demo Release: February 20th
