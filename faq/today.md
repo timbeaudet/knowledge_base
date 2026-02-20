@@ -1,11 +1,9 @@
-# Objectives for Today 2026-02-19
+# Objectives for Today 2026-02-20
 
 - Chatting as we wake up and get started with the day.
-- Collect a bunch more screenshots, and with any luck organize them...
-  - At least two screenshots of each biome, approximate start / end Supply Run. Maybe middle too.
-  - At least one screenshot of each biome, Race with different vehicle (rarely the boss!)
-  - A few of the tech tree, early, mid, late
-- Prepare and write the content for Press Release and other postings of Next Fest demo launch etc.
+- Write and post content for Press Release and other postings of Next Fest demo launch etc.
+- Press the Release The Demo Buttons at 9am ET.
+- Write a Moosend mail campaign to pitlane reports.
 - After marketing burnout, dive into Rush Wars implementation of retry dialog and {payment: true}
   
 ## Events / Notices / Coming Soon
