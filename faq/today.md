@@ -1,13 +1,10 @@
-# Objectives for Today 2026-02-20
+# Objectives for Today 2026-02-23
 
 - Chatting as we wake up and get started with the day.
-- Write and post content for Press Release and other postings of Next Fest demo launch etc.
-- Press the Release The Demo Buttons at 9am ET.
-- Write a Moosend mail campaign to pitlane reports.
-- After marketing burnout, dive into Rush Wars implementation of retry dialog and {payment: true}
+- Update the Key Performance Indicators
+- Write and send more emails for Rushcremental Next Fest...
   
 ## Events / Notices / Coming Soon
-- Next Fest Demo Release: February 20th
 - Next Fest Starts: February 23rd
 - Business Review Sunday March 1st
 - Market Research of Racing Games on Steam: March 2nd 9am
