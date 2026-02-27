@@ -1,11 +1,10 @@
-# Objectives for Today 2026-02-23
+# Objectives for Today 2026-02-27
 
 - Chatting as we wake up and get started with the day.
-- Update the Key Performance Indicators
-- Write and send more emails for Rushcremental Next Fest...
-  
+- Try adding the Payment polish to the Rush Wars scene
+- Take the money from da player.
+
 ## Events / Notices / Coming Soon
-- Next Fest Starts: February 23rd
 - Business Review Sunday March 1st
 - Market Research of Racing Games on Steam: March 2nd 9am
 
