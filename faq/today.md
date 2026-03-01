@@ -1,9 +1,7 @@
-# Objectives for Today 2026-02-28
+# Objectives for Today 2026-03-01
 
 - Chatting as we wake up and get started with the day.
-- Fixing a minor issue with the Rush Wars scene giving rewards.
-- Creating a Scale and Wobble behavior for the Tech Tree Tool Top.
-- Adding polish and juice to the Start / Finish moments of Supply Run.
+- Business Review for February 2026
 - Writing mode: Create/prepare a postie for Reddit & socials about Tomorrow GameReview (and/or Marketing Monday)
 
 ## Events / Notices / Coming Soon
