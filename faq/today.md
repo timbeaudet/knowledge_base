@@ -1,12 +1,12 @@
-# Objectives for Today 2026-03-01
+# Objectives for Today 2026-03-02
 
 - Chatting as we wake up and get started with the day.
-- Business Review for February 2026
-- Writing mode: Create/prepare a postie for Reddit & socials about Tomorrow GameReview (and/or Marketing Monday)
+- Update the Key Performance Indicators of the Adventure
+- Update a Weekly Topic for /r/racinggames
+- Update weekly plans for Week #10
+- Steam Racing Game Market Review for February 2026
 
 ## Events / Notices / Coming Soon
-- Business Review Sunday March 1st
-- Market Research of Racing Games on Steam: March 2nd 9am
 
 ### 100 Day Game Schedule:  6am -> ??? Tues-Fri
 
