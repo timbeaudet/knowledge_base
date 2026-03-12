@@ -1,8 +1,8 @@
-# Objectives for Today 2026-03-11
+# Objectives for Today 2026-03-12
 
 - Chatting as we wake up and get started with the day.
-- Get the Supply Run Unlock/Rewards working again... hopefully.
 - Work through first a pass Desert Chapel progression...
+- Maybe createa a demo build?
 
 ## Events / Notices / Coming Soon
 
