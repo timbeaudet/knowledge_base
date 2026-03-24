@@ -1,10 +1,11 @@
-# Objectives for Today 2026-03-20
+# Objectives for Today 2026-03-24
 
 - Chatting as we wake up and get started with the day.
-- Sitting at the work-station... because otherwise I was just lying in bed restless...
-- Test how much Rubber is given at END of DESERT DRAFT with/without the 'fix'.
-- Test how much Rubber is given at START of DESERT DRAFT with/without the 'fix'.
-- Reorder the DESERT DRAFT from the feelings I had going through it.
+- Update the KPI for the adventure
+- Update the weekly plan
+- Rework the Settings page to add an option to enable/disable Racing QTE.
+- Create an automatic racing mode for the player when QTE is disabled.
+- Rework all the challenger car performances to ensure perfect is necessary to win.
 - May build an itch.io page for Rushcremental demo.
 
 ## Events / Notices / Coming Soon
