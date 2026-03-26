@@ -1,11 +1,10 @@
-# Objectives for Today 2026-03-25
+# Objectives for Today 2026-03-26
 
 - Chatting as we wake up and get started with the day.
-- Modify the vehicle stats for Desert Chapel and Tundra Drifts to ensure Perfect (Slow) is necessary.
-- Modify the vehicle stats for Demo Jax.
-- Maybe modify vehicles through the end of the game?
-- Perhaps hook in a "Auto Buy Prior Upgrades" function to Workshop before a race starts...
-  - (as a backup, in case something changed/went wrong, etc, at least then it 'works' even if excess resources)
+- 45 minutes of unplanned, technical non-sense. GPU Driver Reset x2, OBS/Camera issues, NON-SENSE.
+- Figure out how to successfully delude myself into full send belief TBIA _will_ succeed.
+- Play Rushcremental from start to Level 9 for a fresh copy of rep9.
+- Finalize any Quests and Tech Tree upgrades for Rust Point.
 - Price out the vehicle upgrades for Rust Point, which should complete Rust Point minus words.
 - May build an itch.io page for Rushcremental demo.
 
