@@ -1,12 +1,10 @@
-# Objectives for Today 2026-03-26
+# Objectives for Today 2026-03-27
 
 - Chatting as we wake up and get started with the day.
-- 45 minutes of unplanned, technical non-sense. GPU Driver Reset x2, OBS/Camera issues, NON-SENSE.
-- Figure out how to successfully delude myself into full send belief TBIA _will_ succeed.
-- Play Rushcremental from start to Level 9 for a fresh copy of rep9.
-- Finalize any Quests and Tech Tree upgrades for Rust Point.
-- Price out the vehicle upgrades for Rust Point, which should complete Rust Point minus words.
-- May build an itch.io page for Rushcremental demo.
+- Secrets: Changing the Release Date in Steam backend for Rushcremental.
+- Clean up the development saves and play to create a save point at end of Rush Point.
+- Play through the desert, taking notes of major beats, wants, changes needed etc.
+- Make what ever changes we can, and play through the desert a second, third and fourth time if possible.
 
 ## Events / Notices / Coming Soon
 
