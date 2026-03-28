@@ -1,10 +1,10 @@
-# Objectives for Today 2026-03-27
+# Objectives for Today 2026-03-28
 
 - Chatting as we wake up and get started with the day.
-- Secrets: Changing the Release Date in Steam backend for Rushcremental.
-- Clean up the development saves and play to create a save point at end of Rush Point.
-- Play through the desert, taking notes of major beats, wants, changes needed etc.
-- Make what ever changes we can, and play through the desert a second, third and fourth time if possible.
+- Brainstorming: What categories of things would I release on Tyre Bytes itch.io page?
+- Dive into pacing and balance of Desert Chapel, and the progressiong with Market/Rush Wars.
+- Play through the desert, taking notes, make changes, repeat.
 
 ## Events / Notices / Coming Soon
 
+Tomorrow: Indie GameDev Business Review
