@@ -1,10 +1,9 @@
-# Objectives for Today 2026-04-03
+# Objectives for Today 2026-04-04
 
 - Chatting as we wake up and get started with the day.
-- Start tuning / creating things for Glass Flats, I think Allov is working on Fame/Reputation curve.
-- Add some notes for the Fame/Reputation calculation elephant...
-- Finalize the Tundra Drifts, by playing, testing, fixing, playing ...
-- Repeat the balance testing and fixing and testing and fixing...
+- Get TurtleBot to start/run a 3m Twitch Ad about 10-15 seconds after Stream starts.
+- Add a RandomizerDeck class/object thing in TurtleBrains; Refactor StreamHelper races to use it?
+- Investigate StreamHelper and why it is saying "Failed to set the user" for the drag-races.
 
 ## Events / Notices / Coming Soon
 
