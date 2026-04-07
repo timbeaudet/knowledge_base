@@ -1,9 +1,10 @@
-# Objectives for Today 2026-04-04
+# Objectives for Today 2026-04-07
 
 - Chatting as we wake up and get started with the day.
-- Get TurtleBot to start/run a 3m Twitch Ad about 10-15 seconds after Stream starts.
-- Add a RandomizerDeck class/object thing in TurtleBrains; Refactor StreamHelper races to use it?
-- Investigate StreamHelper and why it is saying "Failed to set the user" for the drag-races.
+- Key Performance Indicators today.
+- Weekly Plans for Week #15
+- Add a RandomizerDeck class/object thing in Rushcremental.
+- Working on the start of the Glass Flats!
 
 ## Events / Notices / Coming Soon
 
