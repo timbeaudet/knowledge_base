@@ -1,10 +1,13 @@
-# Objectives for Today 2026-04-08
 
-- Chatting as we wake up and get started with the day.
-- Try sending an !ad from TurtleBot to see if we can't figure out why that is failing.
-- Maybe drop some debug info to figure out why Failed to set the user is happening for drag races... shouldn't be.
+## Discusion Topic: What Games had an Impact on You?
+
+# Objectives for Today 2026-04-09
+
+- Chatting as we get started with the day.
+- Fix the Rushcremental Linux build issue.
+- Try to tone down the camp, or decide to cut the camp altogether...
 - Play through Tundra from start to finish; with working camp??
-- Start rough pricing for the Glass Flats
+- Start rough pricing for the Glass Flats.
 
 
 ## Events / Notices / Coming Soon
