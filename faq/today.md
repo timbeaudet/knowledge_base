@@ -1,13 +1,11 @@
 
-## Discusion Topic: What Games had an Impact on You?
+## Discusion Topic: What Games Were Meaningful to You?
 
-# Objectives for Today 2026-04-09
+# Objectives for Today 2026-04-10
 
 - Chatting as we get started with the day.
-- Fix the Rushcremental Linux build issue.
-- Try to tone down the camp, or decide to cut the camp altogether...
-- Play through Tundra from start to finish; with working camp??
-- Start rough pricing for the Glass Flats.
+- Trying to finish balancing the Tundra Drifts; with a working camp??
+- Start pricing for the Glass Flats.
 
 
 ## Events / Notices / Coming Soon
