@@ -1,11 +1,12 @@
 
 ## Discusion Topic: What Games Were Meaningful to You?
 
-# Objectives for Today 2026-04-10
+# Objectives for Today 2026-04-11
 
 - Chatting as we get started with the day.
-- Trying to finish balancing the Tundra Drifts; with a working camp??
-- Start pricing for the Glass Flats.
+- Read through all the dialog in Rushcremental, Allov has updated it all.
+- Trying to create a rough pass through the Glass Flats, shifting the gameplay on the player.
+- Start pricing market upgrade for the Glass Flats.
 
 
 ## Events / Notices / Coming Soon
