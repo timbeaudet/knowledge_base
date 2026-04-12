@@ -1,12 +1,13 @@
 
 ## Discusion Topic: What Games Were Meaningful to You?
 
-# Objectives for Today 2026-04-11
+# Objectives for Today 2026-04-12
 
 - Chatting as we get started with the day.
-- Read through all the dialog in Rushcremental, Allov has updated it all.
-- Trying to create a rough pass through the Glass Flats, shifting the gameplay on the player.
+- Pass through some of the Dialog, Events and other words for a while.
+- Try creating a rough pass through the Glass Flats, shifting the gameplay on the player.
 - Start pricing market upgrade for the Glass Flats.
+- May jump into some Stream Helper work, why is countdown white behind the text????
 
 
 ## Events / Notices / Coming Soon
