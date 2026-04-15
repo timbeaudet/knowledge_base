@@ -1,13 +1,13 @@
 
 ## Discusion Topic: What Games Were Meaningful to You?
 
-# Objectives for Today 2026-04-14
+# Objectives for Today 2026-04-15
 
 - Chatting as we get started with the day.
-- Pass through some of the Dialog, Events and other words for a while.
-- Try creating a rough pass through the Glass Flats, shifting the gameplay on the player.
-- Start pricing market upgrade for the Glass Flats.
-
+- Maybe pass through some of the Dialog, Events and other words for a while.
+- Figure out what upgrades are needed for the Green Gardens.
+- Create a pool for the Loot (scrap) to stop allocating itself.
+- Polish up the Supply Run Results with numbers that increment!
 
 ## Events / Notices / Coming Soon
 
