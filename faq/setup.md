@@ -1,6 +1,7 @@
 # The Tyre Bytes Game Development Arena
 
-![Tim's Racing Rig]([https://www.timbeaudet.com/setup/content/now_with_6_monitors.png](https://timbeaudet.com/setup/))
+[![Tim's Racing Rig](https://www.timbeaudet.com/setup/content/now_with_6_monitors.png)](https://timbeaudet.com/setup/)
+
 
 ## Moose (Primary Development/Racing Machine)
 
