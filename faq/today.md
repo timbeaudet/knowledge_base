@@ -1,12 +1,13 @@
 
 ## Discusion Topic: What Games Were Meaningful to You?
 
-# Objectives for Today 2026-04-19
+# Objectives for Today 2026-04-20
 
 - Chatting as we get started with the day.
-- OPTIMIZATION: Adding a Batched Sprite to TurtleBrains.
-- PLANNING: What would go into a Good Text object?
-- Trying to find a programmer to use TurtleBrains during LudumDare #59.
+- Updating the KPI
+- Making contact to check if games are in Start Your Engines fest
+- Collect the Racing Games released on Steam in March 2026
+- Segment on Keymailer #sponsored Create Campaign for Rushcremental Demo Update
 
 ## Events / Notices / Coming Soon
 
