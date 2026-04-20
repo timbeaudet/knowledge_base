@@ -11,5 +11,6 @@
 
 ## Events / Notices / Coming Soon
 
+- May the First: Pizza Party, bring your own food; chill with the Turtles.
 - Create a itch.io page for Eggcelerate! to the North Pole.
 - Create a itch.io page for Eggcelerate! to the Tropics
