@@ -7,7 +7,11 @@
 
 ### Task Bar sometimes doesn't hide itself
 - This prevents me from clicking buttons that are at the bottom of an app.
+- This might be recoverable by opening the Start menu and closing it (nothingbout)
 
 ## Explorer windows changed size or something reducing the amount of address bar space SIGNIFICANTLY
 - I can no longer click on the parent directories to jump/navigate backwards.
-- ALT-UP (from within Explorer) will navigate 
+- 0x746564 mentioned: ALT-UP (from within Explorer) will navigate to parent directory.
+
+## Explorer will sometimes open a Navigation Box that won't hide without interacting with that window in some manner.
+- Don't know how to reproduce, don't know what causes it...
