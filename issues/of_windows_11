@@ -1,0 +1,13 @@
+# Issues of Windows 11
+
+## Task Bar size is MUCH larger than 10, and I can't make the icons smaller anymore.
+ - (8 pixels according to simunaut, 8/1080 = ~1% more screenspace)
+ - Forcing the 'smaller icons' does not make the taskbar take less space.
+ - Solved this by setting the Task Bar to hide itself.
+
+### Task Bar sometimes doesn't hide itself
+- This prevents me from clicking buttons that are at the bottom of an app.
+
+## Explorer windows changed size or something reducing the amount of address bar space SIGNIFICANTLY
+- I can no longer click on the parent directories to jump/navigate backwards.
+- ALT-UP (from within Explorer) will navigate 
