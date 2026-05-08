@@ -1,18 +1,13 @@
 
 ## Discusion Topic: The Business Of Games!
 
-# Objectives for Today 2026-05-04
+# Objectives for Today 2026-05-08
 
-- Update the KPIs for the Adventure
-- Update the weekly plans
-- Update a weekly topic for reddit/discord?
-- Update the development reports for May (been slackin)
-- Collect the racing games released on Steam in April 2026
-- Art for ~1 hour (minimum of 15 minutes)
-- Create and release the final demo of Rushcremental.
-- Fix the nightly builds, they've been failing for a while... ideally fix the warnings issue with StreamHelper/gcc
-- Find direction, confidence and the **joy for making games**.
 - Just chill, and stuff.
+- Grab the magnifying glass, put on a detective hat and coat, and dive into the bugs of Rushcremental.
+- Mess with the tech tree and general flow of Green Gardens.
+- Aiming to finish Release Candidate of Rushcremental by May 15th...
+
 
 ## Events / Notices / Coming Soon
 
