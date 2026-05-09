@@ -1,10 +1,10 @@
 
-## Discusion Topic: The Business Of Games!
+## Discusion Topic: The Joy Of Creating Games!
 
-# Objectives for Today 2026-05-08
+# Objectives for Today 2026-05-09
 
 - Just chill, and stuff.
-- Grab the magnifying glass, put on a detective hat and coat, and dive into the bugs of Rushcremental.
+- Art Practice: Creating a pickup truck.
 - Mess with the tech tree and general flow of Green Gardens.
 - Aiming to finish Release Candidate of Rushcremental by May 15th...
 
