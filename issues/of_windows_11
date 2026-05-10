@@ -9,6 +9,10 @@
 - This prevents me from clicking buttons that are at the bottom of an app.
 - This might be recoverable by opening the Start menu and closing it (nothingbout)
 
+### Task Bar sometimes doesn't reveal itself...
+- Once we got it hidden, and put say Blender on the whole monitor, sometimes the start menu won't pop up on top.
+- This requires resizing the window on top, and clicking to activate the task bar bringing it to the top layer, then resizing window.
+
 ## Explorer windows changed size or something reducing the amount of address bar space SIGNIFICANTLY
 - I can no longer click on the parent directories to jump/navigate backwards.
 - 0x746564 mentioned: ALT-UP (from within Explorer) will navigate to parent directory.
