@@ -1,11 +1,12 @@
 
 ## Discusion Topic: The Joy Of Creating Games!
 
-# Objectives for Today 2026-05-10
+# Objectives for Today 2026-05-12
 
 - Just chill, and stuff.
-- Art Practice: Creating a car from a plane.
-- Potentially writing a short article/blog post/etc... about what?
+- Collect KPIs / Weekly Plan
+- Running through Tundra Drifts, Glass Flats and Green Gardens with 'updated camp' - is it OP?
+- Trying to fix the camp if it IS OP...
 
 
 ## Events / Notices / Coming Soon
