@@ -1,12 +1,10 @@
 
 ## Discusion Topic: The Joy Of Creating Games!
 
-# Objectives for Today 2026-05-12
+# Objectives for Today 2026-05-13
 
 - Just chill, and stuff.
-- Collect KPIs / Weekly Plan
-- Running through Tundra Drifts, Glass Flats and Green Gardens with 'updated camp' - is it OP?
-- Trying to fix the camp if it IS OP...
+- Tackle as many of the checkboxes and tasks remaining for Rushcremental as possible.
 
 
 ## Events / Notices / Coming Soon
