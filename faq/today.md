@@ -1,10 +1,10 @@
 
 ## Discusion Topic: The Joy Of Creating Games!
 
-# Objectives for Today 2026-05-13
+# Objectives for Today 2026-05-15
 
 - Just chill, and stuff.
-- Tackle as many of the checkboxes and tasks remaining for Rushcremental as possible.
+- Unknown.
 
 
 ## Events / Notices / Coming Soon
