@@ -1,11 +1,12 @@
 
 ## Discusion Topic: The Joy Of Creating Games!
 
-# Objectives for Today 2026-05-15
+# Objectives for Today 2026-05-21
 
 - Just chill, and stuff.
-- Unknown.
-
+- Art practice; making a few hexagon tiles.
+- Create the Give Sniper Charm event at Level 75
+- Rushcremental random tasks for completion
 
 ## Events / Notices / Coming Soon
 
