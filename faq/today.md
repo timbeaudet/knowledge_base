@@ -10,7 +10,6 @@
   - Add the concept of FontHandle / FontGroup which allows for normal, bold, italics.
   - Rebuild font atlas and allow glyphs to be on different atlas pages... (with instanced render; we can't do this)
   - Build a QuadBuffer for each Atlas a Text object uses (support potential of bold/italics on different atlas). (can't do this)
-
 - Create FontClass/FontGroup so a Text can have normal, italics, bold
 - Write article about _insert indie game dev topic here_
 
