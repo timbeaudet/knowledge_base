@@ -1,16 +1,15 @@
 
 ## Discusion Topic: The Joy Of Creating Games!
 
-# Objectives for Today 2026-06-02
+# Objectives for Today 2026-06-03
 
 - Just chill, and stuff.
-- Add some Random Lights to the ICE Test Scene
-- Ideally add some light and material modifiers to the ImGui controls with [Reset]
 - Rebuilding text in TurtleBrains
+  - Create FontClass/FontGroup so a Text can have normal, italics, bold
   - Add the concept of FontHandle / FontGroup which allows for normal, bold, italics.
-  - Rebuild font atlas and allow glyphs to be on different atlas pages... (with instanced render; we can't do this)
-  - Build a QuadBuffer for each Atlas a Text object uses (support potential of bold/italics on different atlas). (can't do this)
-- Create FontClass/FontGroup so a Text can have normal, italics, bold
+  - Rebuild font atlas and allow glyphs to be on different atlas pages...
+- A 15+ minute session of Art Practice  
+- Add more ImGui options to ice Visual Test Scene; fxaa, camera exposure, lights on/off, normal mapped things.
 - Write article about _insert indie game dev topic here_
 
 ## Events / Notices / Coming Soon
