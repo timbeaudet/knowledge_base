@@ -1,13 +1,11 @@
 
 ## Discusion Topic: The Joy Of Creating Games!
 
-# Objectives for Today 2026-06-04
+# Objectives for Today 2026-06-05
 
 - Just chill, and stuff.
 - Homework: Update the development reports.
-- Homework: Update Trophy Brawlers to TurtleBrains main...
-- Homework: Pour the foundation of Turn By Turn (copy and rename, clean up, setup githubs, etc)
-- Begin building the frame of a new prototype game.
+- Continue building the frame of a new prototype game.
 
 ## Events / Notices / Coming Soon
 
