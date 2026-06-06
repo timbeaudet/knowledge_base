@@ -1,11 +1,14 @@
 
 ## Discusion Topic: The Joy Of Creating Games!
 
-# Objectives for Today 2026-06-05
+# Objectives for Today 2026-06-06
 
 - Just chill, and stuff.
-- Homework: Update the development reports.
+- Add a very simple representation of a racetrack.
+- Add a very simple representation of a racecar.
+- Move the racecar around the racetrack.
 - Continue building the frame of a new prototype game.
+- At NOON jump to Racing Channel and get warmed up for 4 hour NEC race.
 
 ## Events / Notices / Coming Soon
 
