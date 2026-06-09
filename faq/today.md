@@ -1,17 +1,17 @@
 
 ## Discusion Topic: The Joy Of Creating Games!
 
-# Objectives for Today 2026-06-06
+# Objectives for Today 2026-06-09
 
 - Just chill, and stuff.
-- Add a very simple representation of a racetrack.
-- Add a very simple representation of a racecar.
-- Move the racecar around the racetrack.
-- Continue building the frame of a new prototype game.
-- At NOON jump to Racing Channel and get warmed up for 4 hour NEC race.
+- Update the KPI of the adventure...
+- Update the weekly plan
+- Update a weekly topic...
+- See if Turn By Turn is building on Linux; try getting it to (loosely)
+- Add corner checks/penalties to Turn By Turn.
+- ???
 
 ## Events / Notices / Coming Soon
-
 
 - Some Friday soon after rythym: Vibe Coding session?
 - Some Friday in June: Pizza Party, bring your own food; chill with the Turtles.
