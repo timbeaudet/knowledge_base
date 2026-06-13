@@ -1,11 +1,11 @@
 
 ## Discusion Topic: The Joy Of Creating Games!
 
-# Objectives for Today 2026-06-12
+# Objectives for Today 2026-06-13
 
 - Just chill, and stuff.
-- Add the first network packets for Turn By Turn prototype.
-- See if Turn By Turn can start, and connect to, a Game Server.
+- Add more network packets for Turn By Turn prototype.
+- See if we can get two players to take a whole turn through multiplayer.
 - ???
 
 ## Events / Notices / Coming Soon
