@@ -20,6 +20,9 @@ Open `Tools > Options > Environment > Keyboard` (or search hotkey) then show com
   `Edit.InsertNextMatchingCaret` and set it to `CTRL+D` this shortcut was already being used (for duplicating current line) but I never actually used it. CTRL+D matches VSCode for easier swaps.
   Note: Visual Studio will try to troll you, and for `CTRL+D` to be used for `Edit.InsertNextMatchingCaret` you need to search for `Edit.Duplicate` and find the `CTRL+D` option in there to remove it.
 
+## Turn off automat formatting with ; and }
+  Open `Tools > Options > Text Editor > C/C++ > Code Style > Formatting > General` and uncheck 'Automatically format statement when I type a ;' and 'type a }'
+
 ## Turn off automatic comment continuation:
   Open `Tools > Options > Text Editor > C/C++ > Code Style > General` and uncheck the 'Insert existing comment style at the start of new lines when writing comments' box.  
   Also in `Text Editor > C# > Advanced` turn off `Generate XML documentation...`, `Insert // at new lines...` and `Insert * at new lines`.  
