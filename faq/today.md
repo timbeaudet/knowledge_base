@@ -1,9 +1,12 @@
 
 ## Discusion Topic: The Joy Of Creating Games!
 
-# Objectives for Today 2026-06-15
+# Objectives for Today 2026-06-18
 
 - Just chill, and stuff.
+- Figure out what broke the Linux builds (Turbo Boom, Rushcremental, Stream Helper)
+- Frustum Culling; Create the frustum, check vs sphere.
+- Short stream today; indie coffee meet, potential adoption cat.
 - Add more network packets for Turn By Turn prototype.
 - See if we can get two players to take a whole turn and round through multiplayer.
 - Check if singleplayer is still working...
