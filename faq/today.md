@@ -1,14 +1,13 @@
 
 ## Discusion Topic: The Joy Of Creating Games!
 
-# Objectives for Today 2026-06-18
+# Objectives for Today 2026-06-19
 
 - Just chill, and stuff.
-- Figure out what broke the Linux builds (Turbo Boom, Rushcremental, Stream Helper)
-- Frustum Culling; Create the frustum, check vs sphere.
-- Short stream today; indie coffee meet, potential adoption cat.
-- Add more network packets for Turn By Turn prototype.
-- See if we can get two players to take a whole turn and round through multiplayer.
+- Add Frustum Culling Debug: Visualize the Spheres
+- Figure out why are some Turbo Boom track segments failing?
+- Jump to the UpdatedText branch in TurtleBrains; update Playground to build
+- Pay back some technical debt from the UpdatedText stuff.
 - Check if singleplayer is still working...
 
 ## Events / Notices / Coming Soon
