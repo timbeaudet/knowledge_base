@@ -1,13 +1,11 @@
 
 ## Discusion Topic: The Joy Of Creating Games!
 
-# Objectives for Today 2026-06-19
+# Objectives for Today 2026-06-21
 
-- Just chill, and stuff.
-- Add Frustum Culling Debug: Visualize the Spheres
-- Figure out why are some Turbo Boom track segments failing?
-- Jump to the UpdatedText branch in TurtleBrains; update Playground to build
+- Just chill, and stuff; story telling; met violet, suzie had a fit
 - Pay back some technical debt from the UpdatedText stuff.
+- Figure out why are some Turbo Boom track segments failing?
 - Check if singleplayer is still working...
 
 ## Events / Notices / Coming Soon
