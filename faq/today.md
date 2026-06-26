@@ -1,12 +1,12 @@
 
 ## Discusion Topic: The Joy Of Creating Games!
 
-# Objectives for Today 2026-06-21
+# Objectives for Today 2026-06-26
 
 - Just chill, and stuff; story telling; met violet, suzie had a fit
-- Pay back some technical debt from the UpdatedText stuff.
-- Figure out why are some Turbo Boom track segments failing?
-- Check if singleplayer is still working...
+- Dive into why Driver names/indices swap during disconnect/reconnect.
+- Potentially dive into the issues with Boost; how may it relate to can't confirm.
+- Tear down of the whole PC for wire management updates.
 
 ## Events / Notices / Coming Soon
 
