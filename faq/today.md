@@ -1,16 +1,17 @@
 
 ## Discusion Topic: The Joy Of Creating Games!
 
-# Objectives for Today 2026-06-26
+# Objectives for Today 2026-07-06
 
-- Just chill, and stuff; story telling; met violet, suzie had a fit
-- Dive into why Driver names/indices swap during disconnect/reconnect.
-- Potentially dive into the issues with Boost; how may it relate to can't confirm.
-- Tear down of the whole PC for wire management updates.
+- Just chill, and stuff; story telling; have violet
+- Business Review of June 2026
+- Indie Tavern with LeGingerDev
+- Market Research; Collect Racing/Driving Games on Steam June 2026
+- If energy; fix the nightly builds, add turn_by_turn to the nightlies.
 
 ## Events / Notices / Coming Soon
 
-- Friday June 19th: Pizza Party, bring your own food; chill with the Turtles.
+- Friday ??? Pizza Party, bring your own food; chill with the Turtles.
 - Some Friday soon after rythym: Vibe Coding session?
 - Create a itch.io page for Eggcelerate! to the North Pole.
 - Create a itch.io page for Eggcelerate! to the Tropics
