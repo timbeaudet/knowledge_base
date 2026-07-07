@@ -1,13 +1,15 @@
 
 ## Discusion Topic: The Joy Of Creating Games!
 
-# Objectives for Today 2026-07-06
+# Objectives for Today 2026-07-07
 
 - Just chill, and stuff; story telling; have violet
-- Business Review of June 2026
-- Indie Tavern with LeGingerDev
-- Market Research; Collect Racing/Driving Games on Steam June 2026
-- If energy; fix the nightly builds, add turn_by_turn to the nightlies.
+- Announcement for Rushcremental release date: Sept 1st 2026
+- Fixing nightly builds for Stream Helper & Rushcremental
+- Remove Turbo Boom! from nightlies (for now, it is fixed on shader branch)
+- Dive into code-review mode, see what shakesoda has been up to.
+- After stream: signing papers to adopt the kitty.
+
 
 ## Events / Notices / Coming Soon
 
