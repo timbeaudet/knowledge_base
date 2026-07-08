@@ -1,14 +1,13 @@
 
 ## Discusion Topic: The Joy Of Creating Games!
 
-# Objectives for Today 2026-07-07
+# Objectives for Today 2026-07-08
 
-- Just chill, and stuff; story telling; have violet
-- Announcement for Rushcremental release date: Sept 1st 2026
-- Fixing nightly builds for Stream Helper & Rushcremental
-- Remove Turbo Boom! from nightlies (for now, it is fixed on shader branch)
-- Dive into code-review mode, see what shakesoda has been up to.
-- After stream: signing papers to adopt the kitty.
+- Just chill, and stuff; story telling; Violet renaming to Luna???
+- Fixing nightly builds for Stream Helper & Rushcremental (still failing on Linux/gcc)
+- Jump into Blender for some art stuffs.
+- Mess around with some Internal Combustion updates & cleanup.
+  - Why does Turbo Boom! crash on startup??
 
 
 ## Events / Notices / Coming Soon
