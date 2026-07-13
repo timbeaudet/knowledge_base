@@ -1,14 +1,12 @@
 
 ## Discusion Topic: The Joy Of Creating Games!
 
-# Objectives for Today 2026-07-08
+# Objectives for Today 2026-07-13
 
-- Just chill, and stuff; story telling; Violet renaming to Luna???
-- Fixing nightly builds for Stream Helper & Rushcremental (still failing on Linux/gcc)
-- Jump into Blender for some art stuffs.
-- Mess around with some Internal Combustion updates & cleanup.
-  - Why does Turbo Boom! crash on startup??
-
+- Just chill, and stuff; story telling
+- Get Rushcremental trailer working in OBS again.
+- Figure out why Linux builds failed for Rushcremental and Stream Helper.
+- Get TrackBuilder working with latest APIs.
 
 ## Events / Notices / Coming Soon
 
