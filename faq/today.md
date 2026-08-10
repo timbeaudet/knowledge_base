@@ -1,13 +1,11 @@
 
 ## Discusion Topic: The Joy Of Creating Games!
 
-# Objectives for Today 2026-07-16
+# Objectives for Today 2026-08-10
 
 - Just chill, and stuff; getting started
-- Install Blender 5.2
-- Play around with making some art.
-- Try try again on the Mipmap Preprocessing for Alpha Cuttoff stuff for Trees.
-- Work with shakesoda to move towards completing the shader cleanup...
+- Collecting the Racing Games on Steam July 2026
+- Talking about the future of Tyre Bytes
 
 ## Events / Notices / Coming Soon
 
