@@ -1,11 +1,15 @@
 
 ## Discusion Topic: The Joy Of Creating Games!
 
-# Objectives for Today 2026-08-10
+# Objectives for Today 2026-08-11
 
 - Just chill, and stuff; getting started
-- Collecting the Racing Games on Steam July 2026
-- Talking about the future of Tyre Bytes
+- Gathering thoughts on Rushcremental Marketing Campaign
+- Update the Twitch info (add Rushcremental section)
+- Finish collecting the final screenshots
+- Upload screenshots to Steam, presskit and GD presskit
+- Send a very very important email, keep fingers crossed
+- Set TikTok/Insta videos live
 
 ## Events / Notices / Coming Soon
 
