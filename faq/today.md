@@ -1,11 +1,12 @@
 
 ## Discusion Topic: The Joy Of Creating Games!
 
-# Objectives for Today 2026-08-18
+# Objectives for Today 2026-08-19
 
 - Just chill, and stuff; getting started
-- Recreate / reupload Release Date Announce Trailer with Sept 15th.
+- Write an article for (softly) promoting Rushcremental.
 - Request keys for influencer campaigns...
+- Update the suggest price changes...
 
 ## Events / Notices / Coming Soon
 
