@@ -83,6 +83,7 @@ git config --global alias.cop 'checkout --patch'
 git config --global alias.st 'status'
 git config --global alias.ss 'stash save'
 git config --global alias.sp 'stash pop'
+git config --global alias.incoming 'log -p @{u}'
 
 git config --global merge.conflictStyle diff3
 git config --global --add --bool push.autoSetupRemote false
