@@ -1,12 +1,12 @@
 
 ## Discusion Topic: The Joy Of Creating Games!
 
-# Objectives for Today 2026-08-19
+# Objectives for Today 2026-08-21
 
 - Just chill, and stuff; getting started
-- Write an article for (softly) promoting Rushcremental.
-- Request keys for influencer campaigns...
-- Update the suggest price changes...
+- Planning out promotional campaign for Rushcremental release on the 15th
+- Writing for promotional campaign of Rushcremental.
+- Solving how "movement" or "the core" of Turn by Turn works...
 
 ## Events / Notices / Coming Soon
 
