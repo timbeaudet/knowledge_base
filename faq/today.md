@@ -1,13 +1,12 @@
 
 ## Discusion Topic: The Joy Of Creating Games!
 
-# Objectives for Today 2026-08-27
+# Objectives for Today 2026-08-28
 
 - Just chill, and stuff; getting started
-- Planning out promotional campaign for Rushcremental release on the 15th
-- Writing for promotional campaign of Rushcremental.
-- Adding RevShare % to the Planner in the Indie Career Tracker
-- Research and pre-production for Turn by Turn
+- Trying to gain a bit more performance when a bajillion scrap is on screen.
+- Fix any quick small bugs we can find and squish.
+- Add more stuff to the credits.
 
 ## Events / Notices / Coming Soon
 
