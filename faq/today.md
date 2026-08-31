@@ -1,12 +1,14 @@
 
 ## Discusion Topic: The Joy Of Creating Games!
 
-# Objectives for Today 2026-08-28
+# Objectives for Today 2026-08-31
 
 - Just chill, and stuff; getting started
-- Trying to gain a bit more performance when a bajillion scrap is on screen.
-- Fix any quick small bugs we can find and squish.
-- Add more stuff to the credits.
+- Update KPI for the adventure.
+- Write a blurb about Tim/Tyre Bytes and why someone might collab.
+- Setup Keymailer secret screen.
+- Send out keys for influencers to play Rushcremental.
+- Fogpiercer / Breachways deckbuilder reviews
 
 ## Events / Notices / Coming Soon
 
