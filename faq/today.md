@@ -1,14 +1,15 @@
 
 ## Discusion Topic: The Joy Of Creating Games!
 
-# Objectives for Today 2026-08-31
+# Objectives for Today 2026-09-02
 
 - Just chill, and stuff; getting started
-- Update KPI for the adventure.
-- Write a blurb about Tim/Tyre Bytes and why someone might collab.
-- Setup Keymailer secret screen.
-- Send out keys for influencers to play Rushcremental.
-- Fogpiercer / Breachways deckbuilder reviews
+- Press Release for Launch Announcement
+- Launch Announcement Trailer at 9am
+- Newsletter for Launch Announcement
+- Steam and itch.io posts for Launch Announcement
+- Keymailer Segment (mostly secret) send out keys for influencers to play Rushcremental.
+- Work on the Turn by Turn prototype setup.
 
 ## Events / Notices / Coming Soon
 
