@@ -1,15 +1,15 @@
 
 ## Discusion Topic: The Joy Of Creating Games!
 
-# Objectives for Today 2026-09-02
+# Objectives for Today 2026-09-08
 
 - Just chill, and stuff; getting started
-- Press Release for Launch Announcement
-- Launch Announcement Trailer at 9am
-- Newsletter for Launch Announcement
-- Steam and itch.io posts for Launch Announcement
+- Upload and prepare the latest short for and the publish it.
+- Transfer all strings from the Tech Tree into the string_table.
+- Transfer all strings from the challenger dialog into the string_table.
+- Transfer any strings in the codebase into the string_table.
+- Search for any other places strings might exist in Rushcremental; transfer them to the ... string_table.
 - Keymailer Segment (mostly secret) send out keys for influencers to play Rushcremental.
-- Work on the Turn by Turn prototype setup.
 
 ## Events / Notices / Coming Soon
 
