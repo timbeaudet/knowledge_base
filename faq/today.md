@@ -1,15 +1,14 @@
 
 ## Discusion Topic: The Joy Of Creating Games!
 
-# Objectives for Today 2026-09-08
+# Objectives for Today 2026-09-09
 
 - Just chill, and stuff; getting started
-- Upload and prepare the latest short for and the publish it.
-- Transfer all strings from the Tech Tree into the string_table.
-- Transfer all strings from the challenger dialog into the string_table.
-- Transfer any strings in the codebase into the string_table.
+- Upload and schedule the latests shorts for and the publish it.
+- Use Keymailer to send out 20+ keys of Rushcremental
+- Dig ourselves out of the LocalizedString rabbit hole
+  - (Transfer any strings in the codebase into the string_table.)
 - Search for any other places strings might exist in Rushcremental; transfer them to the ... string_table.
-- Keymailer Segment (mostly secret) send out keys for influencers to play Rushcremental.
 
 ## Events / Notices / Coming Soon
 
