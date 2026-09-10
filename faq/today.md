@@ -8,7 +8,7 @@
 - Use Keymailer to send out 20+ keys of Rushcremental
 - Write and post a Press Release "Rushcremental Released today" embargo Sept 15th
 - Write / Prepare a Newsletter email for "Rushcremental is now out"
-- 
+- Update the Campaign messages for StreamHelper.
 
 ## Events / Notices / Coming Soon
 
