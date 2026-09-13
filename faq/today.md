@@ -1,14 +1,15 @@
 
 ## Discusion Topic: The Joy Of Creating Games!
 
-# Objectives for Today 2026-09-10
+# Objectives for Today 2026-09-13
 
 - Just chill, and stuff; getting started
-- Upload and publish the latest short on tiktok.
-- Use Keymailer to send out 20+ keys of Rushcremental
-- Write and post a Press Release "Rushcremental Released today" embargo Sept 15th
-- Write / Prepare a Newsletter email for "Rushcremental is now out"
-- Update the Campaign messages for StreamHelper.
+- Upload and publish the latest short on socials.
+- Fix the builds on macOS and Linux.
+- Update the itch.io trailer link.
+- Get Turn by Turn building on macOS and Linux.
+  - Requires getting shader-madness building there with slang.
+- Fix the crash on shutdown for shader-madness branch.
 
 ## Events / Notices / Coming Soon
 
