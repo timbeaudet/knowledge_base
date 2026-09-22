@@ -1,13 +1,12 @@
 
 ## Discusion Topic: The Joy Of Creating Games!
 
-# Objectives for Today 2026-09-13
+# Objectives for Today 2026-09-22
 
 - Just chill, and stuff; getting started
-- Upload and publish the latest short on socials.
-- Fix the builds on macOS and Linux.
-- Update the itch.io trailer link.
+- Mess a little bit with Claude/Claude Code while have a subscription trying different ways to work with it.
 - Get Turn by Turn building on macOS and Linux.
+  - Fix builds of TB/ICE shader-madness branch on Linux/GCC and macOS/XCode.
   - Requires getting shader-madness building there with slang.
 - Fix the crash on shutdown for shader-madness branch.
 
