@@ -11,7 +11,7 @@
 - Corsair 64gb DDR4 (2x32)
 - Western Digital Black 2tb NVME SSD
 - Corsair HX 1000W PSU
-- EVGA GeForce RTX 3070ti FTW3 Ultra 8gb
+- GIGABYTE WINDFORCE GeForce RTX 5080 16GB GDDR7 PCIE-5
 - AMD (XFX) RX 6400
 - Creative Sound Blaster Audigy FX (SB1570)
 - Samsung 860 EVO 2TB SSD (video bay)
@@ -44,7 +44,9 @@
 - Corsair 32gb DDR4 (4x8)
 - Corsair HX1000 PSU
 - Western Digital Black 500gb NVMe SSD
-- EVGA GeForce GTX 980ti 6gb
+- EVGA GeForce RTX 3070ti FTW3 Ultra 8gb
+
+Not Installed: EVGA GeForce GTX 980ti 6gb
 
 ## On the Primary Setup
 
