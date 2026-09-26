@@ -1,7 +1,7 @@
 
 ## Discusion Topic: The Joy Of Creating Games!
 
-# Objectives for Today 2026-09-25
+# Objectives for Today 2026-09-26
 
 - Just chill, and stuff; getting started
 - Fix the crash on shutdown for shader-madness branch.
