@@ -1,13 +1,11 @@
 
 ## Discusion Topic: The Joy Of Creating Games!
 
-# Objectives for Today 2026-09-28
+# Objectives for Today 2026-09-29
 
 - Just chill, and stuff; getting started
-- Update the KPIs for the adventure.
-- Just chat for a bit.
-- Dive into the reflection/post-mortem of Generative AI / Claude.
-- Guardrails for Generative AI discussions within the Turtle community.
+- Cleanup of the ice Model Viewer and combining it with DevTestScene.
+- Creating the 3D world of Turn by Turn with the assets created so far.
 - Create a warning if a uniform being written cannot be found in any loaded shader.
 - Create a warning if a shader has a uniform that code never sets when attempting to ??? (ApplyUniformsForDraw?)
 
