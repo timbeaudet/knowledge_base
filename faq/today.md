@@ -1,10 +1,12 @@
 
 ## Discusion Topic: The Joy Of Creating Games!
 
-# Objectives for Today 2026-09-29
+# Objectives for Today 2026-09-30
 
 - Just chill, and stuff; getting started
-- Cleanup of the ice Model Viewer and combining it with DevTestScene.
+- Check the Water stuff in Turbo Boom!
+- Get the shader manager doing hot-reloading for custom game shaders.
+- Mess with the Blender Exporter
 - Creating the 3D world of Turn by Turn with the assets created so far.
 - Create a warning if a uniform being written cannot be found in any loaded shader.
 - Create a warning if a shader has a uniform that code never sets when attempting to ??? (ApplyUniformsForDraw?)
