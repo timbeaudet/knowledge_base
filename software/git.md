@@ -255,3 +255,35 @@ Go to the root directory
 	`git bisect skip`  
 	When finished with the search type in
 	`git bisect reset`  
+
+## Merging History Between Unrelated Repositories
+
+Good luck.
+
+[This source](https://www.simplicidade.org/notes/2009/04/21/merging-two-unrelated-repositories/) helped a bunch, but it was still scary. I did this moving `ice_exporter` into `ice` engine repository.
+
+This may be a little sketchy, it almost certainly requires you to know the place you are putting the new code (`ice_exporter`) won't cause any issues with any history of `ice`. The `*` in the filter-branch command will ignore dot files, so the `.gitignore` stayed where it was, and gave a minor conflict. This might make more trouble if you have several `.files`.  
+
+First we checkout each repo in a temporary area, in case things catch fire, then `cd ice_exporter`  
+To ensure the `ice_exporter` moves into the right place, we rewrote all its history moving the files into a new file structure. So everything at the root basically moved into `source/ice_exporter/` with this command, _(Notice the last line didn't used `/ice_exporter`)_
+```
+git filter-branch -f --prune-empty --tree-filter '
+    mkdir -p .source/ice_exporter;
+    mv * .source/ice_exporter;
+    mv .source source
+	' -- --all
+```
+
+Then cleanup the history with `git gc --aggressive` to remove all the old artifacts since we moved it all.  
+Change directory into ice; `cd ../ice` and tell it about the `ice_exporter` with:
+```
+git remote add exporter ../ice_exporter/
+git fetch exporter
+```
+
+Finally actually write/merge the ice_exporter history into the ice engine with the following. `--allow-unrelated-histories` tells git to accept the fact that the histories do not share a common ancestor. It is on you to start this process ensuring the histories will be different. It worked for ice and ice_exporter because ice/source/ has never contained any ice_exporter.
+```
+git merge --no-ff --allow-unrelated-histories exporter/main
+```
+
+Now I did have a minor merge conflict with the `.gitignore` but this was solved quite easily manually, then running `git add` and `git merge --continue`
