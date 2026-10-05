@@ -1,14 +1,12 @@
 
 ## Discusion Topic: The Joy Of Creating Games!
 
-# Objectives for Today 2026-10-02
+# Objectives for Today 2026-10-05
 
 - Just chill, and stuff; getting started
-- Ensure that ice shaders at a MINIMUM can use the .slang when out of date.
-- Ideally ice shaders should hot-reload.
-- Why is the Material Manager not hot-reloading?
-- Brainstorming on topics/goals for Tim Jams in 2027.
-- Creating the 3D world of Turn by Turn with the assets created so far.
+- Business Review for September 2026
+- Indie Tavern with LeGingerDev
+- Market Research - racing games released in August or September
 
 
 
