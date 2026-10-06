@@ -1,12 +1,12 @@
 
 ## Discusion Topic: The Joy Of Creating Games!
 
-# Objectives for Today 2026-10-05
+# Objectives for Today 2026-10-06
 
 - Just chill, and stuff; getting started
-- Business Review for September 2026
-- Indie Tavern with LeGingerDev
-- Market Research - racing games released in August or September
+- Find a technical artist to help reach the aesthetics of my Turn by Turn vision.
+- Start playing with Turn by Turn core game play.
+- Maybe Indie Tavern with LeGingerDev
 
 
 
