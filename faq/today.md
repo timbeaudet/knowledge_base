@@ -1,14 +1,13 @@
 
 ## Discusion Topic: The Joy Of Creating Games!
 
-# Objectives for Today 2026-10-06
+# Objectives for Today 2026-10-07
 
 - Just chill, and stuff; getting started
-- Find a technical artist to help reach the aesthetics of my Turn by Turn vision.
-- Start playing with Turn by Turn core game play.
-- Maybe Indie Tavern with LeGingerDev
-
-
+- Export a second set of UVs generated from a "LightMap" thing (Blender does this well).
+- Add a second set of UVs to the iceVertex (for all vertices??)
+- Create a tool, probably C++, to generate curvature maps... GL. HF.
+- Add decals to the prototype example scene.
 
 ## Events / Notices / Coming Soon
 
