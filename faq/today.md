@@ -1,11 +1,12 @@
 
 ## Discusion Topic: The Joy Of Creating Games!
 
-# Objectives for Today 2026-10-08
+# Objectives for Today 2026-10-09
 
 - Just chill, and stuff; getting started
-- Create a tool, probably C++, to generate curvature maps... GL. HF.
-- Add decals to the prototype example scene.
+- Smash in the exporter and curvature tool changes shakesoda made yesterday.
+- Figure out how to get decals showing at a very basic level... and instanced!
+- If that goes smoothly enough; do the same for particles.
 
 ## Events / Notices / Coming Soon
 
