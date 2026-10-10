@@ -1,12 +1,11 @@
 
 ## Discusion Topic: The Joy Of Creating Games!
 
-# Objectives for Today 2026-10-09
+# Objectives for Today 2026-10-10
 
 - Just chill, and stuff; getting started
-- Smash in the exporter and curvature tool changes shakesoda made yesterday.
-- Figure out how to get decals showing at a very basic level... and instanced!
-- If that goes smoothly enough; do the same for particles.
+- Dive into some particles, this will be just a bit of warmup and see what happens.
+- Maybe: After 9am-ish jump into creating a custom skin for the PCUP and Caterham?
 
 ## Events / Notices / Coming Soon
 
