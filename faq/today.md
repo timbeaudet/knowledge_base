@@ -1,11 +1,10 @@
 
 ## Discusion Topic: The Joy Of Creating Games!
 
-# Objectives for Today 2026-10-10
+# Objectives for Today 2026-10-11
 
 - Just chill, and stuff; getting started
-- Dive into some particles, this will be just a bit of warmup and see what happens.
-- Maybe: After 9am-ish jump into creating a custom skin for the PCUP and Caterham?
+- Dive into some particles, this will be a bit more warmup, creating and stuff.
 
 ## Events / Notices / Coming Soon
 
