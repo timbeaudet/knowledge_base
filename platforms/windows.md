@@ -5,6 +5,20 @@
 - Take a screenshot, and specify capture area with `WINDOWS+SHIFT+S` this will put the image in the clipboard.
 - To choose emoji's, press `WINDOWS+;` or `WINDOWS+.` MAGIC! 🧙‍
 
+## Proper Multi-monitor Setup
+
+Once you have all the GPU drivers and monitors connected/extending the desktop in Windows, use [MultiMonitorTool](https://www.nirsoft.net/utils/multi_monitor_tool.html) to position them accurately. The Windows box is not precise enough and being off by a pixels can make a very annoying issue when moving the mouse between monitors. It may also hurt gaming/racing/system performance with a pixel overflowing into multiple monitors if the window extends.  
+
+The follow is a little silly, but the only way I found to set the positions in the tool...
+
+0. Start with all monitors extended as desired.
+1. Open MultiMonitorTool
+2. Save the configuration file.
+3. Open the configuration file in VSCode (or your preffered text editor).
+4. Modify the `PositionX=-1920` and `PositionY=0` so they fall as expected; save.
+5. Open the configuration file in MultiMonitorTool and apply.
+6. Profit... Someday.
+
 ## Scheduling a Task (script) to Run Nightly
 
 0. Start (Windows Key) to open `Task Scheduler`
