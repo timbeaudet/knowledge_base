@@ -8,7 +8,6 @@
 
 ## Events / Notices / Coming Soon
 
-- Sunday September 20th: Learning to "Vibe Code" 
 - Friday ??? Pizza Party, bring your own food; chill with the Turtles.
 - Create a itch.io page for Eggcelerate! to the North Pole.
 - Create a itch.io page for Eggcelerate! to the Tropics
