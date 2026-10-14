@@ -1,11 +1,10 @@
 
 ## Discusion Topic: The Joy Of Creating Games!
 
-# Objectives for Today 2026-10-13
+# Objectives for Today 2026-10-14
 
 - Just chill, and stuff; getting started.
-- Getting the Develoment Rig setup again after the reformat...
-- Dive into some particles, this will be a bit more warmup, creating and stuff.
+- Dive into the core gameplay and loop of Turn by Turn.
 
 ## Events / Notices / Coming Soon
 
