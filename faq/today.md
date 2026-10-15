@@ -1,10 +1,10 @@
 
 ## Discusion Topic: The Joy Of Creating Games!
 
-# Objectives for Today 2026-10-14
+# Objectives for Today 2026-10-15
 
 - Just chill, and stuff; getting started.
-- Dive into the core gameplay and loop of Turn by Turn.
+- Jumping into particles, and a basic editor? for Turn by Turn.
 
 ## Events / Notices / Coming Soon
 
