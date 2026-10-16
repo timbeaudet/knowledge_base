@@ -1,10 +1,10 @@
 
 ## Discusion Topic: The Joy Of Creating Games!
 
-# Objectives for Today 2026-10-15
+# Objectives for Today 2026-10-16
 
 - Just chill, and stuff; getting started.
-- Jumping into particles, and a basic editor? for Turn by Turn.
+- Jumping into particles, and a basic editor, for Turn by Turn.
 
 ## Events / Notices / Coming Soon
 
