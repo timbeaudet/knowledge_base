@@ -5,12 +5,14 @@
    - One can probably install Git for windows directly, but during falcon reinstall, it came from this install process.
 - Open `Git Bash` from start menu.
 - [Generate an SSH key](https://help.github.com/enterprise/2.14/user/articles/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent/) by:
-   - ssh-keygen -t rsa -b 4096 -C "your_email@example.com"
-   - Leave it in the default location (_/Users/you/.ssh/idrsa_)
-   - Enter a passphrase, or don't; depends on how accessible your local machine is.
+   - Use first: `ssh-keygen -t ed25519 -C "your_email@example.com"`
+   - If not supported: `ssh-keygen -t rsa -b 4096 -C "your_email@example.com"`
+   - Leave it in the default location (_/Users/you/.ssh/id_ed25519_ or  _/Users/you/.ssh/idrsa_)
+   - Enter a passphrase, or **don't**; depends on how accessible your local machine is. Laptops/tablets do...
   - Add the SSH key to the agent:
     - `eval $(ssh-agent -s)`
-    - `ssh-add ~/.ssh/id_rsa`
+    - `ssh-add ~/.ssh/id_ed25519`
+    - or ... `ssh-add ~/.ssh/id_rsa`
   > Note: if default location is used, `ssh-add` will work without specifying file.
 
 - [Add SSH key](https://help.github.com/articles/adding-a-new-ssh-key-to-your-github-account/) to [github](https://github.com/settings/keys) and/or gitea
