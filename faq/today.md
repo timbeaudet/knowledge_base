@@ -1,12 +1,15 @@
 
 ## Discusion Topic: The Joy Of Creating Games!
 
-# Objectives for Today 2026-10-18
+# Objectives for Today 2026-10-19
 
 - Just chill, and stuff; getting started.
-- Update all the nightly builds / games (Rushcremental, Stream Helper, etc) to VS2026.
-- Fix the tracker, income/expenses information broke when adding revshare column.
-- Jumping into particles, and a basic editor, for Turn by Turn.
+- Get setup on Linux Mint for streaming;
+- Get told I'm silly for using Linux Mint.
+- Update the KPIs of the adventure.
+- Put the frog hat on.
+- Collect the billion racing games released on Steam in September 2026.
+- Get StreamHelper up and running.
 
 ## Events / Notices / Coming Soon
 
