@@ -1,11 +1,12 @@
 
 ## Discusion Topic: The Joy Of Creating Games!
 
-# Objectives for Today 2026-10-20
+# Objectives for Today 2026-10-21
 
-- Just chill, and stuff; getting started.
-- Trying to get the car moving from A to B
-- Messing with the particle system a bit more.
+- Chill development day, pushing forward.
+- Fix Rushcremental nightly build...
+- Update the active projects to use VS2026
+- Some other things as the day goes.
 
 
 ## Events / Notices / Coming Soon
