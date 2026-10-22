@@ -1,13 +1,13 @@
 
 ## Discusion Topic: The Joy Of Creating Games!
 
-# Objectives for Today 2026-10-21
+# Objectives for Today 2026-10-22
 
 - Chill development day, pushing forward.
-- Fix Rushcremental nightly build...
-- Update the active projects to use VS2026
-- Some other things as the day goes.
-
+- Check on the nightly builds; they probably failed somewhere...
+- Add start velocity to the particles, start/final size?
+- Create dust particles for low, mid and high dust levels.
+- Add hud to show timer and basic stats in Turn by Turn.
 
 ## Events / Notices / Coming Soon
 
