@@ -1,13 +1,13 @@
 
 ## Discusion Topic: The Joy Of Creating Games!
 
-# Objectives for Today 2026-10-22
+# Objectives for Today 2026-10-23
 
 - Chill development day, pushing forward.
 - Check on the nightly builds; they probably failed somewhere...
-- Add start velocity to the particles, start/final size?
-- Create dust particles for low, mid and high dust levels.
-- Add hud to show timer and basic stats in Turn by Turn.
+- Add a couple trailers to the Stream deck button pressing.
+- Fix one of the api-breaks or v0.4.5 in Turtle Brains or ice.
+- Build a few track prefabs, and a track generator.
 
 ## Events / Notices / Coming Soon
 
