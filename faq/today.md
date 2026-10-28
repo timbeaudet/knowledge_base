@@ -1,13 +1,12 @@
 
 ## Discusion Topic: The Joy Of Creating Games!
 
-# Objectives for Today 2026-10-23
+# Objectives for Today 2026-10-28
 
-- Chill development day, pushing forward.
+- Chill day, pushing forward.
 - Check on the nightly builds; they probably failed somewhere...
-- Add a couple trailers to the Stream deck button pressing.
-- Fix one of the api-breaks or v0.4.5 in Turtle Brains or ice.
-- Build a few track prefabs, and a track generator.
+- Get StreamHelper building on latest TurtleBrains (no tbString anymore)...
+- Turn by Turn 3 card prototype...
 
 ## Events / Notices / Coming Soon
 
