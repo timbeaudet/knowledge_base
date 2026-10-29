@@ -1,12 +1,12 @@
 
 ## Discusion Topic: The Joy Of Creating Games!
 
-# Objectives for Today 2026-10-28
+# Objectives for Today 2026-10-29
 
 - Chill day, pushing forward.
-- Check on the nightly builds; they probably failed somewhere...
-- Get StreamHelper building on latest TurtleBrains (no tbString anymore)...
+- Check on the nightly builds; they failed somewhere...
 - Turn by Turn 3 card prototype...
+- Early day; going to enjoy the weather, take a hike and shop for foods.
 
 ## Events / Notices / Coming Soon
 
