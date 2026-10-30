@@ -1,12 +1,11 @@
 
 ## Discusion Topic: The Joy Of Creating Games!
 
-# Objectives for Today 2026-10-29
+# Objectives for Today 2026-10-30
 
 - Chill day, pushing forward.
-- Check on the nightly builds; they failed somewhere...
+- Check on the nightly builds; they failed everywhere...
 - Turn by Turn 3 card prototype...
-- Early day; going to enjoy the weather, take a hike and shop for foods.
 
 ## Events / Notices / Coming Soon
 
