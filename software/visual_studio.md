@@ -14,6 +14,14 @@ Install the following extensions:
 
 After installing the extensions [install the CurrentSettings](https://github.com/timbeaudet/knowledge_base/blob/main/config/visual_studio/CurrentSettings.vssettings), copy into `Documents/Visual Studio 2015/Settings/`
 
+## Turn off automatic completion on space...
+Open `Tools > Options > Text Editor > Inline Suggestions > General` and set `Invocation` to `Manual`  
+Open `Tools > Options > All Settings > Languages >C/C++ > Intellisense > Completion list` and uncheck:
+  `"Commit the item by pressing one of the commit characters"`  
+  `"When an item is highlighted but not selected commit the item by pressing Space"`
+  
+
+
 ## Setup the following hotkeys to match.
 Open `Tools > Options > Environment > Keyboard` (or search hotkey) then show commands containing:
   `Edit.InsertCaretsatAllMatching` and set it to `CTRL+F2` this shortcut was already being used but I never used it. CTRL+F2 matches VSCode for easier swaps.
