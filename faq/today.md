@@ -1,11 +1,12 @@
 
-## Discusion Topic: The Joy Of Creating Games!
+## Discusion Topic: Do you chase the shinies?
 
-# Objectives for Today 2026-10-30
+# Objectives for Today 2026-11-01
 
 - Chill day, pushing forward.
-- Check on the nightly builds; they failed everywhere...
-- Turn by Turn 3 card prototype...
+- Update the income/expense financials sheets.
+- Business review for TBIA
+- Indie Tavern with LeGingerDev
 
 ## Events / Notices / Coming Soon
 
