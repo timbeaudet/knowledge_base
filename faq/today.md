@@ -1,15 +1,14 @@
 
 ## Discusion Topic: Do you chase the shinies?
 
-# Objectives for Today 2026-11-01
+# Objectives for Today 2026-11-02
 
 - Chill day, pushing forward.
-- Update the income/expense financials sheets.
-- Business review for TBIA
-- Indie Tavern with LeGingerDev
+- Update the KPIs of the adventure.
+- Create an AI Policy FAQ infographic/article.
+- Research on the most amazing (non-crash) Rally Moments...
+- Maybe collect Racing Games on Steam Sept/Oct catchup?
 
 ## Events / Notices / Coming Soon
 
 - Friday ??? Pizza Party, bring your own food; chill with the Turtles.
-- Create a itch.io page for Eggcelerate! to the North Pole.
-- Create a itch.io page for Eggcelerate! to the Tropics
