@@ -1,10 +1,12 @@
 
 ## Discusion Topic: Do you chase the shinies?
 
-# Objectives for Today 2026-11-03
+# Objectives for Today 2026-11-04
 
-- Chill day, pushing forward.
-- Gonna mess around in C++
+- Pushing forward.
+- Finish the "Triple Card" system
+- Start building prefab tiles?
+- Start refactoring to a 'proper' Card Game framework
 
 ## Events / Notices / Coming Soon
 
