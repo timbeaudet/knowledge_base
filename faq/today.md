@@ -1,10 +1,12 @@
 
 ## Discusion Topic: Do you chase the shinies?
 
-# Objectives for Today 2026-11-04
+# Objectives for Today 2026-11-08
 
 - Pushing forward.
-- Finish the "Triple Card" system
+- Writing the art helper document for naming considerations.
+- Fixing bug(s) with Track Builder / removing a file from repo.
+
 - Start building prefab tiles?
 - Start refactoring to a 'proper' Card Game framework
 
