@@ -1,12 +1,9 @@
 
 ## Discusion Topic: Do you chase the shinies?
 
-# Objectives for Today 2026-11-09
+# Objectives for Today 2026-11-10
 
-- Pushing forward.
-- Update KPI for the adventure.
-- Something!
-- Short stream likely.
+- What are we even doing today? What to focus on?
 
 ## Events / Notices / Coming Soon
 
