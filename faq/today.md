@@ -1,10 +1,9 @@
 
 ## Discusion Topic: Do you chase the shinies?
 
-# Objectives for Today 2026-11-12
+# Objectives for Today 2026-11-13
 
-- Creating a Track Challenges area for "challenge" cards.
-- Adding a Pothole "challenge" card that counts down each turn to apply effects.
+- Creating a Game Definition process for games to replace keywords in strings before display (for colors etc).
 
 ## Events / Notices / Coming Soon
 
