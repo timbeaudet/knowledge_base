@@ -1,9 +1,10 @@
 
 ## Discusion Topic: Do you chase the shinies?
 
-# Objectives for Today 2026-11-13
+# Objectives for Today 2026-11-15
 
-- Creating a Game Definition process for games to replace keywords in strings before display (for colors etc).
+- Updating Hours & DevReports.
+- Just having fun.
 
 ## Events / Notices / Coming Soon
 
