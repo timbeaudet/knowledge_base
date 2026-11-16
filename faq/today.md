@@ -1,9 +1,10 @@
 
 ## Discusion Topic: Do you chase the shinies?
 
-# Objectives for Today 2026-11-15
+# Objectives for Today 2026-11-16
 
-- Updating Hours & DevReports.
+- Update the Trailer for Rushcremental
+- Playtest / Written Review for Backseat Champions
 - Just having fun.
 
 ## Events / Notices / Coming Soon
