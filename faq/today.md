@@ -1,10 +1,9 @@
 
 ## Discusion Topic: What shinies are you chasing?
 
-# Objectives for Today 2026-11-17
+# Objectives for Today 2026-11-19
 
-- Update the Trailer for Rushcremental
-- Writeup a bit of what we did yesterday? 
+- Creating a silly vehicle in Jolt.
 - Just having fun.
 
 ## Events / Notices / Coming Soon
